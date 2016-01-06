@@ -15,7 +15,8 @@ var works = [
     ["実は私は", "其实我是", "其實我是", "Jitsu wa Watashi wa"],
     ["Working"],
 	["Euphonium"],
-    ["マクロス"]
+    ["マクロス"],
+    ["3月のライオン", "3月的狮子"]
 ];
 
 module.exports = {

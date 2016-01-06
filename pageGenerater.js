@@ -7,7 +7,7 @@ var stars = [
 ];
 
 var convertToTimeString = function (date) {
-    return (date.getFullYear() - 2000) + "." + (date.getMonth() + 1) + "." + date.getDate();
+    return date.getFullYear() + "." + (date.getMonth() + 1) + "." + date.getDate();
 };
 
 var assembleString = function (items) {
