@@ -1,0 +1,39 @@
+table {
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+table#mainView tr:nth-child(even) {
+    background-color: #eee;
+}
+table#mainView tr:nth-child(odd) {
+    background-color: #fff;
+}
+table#mainView th {
+    background-color: black;
+    color: white;
+}
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: underline;
+}
+.new {
+    font-weight: bold;
+    color: red;
+    ! important
+}
