@@ -38,7 +38,7 @@ io.on('connection', function (socket) {
             insertString = generatePage(database.content);
             console.log("emit update message again");
             io.emit('update message', insertString);
-            // database.updateRecord();
+            database.updateRecord();
         });
     });
 
