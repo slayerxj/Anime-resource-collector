@@ -6,7 +6,7 @@ var io = require("socket.io")(http);
 
 var Database = require("./database.js");
 var generatePage = require("./pageGenerater.js");
-var kisssub = require("./websites/kisssub.js");
+var sites = require("./websites/index.js");
 
 var isRegen = (process.argv[2] === "r");
 var database = new Database();
@@ -33,12 +33,14 @@ io.on('connection', function (socket) {
         console.log("emit update message");
         io.emit('update message', insertString);
 
-        kisssub.fetchNew(database, function () {
-            database.rank();
-            insertString = generatePage(database.content);
-            console.log("emit update message again");
-            io.emit('update message', insertString);
-            database.updateRecord();
+        Object.keys(sites).forEach(function (domain) {
+            sites[domain].fetchNew(database, function () {
+                database.rank();
+                insertString = generatePage(database.content);
+                console.log("emit update message again");
+                io.emit('update message', insertString);
+                database.updateRecord();
+            });
         });
     });
 
