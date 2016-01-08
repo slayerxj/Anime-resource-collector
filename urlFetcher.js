@@ -1,5 +1,4 @@
 var request = require("superagent");
-var defaultConfiguration = require("./defaultConfiguration.js");
 
 var urlQueue = [];
 var concurrencyCount = { value: 0 };
@@ -7,11 +6,21 @@ var urlFailCount = {};
 var overallFailCount = 0;
 var failedUrl = [];
 var pause = false;
+var doWhenFinished = null;
 
-var retry = defaultConfiguration.retry;
-var overallRetry = defaultConfiguration.overallRetry;
-var concurrencyNum = defaultConfiguration.concurrencyNum;
-var restTime = defaultConfiguration.restTime;
+var retry = 5;
+var overallRetry = 20;
+var maxConcurrencyNum = 10;
+var restTime = 15 * 1000;
+
+var increaseFailCount = function (url) {
+    if (urlFailCount[url]) {
+        urlFailCount[url]++;
+    } else {
+        urlFailCount[url] = 1;
+    }
+
+};
 
 var increaseOverallFailCount = function () {
     overallFailCount++;
@@ -19,26 +28,33 @@ var increaseOverallFailCount = function () {
     if (overallFailCount > overallRetry) {
         pauseFetchingUrls();
         setTimeout(continueFetchingUrls, restTime);
+        overallFailCount = 0;
     }
 };
 
 var handleFetchUrlFailed = function (url, callback) {
-    urlFailCount[url]++;
+    increaseFailCount(url);
+    increaseOverallFailCount();
 
-    if (urlFailCount[url] <= retry) {
-        pushUrlToQueue(url, callback);
+    if (urlFailCount[url] < retry) {
+        if (urlQueue.length === 0) {
+            fetchUrl(url, callback);
+        } else {
+            pushUrlToQueue(url, callback("Get the origin callback"));
+        }
     } else {
+        (callback("Get the origin callback"))("err");
         failedUrl.push(url);
     }
 };
 
 var fetchUrl = function (url, callback) {
+    concurrencyCount.value++;
     request
         .get(url)
         .end(function (err, res) {
+            concurrencyCount.value--;
             if (err) {
-                console.log("Load", url, "is failed");
-                console.log("Stack trace: ", err.stack);
                 handleFetchUrlFailed(url, callback);
             } else {
                 console.log(url, "is loaded");
@@ -60,34 +76,32 @@ var continueFetchingUrls = function () {
     startFetchingUrls();
 };
 
-var setup = function (urlSetting) {
-    if (urlSetting.retry) {
-        retry = urlSetting.retry;
-    }
-    if (urlSetting.overallRetry) {
-        overallRetry = urlSetting.overallRetry;
-    }
-    if (urlSetting.concurrencyNum) {
-        concurrencyNum = urlSetting.concurrencyNum;
-    }
-};
-
 var startFetchingUrls = function (finish) {
-    while ((urlQueue.length > 0) && (concurrencyCount.value < concurrencyNum) && (pause === false)) {
+    while ((urlQueue.length > 0) && (concurrencyCount.value < maxConcurrencyNum) && (pause === false)) {
         var fetchPack = urlQueue.shift();
 
         var makeCallback = function (fetchPack) {
             return function (res) {
+                if (res === "Get the origin callback") {
+                    return fetchPack.callback;
+                }
                 fetchPack.callback(res);
-                concurrencyCount.value--;
+
                 if ((concurrencyCount.value === 0) && (urlQueue.length === 0)) {
-                    finish();
+                    if (failedUrl.length > 0) {
+                        console.log("The following url(s) is failed");
+                        failedUrl.forEach(function (url) {
+                            console.log(url);
+                        });
+                    }
+                    if (finish) {
+                        finish();
+                    }
                 }
                 startFetchingUrls(finish);
             };
         };
         fetchUrl(fetchPack.url, makeCallback(fetchPack));
-        concurrencyCount.value++;
     }
 };
 
