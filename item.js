@@ -7,14 +7,13 @@ function Item() {
 	this.isNew = true;
 	this.publishTime = "";
 	this.isComplete = false;
-	this.generalRanking = 5; // represent unranked
+	this.generalRanking = 5; // 5 represent unranked
 	// if not complete, the number of chapters
 	this.magnetLink = "";
 }
 
 Item.prototype.isUnranked = function () {
 	return (this.generalRanking === 5);
-	// return true;
 };
 
 Item.prototype.getKey = function () {

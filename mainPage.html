@@ -20,14 +20,12 @@
 	var socket = io();
 
 	document.body.onload = function() {
-		console.log("emit page load");
 		socket.emit("page load", "");
 	};
 
 	var filter = function() {
 		var isOnlyNew = document.getElementById("onlynew").checked;
 		var isOnlyCom = document.getElementById("onlycom").checked;
-		console.log("Require filter");
 		socket.emit("filter", {
 			"isOnlyNew": isOnlyNew,
 			"isOnlyCom": isOnlyCom
@@ -38,7 +36,6 @@
 	document.getElementById("onlycom").onclick = filter;
 
 	socket.on('update message', function(content) {
-		console.log("receive page load");
 		var table = document.getElementById("mainView");
 		table.innerHTML = content;
 	});

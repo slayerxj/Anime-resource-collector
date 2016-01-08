@@ -11,18 +11,19 @@ var pause = false;
 var retry = defaultConfiguration.retry;
 var overallRetry = defaultConfiguration.overallRetry;
 var concurrencyNum = defaultConfiguration.concurrencyNum;
+var restTime = defaultConfiguration.restTime;
 
 var increaseOverallFailCount = function () {
-    overallFailCount = overallFailCount + 1;
+    overallFailCount++;
 
     if (overallFailCount > overallRetry) {
         pauseFetchingUrls();
-        setTimeout(continueFetchingUrls, 15 * 1000);
+        setTimeout(continueFetchingUrls, restTime);
     }
 };
 
 var handleFetchUrlFailed = function (url, callback) {
-    urlFailCount[url] = urlFailCount[url] + 1;
+    urlFailCount[url]++;
 
     if (urlFailCount[url] <= retry) {
         pushUrlToQueue(url, callback);
@@ -88,15 +89,6 @@ var startFetchingUrls = function (finish) {
         fetchUrl(fetchPack.url, makeCallback(fetchPack));
         concurrencyCount.value++;
     }
-};
-
-var fetchAllurls = function (domain, urls, whenFinished) {
-
-};
-
-var fetchUrlOneByOne = function (domain, initialUrlPack) {
-    setup(domain);
-    pushUrlToQueue(initialUrlPack);
 };
 
 module.exports = {

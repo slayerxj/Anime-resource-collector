@@ -50,6 +50,13 @@ Database.prototype.rank = function () {
 	return this;
 };
 
+Database.prototype.rankAll = function () {
+	rank(this.content);
+	this.content.sort(Item.sort);
+
+	return this;
+};
+
 Database.prototype.update = function (whenFinish) {
 	urlFetcher.getOneByOne(this, whenFinish);
 };
