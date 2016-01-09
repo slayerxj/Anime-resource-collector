@@ -3,13 +3,10 @@ var request = require("superagent");
 var urlQueue = [];
 var concurrencyCount = { value: 0 };
 var urlFailCount = {};
-var overallFailCount = 0;
 var failedUrl = [];
 var pause = false;
-var doWhenFinished = null;
 
 var retry = 5;
-var overallRetry = 20;
 var maxConcurrencyNum = 10;
 var restTime = 15 * 1000;
 
@@ -19,22 +16,10 @@ var increaseFailCount = function (url) {
     } else {
         urlFailCount[url] = 1;
     }
-
-};
-
-var increaseOverallFailCount = function () {
-    overallFailCount++;
-
-    if (overallFailCount > overallRetry) {
-        pauseFetchingUrls();
-        setTimeout(continueFetchingUrls, restTime);
-        overallFailCount = 0;
-    }
 };
 
 var handleFetchUrlFailed = function (url, callback) {
     increaseFailCount(url);
-    increaseOverallFailCount();
 
     if (urlFailCount[url] < retry) {
         if (urlQueue.length === 0) {
@@ -71,11 +56,6 @@ var pauseFetchingUrls = function () {
     pause = true;
 };
 
-var continueFetchingUrls = function () {
-    pause = false;
-    startFetchingUrls();
-};
-
 var startFetchingUrls = function (finish) {
     while ((urlQueue.length > 0) && (concurrencyCount.value < maxConcurrencyNum) && (pause === false)) {
         var fetchPack = urlQueue.shift();
@@ -94,9 +74,8 @@ var startFetchingUrls = function (finish) {
                             console.log(url);
                         });
                     }
-                    if (finish) {
-                        finish();
-                    }
+
+                    finish();
                 }
                 startFetchingUrls(finish);
             };

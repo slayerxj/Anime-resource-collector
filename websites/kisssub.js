@@ -7,8 +7,6 @@ var util = require('../util.js');
 var domain = "http://www.kisssub.org/";
 var searchPagePostfix = ".html";
 
-var count = 0;
-
 var getFullUrl = function (urlNumber) {
     if (urlNumber === 1) {
         return domain;
@@ -35,15 +33,11 @@ var parseEntry = function (entry) {
     var mixedTitleString = entry.children[5].children[1].children[0].data;
 
     if (util.isWorthCreateNewItem(mixedTitleString)) {
-        count++
+
         var item = new Item();
         item.name = mixedTitleString;
         item.publishTime = new Date(timeString);
-        if (count % 3 === 0) {
-            item.url = detailPageString;
-        } else {
-            item.url = domain + detailPageString;
-        }
+        item.url = domain + detailPageString;
 
         return item;
     } else {

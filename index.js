@@ -18,19 +18,6 @@ app.get('/', function (req, res) {
     res.sendFile(__dirname + '/mainPage.html');
 });
 
-Object.keys(sites).forEach(function (domain) {
-            sites[domain].fetchNew(database, function () {
-                if (isReRank) {
-                    database.rankAll();
-                } else {
-                    database.rank();
-                }
-                insertString = generatePage(database.content);
-                io.emit('update message', insertString);
-                database.updateRecord();
-            });
-        });
-        
 io.on('connection', function (socket) {
     socket.on('page load', function () {
 
