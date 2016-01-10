@@ -4,82 +4,68 @@ var rank = require("./rank.js");
 var urlFetcher = require("./urlFetcher.js");
 
 function Database() {
-	this.content = [];
-	this.contentValidation = [];
-	this.contentMap = {};
-	this.latest = null;
+    this.content = [];
+    this.contentValidation = [];
+    this.contentMap = {};
+    this.latest = null;
 }
 
 Database.prototype.initialize = function () {
-	var record = require("./record/result.js");
+    var record = require("./record/result.js");
 
-	for (var index = 0; index < record.length; index++) {
-		var item = Item.initialize(record[index]);
-		this.content.push(item);
-		this.contentValidation.push(true);
-		this.contentMap[item.getKey()] = item;
-	}
+    for (var index = 0; index < record.length; index++) {
+        var item = Item.initialize(record[index]);
+        this.content.push(item);
+        this.contentValidation.push(true);
+        this.contentMap[item.getKey()] = item;
+    }
 
-	return this;
+    return this;
 };
 
 Database.prototype.insert = function (item) {
-	if (!item) {
-		return false;
-	}
+    if (!item) {
+        return false;
+    }
 
-	if (this.contentMap[item.getKey()]) {
-		return false;
-	} else {
-		item.isNew = true;
-		this.content.push(item);
-		this.contentValidation.push(true);
-		this.contentMap[item.getKey()] = item;
-		return true;
-	}
+    if (this.contentMap[item.getKey()]) {
+        return false;
+    } else {
+        item.isNew = true;
+        this.content.push(item);
+        this.contentValidation.push(true);
+        this.contentMap[item.getKey()] = item;
+        return true;
+    }
 };
 
 Database.prototype.rank = function () {
-	var unrankedItems = this.content.filter(function (item) {
-		return item.isUnranked();
-	});
+    var unrankedItems = this.content.filter(function (item) {
+        return item.isUnranked();
+    });
 
-	rank(unrankedItems);
-	this.content.sort(Item.sort);
+    rank(unrankedItems);
+    this.content.sort(Item.sort);
 
-	return this;
+    return this;
 };
 
 Database.prototype.rankAll = function () {
-	rank(this.content);
-	this.content.sort(Item.sort);
+    rank(this.content);
+    this.content.sort(Item.sort);
 
-	return this;
-};
-
-Database.prototype.update = function (whenFinish) {
-	urlFetcher.getOneByOne(this, whenFinish);
-};
-
-Database.prototype.regenerate = function (domain, whenFinish) {
-	urlFetcher.getAll(domain, this, whenFinish);
-};
-
-Database.prototype.needUpdateRecord = function () {
-	return true;
+    return this;
 };
 
 Database.prototype.updateRecord = function () {
-	// Record is maintained in Database Class, should split out
-	if (this.needUpdateRecord()) {
-		fs.writeFile("record/result.js", "module.exports = " + JSON.stringify(this.content), function (err) {
-			if (err) {
-				throw err;
-			}
-		});
-	}
+    // Record is maintained in Database Class, should split out
+    fs.writeFile("record/result.js", "module.exports = " + JSON.stringify(this.content), function (err) {
+        if (err) {
+            throw err;
+        }
+    });
 
-	return this;
+    return this;
 };
 
 module.exports = Database;

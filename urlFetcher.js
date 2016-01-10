@@ -4,11 +4,9 @@ var urlQueue = [];
 var concurrencyCount = { value: 0 };
 var urlFailCount = {};
 var failedUrl = [];
-var pause = false;
 
 var retry = 5;
 var maxConcurrencyNum = 10;
-var restTime = 15 * 1000;
 
 var increaseFailCount = function (url) {
     if (urlFailCount[url]) {
@@ -52,12 +50,8 @@ var pushUrlToQueue = function (url, callback) {
     urlQueue.push({ url, callback });
 }
 
-var pauseFetchingUrls = function () {
-    pause = true;
-};
-
 var startFetchingUrls = function (finish) {
-    while ((urlQueue.length > 0) && (concurrencyCount.value < maxConcurrencyNum) && (pause === false)) {
+    while ((urlQueue.length > 0) && (concurrencyCount.value < maxConcurrencyNum)) {
         var fetchPack = urlQueue.shift();
 
         var makeCallback = function (fetchPack) {
