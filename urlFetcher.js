@@ -4,6 +4,7 @@ var urlQueue = [];
 var concurrencyCount = { value: 0 };
 var urlFailCount = {};
 var failedUrl = [];
+var doWhenFinish = null;
 
 var retry = 5;
 var maxConcurrencyNum = 10;
@@ -48,9 +49,17 @@ var fetchUrl = function (url, callback) {
 
 var pushUrlToQueue = function (url, callback) {
     urlQueue.push({ url, callback });
-}
+    if (concurrencyCount.value === 0) {
+        continueFetchingUrls();
+    }
+};
 
-var startFetchingUrls = function (finish) {
+var startFetchingUrls = function(finish) {
+    doWhenFinish = finish;
+    continueFetchingUrls();
+};
+
+var continueFetchingUrls = function () {
     while ((urlQueue.length > 0) && (concurrencyCount.value < maxConcurrencyNum)) {
         var fetchPack = urlQueue.shift();
 
@@ -68,10 +77,12 @@ var startFetchingUrls = function (finish) {
                             console.log(url);
                         });
                     }
-
-                    finish();
+                    if (doWhenFinish) {
+                        doWhenFinish();
+                        doWhenFinish = null;
+                    }
                 }
-                startFetchingUrls(finish);
+                continueFetchingUrls();
             };
         };
         fetchUrl(fetchPack.url, makeCallback(fetchPack));

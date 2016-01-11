@@ -2,22 +2,24 @@
 <html>
 
 <head>
-	<link href="/main.css" rel="stylesheet" type="text/css">
+    <link href="/main.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-	Only new:
-	<input type="checkbox" id="onlynew"> Only complete:
-	<input type="checkbox" id="onlycom">
-	<br>
-	<br>
-	<table id="mainView">
-	</table>
+    <input type="checkbox" id="onlynew">Only new
+    <input type="checkbox" id="onlycom">Only complete
+    <select id="preferedWork">
+        <option value=""></option>
+    </select>
+    <br>
+    <br>
+    <table id="mainView">
+    </table>
 </body>
 
 <script src="/socketIO.js"></script>
 <script>
-	var socket = io();
+    var socket = io();
 
 	document.body.onload = function() {
 		socket.emit("page load", "");
@@ -26,19 +28,32 @@
 	var filter = function() {
 		var isOnlyNew = document.getElementById("onlynew").checked;
 		var isOnlyCom = document.getElementById("onlycom").checked;
+        var preferedWork = document.getElementById("preferedWork").value;
 		socket.emit("filter", {
 			"isOnlyNew": isOnlyNew,
-			"isOnlyCom": isOnlyCom
+			"isOnlyCom": isOnlyCom,
+            "preferedWork": preferedWork
 		});
 	};
 
 	document.getElementById("onlynew").onclick = filter;
 	document.getElementById("onlycom").onclick = filter;
+    document.getElementById("preferedWork").onchange = filter;
 
 	socket.on('update message', function(content) {
 		var table = document.getElementById("mainView");
 		table.innerHTML = content;
 	});
+    
+    socket.on('update list', function(content) {
+        var list = document.getElementById("preferedWork");
+        content.forEach(function(cur){
+            var option = document.createElement("option");
+            option.text = cur;
+            list.add(option);
+        });
+	});
+
 </script>
 
 </html>

@@ -4,6 +4,7 @@ var app = express();
 var http = require("http").Server(app);
 var io = require("socket.io")(http);
 
+var library = require("./library.js");
 var Database = require("./database.js");
 var generatePage = require("./pageGenerater.js");
 var sites = require("./websites/index.js");
@@ -23,6 +24,7 @@ io.on('connection', function (socket) {
 
         var insertString = generatePage(database.content);
         io.emit('update message', insertString);
+        io.emit('update list', library.getPreferedWorks());
 
         Object.keys(sites).forEach(function (domain) {
             sites[domain].fetchNew(database, function () {
@@ -51,6 +53,13 @@ io.on('connection', function (socket) {
                 return item.isComplete;
             });
         }
+
+        if (object.preferedWork) {
+            newItems = newItems.filter(function (item) {
+                return (item.workName == object.preferedWork);
+            });
+        }
+
         var insertString = generatePage(newItems);
         io.emit('update message', insertString);
     });

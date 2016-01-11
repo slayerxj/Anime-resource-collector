@@ -34,7 +34,12 @@ var rank = function (item, lines) {
     var upperItemName = item.name.toUpperCase();
     
     if (workNames.some(function (cur) {
-        return (upperItemName.indexOf(cur) !== -1);
+        if (upperItemName.indexOf(cur) !== -1) {
+            item.workName = library.getUnifiedName(cur);
+            return true;
+        } else {
+            return false;
+        }
     })) {
         item.generalRanking--;
     }

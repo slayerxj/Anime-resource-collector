@@ -1,5 +1,6 @@
 function Item() {
 	this.name = "";
+    this.workName = "";
 	this.source = "Blu-ray";
 	this.resolution = "1080p";
 	this.subtitleProvider = "";
@@ -25,11 +26,7 @@ Item.prototype.isEqual = function (item) {
 	if (this.url && item.url && (this.url === item.url)) {
 		return true;
 	} else {
-		if ((this.name === item.name) &&
-			(this.source === item.source) &&
-			(this.resolution === item.resolution) &&
-			(this.subtitleProvider === item.subtitleProvider) &&
-			(this.isComplete === item.isComplete)) {
+		if (this.name === item.name) {
 			return true;
 		}
 	}

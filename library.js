@@ -14,21 +14,27 @@ var works = [
     ["食戟のソーマ", "食戟之灵", "Shokugeki"],
     ["実は私は", "其实我是", "其實我是", "Jitsu wa Watashi wa"],
     ["Working"],
-	["響け! ユーフォニアム", "Euphonium"],
+	["響け！ユーフォニアム", "Sound!Euphonium", "吹响吧！悠风号"],
     ["マクロス"],
     ["3月のライオン", "3月的狮子"],
-    ["無彩限のファントム・ワールド", "無彩限的幻靈世界", "無彩限的幻影世界", "无彩限的幻灵世界", "无彩限的怪异世界]"]
+    ["無彩限のファントム・ワールド", "無彩限的幻靈世界", "無彩限的幻影世界", "无彩限的幻灵世界", "无彩限的怪异世界"]
 ];
 
 module.exports = {
 	getUnifiedName: function (name) {
-		return works.forEach(function (work) {
-			if (work.some(function (alias) {
-				return (name === alias);
+		for (var i = 0; i < works.length; i++) {
+            if (works[i].some(function (alias) {
+				return (name.toUpperCase() === alias.toUpperCase());
 			})) {
-				return work[0];
+				return works[i][0];
 			}
-		});
+        }
+	},
+    
+    getPreferedWorks: function () {
+        return works.map(function(workNames){
+            return workNames[0];
+        })
 	},
 
 	getWorkNames: function () {
