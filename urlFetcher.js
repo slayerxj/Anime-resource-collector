@@ -27,8 +27,8 @@ var handleFetchUrlFailed = function (url, callback) {
             pushUrlToQueue(url, callback("Get the origin callback"));
         }
     } else {
-        (callback("Get the origin callback"))("err");
         failedUrl.push(url);
+        callback("err");
     }
 };
 
@@ -81,8 +81,9 @@ var continueFetchingUrls = function () {
                         doWhenFinish();
                         doWhenFinish = null;
                     }
+                } else {
+                    continueFetchingUrls();
                 }
-                continueFetchingUrls();
             };
         };
         fetchUrl(fetchPack.url, makeCallback(fetchPack));
