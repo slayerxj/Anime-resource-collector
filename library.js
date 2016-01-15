@@ -15,13 +15,16 @@ var works = [
     ["実は私は", "其实我是", "其實我是", "Jitsu wa Watashi wa"],
     ["Working", "迷糊餐厅", "迷糊餐廳"],
 	["響け！ユーフォニアム", "Sound!Euphonium", "吹响吧！悠风号"],
-    ["マクロス"],
-    ["Charlotte"],
+    ["マクロス", "Macross"],
+    ["Charlotte", "夏洛特"],
     ["大家さんは思春期!", "房东妹子青春期", "Ooya-san wa Shishunki"],
     ["3月のライオン", "3月的狮子"],
     ["少女たちは荒野を目指す", "少女们向荒野进发", "Girls Beyond the Wasteland"],
     ["暦物語", "历物语"],
     ["おしえて! ギャル子ちゃん", "告诉我吧！辣妹子", "Please Tell Me! Galko-chan"],
+    ["やはり俺の青春ラブコメはまちがっている", "我的青春恋爱物语果然有问题", "Yahari Ore no Seishun Love Come wa Machigatteiru"],
+    ["ヘヴィーオブジェクト", "重裝武器", "Heavy Object"],
+    ["昭和元禄落語心中", "昭和元禄落语心中"],
     ["無彩限のファントム・ワールド", "無彩限的幻靈世界", "無彩限的幻影世界", "无彩限的幻灵世界", "无彩限的怪异世界"]
 ];
 
