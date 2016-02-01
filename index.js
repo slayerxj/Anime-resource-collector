@@ -9,8 +9,6 @@ var Database = require("./database.js");
 var generatePage = require("./pageGenerater.js");
 var sites = require("./websites/index.js");
 
-var isReRank = (process.argv[2] === "rr");
-
 var database = new Database();
 database.initialize().rank();
 
@@ -28,11 +26,7 @@ io.on('connection', function (socket) {
 
         Object.keys(sites).forEach(function (domain) {
             sites[domain].fetchNew(database, function () {
-                if (isReRank) {
-                    database.rankAll();
-                } else {
-                    database.rank();
-                }
+                database.rankAll();
                 insertString = generatePage(database.content);
                 io.emit('update message', insertString);
                 database.updateRecord();

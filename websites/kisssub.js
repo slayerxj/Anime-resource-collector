@@ -103,7 +103,6 @@ var parsePage = function (responseText, items, allSubPageFinish) {
         }
     });
 
-
 };
 
 var fetchNextPage = function (database, pageCount) {
