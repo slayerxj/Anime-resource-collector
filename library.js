@@ -4,7 +4,6 @@ var subtitleProviders = ["澄空学园", "华盟字幕社", "漫游字幕组", "
 var works = [
 	["Sword Art Online"],
     ["ニセコイ", "伪恋", "Nisekoi"],
-    ["あの夏で待ってる", "在那个夏天等待", "Ano Natsu"],
     ["干物妹！うまるちゃん", "干物妹", "Himouto"],
     ["監獄学園", "监狱学园", "Prison_School", "Prison School"],
     ["境界のRINNE", "境界之轮回", "Kyoukai no Rinne"],
@@ -12,6 +11,7 @@ var works = [
     ["Working", "迷糊餐厅", "迷糊餐廳"],
 	["響け！ユーフォニアム", "Sound!Euphonium", "吹响吧！悠风号"],
     ["マクロス", "Macross"],
+    ["Charlotte", "夏洛特"],
     ["3月のライオン", "3月的狮子"],
     ["少女たちは荒野を目指す", "少女们向荒野进发", "Girls Beyond the Wasteland"],
     ["暦物語", "历物语"],

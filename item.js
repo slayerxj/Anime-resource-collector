@@ -51,6 +51,8 @@ Item.sort = function (a, b) {
 	} else {
 		return rankDiff;
 	}
+    
+    return rankDiff;
 };
 
 module.exports = Item;
