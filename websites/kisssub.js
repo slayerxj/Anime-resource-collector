@@ -28,6 +28,11 @@ var getAllEntrysOfOnePage = function (responseText) {
 
 var parseEntry = function (entry) {
 
+    var type = entry.children[3].children[0].children[0].data;
+    if (type !== "动画") {
+        return undefined;
+    }
+    
     var timeString = entry.children[1].children[0].data;
     var detailPageString = entry.children[5].children[1].attribs.href;
     var mixedTitleString = entry.children[5].children[1].children[0].data;
