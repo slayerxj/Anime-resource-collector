@@ -59,7 +59,7 @@ Database.prototype.rankAll = function () {
 
 Database.prototype.updateRecord = function () {
     // Record is maintained in Database Class, should split out
-    fs.writeFile("record/result.js", "module.exports = " + JSON.stringify(this.content), function (err) {
+    fs.writeFile("record/result.js", "module.exports = " + JSON.stringify(this.content, null, "\n"), function (err) {
         if (err) {
             throw err;
         }
