@@ -48,6 +48,14 @@ io.on('connection', function (socket) {
             });
         }
 
+        if (object.isOnlyRecent) {
+            var currentTime = (new Date()).getTime();
+            var deadline = currentTime - 1000 * 60 * 60 * 24 * 7;
+            newItems = newItems.filter(function (item) {
+                return (item.publishTime.getTime() > deadline);
+            });
+        }
+
         if (object.preferedWork) {
             newItems = newItems.filter(function (item) {
                 return (item.workName == object.preferedWork);
