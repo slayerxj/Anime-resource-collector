@@ -27,23 +27,15 @@ var getAllEntrysOfOnePage = function (responseText) {
 };
 
 var parseEntry = function (entry) {
-
-    var type = entry.children[3].children[0].children[0].data;
-    if (type !== "动画") {
-        return undefined;
-    }
-    
     var timeString = entry.children[1].children[0].data;
     var detailPageString = entry.children[5].children[1].attribs.href;
     var mixedTitleString = entry.children[5].children[1].children[0].data;
 
     if (util.isWorthCreateNewItem(mixedTitleString)) {
-
         var item = new Item();
         item.name = mixedTitleString;
         item.publishTime = new Date(timeString);
         item.url = domain + detailPageString;
-
         return item;
     } else {
         return undefined;
@@ -51,14 +43,19 @@ var parseEntry = function (entry) {
 };
 
 var insertLogic = function (database, items) {
-    var allPageInsertFail = true;
+    var pageContainExistedItem = false;
     items.forEach(function (item) {
-        var insertStatus = database.insert(item);
-        if (insertStatus) {
-            allPageInsertFail = false;
+        if (item.isEqual(database.latest)) {
+            pageContainExistedItem = true;
+        } else {
+            var insertStatus = database.insert(item);
+            if (!insertStatus) {
+                pageContainExistedItem = true;
+            }
         }
     });
-    var isVisitedPage = (items.length !== 0) && allPageInsertFail;
+
+    var isVisitedPage = (items.length !== 0) && pageContainExistedItem;
 
     if (isVisitedPage) {
         return true;
