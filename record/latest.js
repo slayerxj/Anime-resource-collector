@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\r\n        [Aurora] 架向星空之桥/Hoshizora e Kakaru Hashi/星空へ架かる橋 [BD 1920x1080 8bit AAC MP4] (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)",
+"name": "\r\n        【晨曦制作】【葛雷奥特曼】【07】【双字幕】【BDrip】【1080P】【HEVC Ma10p FLAC MKV】",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-ad0e4ba567c3187779923085633dbfac196fae50.html",
+"url": "http://www.kisssub.org/show-3096b463e613398288009ca8307fe8d36fb7768b.html",
 
 "isNew": true,
 
-"publishTime": "2017-03-21T11:03:43.000Z",
+"publishTime": "2017-03-24T23:16:05.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:ad0e4ba567c3187779923085633dbfac196fae50&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3096b463e613398288009ca8307fe8d36fb7768b&tr=http://open.acgtracker.com:1096/announce"
 }
