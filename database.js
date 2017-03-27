@@ -26,6 +26,19 @@ Database.prototype.initialize = function () {
     return this;
 };
 
+Database.prototype.loadArchieve = function () {
+    var archieve = require("./record/archive.js");
+
+    for (var index = 0; index < archieve.length; index++) {
+        var item = Item.initialize(archieve[index]);
+        this.content.push(item);
+        this.contentValidation.push(true);
+        this.contentMap[item.getKey()] = item;
+    }
+
+    return this;
+};
+
 Database.prototype.insert = function (item) {
     if (!item) {
         return false;

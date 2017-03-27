@@ -65,6 +65,13 @@ io.on('connection', function (socket) {
         var insertString = generatePage(newItems);
         io.emit('update message', insertString);
     });
+
+    socket.on('loadArchive', function () {
+        database.loadArchieve().rank();
+        var items = database.content.slice();
+        var insertString = generatePage(items);
+        io.emit('update message', insertString);
+    });
 });
 
 http.listen(3000, function () {

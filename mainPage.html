@@ -12,6 +12,7 @@
     <select id="preferedWork">
         <option value=""></option>
     </select>
+    <button id="loadArchive">Load archive</button>
     <br>
     <br>
     <table id="mainView">
@@ -22,42 +23,47 @@
 <script>
     var socket = io();
 
-	document.body.onload = function() {
-		socket.emit("page load", "");
-	};
+    document.body.onload = function() {
+        socket.emit("page load", "");
+    };
 
-	var filter = function() {
-		var isOnlyNew = document.getElementById("onlynew").checked;
-		var isOnlyCom = document.getElementById("onlycom").checked;
+    var filter = function() {
+        var isOnlyNew = document.getElementById("onlynew").checked;
+        var isOnlyCom = document.getElementById("onlycom").checked;
         var isOnlyRecent = document.getElementById("onlyrecent").checked;
         var preferedWork = document.getElementById("preferedWork").value;
-		socket.emit("filter", {
-			"isOnlyNew": isOnlyNew,
-			"isOnlyCom": isOnlyCom,
+        socket.emit("filter", {
+            "isOnlyNew": isOnlyNew,
+            "isOnlyCom": isOnlyCom,
             "isOnlyRecent": isOnlyRecent,
             "preferedWork": preferedWork
-		});
-	};
+        });
+    };
 
-	document.getElementById("onlynew").onclick = filter;
-	document.getElementById("onlycom").onclick = filter;
+    document.getElementById("onlynew").onclick = filter;
+    document.getElementById("onlycom").onclick = filter;
     document.getElementById("onlyrecent").onclick = filter;
     document.getElementById("preferedWork").onchange = filter;
 
-	socket.on('update message', function(content) {
-		var table = document.getElementById("mainView");
-		table.innerHTML = content;
-	});
-    
+    var loadArchive = function() {
+        socket.emit("loadArchive");
+    };
+
+    document.getElementById("loadArchive").onclick = loadArchive;
+
+    socket.on('update message', function(content) {
+        var table = document.getElementById("mainView");
+        table.innerHTML = content;
+    });
+
     socket.on('update list', function(content) {
         var list = document.getElementById("preferedWork");
-        content.forEach(function(cur){
+        content.forEach(function(cur) {
             var option = document.createElement("option");
             option.text = cur;
             list.add(option);
         });
-	});
-
+    });
 </script>
 
 </html>
