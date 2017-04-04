@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\r\n        【CXRAW】【游戏王剧场版 次元的黑暗面】【遊☆戯☆王】【劇場版】【THE DARK SIDE OF DIMENSIONS】【BDrip】【1080P】【HEVC Ma10p FLAC MKV】",
+"name": "\r\n        [Aurora-Raws] 棺姬嘉依卡 AVENGING BATTLE / Hitsugi no Chaika: Avenging Battle / 棺姫のチャイカ AVENGING BATTLE (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-3e45fd9649889482d6c776f6703c5ab9f044e4f9.html",
+"url": "http://www.kisssub.org/show-ee869074010549c428d0f6ecbad4db5c9bfe0366.html",
 
-"isNew": false,
+"isNew": true,
 
-"publishTime": "2017-03-27T02:59:40.000Z",
+"publishTime": "2017-04-03T23:13:04.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:3e45fd9649889482d6c776f6703c5ab9f044e4f9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ee869074010549c428d0f6ecbad4db5c9bfe0366&tr=http://open.acgtracker.com:1096/announce"
 }
