@@ -3,6 +3,154 @@ module.exports = [
 {
 
 
+"name": "\r\n        【爱恋字幕社&风之圣殿字幕组&Xrip】[为美好的世界献上祝福! 第二季/Kono_Subarashii_Sekai_ni_Shukufuku_o!_2][01-02][BDrip][简体][1080P][HEVC]",
+
+
+"workName": "この素晴らしい世界に祝福を!",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-825e681c1fbf67e3272c6d23b059ff55ebac27ad.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-02T11:03:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:825e681c1fbf67e3272c6d23b059ff55ebac27ad&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] Re:从零开始的异世界生活 / Re: Zero kara Hajimeru Isekai Seikatsu / Re: ゼロから始める異世界生活 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bba02d20a16e7408b3307086df2bdececc41cdc6.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-01T01:53:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bba02d20a16e7408b3307086df2bdececc41cdc6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora-Raws] Re:从零开始的异世界生活 / Re: Zero kara Hajimeru Isekai Seikatsu / Re: ゼロから始める異世界生活 (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ef1d85e933d3236049ab37e247cad1466fc45ada.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-03-31T09:53:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ef1d85e933d3236049ab37e247cad1466fc45ada&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [NEOAVPxMGRT][BDrip][Yu-Gi-Oh! The_Dark_Side_of_Dimensions 游戏王：次元之暗面][中日简繁双语字幕][HEVC_1080P][附音乐合集、度盘地址]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-efc35b9c7d1f81f469d65f544e74eaae6cab3e6c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-03-27T20:18:37.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:efc35b9c7d1f81f469d65f544e74eaae6cab3e6c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\r\n        [Aurora] 至高指令 OVA/Big Order OVA/ビッグオーダー OVA/Big Order OVA (BDRip,8bit,1080p,可扩展为BDMV, 完全版OVA, 使用方法详见介绍",
 
 
@@ -182,6 +330,1116 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:5b5a7ad30614bd912f93da2053375aec5e51b097&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora-Raws] 棺姬嘉依卡 AVENGING BATTLE / Hitsugi no Chaika: Avenging Battle / 棺姫のチャイカ AVENGING BATTLE (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ee869074010549c428d0f6ecbad4db5c9bfe0366.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-03T23:13:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ee869074010549c428d0f6ecbad4db5c9bfe0366&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 棺姬嘉依卡 AVENGING BATTLE / Hitsugi no Chaika: Avenging Battle / 棺姫のチャイカ AVENGING BATTLE (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b407b66e4d099f81d9a04695f5939fd3c1e792ff.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-03T22:39:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b407b66e4d099f81d9a04695f5939fd3c1e792ff&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora-Raws] 棺姬嘉依卡 / Hitsugi no Chaika / 棺姫のチャイカ (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-09d613d3fb936c4e5d8aa9e7f63afc8f421df564.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-03T12:04:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:09d613d3fb936c4e5d8aa9e7f63afc8f421df564&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 棺姬嘉依卡 / Hitsugi no Chaika / 棺姫のチャイカ (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c0d04ddf32a689b76277aef2b52e0da5d132ffaf.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-03T10:54:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c0d04ddf32a689b76277aef2b52e0da5d132ffaf&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora-Raws] 百武装战记 / Hundred / ハンドレッド (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2726dd0f8c9f0c525a7345e668eda2425b26327d.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-03T08:47:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2726dd0f8c9f0c525a7345e668eda2425b26327d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 百武装战记 / Hundred / ハンドレッド (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9e194dacd9de24ee4d049ecfe3f2845c4ecde7cf.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-03T04:11:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9e194dacd9de24ee4d049ecfe3f2845c4ecde7cf&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora-Raws] 粗点心战争 / Dagashi Kashi / だがしかし (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d3b6a3b9297f3b47521fcfdf9edd1bd96ecec426.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-02T22:17:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d3b6a3b9297f3b47521fcfdf9edd1bd96ecec426&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 粗点心战争 / Dagashi Kashi / だがしかし (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e2c2897ce90de4e51dfb0a227c40ca534d22528e.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-02T22:10:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e2c2897ce90de4e51dfb0a227c40ca534d22528e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora-Raws] Anne Happy♪ / Anne Happy / あんハピ♪ (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-308178601000a626219172b8d79db94d71e71b0d.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-02T11:20:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:308178601000a626219172b8d79db94d71e71b0d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora-Raws] 临时女友 / Girl Friend (Kari) / ガールフレンド(仮) (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7748c132e5183ba9bbc3345d87c9e08981aaebc9.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-02T11:17:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7748c132e5183ba9bbc3345d87c9e08981aaebc9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 临时女友 / Girl Friend (Kari) / ガールフレンド(仮) (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9a5355ac4ace1890f7526ea45e43efed65ce595d.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-02T11:09:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9a5355ac4ace1890f7526ea45e43efed65ce595d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【愛戀字幕社&風之聖殿字幕組&Xrip】[為美好的世界獻上祝福! 第二季/Kono_Subarashii_Sekai_ni_Shukufuku_o!_2][Vol.01][BDrip][1080P][HEVC_Main12_FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-034f168374907e41c20492e59f8d0c29422b1186.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-02T11:03:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:034f168374907e41c20492e59f8d0c29422b1186&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【爱恋字幕社&风之圣殿字幕组&Xrip】[为美好的世界献上祝福! 第二季/Kono_Subarashii_Sekai_ni_Shukufuku_o!_2][01-02][BDrip][简体][720P][MP4]",
+
+
+"workName": "この素晴らしい世界に祝福を!",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8410bf2a827d0d94f4fb45eef8a1c32bfb9f7e2b.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-02T11:03:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8410bf2a827d0d94f4fb45eef8a1c32bfb9f7e2b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【愛戀字幕社&風之聖殿字幕組&Xrip】[為美好的世界獻上祝福! 第二季/Kono_Subarashii_Sekai_ni_Shukufuku_o!_2][01-02][BDrip][繁體][1080P][HEVC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f40ec7977ebd163992530b51307c4d8e77ef456b.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-02T11:03:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f40ec7977ebd163992530b51307c4d8e77ef456b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] Anne Happy♪ / Anne Happy / あんハピ♪ (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f93d4914159f464d1e2625b4cb1acfeed0951fd6.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-02T03:31:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f93d4914159f464d1e2625b4cb1acfeed0951fd6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 重返17岁 / Relife / ReLIFE (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bfb1d9d9a4faabcfbaa4c597ffa2f1860652c836.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-03-31T13:24:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bfb1d9d9a4faabcfbaa4c597ffa2f1860652c836&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora-Raws] 重返17岁 / Relife / ReLIFE (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8947973750fbcfc265ee95ef90031a4178098331.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-03-30T11:04:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8947973750fbcfc265ee95ef90031a4178098331&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] DOG DAYS'' (S3)/ Dog Days'' (S3)/ ドッグ・デイズ'' (S3) (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a400c5d95855e10f5a4374a010641f148b699b10.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-03-29T04:00:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a400c5d95855e10f5a4374a010641f148b699b10&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora-Raws] DOG DAYS' / Dog Days' / ドッグ・デイズ' (S2) (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-20edd1ece307f09e2dafdf0029ff2b738ed0b954.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-03-29T03:59:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:20edd1ece307f09e2dafdf0029ff2b738ed0b954&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] DOG DAYS' / Dog Days / ドッグ・デイズ (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-809a6be2f0bf8b84467a3d4660a740d0800abd41.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-03-28T22:55:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:809a6be2f0bf8b84467a3d4660a740d0800abd41&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 祝福的钟声/Shukufuku no Campanella/祝福のカンパネラ -la campanella della benedizione- (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7613407498a6c7f2ffa607dd6fcb7e15791c8343.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-03-28T12:11:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7613407498a6c7f2ffa607dd6fcb7e15791c8343&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 浪漫追星社/Sora no Manimani/宙のまにまに (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8c4becd8577041eeb99d3dbf596b228d7d331516.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-03-28T11:42:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8c4becd8577041eeb99d3dbf596b228d7d331516&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【幻樱字幕组】【魔装学园HxH Masou Gakuen HxH】【SP06】【BDrip】【GB_MP4】【1920X1080】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dfaa2920a23da377c53bd541adba1ca453932744.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-03-28T09:39:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dfaa2920a23da377c53bd541adba1ca453932744&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【幻樱字幕组】【魔装学园HxH Masou Gakuen HxH】【SP06】【BDrip】【BIG5_MP4】【1920X1080】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3bd6bb14402dc9341d856d741483dd5830ba83d0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-03-28T09:39:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3bd6bb14402dc9341d856d741483dd5830ba83d0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 幻想万华镜 春雪异变之章/~The Memories Of Phantasm~/幻想万華鏡 ～『春雪异变之章』～ (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9a3ce95f642db5747692efa25537702df2dbeaa7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-03-28T03:42:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9a3ce95f642db5747692efa25537702df2dbeaa7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora]  无彩限的怪灵世界/Myriad Colors - Musaigen no Phantom World/無彩限のファントム・ワールド (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-362a6bd58a675536606d0a619a725a85aa8cbe3b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-03-28T00:28:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:362a6bd58a675536606d0a619a725a85aa8cbe3b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora-Raws] DOG DAYS / Dog Days / ドッグ・デイズ (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2bbece361a1aa5a240aecd4fa5006f02f11d9c98.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-03-27T23:08:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2bbece361a1aa5a240aecd4fa5006f02f11d9c98&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] DOG DAYS / Dog Days / ドッグ・デイズ (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d99fccda9f9fb81975f2a66d8f96012863ae04ff.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-03-27T23:07:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d99fccda9f9fb81975f2a66d8f96012863ae04ff&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [龙之谷：破晓奇兵][Dragon Nest: Warriors' dawn][BluRay][1080p][MKV][英语中字]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2cf8696cb11da10a5a30331a2476d3e371ab0173.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-03-27T13:59:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2cf8696cb11da10a5a30331a2476d3e371ab0173&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【DHR動研字幕組】[干支魂/干支娘_Etotama][01-12全+SP01-06][繁體][BDRip][720P][MP4](合集版本)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-94349ef16f4471362cb54a9d8cf913c34ab6c89f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-03-27T05:52:18.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:94349ef16f4471362cb54a9d8cf913c34ab6c89f&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -1773,6 +3031,117 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:72472450096c0e840fcfa7936411e02e56e3ea37&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【愛戀字幕社&風之聖殿字幕組&Xrip】[為美好的世界獻上祝福! 第二季/Kono_Subarashii_Sekai_ni_Shukufuku_o!_2][01-02][BDrip][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8dc040986311766ab7b133568ccaf935dff9e4f4.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-02T11:02:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8dc040986311766ab7b133568ccaf935dff9e4f4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【幻櫻字幕組】【傳頌之物-虛偽的假面- Utawarerumono-Itsuwari no Kamen-】【OVA】【02】【BIG5_MP4】【BDrip】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ca43eed7443fc68578c54e0cdc94bd0948208850.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-03-27T21:14:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ca43eed7443fc68578c54e0cdc94bd0948208850&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【幻樱字幕组】【传颂之物-虚伪的假面- Utawarerumono-Itsuwari no Kamen-】【OVA】【02】【GB_MP4】【BDrip】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-15b88f6e68d3f1f7da149adedeca037c0c190920.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-03-27T21:14:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:15b88f6e68d3f1f7da149adedeca037c0c190920&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
