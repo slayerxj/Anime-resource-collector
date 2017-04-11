@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\r\n        [Aurora-Raws] 棺姬嘉依卡 AVENGING BATTLE / Hitsugi no Chaika: Avenging Battle / 棺姫のチャイカ AVENGING BATTLE (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
+"name": "\r\n        [Zurako] 花牌情缘/歌牌情缘/Chihayafuru 04-06 (BD Hi10P 1080p FLAC)",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-ee869074010549c428d0f6ecbad4db5c9bfe0366.html",
+"url": "http://www.kisssub.org/show-de54e49b89d44cf08291e54457dcc934cbcf794d.html",
 
 "isNew": true,
 
-"publishTime": "2017-04-03T23:13:04.000Z",
+"publishTime": "2017-04-10T23:12:45.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:ee869074010549c428d0f6ecbad4db5c9bfe0366&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:de54e49b89d44cf08291e54457dcc934cbcf794d&tr=http://open.acgtracker.com:1096/announce"
 }
