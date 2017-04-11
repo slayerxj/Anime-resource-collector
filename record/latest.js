@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\r\n        【CXRAW】【游戏王剧场版 次元的黑暗面】【遊☆戯☆王】【劇場版】【THE DARK SIDE OF DIMENSIONS】【BDrip】【1080P】【HEVC Ma10p FLAC MKV】",
+"name": "\r\n        [Zurako] 花牌情缘/歌牌情缘/Chihayafuru 04-06 (BD Hi10P 1080p FLAC)",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-3e45fd9649889482d6c776f6703c5ab9f044e4f9.html",
+"url": "http://www.kisssub.org/show-de54e49b89d44cf08291e54457dcc934cbcf794d.html",
 
-"isNew": false,
+"isNew": true,
 
-"publishTime": "2017-03-27T02:59:40.000Z",
+"publishTime": "2017-04-10T23:12:45.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:3e45fd9649889482d6c776f6703c5ab9f044e4f9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:de54e49b89d44cf08291e54457dcc934cbcf794d&tr=http://open.acgtracker.com:1096/announce"
 }
