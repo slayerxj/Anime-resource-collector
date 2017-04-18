@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\r\n        [Zurako] 花牌情缘/歌牌情缘/Chihayafuru 04-06 (BD Hi10P 1080p FLAC)",
+"name": "\r\n        [Aurora] CROSS ANGE 天使与龙的轮舞/Cross Ange: Tenshi to Ryuu no Rondo/クロスアンジュ 天使と竜の輪舞 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-de54e49b89d44cf08291e54457dcc934cbcf794d.html",
+"url": "http://www.kisssub.org/show-38f4c448003c2a3fe7af429ffe699744a77a087a.html",
 
 "isNew": true,
 
-"publishTime": "2017-04-10T23:12:45.000Z",
+"publishTime": "2017-04-18T03:52:56.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:de54e49b89d44cf08291e54457dcc934cbcf794d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:38f4c448003c2a3fe7af429ffe699744a77a087a&tr=http://open.acgtracker.com:1096/announce"
 }
