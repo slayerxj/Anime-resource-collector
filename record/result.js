@@ -40,6 +40,43 @@ module.exports = [
 {
 
 
+"name": "\r\n        [雪飘工作室&澄空学园][碧蓝幻想][GRANBLUE FANTASY-The Animation][03][HEVC][1080p][简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4094980b12276c0b6ec27082808db1e6cecd89ef.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-18T16:28:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4094980b12276c0b6ec27082808db1e6cecd89ef&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\r\n        【肥羊-Raws】[食戟之灵 贰之皿][食戟のソーマ 弐ノ皿][BDRip][1080P_x264(8bit)-FLAC][ALL]",
 
 
@@ -58,7 +95,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0eb436b298539dee5689dce859d2f60a7a8d3320.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-15T07:45:57.000Z",
@@ -95,7 +132,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0df46559d33fafbc9229261e5d5bb167d29e3822.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-12T10:51:24.000Z",
@@ -706,6 +743,265 @@ module.exports = [
 {
 
 
+"name": "\r\n        [Aurora] 银魂 / Gintama / 銀魂 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-62ac751b60815e352ad2bb9116b5384a04ff2e19.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-20T05:34:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:62ac751b60815e352ad2bb9116b5384a04ff2e19&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 银魂 / Gintama / 銀魂 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-301fe380071705761306e471fefc230196d84c02.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-19T12:52:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:301fe380071705761306e471fefc230196d84c02&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 银魂 / Gintama / 銀魂 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-28eb17432a7e4245741af12ec9a269c9c2994539.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-19T12:51:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:28eb17432a7e4245741af12ec9a269c9c2994539&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【Xrip】[Fate/Grand Order -First Order-][BDrip][1080P][x265_10bit_flac]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-231d7a080b9bb65d2570830e3281071b68729b5b.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-19T09:50:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:231d7a080b9bb65d2570830e3281071b68729b5b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] Colorful (2010，MOVIE)  (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-625206cd7a9e426840c4758705d550cfba2d471e.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-19T09:45:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:625206cd7a9e426840c4758705d550cfba2d471e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【Little字幕组】魔卡少女樱 47 [BDRip][1080P][中日双字][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3100c36de84716b441695c4a5df1138a8f5fe633.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-19T09:03:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3100c36de84716b441695c4a5df1138a8f5fe633&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 城下町的蒲公英/Joukamachi no Dandelion - Castle Town Dandelion/城下町のダンデライオン (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bc153c8989818cfa11e8bdc9195dfd0aacfac8a8.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-18T09:58:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bc153c8989818cfa11e8bdc9195dfd0aacfac8a8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\r\n        [Aurora] CROSS ANGE 天使与龙的轮舞/Cross Ange: Tenshi to Ryuu no Rondo/クロスアンジュ 天使と竜の輪舞 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
 
 
@@ -724,7 +1020,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-38f4c448003c2a3fe7af429ffe699744a77a087a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-18T03:52:56.000Z",
@@ -761,7 +1057,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-033867f7fbfe7ffe9a2964dec576a63632df8856.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-17T14:40:39.000Z",
@@ -798,7 +1094,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fe62c7f80b09bb3da139ff1aad6eb67a68008694.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-17T11:50:05.000Z",
@@ -835,7 +1131,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-df54f7357d8a623ecf10aafb4cc3d65ef6a84b37.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-17T10:50:26.000Z",
@@ -872,7 +1168,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7775a10773db1974204733a7752e210deb53311a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-16T16:53:56.000Z",
@@ -909,7 +1205,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-37d9517b9be7c3c95209ad8e0467178d8dab38e4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-16T15:43:45.000Z",
@@ -946,7 +1242,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d0c45c13628ad4967b1502e40486bcfbb58b87b7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-16T15:05:27.000Z",
@@ -983,7 +1279,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-91e5eb1798c1b412525cd5266cc31e779a25777e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-16T14:29:16.000Z",
@@ -1020,7 +1316,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-111fbaf44404bc98e816ebe975c6d6162e345683.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-16T08:21:43.000Z",
@@ -1057,7 +1353,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9d75beef574df117d870c8df03dc3d09aa0a9cfa.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-16T04:22:50.000Z",
@@ -1094,7 +1390,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e97650c3cafcfe1dd3b4465cc56ca961f04d1b68.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-15T21:41:21.000Z",
@@ -1131,7 +1427,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-502a48af04e3ccf018d94e917f6497e3da556fef.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-15T21:00:48.000Z",
@@ -1168,7 +1464,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5e6f3272a8a9eb8b8c0fb72a8a96aad3089fd09b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-15T12:18:10.000Z",
@@ -1205,7 +1501,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a3776ceb5d81c9b22725c018aa2fc10bb704bde2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-15T10:55:20.000Z",
@@ -1242,7 +1538,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-78d1bce3fc0f33f74f9ac9f46a96be794753596c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-15T10:06:42.000Z",
@@ -1279,7 +1575,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7f67c858a874e464dc93d0ff86b601df1f3ec6a4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-15T01:49:39.000Z",
@@ -1316,7 +1612,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0c2e96b56d96112360dc1e9f206ed121bb3a3981.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-14T13:38:36.000Z",
@@ -1353,7 +1649,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a4d5af6732b7c76f3c9d0e9724239f96b2c2b9f4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-14T12:07:27.000Z",
@@ -1390,7 +1686,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f9929940300295b0c7360396f44f11bd830f1081.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-14T00:41:39.000Z",
@@ -1427,7 +1723,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-67838cbe26bf8eb539b0b6825090381d1620db75.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-13T10:08:10.000Z",
@@ -1464,7 +1760,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-16519a84f41cc16847832af417f46cf8e03e84e8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-12T20:41:52.000Z",
@@ -1501,7 +1797,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-92b34664d81a4c83966c5e1bf1b082305302a3e9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-12T20:03:18.000Z",
@@ -1538,7 +1834,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-586dd6d96f59d9e4515e0fd93d1592ca7a1ebeb0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-12T10:12:34.000Z",
@@ -1575,7 +1871,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ebc50a09f222d8842d183e9249bd44b8c7c24cb5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-11T21:09:07.000Z",
@@ -1612,7 +1908,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0a3f0cbe768fdbdce7b1804fc586c1005b674057.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-11T04:58:21.000Z",
@@ -1649,7 +1945,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-bc6f8a8eda6f35fc281649fdcaa10749bb67aa7a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-11T02:05:25.000Z",
@@ -5553,6 +5849,80 @@ module.exports = [
 {
 
 
+"name": "\r\n        Tsubasa Chronicle 翼·年代記 TV+OVA+OAD+剧场版 [BDrip 720p][10bit]@loushao",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b6dcc16642b526eee3318e3c3bb62a191142b280.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-19T11:02:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b6dcc16642b526eee3318e3c3bb62a191142b280&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Light-Raws]  无彩限的怪灵世界/Myriad Colors - Musaigen no Phantom World/無彩限のファントム・ワールド (BD 1280x720 hevc/x265_yuv444P10 AAC)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e3440486fb9f1d1df0f6ce979f759c9fb7285e05.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-19T01:49:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e3440486fb9f1d1df0f6ce979f759c9fb7285e05&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\r\n        [诸神字幕组][加速世界 -INFINITE BURST-][Accel World Infinite Burst][剧场版][中日双语字幕][BDRIP][720P][CHS MP4]",
 
 
@@ -5571,7 +5941,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5cc71d1c6da5c3af2c4fcca73ab17b18eb0bb8ab.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-17T11:49:33.000Z",
@@ -5608,7 +5978,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-cf9cd5fac9fcbc9b9b6a5c3885ad517d1f7c5aa1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-17T11:17:51.000Z",
@@ -5645,7 +6015,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4e12a05719ad820cab0c5732d7f961c34ec4af05.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-17T00:55:20.000Z",
@@ -5682,7 +6052,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1f844bb04a6a9f1b778623ea036aea745385e78c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-16T16:56:00.000Z",
@@ -5719,7 +6089,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8f999063205f040538c6af61d5e1fdd06f6cc71b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-15T17:20:08.000Z",
@@ -5756,7 +6126,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-bc57f19fabdcf2b1d7db9925256462b4faf127c8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-15T14:31:54.000Z",
@@ -5793,7 +6163,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-13a08bf6efe0faef3bc3881858c30a6fecd805e1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-15T14:31:29.000Z",
@@ -5830,7 +6200,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-20277ae42f85499a36c367350554ed63a854c09f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-14T12:39:12.000Z",
@@ -5867,7 +6237,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-82fe802b7f03a51c95b7c62ceb1424a5aada18b5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-12T22:04:43.000Z",
@@ -5904,7 +6274,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-bec423ac57d6c8b891d5e068ea7b9cee7085ece1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-12T21:11:19.000Z",
@@ -5941,7 +6311,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-582c4c4c4d2726d9579a438795e2ddb369beec5e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-12T20:35:55.000Z",
@@ -5978,7 +6348,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-bd699b207f6a4b02fe45d7d7ddd9ad739f107ad8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-12T20:33:12.000Z",

@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\r\n        [Aurora] CROSS ANGE 天使与龙的轮舞/Cross Ange: Tenshi to Ryuu no Rondo/クロスアンジュ 天使と竜の輪舞 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+"name": "\r\n        [Aurora] 银魂 / Gintama / 銀魂 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-38f4c448003c2a3fe7af429ffe699744a77a087a.html",
+"url": "http://www.kisssub.org/show-62ac751b60815e352ad2bb9116b5384a04ff2e19.html",
 
 "isNew": true,
 
-"publishTime": "2017-04-18T03:52:56.000Z",
+"publishTime": "2017-04-20T05:34:48.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:38f4c448003c2a3fe7af429ffe699744a77a087a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:62ac751b60815e352ad2bb9116b5384a04ff2e19&tr=http://open.acgtracker.com:1096/announce"
 }
