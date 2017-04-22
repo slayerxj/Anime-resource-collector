@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\r\n        [Aurora] 银魂 / Gintama / 銀魂 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+"name": "\r\n        [Aurora-Raws] 花舞少女/Hanayamata/ハナヤマタ (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-62ac751b60815e352ad2bb9116b5384a04ff2e19.html",
+"url": "http://www.kisssub.org/show-f94bd8bcf463b532ceeaad2f417c6d3f17c7c150.html",
 
 "isNew": true,
 
-"publishTime": "2017-04-20T05:34:48.000Z",
+"publishTime": "2017-04-22T10:57:24.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:62ac751b60815e352ad2bb9116b5384a04ff2e19&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f94bd8bcf463b532ceeaad2f417c6d3f17c7c150&tr=http://open.acgtracker.com:1096/announce"
 }
