@@ -23,11 +23,11 @@
 <script>
     var socket = io();
 
-    document.body.onload = function() {
+    document.body.onload = function () {
         socket.emit("page load", "");
     };
 
-    var filter = function() {
+    var filter = function () {
         var isOnlyNew = document.getElementById("onlynew").checked;
         var isOnlyCom = document.getElementById("onlycom").checked;
         var isOnlyRecent = document.getElementById("onlyrecent").checked;
@@ -45,25 +45,26 @@
     document.getElementById("onlyrecent").onclick = filter;
     document.getElementById("preferedWork").onchange = filter;
 
-    var loadArchive = function() {
+    var loadArchive = function () {
         socket.emit("loadArchive");
     };
 
     document.getElementById("loadArchive").onclick = loadArchive;
 
-    socket.on('update message', function(content) {
+    socket.on('update message', function (content) {
         var table = document.getElementById("mainView");
         table.innerHTML = content;
     });
 
-    socket.on('update list', function(content) {
+    socket.on('update list', function (content) {
         var list = document.getElementById("preferedWork");
-        content.forEach(function(cur) {
+        content.forEach(function (cur) {
             var option = document.createElement("option");
             option.text = cur;
             list.add(option);
         });
     });
+
 </script>
 
 </html>

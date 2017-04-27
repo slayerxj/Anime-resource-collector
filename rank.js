@@ -32,7 +32,7 @@ var stringFilter = function (items, words) {
 var rank = function (item, lines) {
     item.generalRanking = 4;
     var upperItemName = item.name.toUpperCase();
-    
+
     if (workNames.some(function (cur) {
         if (upperItemName.indexOf(cur) !== -1) {
             item.workName = library.getUnifiedName(cur);
@@ -43,13 +43,13 @@ var rank = function (item, lines) {
     })) {
         item.generalRanking--;
     }
-    
+
     if (subtitleProviders.some(function (cur) {
         return (upperItemName.indexOf(cur) !== -1);
     })) {
         item.generalRanking--;
     }
-    
+
     item.isComplete = false;
     if (completeAliases.some(function (cur) {
         return (upperItemName.indexOf(cur) !== -1);

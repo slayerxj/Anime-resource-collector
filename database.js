@@ -76,7 +76,7 @@ Database.prototype.rankAll = function () {
 Database.prototype.setLatest = function () {
     var latest = this.content[0];
     var latestTime = latest.publishTime.getTime();
-    this.content.map(function(item) {
+    this.content.map(function (item) {
         if (item.publishTime.getTime() > latestTime) {
             latest = item;
             latestTime = latest.publishTime.getTime();

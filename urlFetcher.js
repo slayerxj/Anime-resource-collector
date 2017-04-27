@@ -54,7 +54,7 @@ var pushUrlToQueue = function (url, callback) {
     }
 };
 
-var startFetchingUrls = function(finish) {
+var startFetchingUrls = function (finish) {
     doWhenFinish = finish;
     continueFetchingUrls();
 };

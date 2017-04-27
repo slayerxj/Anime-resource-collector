@@ -1,6 +1,6 @@
 function Item() {
 	this.name = "";
-    this.workName = "";
+	this.workName = "";
 	this.source = "Blu-ray";
 	this.resolution = "1080p";
 	this.subtitleProvider = "";

@@ -58,7 +58,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-52f41dcbe3c0d7c6b3c6edaab9dd5c697bde16b4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-21T02:31:02.000Z",
@@ -95,7 +95,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7e09f508be9db3b8cc2003090b2f83c07535a7fd.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-20T15:40:54.000Z",
@@ -817,6 +817,598 @@ module.exports = [
 {
 
 
+"name": "\r\n        [Aurora] 恶魔幸存者2/Devil Survivor 2 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f9d3e99697eba00bdd9d6737da1ed4a58ac61b6d.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-26T10:33:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f9d3e99697eba00bdd9d6737da1ed4a58ac61b6d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 白色相簿2/White Album2 演唱会 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b3dac22ba04cc9b408914ef2830838b910f798d2.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-26T09:52:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b3dac22ba04cc9b408914ef2830838b910f798d2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 白色相簿2/White Album2 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4df150b79ecec55bbf76c213074f328000dc9da4.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-26T09:51:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4df150b79ecec55bbf76c213074f328000dc9da4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 弹丸论破3 －The End of 希望之峰学园－ / Danganronpa 3: The End of Kibougamine Gakuen / ダンガンロンパ3 -The End of 希望ヶ峰学園 (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[REV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8f8ffccead2c85076646204cd0d7c315fb2802c9.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-26T03:41:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8f8ffccead2c85076646204cd0d7c315fb2802c9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 田中君总是如此慵懒/Tanaka-kun wa Itsumo Kedaruge - Tanaka-kun Is Always Listless/田中くんはいつもけだるげ (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-79f2ee55444be83f1fc762beee012a2548f21847.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-25T14:27:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:79f2ee55444be83f1fc762beee012a2548f21847&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 恋爱、选举与巧克力/Koi to Senkyo to Chocolate - Love, Election & Chocolate/恋と選挙とチョコレート (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-14424c785a82f26821a51d720751ba55ec931547.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-25T11:31:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:14424c785a82f26821a51d720751ba55ec931547&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [SFEO-Raws]排球少年!! 乌野高中VS白鸟泽学园高中 Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c44ea6e8c86ac3ee1e1cb2469bc38fff3bf2f29b.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-25T00:32:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c44ea6e8c86ac3ee1e1cb2469bc38fff3bf2f29b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] planetarian ~星之人~/Planetarian: Hoshi no Hito/planetarian ~星の人~ (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f90d3ff7bb288287974ca531d0cef1a19fd2ae20.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-24T10:07:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f90d3ff7bb288287974ca531d0cef1a19fd2ae20&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 超次元的海王星/Hyperdimension Neptunia - Choujigen Game Neptune/超次元ゲイム ネプテューヌ (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-17f31e17ada79d7d94ddb611e0463f4362f7bf77.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-24T07:35:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:17f31e17ada79d7d94ddb611e0463f4362f7bf77&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora-Raws] NEW GAME! / New Game! / NEW GAME! (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d95b4f58a211a52238a1af2aa717b56206fe81fc.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-24T06:16:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d95b4f58a211a52238a1af2aa717b56206fe81fc&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] NEW GAME! / New Game! / NEW GAME! (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bd87cf6d8774c68d9e8fdb98c1a787dc9073b751.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-24T06:15:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bd87cf6d8774c68d9e8fdb98c1a787dc9073b751&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 干物妹！小埋/Himouto! Umaru-chan/干物妹! うまるちゃん (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3d1a40f7b46f00eec995a28d77e88b5e5cec0b9d.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-23T13:18:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3d1a40f7b46f00eec995a28d77e88b5e5cec0b9d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 魔装学园H×H/Masou Gakuen HxH/魔装学園HxH (BDRip,1080p,8bit,MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fc07c2d0ae6738e10f8fe926657155538001d12e.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-23T13:16:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fc07c2d0ae6738e10f8fe926657155538001d12e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【動漫國字幕組】[小魔女學園][Vol.01][BDRip][AVC_FLAC_PGS][1080P_Hi10P][簡繁外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8582d23214e7d2fa49a718ed06776e1deba20750.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-23T08:47:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8582d23214e7d2fa49a718ed06776e1deba20750&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [雪飄工作室&澄空學園][碧藍幻想][GRANBLUE FANTASY-The Animation][04][720p][繁體內嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d92c939fe496f140a756bce2f3686c5d5dda0636.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-23T04:43:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d92c939fe496f140a756bce2f3686c5d5dda0636&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [澄空学园&雪飘工作室][碧蓝幻想][GRANBLUE FANTASY-The Animation][04][720p][简体内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-978f5f66808de924b282d361d0c75188e670419a.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-22T22:28:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:978f5f66808de924b282d361d0c75188e670419a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\r\n        [Aurora-Raws] 花舞少女/Hanayamata/ハナヤマタ (BDRip,1080p,x265/HEVC 10bit,FLAC,MKV)[招募分流,etc]",
 
 
@@ -835,7 +1427,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f94bd8bcf463b532ceeaad2f417c6d3f17c7c150.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-22T10:57:24.000Z",
@@ -872,7 +1464,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6c394d737145d87fdab1504b19318e5b848c23cf.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-22T05:05:44.000Z",
@@ -909,7 +1501,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-bb55d4200b024ff3b5a8a2e426f422dca1d0ca7d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-22T05:01:16.000Z",
@@ -946,7 +1538,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7105b14d3342ced3b98158e4f55f1aa408e3142f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-22T02:44:16.000Z",
@@ -983,7 +1575,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5f92d4fb0e03ccb192834c3aa1299684eefdd929.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-21T14:55:23.000Z",
@@ -1020,7 +1612,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7ede1eafccf447647d5146c036d8e5d01e72bf61.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-21T12:58:28.000Z",
@@ -1057,7 +1649,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-59bb55c49c56a0fa6160980f7f3efe1b81cc1c17.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-21T12:43:00.000Z",
@@ -1094,7 +1686,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-bc0556c05c673143f9e6844c6bcd7e896a0cc999.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-21T11:36:20.000Z",
@@ -6219,6 +6811,191 @@ module.exports = [
 {
 
 
+"name": "\r\n        [Light-Raws] 反叛的鲁路修/Code Geass: Hangyaku no Lelouch/コードギアス 反逆のルルーシュ (BD 1280x720 hevc/x265_yuv444P10 AAC)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3cc40d806b027f1cdc96b347af8ff558cc8061f5.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-24T23:16:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3cc40d806b027f1cdc96b347af8ff558cc8061f5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [AikatsuFans][偶像活动Stars!/Aikatsu Stars!/アイカツスターズ!][004][BDRIP][简体内嵌][720P][内详]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-541e420eecab35b2fefa064b24ee198c84844fe1.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-24T00:54:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:541e420eecab35b2fefa064b24ee198c84844fe1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        天香字幕社&A.I.R.nesSub 碧蓝幻想 Granblue Fantasy 04话 720p 简繁外挂",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1957213f4ec5c9426d0333623ba521f51040c3f1.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-23T14:02:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1957213f4ec5c9426d0333623ba521f51040c3f1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【動漫國字幕組】[小魔女學園][OVA][BDRip][AVC_AAC][720P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ae08677d9d11ff5320ee489b8b52fb16bc8ac00a.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-22T16:43:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ae08677d9d11ff5320ee489b8b52fb16bc8ac00a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【动漫国字幕组】[小魔女学园][OVA][BDRip][AVC_AAC][720P][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5b327358189e8e9826ff31706ddf7bee3497a938.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-04-22T16:43:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5b327358189e8e9826ff31706ddf7bee3497a938&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\r\n        【极影字幕社】★01月新番[Fate/Grand Order -First Order-][BDrip][720P][GB][MP4]",
 
 
@@ -6237,7 +7014,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a0bc5ff71f4c54b3ec0227fc5c7d2234c19d46f8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-22T08:52:25.000Z",
@@ -6274,7 +7051,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-12237c36a08a8f891099a38785bfc2ca7d0238c4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-22T08:51:56.000Z",
@@ -6311,7 +7088,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-acaceba4b60828639473f3ba6d14ff9cc06b8c2e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-21T08:59:38.000Z",
@@ -6348,7 +7125,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6ab7eabb275ebb3d22cdbcb95b187eea7a5ab1d5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-20T23:46:35.000Z",
@@ -6385,7 +7162,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8776c8b79ebc9c1259f76c44882a401f06ee419e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-04-20T15:00:04.000Z",
