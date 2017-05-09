@@ -5,7 +5,6 @@ var urlFetcher = require("./urlFetcher.js");
 
 function Database() {
     this.content = [];
-    this.contentValidation = [];
     this.contentMap = {};
     this.latest = null;
 }
@@ -17,7 +16,6 @@ Database.prototype.initialize = function () {
     for (var index = 0; index < record.length; index++) {
         var item = Item.initialize(record[index]);
         this.content.push(item);
-        this.contentValidation.push(true);
         this.contentMap[item.getKey()] = item;
     }
 
@@ -32,7 +30,6 @@ Database.prototype.loadArchieve = function () {
     for (var index = 0; index < archieve.length; index++) {
         var item = Item.initialize(archieve[index]);
         this.content.push(item);
-        this.contentValidation.push(true);
         this.contentMap[item.getKey()] = item;
     }
 
@@ -49,7 +46,6 @@ Database.prototype.insert = function (item) {
     } else {
         item.isNew = true;
         this.content.push(item);
-        this.contentValidation.push(true);
         this.contentMap[item.getKey()] = item;
         return true;
     }
