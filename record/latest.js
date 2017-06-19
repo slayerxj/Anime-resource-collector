@@ -1,24 +1,24 @@
 module.exports = {
 
-"name": "\r\n        【千夏打牌組&ANK-Raws】【Selector destructed WIXOSS】[劇場版][BDRIP_1080P][x265_FLACx3_5.1ch][繁體外掛]",
+"name": "\r\n        [雪飄工作室&澄空學園][碧藍幻想][GRANBLUE FANTASY-The Animation][12][720p][繁體內嵌]",
 
 "workName": "",
 
 "source": "Blu-ray",
 
-"resolution": "1080p",
+"resolution": "720p",
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-b4b64289b54eb4fdfa7ec9c7536e996a5787a5b8.html",
+"url": "http://www.kisssub.org/show-1a0c6f6c1f5f13ad9bd4267c1c1d19cf484ccf13.html",
 
 "isNew": true,
 
-"publishTime": "2017-06-13T17:22:37.000Z",
+"publishTime": "2017-06-18T14:53:13.000Z",
 
 "isComplete": false,
 
-"generalRanking": 2,
+"generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:b4b64289b54eb4fdfa7ec9c7536e996a5787a5b8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1a0c6f6c1f5f13ad9bd4267c1c1d19cf484ccf13&tr=http://open.acgtracker.com:1096/announce"
 }

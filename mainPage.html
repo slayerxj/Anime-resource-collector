@@ -46,6 +46,7 @@
     document.getElementById("preferedWork").onchange = filter;
 
     var loadArchive = function () {
+        document.getElementById("loadArchive").disabled = true;
         socket.emit("loadArchive");
     };
 
