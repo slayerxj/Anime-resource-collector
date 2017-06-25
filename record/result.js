@@ -77,6 +77,43 @@ module.exports = [
 {
 
 
+"name": "\r\n        [雪飘工作室&澄空学园][碧蓝幻想][GRANBLUE FANTASY-The Animation][12][HEVC][1080p][简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2acc2455c449606e86e814b72a4f44cf66a539c4.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-22T13:04:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2acc2455c449606e86e814b72a4f44cf66a539c4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\r\n        [UHA-WINGS＆ANK-Raws][猫咪日常][Nyanko days][剪辑合集版][01-12 editing verson][BIG5][BDrip 1920x1080 AVC_AAC]",
 
 
@@ -95,7 +132,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-83342a4fe3c6da02fc9a51621f1a6a2fb048de4a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-17T02:49:54.000Z",
@@ -132,7 +169,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6d08ccb564583327c9ea7207e0f663c40b85cce3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-16T10:47:21.000Z",
@@ -169,7 +206,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-545c3479afad75843b87618e14903d27dcae1a92.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-15T15:52:32.000Z",
@@ -206,7 +243,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-84fe12c9971304cd8f0bf39661f7ddb4a060a387.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-15T13:10:33.000Z",
@@ -243,7 +280,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1b14f30cb69487b16afa86e04120dc7c1bf4ec5f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-15T10:39:19.000Z",
@@ -1964,6 +2001,450 @@ module.exports = [
 {
 
 
+"name": "\r\n        [SFEO-Raws] 吹响吧!上低音号2 Hibike! Euphonium 2 (BD 1080P x264 ALAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-091392b4a0743e8ac5d067468b21876e54ca6b4e.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-25T00:34:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:091392b4a0743e8ac5d067468b21876e54ca6b4e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Aurora] 新世纪福音战士EVA/Shinseiki Evangelion - Neon Genesis Evangelion/新世紀エヴァンゲリオン (BDBOX) (Aurora-Raws,BDRip,1920x1080,8bit MP4, 可扩展为BDMV, HTML5 兼容)[招募分流,etc]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f8305d062b2358a28a32fd7ade5b1e0dc5417054.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-24T09:58:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f8305d062b2358a28a32fd7ade5b1e0dc5417054&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        哆啦A梦：大雄的恐龙[日版高码原盘DIY][IG菜单修改 新增上译国配、台配国语、粤语音轨按钮+上译国配字幕、港台R3简繁字幕按钮]Doraemon Nobita's Dinosaur 2006 1080P Blu-ray AVC TrueHD ",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-293d0004c68a658b4bf8eb6065ac46fc027b81a8.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-24T09:47:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:293d0004c68a658b4bf8eb6065ac46fc027b81a8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [RainS] 约会大作战/Date a Love / デート・ア・ライブ (MiniBD/RBD-BDSPEC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4ceae062701f812db7d8ab1337aa661b161e264a.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-22T18:55:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4ceae062701f812db7d8ab1337aa661b161e264a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [BDMV] Re׃CREATORS NCOP／ED",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a1e11da2b6df277c30f2ab9d6466c91ee91174ee.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-22T16:47:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a1e11da2b6df277c30f2ab9d6466c91ee91174ee&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [Centaurea-Raws] GAMBA的冒险 TV+MovieX2（Adventures of Gamba 1975-1991 ） BDRip 1440X1080 X265 Main10p",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7a83ffcdb5a061d3bb7efb8c2f03b19f586862ed.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-22T13:12:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7a83ffcdb5a061d3bb7efb8c2f03b19f586862ed&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [LM制作1][动物战队兽王者丨04.擂台上咆哮][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-399caec04c676c8a3bdfeb4e0c243abb1d7aef70.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-22T02:13:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:399caec04c676c8a3bdfeb4e0c243abb1d7aef70&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [SFEO-Raws] THE BIG O (BD 1080P x264 ALAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1d1a6ce7a81cb2d62d2089a81b126efd37b2b6d0.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-21T05:18:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1d1a6ce7a81cb2d62d2089a81b126efd37b2b6d0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【光之国漫画组】【怪兽娘~奥特怪兽拟人化计划~】【1-12Fin】【BDrip】【HEVC Ma10p FLAC MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-99830a3c3e163b4da600047a617f62ddb61917f6.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-21T01:47:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:99830a3c3e163b4da600047a617f62ddb61917f6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【Xrip】[聲之形][Koe no Katachi][BDrip][1080P][x265_10bit_flac]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-188317d939787736a4d38a49b78e5c20d4b16982.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-19T12:35:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:188317d939787736a4d38a49b78e5c20d4b16982&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        【肥羊-Raws】[终末的伊泽塔][終末のイゼッタ][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-90b4542a33fcbd634fd762a2b98a654c11aee155.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-19T11:50:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:90b4542a33fcbd634fd762a2b98a654c11aee155&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        [SFEO-Raws] 库尔莉迪亚代码 Qualidea Code (BD 1080P x264 ALAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f2ecf4102f301c0a7af037503446d95341c28220.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-18T14:59:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f2ecf4102f301c0a7af037503446d95341c28220&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\r\n        [雪飄工作室&澄空學園][碧藍幻想][GRANBLUE FANTASY-The Animation][12][720p][繁體內嵌]",
 
 
@@ -1982,7 +2463,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1a0c6f6c1f5f13ad9bd4267c1c1d19cf484ccf13.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-18T14:53:13.000Z",
@@ -2019,7 +2500,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-818e3bbc9be2d359a747cfd564fe4dee432656d2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-18T14:05:49.000Z",
@@ -2056,7 +2537,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2b705273d18460d7781dd74856580fef4e7dc699.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-18T13:42:21.000Z",
@@ -2093,7 +2574,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6889cee2c227990bb939fbb57265575a62ecf3ed.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-18T01:47:32.000Z",
@@ -2130,7 +2611,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d591e81d7ab26d27b222e858be1c49a498c76fb7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-17T16:31:27.000Z",
@@ -2167,7 +2648,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3563e7a1efc7f8af523071fcec4dc8e8e8f68f2c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-17T14:30:08.000Z",
@@ -2204,7 +2685,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-13be37989f4a369b1669767209b923ae99765b83.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-17T10:15:28.000Z",
@@ -2241,7 +2722,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f069a4313ee00fd149a6bdb3368fdfd8f4e44b60.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-17T03:29:42.000Z",
@@ -2278,7 +2759,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4971099acd213bdc33362f1aee06ef89b4a614f9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-16T11:02:16.000Z",
@@ -2315,7 +2796,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1706602edbb18d7832dcfe7603ebde81257aaabb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-16T11:01:42.000Z",
@@ -2352,7 +2833,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9df1a2f0e9c8e0c337f228f7cbfd0d5f8ab4311e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-16T11:00:29.000Z",
@@ -2389,7 +2870,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-46e7ab32a7a7b106f018ce21427234e1ad438f29.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-16T11:00:04.000Z",
@@ -2426,7 +2907,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b3c80c55e5db1e523faa675d23e691586c8a3a02.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-15T03:41:08.000Z",
@@ -2463,7 +2944,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-604ac09b3ef94aa92251c77097c4e8ba0e8a7b39.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-15T03:00:34.000Z",
@@ -2500,7 +2981,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-49623d3dee68a38a928924b46544a4ab294b4b5f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-14T12:49:41.000Z",
@@ -15173,43 +15654,6 @@ module.exports = [
 {
 
 
-"name": "\r\n        [诸神&幻之&MGRT][声之形][Koe no Katachi][GB][1080P][BDRip][中日双语字幕][MKV]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-2debf834e3b0dc59b5b062501d6d2b7ac8dff7df.html",
-
-
-"isNew": false,
-
-
-"publishTime": "1970-01-01T00:00:00.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
 "name": "\r\n        [咖啡發佈][飆速宅男/弱虫ペダル/Yowamushi Pedal] 01-13 [基於BDRIP外掛字幕文件][繁體]",
 
 
@@ -15247,6 +15691,117 @@ module.exports = [
 {
 
 
+"name": "\r\n        [诸神&幻之&MGRT][声之形][Koe no Katachi][GB][1080P][BDRip][中日双语字幕][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2debf834e3b0dc59b5b062501d6d2b7ac8dff7df.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\r\n        [SP张郃78区][超次元游戏 Choujigen Game Neptune][01-13][BDrip X264 AAC 720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aaed05a1eccbf407689b352c3c368670b85807df.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-24T06:43:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aaed05a1eccbf407689b352c3c368670b85807df&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\r\n        天香字幕社&A.I.R.nesSub 碧蓝幻想 Granblue Fantasy 12话 720p 简繁外挂",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7eedc70c3535d991453cd4d6a1ee905b1b9b653c.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2017-06-21T02:55:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7eedc70c3535d991453cd4d6a1ee905b1b9b653c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\r\n        [光の影字幕組][假面騎士555][BDBOX1][BDRip][720p][x264_AAC][60FPS][Hi10p][MKV]",
 
 
@@ -15265,7 +15820,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3d700ca351f076224a9350c5760ebb641c9a07be.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-16T02:46:36.000Z",
@@ -15302,7 +15857,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f845308c8bf5bde43ba34800bb76a7f6b8d77182.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-06-15T03:57:55.000Z",
