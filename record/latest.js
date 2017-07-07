@@ -1,8 +1,8 @@
 module.exports = {
 
-"name": "\r\n        [SFEO-Raws] 吹响吧!上低音号2 Hibike! Euphonium 2 (BD 1080P x264 ALAC)",
+"name": "\r\n        [自压] 我的妹妹是黄漫老师/Eromanga Sensei [Vol.1][x265 10bit][BDrip][1080p]",
 
-"workName": "",
+"workName": "エロマンガ先生",
 
 "source": "Blu-ray",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-091392b4a0743e8ac5d067468b21876e54ca6b4e.html",
+"url": "http://www.kisssub.org/show-1dede4e69e6b6b013c7d0f5caf6bc3b0158e8060.html",
 
 "isNew": true,
 
-"publishTime": "2017-06-25T00:34:27.000Z",
+"publishTime": "2017-07-06T18:56:32.000Z",
 
 "isComplete": false,
 
-"generalRanking": 3,
+"generalRanking": 2,
 
-"magnetLink": "magnet:?xt=urn:btih:091392b4a0743e8ac5d067468b21876e54ca6b4e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1dede4e69e6b6b013c7d0f5caf6bc3b0158e8060&tr=http://open.acgtracker.com:1096/announce"
 }
