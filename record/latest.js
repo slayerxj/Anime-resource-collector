@@ -1,24 +1,24 @@
 module.exports = {
 
-"name": "\n        [AikatsuFans][偶像活动Stars!/Aikatsu Stars!/アイカツスターズ!][SE2][BOX1][BDRIP][720P][简体内嵌]",
+"name": "\r\n        [自压] 我的妹妹是黄漫老师/Eromanga Sensei [Vol.1][x265 10bit][BDrip][1080p]",
 
-"workName": "",
+"workName": "エロマンガ先生",
 
 "source": "Blu-ray",
 
-"resolution": "720p",
+"resolution": "1080p",
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-0d1079b1d70aa767828f8e408c07d6584b32a749.html",
+"url": "http://www.kisssub.org/show-1dede4e69e6b6b013c7d0f5caf6bc3b0158e8060.html",
 
 "isNew": true,
 
-"publishTime": "2017-10-24T01:33:24.000Z",
+"publishTime": "2017-07-06T18:56:32.000Z",
 
 "isComplete": false,
 
-"generalRanking": 4,
+"generalRanking": 2,
 
-"magnetLink": "magnet:?xt=urn:btih:0d1079b1d70aa767828f8e408c07d6584b32a749&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1dede4e69e6b6b013c7d0f5caf6bc3b0158e8060&tr=http://open.acgtracker.com:1096/announce"
 }
