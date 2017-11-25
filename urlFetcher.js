@@ -2,7 +2,35 @@ var request = require("superagent");
 
 var urlQueue = [];
 var concurrencyCount = { value: 0 };
+var urlFailCount = {};
+var failedUrl = [];
 var doWhenFinish = null;
+
+var retry = 5;
+var maxConcurrencyNum = 10;
+
+var increaseFailCount = function (url) {
+    if (urlFailCount[url]) {
+        urlFailCount[url]++;
+    } else {
+        urlFailCount[url] = 1;
+    }
+};
+
+var handleFetchUrlFailed = function (url, callback) {
+    increaseFailCount(url);
+
+    if (urlFailCount[url] < retry) {
+        if (urlQueue.length === 0) {
+            fetchUrl(url, callback);
+        } else {
+            pushUrlToQueue(url, callback("Get the origin callback"));
+        }
+    } else {
+        failedUrl.push(url);
+        callback("err");
+    }
+};
 
 var fetchUrl = function (url, callback) {
     concurrencyCount.value++;
@@ -10,8 +38,12 @@ var fetchUrl = function (url, callback) {
         .get(url)
         .end(function (err, res) {
             concurrencyCount.value--;
-            console.log(url, "is loaded");
-            callback(res.text);
+            if (err) {
+                handleFetchUrlFailed(url, callback);
+            } else {
+                console.log(url, "is loaded");
+                callback(res.text);
+            }
         });
 };
 
@@ -28,31 +60,33 @@ var startFetchingUrls = function (finish) {
 };
 
 var continueFetchingUrls = function () {
-    if (concurrencyCount.value === 0) {
-        if (urlQueue.length > 0) {
-            var fetchPack = urlQueue.shift();
+    while ((urlQueue.length > 0) && (concurrencyCount.value < maxConcurrencyNum)) {
+        var fetchPack = urlQueue.shift();
 
-            var makeCallback = function (fetchPack) {
-                return function (res) {
-                    if (res === "Get the origin callback") {
-                        return fetchPack.callback;
-                    }
-                    fetchPack.callback(res);
+        var makeCallback = function (fetchPack) {
+            return function (res) {
+                if (res === "Get the origin callback") {
+                    return fetchPack.callback;
+                }
+                fetchPack.callback(res);
 
-                    if ((concurrencyCount.value === 0) && (urlQueue.length === 0)) {
-                        if (doWhenFinish) {
-                            doWhenFinish();
-                            doWhenFinish = null;
-                        }
-                    } else {
-                        continueFetchingUrls();
+                if ((concurrencyCount.value === 0) && (urlQueue.length === 0)) {
+                    if (failedUrl.length > 0) {
+                        console.log("The following url(s) is failed");
+                        failedUrl.forEach(function (url) {
+                            console.log(url);
+                        });
                     }
-                };
+                    if (doWhenFinish) {
+                        doWhenFinish();
+                        doWhenFinish = null;
+                    }
+                } else {
+                    continueFetchingUrls();
+                }
             };
-            fetchUrl(fetchPack.url, makeCallback(fetchPack));
-        }
-    } else {
-        setTimeout(continueFetchingUrls, 5000);
+        };
+        fetchUrl(fetchPack.url, makeCallback(fetchPack));
     }
 };
 
