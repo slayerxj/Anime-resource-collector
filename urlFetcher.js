@@ -34,8 +34,10 @@ var handleFetchUrlFailed = function (url, callback) {
 
 var fetchUrl = function (url, callback) {
     concurrencyCount.value++;
+    console.log((new Date().getTime()), "Start fetching: ", url);
     request
         .get(url)
+        .retry(2)
         .end(function (err, res) {
             concurrencyCount.value--;
             if (err) {
