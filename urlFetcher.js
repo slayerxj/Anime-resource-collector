@@ -6,8 +6,8 @@ var urlFailCount = {};
 var failedUrl = [];
 var doWhenFinish = null;
 
-var retry = 5;
-var maxConcurrencyNum = 10;
+var retry = 7;
+var maxConcurrencyNum = 2;
 
 var increaseFailCount = function (url) {
     if (urlFailCount[url]) {
@@ -34,14 +34,16 @@ var handleFetchUrlFailed = function (url, callback) {
 
 var fetchUrl = function (url, callback) {
     concurrencyCount.value++;
+    console.log("Start fetching", url);
     request
         .get(url)
+        .timeout(5000)
         .end(function (err, res) {
             concurrencyCount.value--;
             if (err) {
                 handleFetchUrlFailed(url, callback);
             } else {
-                console.log(url, "is loaded");
+                console.log("          ", url, "is loaded");
                 callback(res.text);
             }
         });
