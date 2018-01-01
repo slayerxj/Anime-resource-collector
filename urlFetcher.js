@@ -78,8 +78,7 @@ var continueFetchingUrls = function () {
                         failedUrl.forEach(function (url) {
                             console.log(url);
                         });
-                    }
-                    if (doWhenFinish) {
+                    } else if (doWhenFinish) {
                         doWhenFinish();
                         doWhenFinish = null;
                     }
