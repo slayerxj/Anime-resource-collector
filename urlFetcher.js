@@ -6,7 +6,7 @@ var urlFailCount = {};
 var failedUrl = [];
 var doWhenFinish = null;
 
-var retry = 7;
+var retry = 15;
 var maxConcurrencyNum = 2;
 
 var increaseFailCount = function (url) {
@@ -37,7 +37,7 @@ var fetchUrl = function (url, callback) {
     console.log("Start fetching", url);
     request
         .get(url)
-        .timeout(5000)
+        .timeout(10000)
         .end(function (err, res) {
             concurrencyCount.value--;
             if (err) {
