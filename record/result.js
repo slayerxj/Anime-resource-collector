@@ -373,6 +373,117 @@ module.exports = [
 {
 
 
+"name": "\n        【DHR動研&白月字幕】[櫻花莊的寵物女孩_Sakurasou][全24話][繁體外掛字幕][BDRip][1080P][HEVC_P10_FLAC] 修正版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-110c4aea07ecf5a563190697cf8de6592facaa00.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-13T19:12:19.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:110c4aea07ecf5a563190697cf8de6592facaa00&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【DHR動研&白月字幕】[櫻花莊的寵物女孩_Sakurasou][全24話][繁體外掛字幕][BDRip][1080P][AVC_P10_FLAC] 修正版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2f8792365ac600e4062e6a8696d263eee3cd8349.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-13T19:03:17.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2f8792365ac600e4062e6a8696d263eee3cd8349&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [MH&Airota&FZSD&VCB-Studio] Shuumatsu Nani Shitemasuka? / 末日时在做什么？/ 終末なにしてますか?   10-bit 1080p HEVC BDRip [Fin]",
+
+
+"workName": "終末なにしてますか? 忙しいですか? 救ってもらっていいですか?",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a05ba5cf6182e0757288c377fe8c06606a0f6428.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-09T09:54:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a05ba5cf6182e0757288c377fe8c06606a0f6428&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        [VCB-Studio] Eromanga Sensei / 埃罗芒阿老师 / エロマンガ先生 10-bit 1080p HEVC BDRip [Fin]",
 
 
@@ -391,7 +502,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a65fbed31b79bffd61e4347494071c74a0d2b1da.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-02T20:00:41.000Z",
@@ -428,7 +539,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-575dd4e6af0e8c4d774217de1976df9f45c68996.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-01T16:01:57.000Z",
@@ -465,7 +576,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-651b1b169f1e616016f3bfcb1062519604c37507.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T19:49:23.000Z",
@@ -502,7 +613,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4385bfbfebd57e980d204c9566882a3d3b630204.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T19:35:17.000Z",
@@ -539,7 +650,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1543e237aee74906a04ecd883c22fd4fa718f3cd.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-27T14:21:46.000Z",
@@ -5442,6 +5553,1227 @@ module.exports = [
 {
 
 
+"name": "\n        【悠哈璃羽字幕社】[漂流武士_Drifters][OVA_13][x264 1080p][BDRIP][GB]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aed885fa0e7720e205b1f05e27dcf00f0e7f1dbc.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-16T11:42:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aed885fa0e7720e205b1f05e27dcf00f0e7f1dbc&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SFEO-Raws] To Heart 2 (BD 1080P x264 ALAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-43228552b860e97d15825769584e999ab9616aa4.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-16T01:04:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:43228552b860e97d15825769584e999ab9616aa4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【囧夏字幕组&WiKi】哥哥太爱我了怎么办 My Brother Loves Me Too Much 2017 [1080p][BluRay][x264][10bit][DTS][MKV][简繁内封]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7bc061c286b351172b8ef4bf99ee713572f2e90d.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-15T13:51:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7bc061c286b351172b8ef4bf99ee713572f2e90d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [银河探查2100年][死亡之谜] [Ginga Tansa 2100-nen Border Planet][1986][BDrip 1436x1080][简中内挂/外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cd302f6e264259e51157c32486575d94d4d58e2a.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-15T11:44:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cd302f6e264259e51157c32486575d94d4d58e2a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [魔卡少女樱 CLEAR CARD篇][Cardcaptor Sakura - Clear Card-hen][02][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-23bd79c457520c74b2f9d26fc5400b573ed59735.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-14T12:06:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:23bd79c457520c74b2f9d26fc5400b573ed59735&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組&輕之國度字幕組】★10月新番[落第騎士英雄譚][01-12 END(全集)][BDRip][720P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6b421f8925de0c39f6044e440d192a82bb7fac1b.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-14T11:45:13.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6b421f8925de0c39f6044e440d192a82bb7fac1b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SFEO-Raws] 马赫5号 Mach Go Go Go (BD 1080P x264 ALAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8aaab1ed57fd0259d812db33facdae6bcf3ea8eb.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-14T10:14:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8aaab1ed57fd0259d812db33facdae6bcf3ea8eb&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【晨曦制作】【帕瓦特奥特曼】【09】【美版&日版】【双字幕】【BDrip】【1080P】【HEVC Ma10p FLAC MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9852660cf435ffd92a95d21a55999ecb7039a2f6.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-14T01:15:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9852660cf435ffd92a95d21a55999ecb7039a2f6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [VCB-Studio] Ore no Imouto ga Konna ni Kawaii Wake ga Nai. / 我的妹妹不可能这么可爱。 10-bit 1080p AVC BDRip [Reseed Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1d665a786046eb85a74dfb4f682d48861f2bfc85.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-13T06:09:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1d665a786046eb85a74dfb4f682d48861f2bfc85&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [VCB-Studio] Kotonoha no Niwa / 言叶之庭 / 言の葉の庭 10-bit 1080p AVC BDRip [Reseed Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-67f2df16828a2e1dacc9b85c5c38cf5a5fb116ff.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-13T05:56:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:67f2df16828a2e1dacc9b85c5c38cf5a5fb116ff&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [魔星字幕团][艾斯奥特曼][04][3亿年超兽出现!][中日双语字幕][BDRip][1080P][MKV][内详]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6e3b1d403a430feae241a5cd302220bf278dc587.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-12T13:22:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6e3b1d403a430feae241a5cd302220bf278dc587&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [春宵苦短，少女前进吧][Yoru wa Mijikashi Aruke yo Otome][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e7bd5de668c35e4514578880395382d671b18fef.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-12T12:38:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e7bd5de668c35e4514578880395382d671b18fef&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [春宵苦短，少女前进吧][Yoru wa Mijikashi Aruke yo Otome][PV][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9aec98cfef6fbf9a80b11605eff154d001395b90.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-12T12:37:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9aec98cfef6fbf9a80b11605eff154d001395b90&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [凹凸世界 第二季][AOTU 2][15][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aa1157be348fe1d3c3f1a27059c7c0fc44ac1f73.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-12T12:36:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aa1157be348fe1d3c3f1a27059c7c0fc44ac1f73&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [爱吃拉面的小泉同学][ラーメン大好き小泉さん][02][1080P][BiliBili-WEBDL][MP4][X264][AAC]@KFC",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2a65d872b6a0c4e1df8d2a128751bcdae7f153e7.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-12T12:36:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2a65d872b6a0c4e1df8d2a128751bcdae7f153e7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [KRL][假面骑士OOO][BDrip][Vol.4-6][1080P][x265_AC3][Main10][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-160029190ecd6e477db31eba5252b5ef3539cb6d.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-11T11:50:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:160029190ecd6e477db31eba5252b5ef3539cb6d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Sister Princess 妹妹公主 BD-BOX (BD 1440x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8f838ebd660bbf896c9f0a2c3f4e0b58e1685de0.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-11T10:55:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8f838ebd660bbf896c9f0a2c3f4e0b58e1685de0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【LxyLab】恶魔人:诞生篇 Devilman The Birth OVA 1987 BDRip 1080p 简体中文字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-41e453c388a2b683eeff009efde78fd4bcd59ed6.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-11T10:14:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:41e453c388a2b683eeff009efde78fd4bcd59ed6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SFEO-Raws] 笑面推销员NEW Warau Salesman New (BD 1080P x264 ALAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b238cab766a81b9a58ba59e7ae9ed24b5d407968.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-10T05:19:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b238cab766a81b9a58ba59e7ae9ed24b5d407968&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        「巧克力与香子兰/NEKOPARA」[OVA][BDRip][AVC_AAC][1080P][简体][MP4][附加神秘礼物]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7d0a493b609b8ad5cddfb84a6189151ca15211f9.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-09T13:25:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7d0a493b609b8ad5cddfb84a6189151ca15211f9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【Little字幕组】美少女战士Sailor Moon 04 [BDRip][1080P][中日双字][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-458f4c5c196a9b6cd9e2b9c842a82cebb257741e.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-09T05:58:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:458f4c5c196a9b6cd9e2b9c842a82cebb257741e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [MH&Airota&FZSD&VCB-Studio] Shuumatsu Nani Shitemasuka? / 末日时在做什么？/ 終末なにしてますか?  8-bit 720p AVC BDRip [MP4 Ver]",
+
+
+"workName": "終末なにしてますか? 忙しいですか? 救ってもらっていいですか?",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-323b078393b18aea4ff895a8c9221c3e31bcf77d.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-08T16:58:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:323b078393b18aea4ff895a8c9221c3e31bcf77d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【Xrip】[巧克力与香子兰][Nekopara][OVA][BDrip][1080P][HEVC_Main10_FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aa929192c3c55473ac2eb38e3ba004b27f4a3e5f.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-08T16:14:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aa929192c3c55473ac2eb38e3ba004b27f4a3e5f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SFEO-Raws] 逆转裁判 Ace Attorney (BD 1080P x264 ALAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a6f0386c0cc10bed065ff0dfb2dc23f3ce951bd9.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-08T10:10:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a6f0386c0cc10bed065ff0dfb2dc23f3ce951bd9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [VCB-Studio] ClariS 1st 武道馆演唱会 / Budokan Concert / 武道館コンサート 〜2つの仮面と失われた太陽〜​  10-bit 1080p HEVC BDRip [Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e86ba22c267a6fd14953d4603f0ee17762ffd803.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-07T18:50:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e86ba22c267a6fd14953d4603f0ee17762ffd803&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [魔卡少女樱 CLEAR CARD篇][Cardcaptor Sakura - Clear Card-hen][01][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-42503df6d0f4396daff7a888585505e01cf7da83.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-07T09:29:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:42503df6d0f4396daff7a888585505e01cf7da83&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [citrus～柑橘味香气～][Citrus][01][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-65d9be0501d5dacfae2ac47a0791c2db1ae11a7d.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-07T09:22:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:65d9be0501d5dacfae2ac47a0791c2db1ae11a7d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】★[人渣的本愿 Kuzu no Honkai][BDrip][1080P][HEVC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-113ecd82f2608ed8f6dac8cc8c57a3f240bff2c0.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-07T03:33:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:113ecd82f2608ed8f6dac8cc8c57a3f240bff2c0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ReLIFE/重返17岁.真人版.2017.1080p.BluRay.x264.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cbef3ecd67cac2119066187c103b5dc48cc88e61.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-06T15:05:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cbef3ecd67cac2119066187c103b5dc48cc88e61&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ReLIFE/重返十七岁.真人版.2017.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d864b707c0e6b850e6a706ce7c6c25d5554bcc52.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-06T15:03:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d864b707c0e6b850e6a706ce7c6c25d5554bcc52&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws] 物語系列 part11 終物語 Owarimonogatari - 全8卷 (BD 720p AVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6e775dfd8bb504bad0ff8e805f8fa10e9710e5dc.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-06T12:55:12.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6e775dfd8bb504bad0ff8e805f8fa10e9710e5dc&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【Xrip】[巧克力与香子兰][Nekopara][OVA][BDrip][1080P][GB简体][HEVC_Main10]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-616b42eb5836f92395d40d86c37fb0aff2c3ea3a.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-06T12:09:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:616b42eb5836f92395d40d86c37fb0aff2c3ea3a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SFEO-Raws] 终物语 Owarimonogatari (BD 1080P x264 ALAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d57ba648cd22859d436b21cc53f3feee9f65afa2.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-06T09:04:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d57ba648cd22859d436b21cc53f3feee9f65afa2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        一周的朋友.真人版.一週間フレンズ.2017.1080p.BluRay.AAC.x264.中日双语字幕-深影字幕组",
 
 
@@ -5460,7 +6792,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-938cd332c7b9f91651a05da57ebe34e3cbd6cb5c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-06T04:36:57.000Z",
@@ -5497,7 +6829,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ebed267a29b0b3e06ead9a70c027b4aaa41460dc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-06T04:26:13.000Z",
@@ -5534,7 +6866,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-de26229f2bb5ba5ad54780712ce3dab2030ff6eb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-06T03:57:24.000Z",
@@ -5571,7 +6903,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c68fa128c9c959cecf9f91aa0493d276a7f88364.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-05T18:23:30.000Z",
@@ -5608,7 +6940,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fcd4b8c15f6202a8e2e99ba3f9b1621f50339681.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-05T18:13:29.000Z",
@@ -5645,7 +6977,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-82474ced95b982a1c1940207a2a32986051509dd.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-05T11:50:57.000Z",
@@ -5682,7 +7014,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-906c309ad9dbd4da69eecdcf40cd50d0ef37dd6f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-05T11:41:39.000Z",
@@ -5719,7 +7051,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d7bdf32a24da361ef8d5bbb8d73c9cb9e09f620d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-05T11:41:16.000Z",
@@ -5756,7 +7088,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-20e2d2b0f14aaa593e3ce7f6d4aee485b41f5efb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-04T14:20:38.000Z",
@@ -5793,7 +7125,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5b5f7378d6b5b95b828216426ea0a335892d1922.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-04T07:45:22.000Z",
@@ -5830,7 +7162,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d58202e0278aec2a62bef8dd8abc1c41c4b71c4f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-04T02:12:02.000Z",
@@ -5867,7 +7199,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-878d854606cbb13dbd9f8f7c8a2b67f3a089b546.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-03T18:10:25.000Z",
@@ -5904,7 +7236,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-27e985de85e7da37e3e6fab8490198e1e51c493c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-03T08:02:05.000Z",
@@ -5941,7 +7273,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b9ac8992463f6fc69938f93eec777c27867c133b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-02T15:24:04.000Z",
@@ -5978,7 +7310,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b4f84fea77d87e9b6bfa02bbd6a94162c2e28fda.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-02T14:53:30.000Z",
@@ -6015,7 +7347,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c982a701cc9de0ab58ea6592798ce34e97223648.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-02T14:53:22.000Z",
@@ -6052,7 +7384,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-98d1f91317bfb16d83a6cfaab995ead3eab15bfe.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-02T07:12:31.000Z",
@@ -6089,7 +7421,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2f8fd7505bae8674b12386b55a73ff44c3dd2ba2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-02T04:59:31.000Z",
@@ -6126,7 +7458,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7d76a6b31f1dbdddc0e76e4d2bed22aa0c8ad093.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-01T09:00:08.000Z",
@@ -6163,7 +7495,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d94fdf7225a58d0d80176719bd3ecefeaf424cdc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-01T05:56:19.000Z",
@@ -6200,7 +7532,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-60d17826124ddd9a103d315096ad5c3a210a37a5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-01T01:12:23.000Z",
@@ -6237,7 +7569,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-002c9e79c65ed61b537cf2c6d76d577e03e1db52.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T19:29:29.000Z",
@@ -6274,7 +7606,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4dca20625aa1e0c115176b79174780e19334126c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T14:27:27.000Z",
@@ -6311,7 +7643,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a6751be27c898556c3fc1dcd1c6ed28ebd4d0111.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T14:26:26.000Z",
@@ -6348,7 +7680,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-608968034afa208e06abb67d54ee7d0f8152fe98.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T11:42:18.000Z",
@@ -6385,7 +7717,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f209711941ba2dc488430dda3bf3fda0bc3aa578.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T11:38:44.000Z",
@@ -6422,7 +7754,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0f9fc2df263ae99900a86cc18e288a1d37ae81bd.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T06:05:30.000Z",
@@ -6459,7 +7791,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e57cf4445d6c7077c349a35a16f91768a7222f9e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T05:09:08.000Z",
@@ -6496,7 +7828,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-828a93aeec3abc14a16ae78f3ce0a92a6e0a1329.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T04:26:16.000Z",
@@ -6533,7 +7865,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ef2c0865bc5e870ea1bb100c3004e50a4c148ef2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T04:10:05.000Z",
@@ -6570,7 +7902,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fe0361fdba43a5024965ddc4787c3df245bc7e62.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T02:20:25.000Z",
@@ -6607,7 +7939,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5734b021fcdd3e93b119ca1b5081252c25d60ae9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T02:19:47.000Z",
@@ -6644,7 +7976,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-76684c6049349a42d6be7d23c7575f4f2b889985.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-30T12:04:38.000Z",
@@ -6681,7 +8013,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c08bda46630a443752e8cf9c4cc059a5a086c7a9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-30T10:12:07.000Z",
@@ -6718,7 +8050,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-14da5796266b9e1792305b26823e6b82acfb3763.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-30T07:33:29.000Z",
@@ -6755,7 +8087,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-78b384e455a7056a749c3cfafffd633ac7c03a6a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-30T05:28:42.000Z",
@@ -6792,7 +8124,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c5d436eb9b05e37ca6025f27f87df8ab3f018cdf.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-30T03:09:23.000Z",
@@ -6829,7 +8161,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fa09ffb421eb5e023126e7afd5ced4625d30b060.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-30T02:25:02.000Z",
@@ -6866,7 +8198,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ecdb1da4f952e9e281bb7f55631b37f2aeec5038.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-29T15:32:02.000Z",
@@ -6903,7 +8235,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-589c9bf3f4034e5dec78d04f1c88b7db6719efb9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-29T12:15:33.000Z",
@@ -6940,7 +8272,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3086cae6dc820fde8d07c69464394d8ce1c4ded5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-29T08:45:25.000Z",
@@ -6977,7 +8309,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7568c6759026a6f41dcd9a7d1444b62471a28670.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-29T07:32:19.000Z",
@@ -7014,7 +8346,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-52f7356cc30de5ce331895cf47a255c1e2794ead.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-28T13:15:03.000Z",
@@ -7051,7 +8383,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-90a0bdde93d36201e9fa91f4142acc417f06ba23.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-28T12:27:18.000Z",
@@ -7088,7 +8420,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-83d3131346ab27f9fbe72d7aba55356c09792147.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-28T12:27:17.000Z",
@@ -7125,7 +8457,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c7a4382944ef81b15384e0d0d4b128172097f5a6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-28T12:27:03.000Z",
@@ -7162,7 +8494,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c3156239c82929164b557b6c0188a7a4168632f7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-28T02:03:25.000Z",
@@ -7199,7 +8531,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-63dcd28db5be88f393f36059b9799442b4bcf4e0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-27T14:04:58.000Z",
@@ -7236,7 +8568,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b4f96fb7b6c529f82293f8d47a65050f53f48980.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-27T14:02:42.000Z",
@@ -7273,7 +8605,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-926dfa7a05bce0d9ec52bef0f9ffd8ccde3ed3e8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-27T02:23:40.000Z",
@@ -7310,7 +8642,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7899f42326436b3d0dc534349d08d3813d830ad0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-26T09:23:33.000Z",
@@ -7347,7 +8679,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1980e1851cebed5a8635420dcf02976a0ae2a6e9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-26T08:45:22.000Z",
@@ -7384,7 +8716,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-afbd49d2b0659972a634c2f61ebba18d99248cd0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-25T13:38:21.000Z",
@@ -7421,7 +8753,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-102580edc30c24b76ba683a467e3cab21f1cc18a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-25T05:10:12.000Z",
@@ -7458,7 +8790,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-57d8c8df2795796246bdc945b5acce776318c0c5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T22:19:20.000Z",
@@ -7495,7 +8827,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2adb65a9c69c8ca4175a901e892b32529451d35e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T22:19:11.000Z",
@@ -7532,7 +8864,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-09adc327ffaab53fdb0b177f97f55a25376f5d0d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T17:16:33.000Z",
@@ -7569,7 +8901,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7117b711600d763937bfa4960406da708c7856d0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T13:39:35.000Z",
@@ -7606,7 +8938,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ddebef759b3efe62a560712b762bf7f7e0874b24.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T10:11:14.000Z",
@@ -7643,7 +8975,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-29e0ea74b92541f209bcf66ed3dac84b5767be18.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-23T14:20:45.000Z",
@@ -7680,7 +9012,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4ed446635f47d9c3aa50c46939bd0308d19db801.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-23T13:58:18.000Z",
@@ -12065,43 +13397,6 @@ module.exports = [
 {
 
 
-"name": "\n        [Moozzi2] 劇場版 暴力宇宙海賊:亚空的深渊 迷你裙宇宙海贼 Mouretsu Pirates Abyss of Hyperspace (BD 1920x1080 x.264 FLACx3)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-1aaa6c3da731afe4661d4d442ac39517ea55aff6.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-11-09T09:50:05.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:1aaa6c3da731afe4661d4d442ac39517ea55aff6&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
 "name": "\n        [Moozzi2] 暴力宇宙海賊 迷你裙宇宙海贼 Mouretsu Pirates (BD 1920x1080 x264 Flac)",
 
 
@@ -12133,6 +13428,43 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:3a55a27d793fd66e15a9e5d57c10ad54d3eff606&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 劇場版 暴力宇宙海賊:亚空的深渊 迷你裙宇宙海贼 Mouretsu Pirates Abyss of Hyperspace (BD 1920x1080 x.264 FLACx3)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1aaa6c3da731afe4661d4d442ac39517ea55aff6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-11-09T09:50:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1aaa6c3da731afe4661d4d442ac39517ea55aff6&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -41554,43 +42886,6 @@ module.exports = [
 {
 
 
-"name": "\r\n        [诸神&幻之&MGRT][声之形][Koe no Katachi][GB][1080P][BDRip][中日双语字幕][MKV]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-2debf834e3b0dc59b5b062501d6d2b7ac8dff7df.html",
-
-
-"isNew": false,
-
-
-"publishTime": "1970-01-01T00:00:00.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
 "name": "\r\n        [咖啡發佈][飆速宅男/弱虫ペダル/Yowamushi Pedal] 01-13 [基於BDRIP外掛字幕文件][繁體]",
 
 
@@ -41628,6 +42923,191 @@ module.exports = [
 {
 
 
+"name": "\r\n        [诸神&幻之&MGRT][声之形][Koe no Katachi][GB][1080P][BDRip][中日双语字幕][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2debf834e3b0dc59b5b062501d6d2b7ac8dff7df.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        【DHR百合組】[水星領航員 The AVVENIRE_Aria the Avvenire][OVA02][繁體][BDRip][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-51efeb646145ed0b5a95ddf38706d2af11a0e7df.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-13T15:34:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:51efeb646145ed0b5a95ddf38706d2af11a0e7df&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [DDD] 赤发的白雪姬 Akagami no shirayuki hime TV+OAD [BDrip 720p x264 AAC][10bit](补种&更新OAD的BD版)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8ea43d98b04996251457bbeb1f8e5172149fa724.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-11T02:47:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8ea43d98b04996251457bbeb1f8e5172149fa724&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【DHR百合組】[水星領航員 The AVVENIRE_Aria the Avvenire][OVA01][繁體][BDRip][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b983a83a40b536ace15c495854b2bf630036c8e6.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-07T16:12:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b983a83a40b536ace15c495854b2bf630036c8e6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ReLIFE/重返十七岁.真人版.2017.720p.BluRay.x264-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-56639a093ce7a03dbac05d04d45fa3b2c0958d69.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-01-06T15:02:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:56639a093ce7a03dbac05d04d45fa3b2c0958d69&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        一周的朋友.真人版.One.Week.Friends.2017.720p.BluRay.x264-WiKi",
 
 
@@ -41646,7 +43126,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6d6f54babbcb05d86a200fab1fc21b6d33507461.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-06T03:55:16.000Z",
@@ -41683,7 +43163,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-13423097ea6f9118729516abbe936718cbabb54f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-05T19:20:56.000Z",
@@ -41720,7 +43200,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a759ccf885ecd59a04853c114c668576f80629d4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-05T18:22:32.000Z",
@@ -41757,7 +43237,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-eabb92eb1136b303702bcc436e9b888051479cd0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-05T12:41:53.000Z",
@@ -41794,7 +43274,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ed6c19c324fcac6df8145d703e072d4e9e7e62b6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-05T11:49:56.000Z",
@@ -41831,7 +43311,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-739f2223971331984e5eff0cfef8d1348b478ead.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-05T06:15:24.000Z",
@@ -41868,7 +43348,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5ad8b3d05bcc7ef1f9e5f826048b86a1a48d3d0e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-04T14:35:48.000Z",
@@ -41905,7 +43385,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ba125c7beac3dfd798ca99c2412f72544d571424.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-04T07:36:36.000Z",
@@ -41942,7 +43422,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c8ae5a58e9384e83f72513c0f674da0a1f0b45c9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-04T01:40:24.000Z",
@@ -41979,7 +43459,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-89a339178e3827c7180c43801847032898420287.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-03T18:13:11.000Z",
@@ -42016,7 +43496,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-bc7cd223b94221066c49ceb8b253a062ec022879.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-03T05:31:39.000Z",
@@ -42053,7 +43533,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b8ccfc803f678c09ad77e41d4d59ad6bcb5e084a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-03T05:31:34.000Z",
@@ -42090,7 +43570,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-48530e8c5ec07a844516134bec35b472e5c4bc3c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-01T13:28:49.000Z",
@@ -42127,7 +43607,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f20a1dfea5b08d1adf82c9f4446d4d3b081148d8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T15:42:06.000Z",
@@ -42164,7 +43644,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d5ea6f592d7da1655d7077f4eda6743ed5f019fe.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T15:41:58.000Z",
@@ -42201,7 +43681,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4d531be9e2fe851c95c534635d634ca1e7920988.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T12:38:53.000Z",
@@ -42238,7 +43718,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7fb9ab52592b826f04efdd78c446da9439d1919b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T12:38:49.000Z",
@@ -42275,7 +43755,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f310b92dd81a545b6c5cd47d44dafd75029dbc16.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T04:44:43.000Z",
@@ -42312,7 +43792,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2f837736a693b160063a52f8d1fda4c95133aafd.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-31T03:25:00.000Z",
@@ -42349,7 +43829,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5d7478f81bf291d101eca59bd9cda8875898eb67.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-30T23:41:56.000Z",
@@ -42386,7 +43866,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-914e228308a8665a60a34686352762358944c7f7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-30T22:21:02.000Z",
@@ -42423,7 +43903,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c7155f74834e629ea50a48f9c14fb5966c90ceab.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-27T17:11:56.000Z",
@@ -42460,7 +43940,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5fe7d76f538179a6148bb58e4fc7e03f9f8f860f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-25T21:50:34.000Z",
@@ -42497,7 +43977,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6ee0b7d5981eccb93506cfdf6610fcb82bef2da5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-25T01:48:51.000Z",
@@ -42534,7 +44014,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b37d18ef4fdc7c35ac032005445b5aae04defe91.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T22:07:32.000Z",
@@ -42571,7 +44051,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-efb2a4020109b4acf146623e6f70e009c3bf9854.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T22:07:23.000Z",
@@ -42608,7 +44088,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e5cf6e3ccf7fc95ed59d4650d494ee38106f2baa.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T19:06:28.000Z",
@@ -42645,7 +44125,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fe198e6e611c2926a44310ff1ada71577a9861d7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T19:06:21.000Z",
@@ -42682,7 +44162,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f0a8ab97b4037b9a06bda513577f12a5da87bd0a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T14:48:00.000Z",
@@ -42719,7 +44199,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e6346ad166c5a54369549d7dfed0193676d06a2b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T14:47:12.000Z",
@@ -42756,7 +44236,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-669c00697694bca752cdcb167d59c9c2d4b79404.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T13:36:04.000Z",
@@ -42793,7 +44273,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-983479a34e942235e06ae594b3cab5ac069fd0d9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T13:26:06.000Z",
@@ -42830,7 +44310,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2706fd9487a968de21cc02d6c3450988864b9e87.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T12:55:03.000Z",
@@ -42867,7 +44347,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1e02d8a17acc46878a624648e1ea9b24fe68507b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-24T12:54:56.000Z",
@@ -42904,7 +44384,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c415c9cfb8a6c81927652ba53a2cec0621b28b7f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-23T14:17:58.000Z",
@@ -42941,7 +44421,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6121b8858758d69df751da20d5c3eb5debc94052.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2017-12-23T13:18:57.000Z",
