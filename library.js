@@ -1,4 +1,5 @@
 var formatAliases = ["Blu-ray", "bd", "bdrip", "blu"];
+var excluding = ["WEBDL"];
 var completeAliases = ["完", "合集", "全"];
 var subtitleProviders = ["澄空学园", "华盟字幕社", "漫游字幕组", "雪飄工作室", "雪飘工作室", "千夏"];
 var works = [
@@ -57,5 +58,9 @@ module.exports = {
 
 	getSubtitleProviders: function () {
 		return subtitleProviders.slice();
+	},
+
+	getExcluding: function () {
+		return excluding.slice();
 	}
 };
