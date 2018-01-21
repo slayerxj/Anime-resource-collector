@@ -6478,43 +6478,6 @@ module.exports = [
 {
 
 
-"name": "\n        [魔卡少女樱 CLEAR CARD篇][Cardcaptor Sakura - Clear Card-hen][02][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-23bd79c457520c74b2f9d26fc5400b573ed59735.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2018-01-14T12:06:24.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:23bd79c457520c74b2f9d26fc5400b573ed59735&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
 "name": "\n        【動漫國字幕組&輕之國度字幕組】★10月新番[落第騎士英雄譚][01-12 END(全集)][BDRip][720P][繁體][MP4]",
 
 
@@ -6731,154 +6694,6 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:6e3b1d403a430feae241a5cd302220bf278dc587&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [春宵苦短，少女前进吧][Yoru wa Mijikashi Aruke yo Otome][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-e7bd5de668c35e4514578880395382d671b18fef.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2018-01-12T12:38:17.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:e7bd5de668c35e4514578880395382d671b18fef&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [春宵苦短，少女前进吧][Yoru wa Mijikashi Aruke yo Otome][PV][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-9aec98cfef6fbf9a80b11605eff154d001395b90.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2018-01-12T12:37:47.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:9aec98cfef6fbf9a80b11605eff154d001395b90&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [凹凸世界 第二季][AOTU 2][15][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-aa1157be348fe1d3c3f1a27059c7c0fc44ac1f73.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2018-01-12T12:36:24.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:aa1157be348fe1d3c3f1a27059c7c0fc44ac1f73&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [爱吃拉面的小泉同学][ラーメン大好き小泉さん][02][1080P][BiliBili-WEBDL][MP4][X264][AAC]@KFC",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-2a65d872b6a0c4e1df8d2a128751bcdae7f153e7.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2018-01-12T12:36:12.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:2a65d872b6a0c4e1df8d2a128751bcdae7f153e7&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -7249,80 +7064,6 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:e86ba22c267a6fd14953d4603f0ee17762ffd803&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [魔卡少女樱 CLEAR CARD篇][Cardcaptor Sakura - Clear Card-hen][01][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-42503df6d0f4396daff7a888585505e01cf7da83.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2018-01-07T09:29:36.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:42503df6d0f4396daff7a888585505e01cf7da83&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [citrus～柑橘味香气～][Citrus][01][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-65d9be0501d5dacfae2ac47a0791c2db1ae11a7d.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2018-01-07T09:22:20.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:65d9be0501d5dacfae2ac47a0791c2db1ae11a7d&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -7767,80 +7508,6 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:82474ced95b982a1c1940207a2a32986051509dd&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [卫宫家今天的饭][衛宮さんちの今日のごはん][01][1080P][BiliBili-WEBDL][MP4][X264][AAC]@KFC",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-906c309ad9dbd4da69eecdcf40cd50d0ef37dd6f.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2018-01-05T11:41:39.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:906c309ad9dbd4da69eecdcf40cd50d0ef37dd6f&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [爱吃拉面的小泉同学][ラーメン大好き小泉さん][01][1080P][BiliBili-WEBDL][MP4][X264][AAC]@KFC",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-d7bdf32a24da361ef8d5bbb8d73c9cb9e09f620d.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2018-01-05T11:41:16.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:d7bdf32a24da361ef8d5bbb8d73c9cb9e09f620d&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -8365,80 +8032,6 @@ module.exports = [
 {
 
 
-"name": "\n        [凹凸世界 第二季][AOTU 2][14][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-4dca20625aa1e0c115176b79174780e19334126c.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-12-31T14:27:27.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:4dca20625aa1e0c115176b79174780e19334126c&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [凹凸世界 第二季][AOTU 2][13][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-a6751be27c898556c3fc1dcd1c6ed28ebd4d0111.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-12-31T14:26:26.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:a6751be27c898556c3fc1dcd1c6ed28ebd4d0111&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
 "name": "\n        (元旦献礼1)[肥猫压制][FatCatRAW][秘密战队五连者][BOX1][BDRIP][HEVC-YUV420P10 FLAC]",
 
 
@@ -8914,43 +8507,6 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:c5d436eb9b05e37ca6025f27f87df8ab3f018cdf&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [宣告黎明的露之歌][Lu over the wall][BiliBili-WEBDL][1080P][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-fa09ffb421eb5e023126e7afd5ced4625d30b060.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-12-30T02:25:02.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:fa09ffb421eb5e023126e7afd5ced4625d30b060&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -9771,43 +9327,6 @@ module.exports = [
 {
 
 
-"name": "\n        [凹凸世界 第二季][AOTU 2][12][1080P][BiliBili-WEBDL][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-4ed446635f47d9c3aa50c46939bd0308d19db801.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-12-23T13:58:18.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:4ed446635f47d9c3aa50c46939bd0308d19db801&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
 "name": "\n        [银色子弹字幕组][鲁邦三世VS名侦探柯南][2009TVSP][简日双语MP4/繁日双语MP4/简繁日多语MKV][BDRIP][1080P]",
 
 
@@ -9876,43 +9395,6 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:820bb6b26467347fee0e1c150689b2b11816cea7&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [刀剑神域序列之争][Sword Art Online Ordinal Scale][BiliBili-WEBDL][1080P][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-df1cabe1266f18f88fda913ad4f067e5062ca6df.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-12-23T06:09:29.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:df1cabe1266f18f88fda913ad4f067e5062ca6df&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -11510,43 +10992,6 @@ module.exports = [
 {
 
 
-"name": "\n        [剧场版 笑对阴天(外传)][Donten ni Warau][BiliBili-WEBDL][1080P][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-36764a3d19c225a778103decddb81fd7049ca463.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-12-02T04:23:47.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:36764a3d19c225a778103decddb81fd7049ca463&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
 "name": "\n        【星云字幕组】【戴拿奥特曼】【47】【再见了羽次郎】【BDrip】【1080P】【MKV】",
 
 
@@ -12762,43 +12207,6 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:60af0324328c274dafab30403c25c43c472e7493&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [宣告黎明的露之歌][Lu over the wall][BiliBili-WEBDL][1080P][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-760a31c8afcb36002239a207a081a9f5d0cc2d4d.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-11-19T05:04:23.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:760a31c8afcb36002239a207a081a9f5d0cc2d4d&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -16980,43 +16388,6 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:e3da1905c9a499b9f1ef80b12e915eb836d70f03&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [声之形][The Shape of Voice][BiliBili-WEBDL][1080P][MP4][X264][AAC]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-5f67dc72fac73310e98273afbfc9c5a9e295ae44.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-10-14T11:43:07.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:5f67dc72fac73310e98273afbfc9c5a9e295ae44&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -44033,43 +43404,6 @@ module.exports = [
 {
 
 
-"name": "\n        【EX8】 ★01月新番 [恶魔人][devilman.crybaby][Webdl][S1][1-10End][x264.8bit][简体][720P][MP4]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-13423097ea6f9118729516abbe936718cbabb54f.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2018-01-05T19:20:56.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": "magnet:?xt=urn:btih:13423097ea6f9118729516abbe936718cbabb54f&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
 "name": "\n        東京喰種/东京食尸鬼.真人版.Tokyo.Ghoul.2017.720p.BluRay.x264-WiKi",
 
 
@@ -45618,80 +44952,6 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:8eebdaa691cc3ae4d8ca0354f979b38586582a2e&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [秦时明月之君临天下/秦时明月5][01-75 Fin][附特别篇及预告片][WEBDL][622P&720P&1080P]（修正前40集并重新整合，内详）[V2]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-f1a4bd27ab5decb6a42fe8326e4d6ecac84a3c39.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-12-14T15:08:17.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": "magnet:?xt=urn:btih:f1a4bd27ab5decb6a42fe8326e4d6ecac84a3c39&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        [秦时明月之君临天下/秦时明月5][01-75 Fin][附特别篇及预告片][WEBDL][622P&720P&1080P]（修正前40集并重新整合，内详）",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-39c590ecfad6e24a74fd8d41b99595952e5b3d22.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-12-14T13:31:45.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": "magnet:?xt=urn:btih:39c590ecfad6e24a74fd8d41b99595952e5b3d22&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -47653,117 +46913,6 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:a24d1240d11a925451f384474e2635b1fb436437&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        【2017夏番】【18if】【EP13_夏娃的叹息】【WebDL_BiliBili_720P_MP4】【CHS】【END】",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-afe3c83aacddc36cb7406f6c473bcd8849daee6e.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-10-06T14:43:53.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": "magnet:?xt=urn:btih:afe3c83aacddc36cb7406f6c473bcd8849daee6e&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        【2017夏番】【18if】【EP12_魔女大战】【WebDL_BiliBili_720P_MP4】【CHS】",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-773b1f75f01b37ec7b59df0b17d7a258c8c738e1.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-10-06T14:43:28.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": "magnet:?xt=urn:btih:773b1f75f01b37ec7b59df0b17d7a258c8c738e1&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        【2017夏番】【18if】【EP11_棘十字会】【WebDL_BiliBili_720P_MP4】【CHS】",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-e0935f35ec930db278cea74dae9c37f2da5c5b1f.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-10-06T14:42:54.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": "magnet:?xt=urn:btih:e0935f35ec930db278cea74dae9c37f2da5c5b1f&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
