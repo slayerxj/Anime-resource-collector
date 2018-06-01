@@ -33,7 +33,250 @@ module.exports = [
 "generalRanking": 0,
 
 
-"magnetLink": "magnet:?xt=urn:btih:40fa8b4e4513c90e38d1cd1acf8edab56beac74d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:40fa8b4e4513c90e38d1cd1acf8edab56beac74d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 有顶天家族 两季全 Uchouten Kazoku S1+S2 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "有頂天家族",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2c214d5b24bf5983c65b802715921d276b4579c8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-25T04:23:47.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2c214d5b24bf5983c65b802715921d276b4579c8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組】【甲鐵城的卡巴內里_Kabaneri of the Iron fortress】[第01～12話_完][BDRIP_1080P][x264_AAC][繁體內嵌]​",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-54ab0c56894b05a8ea04fabf52d129e4880231ee.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-24T11:45:00.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:54ab0c56894b05a8ea04fabf52d129e4880231ee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組】【甲鐵城的卡巴內里_Kabaneri of the Iron fortress】[第01～12話_完][BDRIP_1080P][x264-Hi10P_FLAC][繁體外掛]（修正06話時軸）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-870cd1e456f4442bd43f400c4aaed321e8c6206d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-24T10:08:43.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:870cd1e456f4442bd43f400c4aaed321e8c6206d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組】【甲鐵城的卡巴內里_Kabaneri of the Iron fortress】[第01～12話_完][BDRIP_1080P][x264-Hi10P_FLAC][繁體外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-350f241f63f67d497def9c3c15cfa9074648b764.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-23T12:32:12.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:350f241f63f67d497def9c3c15cfa9074648b764&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [雪飄工作室][クジラの子らは砂上に歌う / 鯨魚的孩子們在沙海上歌唱][BDRIP][简繁日英字幕外挂+全部Hi-res音乐]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c42fe02508f241d739730b11173cab98cc820ee8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-27T14:37:28.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c42fe02508f241d739730b11173cab98cc820ee8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組】【登山物語 / 前進吧！登山少女 第二季_Yama_no_Susume_2】[第01～25話_完][BDRIP_1080P][x264_AAC][繁體內嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f3a8fa69c8232bd0b7e6fc00f405c838ecf2d150.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-19T15:51:31.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f3a8fa69c8232bd0b7e6fc00f405c838ecf2d150&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -58,7 +301,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-cb09d294b8870afe7aa04ba217236da7d33798f7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-02T03:45:22.000Z",
@@ -70,7 +313,10 @@ module.exports = [
 "generalRanking": 1,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cb09d294b8870afe7aa04ba217236da7d33798f7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cb09d294b8870afe7aa04ba217236da7d33798f7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -107,7 +353,10 @@ module.exports = [
 "generalRanking": 1,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c038d4f6ebb21c1341c3145367ab325000597eaf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c038d4f6ebb21c1341c3145367ab325000597eaf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -144,7 +393,10 @@ module.exports = [
 "generalRanking": 1,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8717b6292a32d1f9a5e5a1ec38c7c2e72e15607c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8717b6292a32d1f9a5e5a1ec38c7c2e72e15607c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -181,7 +433,10 @@ module.exports = [
 "generalRanking": 1,
 
 
-"magnetLink": "magnet:?xt=urn:btih:966abea169419800fc6a419ca24b189729b87b4a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:966abea169419800fc6a419ca24b189729b87b4a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -218,7 +473,10 @@ module.exports = [
 "generalRanking": 1,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9abc2c2663234665a162db9d8770e6193794355b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9abc2c2663234665a162db9d8770e6193794355b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -255,7 +513,10 @@ module.exports = [
 "generalRanking": 1,
 
 
-"magnetLink": "magnet:?xt=urn:btih:75b77f0a21ca638393c5d581f69ac8d0089d0f91&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:75b77f0a21ca638393c5d581f69ac8d0089d0f91&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -292,7 +553,10 @@ module.exports = [
 "generalRanking": 1,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b2b18ec45b0c8d75889c590e9f1aca9be67ebdb9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b2b18ec45b0c8d75889c590e9f1aca9be67ebdb9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -329,7 +593,10 @@ module.exports = [
 "generalRanking": 1,
 
 
-"magnetLink": "magnet:?xt=urn:btih:192846bc38ff0101c1e58d0c4b0ec01f4333973a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:192846bc38ff0101c1e58d0c4b0ec01f4333973a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -366,7 +633,10 @@ module.exports = [
 "generalRanking": 1,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5384be1afe25859cd703357f11f4b6a7fc6eff15&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5384be1afe25859cd703357f11f4b6a7fc6eff15&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -403,7 +673,2690 @@ module.exports = [
 "generalRanking": 1,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a4d5d4964543cba68da0f2036feddfced4529a50&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a4d5d4964543cba68da0f2036feddfced4529a50&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 我的老婆是学生会长！两季全 Okusama ga Seitokaichou! Collection (BD 1920x1080 x.264 FLACx2) - S1 + S2 + OAD 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-71cbc4f9e5e9a40550c66615dd219dcbe63fc315.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-29T13:11:56.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:71cbc4f9e5e9a40550c66615dd219dcbe63fc315&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 政宗君的复仇 Masamune-kun no Revenge 1-12 [BDRip 1920x1080 x264 FLAC]",
+
+
+"workName": "政宗くんのリベンジ",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e525826a1a8428e66bbc5503d44b7d90b420965f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-29T08:16:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e525826a1a8428e66bbc5503d44b7d90b420965f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[食戟之灵 餐之皿_Shokugeki no Souma San no Sara][01-12+SP 附带相关合集][BDRIP][1080P][H264_FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c65f743ffa39809ba25d254cfaa46581151b488e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-27T19:13:33.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c65f743ffa39809ba25d254cfaa46581151b488e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組&喵萌奶茶屋】【魔法少女奈叶 Reflection/Magical Girl Lyrical NANOHA Reflection】[剧场版][BDRip_1080P][x264_FLAC][简繁日双语][Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2686cba7e01a052caeae27980de09fe10542364c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-26T23:09:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2686cba7e01a052caeae27980de09fe10542364c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 女高网球/网球并不可笑嘛 八季全 Teekyuu S1~S8 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e8795ab00112cda41bb24e880dc0b8f40eace5fb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-25T14:30:14.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e8795ab00112cda41bb24e880dc0b8f40eace5fb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 清恋 Seiren 1-12 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "SEIREN",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ae99260702d386f5a6aa9900eca709e3fdb474a0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-23T11:19:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ae99260702d386f5a6aa9900eca709e3fdb474a0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 清恋 Seiren 1-12 [BDRip 1920x1080 HEVC FLAC]",
+
+
+"workName": "SEIREN",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-543c8ee97b27875b360faa0f5772332c1a283bf6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-23T11:18:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:543c8ee97b27875b360faa0f5772332c1a283bf6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NAZOrip] 幼女战记 Youjo Senki (BDRip.HEVC.1080P.YUV420P10.QAAC)",
+
+
+"workName": "幼女戦記",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d45d26d5efd484b8690cd276591998fc4ef4557f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T09:58:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d45d26d5efd484b8690cd276591998fc4ef4557f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [千夏字幕组&VCB-Studio] Fate/stay night Heaven's Feel I.presage flower / 命运停驻之夜 天之杯 预示之花 10-bit 1080p HEVC BDRip [Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a3b5726433b897fff46a950f7237370f4dd9a851.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-14T08:27:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a3b5726433b897fff46a950f7237370f4dd9a851&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组】【命运/停驻之夜 天之杯 I.预示之花_Fate/stay night Heaven's Feel I.presage flower】[剧场版][BDRIP_1080P][x264_AAC][简体内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-00e51dcbddbac0c5aea9228a7ac267cb431b8ca3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-14T07:33:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:00e51dcbddbac0c5aea9228a7ac267cb431b8ca3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★10月新番[如果有妹妹就好了。][01-12 END+SP01-08 END(全集)][BDRip][1080P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d9b43f6bbb1e99ca4b7cf971d5c35c512b61d1cf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T12:01:52.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d9b43f6bbb1e99ca4b7cf971d5c35c512b61d1cf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        尻女/竞女/競女!!!!!!!!  全12话 (BD 1920x1080 x264_10bit ALAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-05598b7e25af72b1e1bc79dd8987fc3859b21d35.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-09T04:12:25.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:05598b7e25af72b1e1bc79dd8987fc3859b21d35&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [风车字幕组][数码宝贝大冒险Tri.][全六章合集][简体&繁体][BDRip][1080P][MP4版]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cfacfa724d482b8ebb6b8082870a1b51fa6dd8de.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-06T15:01:46.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cfacfa724d482b8ebb6b8082870a1b51fa6dd8de&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [風車字幕組][數碼寶貝大冒險Tri.][第六章最終章 我們的未來][2018.05.05][繁體][BDRip][1080P][完整99分未剪輯版]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-791f5a0d3ab731f909cd960462db405ec9223eb4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-05T20:53:55.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:791f5a0d3ab731f909cd960462db405ec9223eb4&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [风车字幕组][数码宝贝大冒险Tri.][第六章最终章 我们的未来][2018.05.05][简体][BDRip][1080P][完整99分未剪辑版]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4e0e1a9c6f368ff4052feee803d0cd32b81d8111.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-05T20:17:18.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4e0e1a9c6f368ff4052feee803d0cd32b81d8111&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 政宗君的复仇 Masamune-kun no Revenge 1-12 (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "政宗くんのリベンジ",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8a5d9d971ea212f8c6c7ea8aed73f0d67efa6c5e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T04:23:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8a5d9d971ea212f8c6c7ea8aed73f0d67efa6c5e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组】【传颂之物 图斯库尔公主奢华的每一天_Utawarerumono Tousukuruoujo no Kareinaruhibi】[OVA][BDRIP_1080P][x265-Ma10P_FLAC][简体外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3ac54ed197883bfc9bde57cfd75b7e2d3f50f515.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T01:13:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3ac54ed197883bfc9bde57cfd75b7e2d3f50f515&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组】【传颂之物 图斯库尔公主奢华的每一天_Utawarerumono Tousukuruoujo no Kareinaruhibi】[OVA][BDRIP_1080P][x264_AAC][简体内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-01e76ab8c18b77ff36d9918fb4b27ca2cfcabc65.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T01:13:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:01e76ab8c18b77ff36d9918fb4b27ca2cfcabc65&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [UCCUSS] 世界征服谋略之星 Sekai Seifuku ~Bouryaku no Zvezda~ 世界征服～謀略のズヴィズダー～ 全13話 (BD 1920x1080p AVC FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c2c0bcc8f08ef01655985d48268c51ed5657f4f6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T11:16:14.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c2c0bcc8f08ef01655985d48268c51ed5657f4f6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 信长的忍者 Nobunaga no Shinobi S1 全27话(BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9bc4ab048be7e7ddeabba0f9fc1b8dcc347e19e2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T17:46:06.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9bc4ab048be7e7ddeabba0f9fc1b8dcc347e19e2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [QTS] 相亲对象是自己的学生，强势的问题儿童 Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji.  01-12 (BD Hi10P 1920x1080 WV) 完全版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0ee03bab4eb28419b65ab12d1d0abb3d8f5f26d3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-24T16:33:54.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0ee03bab4eb28419b65ab12d1d0abb3d8f5f26d3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        机器人少女 Z+ 第二部 Robot Girls Z Plus 全6話 [BD1080 x264 FLAC]内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-42d42dbe15d202ead3d75565b0603d9588824c7b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-23T14:00:35.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:42d42dbe15d202ead3d75565b0603d9588824c7b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [UCCUSS] 机器人少女 Z+ 第二部 Robot Girls Z Plus 全6話 (BD 1920x1080p AVC FLAC)内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-60b9eb2fcc3236f9a7c6fd2380682b0e4f4f7242.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-23T04:11:25.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:60b9eb2fcc3236f9a7c6fd2380682b0e4f4f7242&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组】【升起的烟花，从下面看？还是从侧面看？_Uchiage Hanabi,Shita kara Miru ka?Yoko kara Miru ka?】[剧场版][BDRIP_1080P][x264_AAC][简体内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f98716136889358eb71d9bef45436e7566e52f2f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-22T05:03:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f98716136889358eb71d9bef45436e7566e52f2f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        浪客剑心：传说的完结篇.特效中字.Rurouni.Kenshin.The.Legend.Ends.2014.BD1080P.X264.AAC.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2cf39f499de87f580c85641758f56e1153ff5919.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T16:33:34.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2cf39f499de87f580c85641758f56e1153ff5919&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [千夏字幕组&喵萌奶茶屋&LoliHouse] 魔法少女奈叶 Reflection / Magical Girl Lyrical NANOHA Reflection [BDRip 1080p HEVC-10bit FLAC][简繁日外挂字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-036fbcaba308a8de10efa7424f48438e21b812ee.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T02:58:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:036fbcaba308a8de10efa7424f48438e21b812ee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] エロ漫画老师/Eromanga Sensei/エロマンガ先生 (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "エロマンガ先生",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ecf43a0356c0adf39e9b7b8731a370bb6b313da1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-10T02:55:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ecf43a0356c0adf39e9b7b8731a370bb6b313da1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [雪飘工作室][机动战士高达 Twilight AXIS 红色残影 / 機動戦士ガンダム Twilight AXIS 赤き残影][BDRIP][简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3c98dc144292c2e6a2c829a6b5567a41fbdb7ba8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-07T13:53:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3c98dc144292c2e6a2c829a6b5567a41fbdb7ba8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] ReLIFE 重返17岁 完结篇 ReLIFE Kankentsu-hen (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d68faf9a66202c164dcd8088897af141e2173f76.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T11:16:15.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d68faf9a66202c164dcd8088897af141e2173f76&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        东京喰种/东京食尸鬼第2季全12集+OVA-PINTO.Tokyo Ghoul.√A.BDrip.1080P.简体",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9b1b68730c6d457e43dddf39e4920e097ee36ee7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-03T16:30:02.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9b1b68730c6d457e43dddf39e4920e097ee36ee7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        东京喰种/东京食尸鬼第1季全12集+OVA-JACK.Tokyo Ghoul.BDrip.1080P.简体",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b2c32b9ee4adc7f2a2840b8d564c2b5bcd70ffd6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-03T16:28:41.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b2c32b9ee4adc7f2a2840b8d564c2b5bcd70ffd6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [合集-内有福利][晨曦制作][帕瓦特奥特曼][BDrip][日版&美版][1080P][BDrip][HEVC Ma10p FLAC MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ce008d277bbe903d9d02fa10c58e6ff564e1a8d1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-31T08:02:20.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ce008d277bbe903d9d02fa10c58e6ff564e1a8d1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [千夏字幕組&臉腫字幕組][女神異聞錄5 PERSONA5 the Animation-THE DAY BREAKERS-][BD][BIG5][1080P]V2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d277a5f21ba99049f3b1f9846fb3c1f6ccd2f80e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-28T12:50:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d277a5f21ba99049f3b1f9846fb3c1f6ccd2f80e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [千夏字幕组&脸肿字幕组][女神异闻录5 PERSONA5 the Animation-THE DAY BREAKERS-][BD][GB][1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dc31681a0610edfe026a88215869e5d5adfc113b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-27T14:03:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dc31681a0610edfe026a88215869e5d5adfc113b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [千夏字幕組&臉腫字幕組][女神異聞錄5 PERSONA5 the Animation-THE DAY BREAKERS-][BD][BIG5][1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5c2cddf6dd95fde07ab76952af9822b6c5d4ae5f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-27T14:03:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5c2cddf6dd95fde07ab76952af9822b6c5d4ae5f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【剧场版】【Free! -Timeless Medley- 绊+约束】【BDrip】【GB_MP4】【1920X1080】【合集】[十周年贺礼]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4c5aae67c74bc2ad5a959232dc0f07fb1247f98d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-27T00:11:27.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4c5aae67c74bc2ad5a959232dc0f07fb1247f98d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【劇場版】【Free! -Timeless Medley- 絆+約束】【BDrip】【BIG5_MP4】【1920X1080】【合集】[十週年賀禮]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-59ab319b3b4ad6dc8c0dc187526e715495e2a51a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-27T00:02:13.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:59ab319b3b4ad6dc8c0dc187526e715495e2a51a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR動研&動漫國】[新妹魔王的契約者_The Testament of Sister New Devil+BURST+OVA][全兩季][繁體外掛字幕][BDRip][1080P][AVC_P10_FLAC]補字幕+補種",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-926ce7f1fbad98668f55a5c79981ef12cea00721.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-25T21:18:49.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:926ce7f1fbad98668f55a5c79981ef12cea00721&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2015-2017] 不起眼女主角培育法 路人女主的養成方法 Saenai Heroine no Sodatekata - 全2期 (BD 720p HEVC AAC).mp4",
+
+
+"workName": "冴えない彼女の育てかた",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ea0581c43ed395305b336846d75ba636f9d18f04.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-25T11:52:39.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ea0581c43ed395305b336846d75ba636f9d18f04&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR動研&動漫國】[心之旋律_TARI TARI][全13話+OVA(14)][BDRip][繁體外掛字幕][1080P][HEVC_P10_FLAC_OPUS] 補種+補字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4a95507e8ddaa3823696183b7d3fdca4f5a41de1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-24T18:58:54.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4a95507e8ddaa3823696183b7d3fdca4f5a41de1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR動研&動漫國】[心之旋律_TARI TARI][全13話+OVA(14)][BDRip][繁體外掛字幕][1080P][AVC_P10_FLAC_OPUS] 補種+補字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3f3d17e70a22257bedcec2e9dce10017391dfe08.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-24T18:52:12.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3f3d17e70a22257bedcec2e9dce10017391dfe08&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR動研&茉語星夢】[為美好的世界獻上祝福！第二季_Konosuba 2][全10話+OVA][BDRip][繁體外掛字幕][1080P][HEVC_P10_FLAC_OPUS]Rev",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3e42cddbf205eaf6f87eaa03941337fddae22303.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-24T18:41:48.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3e42cddbf205eaf6f87eaa03941337fddae22303&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組&喵萌奶茶屋】【少女與戰車_最終章/Girls_und_Panzer_das_Finale】[第01話][BDRip_1080P][x264_FLAC×2][MKV][CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8e8adf2e5153b0a7ed90950dfb007b79b2967cce.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-24T07:59:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8e8adf2e5153b0a7ed90950dfb007b79b2967cce&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组&喵萌奶茶屋】【少女与战车_最终章/Girls_und_Panzer_das_Finale】[第01话][BDRip_1080P][x264_FLAC×2][MKV][CHS]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-707c467dcd706357a9fd220f41751698d3e8a19e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-23T18:50:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:707c467dcd706357a9fd220f41751698d3e8a19e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [千夏字幕组&喵萌奶茶屋&LoliHouse] 少女与战车 最终章 / Girls und Panzer das Finale - 01 [BDRip 1920x1080 HEVC-yuv420p10 FLACx2][简繁外挂字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7aa9fe8f4819e529d5a0b94c9990db16e0dd4350.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-22T17:40:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7aa9fe8f4819e529d5a0b94c9990db16e0dd4350&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [雪飘工作室][电影 Kirakira☆Precure A La Mode 清脆巴黎！回忆的千层酥！/ 映画 キラキラ☆プリキュアアラモード パリッと!想い出のミルフィーユ!][BDRIP][简繁日外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-014f3018531076f44d39bed47077b4acb454bea1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-21T15:17:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:014f3018531076f44d39bed47077b4acb454bea1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NEO·QSW]机动战士高达 铁血的孤儿 壹+贰 全50话 機動戦士ガンダム 鉄血のオルフェンズ[Bdrip HEVC 1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a34d7fff546db57383324c4e6d7372b290e6ebdf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-20T10:25:10.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a34d7fff546db57383324c4e6d7372b290e6ebdf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組】【登山物語 回憶之禮 / 前進吧！登山少女 回憶之禮_Yama_no_Susume_Omoide_Present】[OVA][BDRIP_1080P][x264_AAC][繁體內嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fe2577fcadc3150b31556d205efd0d39502249d8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-19T21:37:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fe2577fcadc3150b31556d205efd0d39502249d8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR動研&茉語星夢】[為美好的世界獻上祝福！第二季_Konosuba 2][全10話+OVA][BDRip][繁體外掛字幕][1080P][HEVC_P10_FLAC_OPUS]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c29e9dedfe76594936a67873ebc478159c78f77e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-17T15:28:06.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c29e9dedfe76594936a67873ebc478159c78f77e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        合集[CXRAW][ウルトラマンジード][捷德奥特曼][BDrip][HEVC Main10P FLAC][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-51ac189df3244c4917df70211c93d65344af6320.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-16T11:08:58.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:51ac189df3244c4917df70211c93d65344af6320&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 清恋 Seiren (BD 1920x1080 x264 Flac)",
+
+
+"workName": "SEIREN",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6b4e1339a36b74734edf6307970b2b4f9f4f2744.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-15T11:10:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6b4e1339a36b74734edf6307970b2b4f9f4f2744&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [雪飘工作室][电影 Precure Dream Stars! / 映画 プリキュアドリームスターズ!][BDRIP][简繁日外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-38418204ad47eeb0bb2d0cbe72def354395a4ab2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-13T13:26:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:38418204ad47eeb0bb2d0cbe72def354395a4ab2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [雪飘工作室][电影 MAHO GIRLS PRECURE! 奇迹的变身 Cure Mofurun! / 映画 魔法つかいプリキュア! 奇跡の変身!キュアモフルン!][BDRIP][简繁日外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-93693fc28d502eb3354c732bc43506a67266ee2a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-10T20:31:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:93693fc28d502eb3354c732bc43506a67266ee2a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Eupho-Fans] 劇場版 吹響吧！上低音號～想要傳達的旋律～ / 劇場版 響け！ユーフォニアム～届けたいメロディ～  / Hibike! Euphonium Movie: Todoketai Melody [BDRip x264 1920x1080 AAC DTS PGS MKV]",
+
+
+"workName": "響け！ユーフォニアム",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7585da91e181daf33136e46336544b3beb2fd58b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-10T04:12:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7585da91e181daf33136e46336544b3beb2fd58b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【星云字幕组】【戴拿奥特曼】【最终章三部曲】【完全版·走向光明···】【BDrip】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-225643ffbde96ab3955057d2861736173af4c9d1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-07T12:58:40.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:225643ffbde96ab3955057d2861736173af4c9d1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR動研&白月】[閃亂神樂_Senran Kagura][全12話+OVA+遊戲OP集(乳)][繁簡外掛字幕][BDRip][1080P][HEVC_P10_FLAC] 招募新血內詳",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b993cfd78bf962b204414fc5025a621608f365c2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-03T20:18:35.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b993cfd78bf962b204414fc5025a621608f365c2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【Little字幕组】魔卡少女樱 小樱牌篇合集(共24话) [BDRip][1080P][中日双字][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c745c447bea9e8e0393620f1bf555cfada0ed15f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-03T14:41:21.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c745c447bea9e8e0393620f1bf555cfada0ed15f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [雪飄工作室][剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 雪下的誓言 / 劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い][1080p][BDRIP][简繁外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b956db8ce6d7106904f1bfedc702edd86ce41697.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-01T22:41:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b956db8ce6d7106904f1bfedc702edd86ce41697&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] Keijo!!!!!!!! (BDRip 1920x1080 x264 FLAC)[合集]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-84efc4be7194ac776fd7b6c5a56f22e97a341459.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T08:55:04.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:84efc4be7194ac776fd7b6c5a56f22e97a341459&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [漫游字幕组] 网络胜利组 导演剪辑版 Netojuu no Susume 1-11FIN 简体/繁体外挂 BDRip 1080P HEVC 10bit MKV",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-93b436e480b81a8a1536d42793f928fd5b8a20ea.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-16T08:03:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:93b436e480b81a8a1536d42793f928fd5b8a20ea&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        完结【晨曦制作】【帕瓦特奥特曼】【13】【美版&日版】【双字幕】【BDrip】【1080P】【HEVC Ma10p FLAC MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f9f91a8c46c27665682ba5536c5eb80c78ae1a20.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-14T00:45:52.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f9f91a8c46c27665682ba5536c5eb80c78ae1a20&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        寄生兽：完结篇.Parasyte.Part.2.2015.Blu-Ray.Remux.1080p.AVC.DTS-HD.MA.5.1.DIY-SHOW",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-94fe5c17d1356feddfb5b9959cd3106f26298458.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-12T03:01:51.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:94fe5c17d1356feddfb5b9959cd3106f26298458&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        寄生兽：完结篇.Parasyte.Part.2.2015.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4e46924c47ca3936d9e4cbcde9d991e6bc8361f6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-12T02:59:51.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4e46924c47ca3936d9e4cbcde9d991e6bc8361f6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[小魔女學園 全系列][01-25+OVA+MOVIE][BDRip][AVC_AAC][1080P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-517bab60409f93a4c12ce24f7a419b80f73b6f1c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T15:36:25.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:517bab60409f93a4c12ce24f7a419b80f73b6f1c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】[小魔女学园 全系列][01-25+OVA+MOVIE][BDRip][AVC_AAC][1080P][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-471f85a82c944c9b653e46f8ee623411c8d236bd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T12:32:08.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:471f85a82c944c9b653e46f8ee623411c8d236bd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 不起眼女主角培育法♭ 路人女主的养成方法♭ Saenai Heroine no Sodatekata Flat (BD 1920x1080 x264 Flac)",
+
+
+"workName": "冴えない彼女の育てかた",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3723f02ad5c3ba9cb9be6f18160cf64b2259dd46.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T11:24:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3723f02ad5c3ba9cb9be6f18160cf64b2259dd46&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[小魔女學園 全系列][BDRip][Vol.01-Vol.09+OVA+MOVIE][AVC_FLAC_PGS][1080P_Hi10P][簡繁外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aae509faa991cfb55ea931ccdc61d83c4092fcd3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T06:44:10.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aae509faa991cfb55ea931ccdc61d83c4092fcd3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -428,7 +3381,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-219a1ea4e93f402473d15de3bd859929d619fbac.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-27T20:44:35.000Z",
@@ -440,7 +3393,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:219a1ea4e93f402473d15de3bd859929d619fbac&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:219a1ea4e93f402473d15de3bd859929d619fbac&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -465,7 +3421,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-36c592754370bdfcb44bb425f4b12ea8af9c9db2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-22T16:14:03.000Z",
@@ -477,7 +3433,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:36c592754370bdfcb44bb425f4b12ea8af9c9db2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:36c592754370bdfcb44bb425f4b12ea8af9c9db2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -514,7 +3473,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:96829e6dc7f77e3c952e2d63eb6c2c01114ed699&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:96829e6dc7f77e3c952e2d63eb6c2c01114ed699&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -551,7 +3513,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:110c4aea07ecf5a563190697cf8de6592facaa00&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:110c4aea07ecf5a563190697cf8de6592facaa00&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -588,7 +3553,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2f8792365ac600e4062e6a8696d263eee3cd8349&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2f8792365ac600e4062e6a8696d263eee3cd8349&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -625,7 +3593,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a05ba5cf6182e0757288c377fe8c06606a0f6428&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a05ba5cf6182e0757288c377fe8c06606a0f6428&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -662,7 +3633,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a65fbed31b79bffd61e4347494071c74a0d2b1da&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a65fbed31b79bffd61e4347494071c74a0d2b1da&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -699,7 +3673,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:575dd4e6af0e8c4d774217de1976df9f45c68996&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:575dd4e6af0e8c4d774217de1976df9f45c68996&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -736,7 +3713,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:651b1b169f1e616016f3bfcb1062519604c37507&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:651b1b169f1e616016f3bfcb1062519604c37507&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -773,7 +3753,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4385bfbfebd57e980d204c9566882a3d3b630204&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4385bfbfebd57e980d204c9566882a3d3b630204&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -810,7 +3793,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1543e237aee74906a04ecd883c22fd4fa718f3cd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1543e237aee74906a04ecd883c22fd4fa718f3cd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -847,7 +3833,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c22f7f34acdf03f004043f9dd0981b599ea8c033&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c22f7f34acdf03f004043f9dd0981b599ea8c033&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -884,7 +3873,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3fbea881bd7f9d0d722c1693738d124e3c808844&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3fbea881bd7f9d0d722c1693738d124e3c808844&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -921,7 +3913,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4cefdc2bb8bd7c1143df577af7e385ff0def442f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4cefdc2bb8bd7c1143df577af7e385ff0def442f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -958,7 +3953,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e278c4265378c8f256826a6acef45284c9d81684&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e278c4265378c8f256826a6acef45284c9d81684&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -995,7 +3993,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:497b3d1d669fbeb7cc5914eb6f88655ddc5abde2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:497b3d1d669fbeb7cc5914eb6f88655ddc5abde2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1032,7 +4033,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bd32ad0718560759665a805b4f6e63e3c60885a0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bd32ad0718560759665a805b4f6e63e3c60885a0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1069,7 +4073,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:09246181e6f5bcc8728f24c25239d26741cc85f3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:09246181e6f5bcc8728f24c25239d26741cc85f3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1106,7 +4113,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2771eb45acf6181f45cd005d76876dc0116ffeae&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2771eb45acf6181f45cd005d76876dc0116ffeae&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1143,7 +4153,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b58e45de9a84415d26bd0e3561f196f217722a3b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b58e45de9a84415d26bd0e3561f196f217722a3b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1180,7 +4193,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:657948f2ef1e71cc3f2c1328642791d3caa80816&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:657948f2ef1e71cc3f2c1328642791d3caa80816&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1217,7 +4233,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f83015762b13b6c624f55edea0284a0484b573ac&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f83015762b13b6c624f55edea0284a0484b573ac&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1254,7 +4273,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c4576a3f2b48e47980bb2df9001b6603d955df07&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c4576a3f2b48e47980bb2df9001b6603d955df07&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1291,7 +4313,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4fa45a2e3e8be685418acb02b9617b3bba623b7e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4fa45a2e3e8be685418acb02b9617b3bba623b7e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1328,7 +4353,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c6feb1cb1f36188e067d940d9262ff83f9d52a1b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c6feb1cb1f36188e067d940d9262ff83f9d52a1b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1365,7 +4393,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8706651054a0fa4e9ef6d2721ddcff0525a78e55&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8706651054a0fa4e9ef6d2721ddcff0525a78e55&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1402,7 +4433,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:34cb95f50f6d8887bd09444176825a882c372b68&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:34cb95f50f6d8887bd09444176825a882c372b68&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1439,7 +4473,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:66485239ec5dc36c59c735248bf72d03b499e336&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:66485239ec5dc36c59c735248bf72d03b499e336&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1476,7 +4513,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f9fdcc92a9d56058be3bc9979b2f89dc15a4ee07&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f9fdcc92a9d56058be3bc9979b2f89dc15a4ee07&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1513,7 +4553,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d0239fb59052b2171f24328f8c5917338616486c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d0239fb59052b2171f24328f8c5917338616486c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1550,7 +4593,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d8be41070a216260a037b84e93b0dfd0d066fa90&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d8be41070a216260a037b84e93b0dfd0d066fa90&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1587,7 +4633,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dcfaaeab39d0f254da7389806229f69b28f0a0c9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dcfaaeab39d0f254da7389806229f69b28f0a0c9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1624,7 +4673,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:281f9ad728d79dc3b65cae20433fec0a7961f648&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:281f9ad728d79dc3b65cae20433fec0a7961f648&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1661,7 +4713,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8a13e4b7c9fb1ce398e7027aee2ce13b1548e39f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8a13e4b7c9fb1ce398e7027aee2ce13b1548e39f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1698,7 +4753,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:585f3f05ab1e6a14185f847f1440902b5f180d0a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:585f3f05ab1e6a14185f847f1440902b5f180d0a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1735,7 +4793,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:571884d84e289effd52a5cc679716dad6ef3a48f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:571884d84e289effd52a5cc679716dad6ef3a48f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1772,7 +4833,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5126496e3057e83133233fb379f2b2e2edba8879&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5126496e3057e83133233fb379f2b2e2edba8879&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1809,7 +4873,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4da3b05e88ede290d9ee6540aebb5795347e93d3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4da3b05e88ede290d9ee6540aebb5795347e93d3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1846,7 +4913,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:be997bdb128bc66ae815059555a53c57caa046c5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:be997bdb128bc66ae815059555a53c57caa046c5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1883,7 +4953,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:10a5812fe07bd6697416701391016bb51efaf4b1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:10a5812fe07bd6697416701391016bb51efaf4b1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1920,7 +4993,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d1d86d10ce07b0210e57939795592ffb1df3cb3f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d1d86d10ce07b0210e57939795592ffb1df3cb3f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1957,7 +5033,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:760af98b38b6683679be30ea5d313b4835cafcf4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:760af98b38b6683679be30ea5d313b4835cafcf4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -1994,7 +5073,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7581a16ef544aa9e7adac37d78487ac42cd65d4a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7581a16ef544aa9e7adac37d78487ac42cd65d4a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2031,7 +5113,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:adb8534ff7e6396354d3cd504819832d4a043ad4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:adb8534ff7e6396354d3cd504819832d4a043ad4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2068,7 +5153,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:92992ed1a8da1355024e2a95e6bd4ec6678385d1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:92992ed1a8da1355024e2a95e6bd4ec6678385d1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2105,7 +5193,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cf040fcaa0bb57c3205435feb086f6ef8f395ac8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cf040fcaa0bb57c3205435feb086f6ef8f395ac8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2142,7 +5233,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2c50abc1571fe6ba09bbc75fe76c68ef50f38fb2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2c50abc1571fe6ba09bbc75fe76c68ef50f38fb2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2179,7 +5273,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ea10501c591de2ddde035ea370a3e1094fa4f473&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ea10501c591de2ddde035ea370a3e1094fa4f473&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2216,7 +5313,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1ae0bc0d8dff4ed73f2513f49aee80c4f9cced80&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1ae0bc0d8dff4ed73f2513f49aee80c4f9cced80&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2253,7 +5353,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:147cca3dd7ee44bbc8fbd30cebf5457ef5da3201&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:147cca3dd7ee44bbc8fbd30cebf5457ef5da3201&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2290,7 +5393,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:140c7169988f63e686ba2786eb7603432345bdef&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:140c7169988f63e686ba2786eb7603432345bdef&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2327,7 +5433,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:65ae54d9ec7ca57d97bc5e870472c1d7082e0f97&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:65ae54d9ec7ca57d97bc5e870472c1d7082e0f97&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2364,7 +5473,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9442128b837061d43b64e1caa66705fa550835f4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9442128b837061d43b64e1caa66705fa550835f4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2401,7 +5513,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7c3e5c951debb7d65b92e3f1980e7d1249547370&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7c3e5c951debb7d65b92e3f1980e7d1249547370&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2438,7 +5553,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:022218e7bdc991fb5ed3250e2434e95552e01440&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:022218e7bdc991fb5ed3250e2434e95552e01440&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2475,7 +5593,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:aaa2b527907bd5f9cf93f9f6cdd2248abfd8a95f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:aaa2b527907bd5f9cf93f9f6cdd2248abfd8a95f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2512,7 +5633,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:960258bae567f4cb93505126ada54170622e8801&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:960258bae567f4cb93505126ada54170622e8801&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2549,7 +5673,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c6215ae91bd1567c158ad5e66e74833030085b01&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c6215ae91bd1567c158ad5e66e74833030085b01&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2586,7 +5713,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:92bea68eb894e94f9fea06b7b8984eab075873ee&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:92bea68eb894e94f9fea06b7b8984eab075873ee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2623,7 +5753,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1f2a7dfafaa1ee68ea0bfc5a7ed378a22a2643ba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1f2a7dfafaa1ee68ea0bfc5a7ed378a22a2643ba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2660,7 +5793,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:76a60d5dca7e837a089bc2e9a3ed059f590217fd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:76a60d5dca7e837a089bc2e9a3ed059f590217fd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2697,7 +5833,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1ee83a254148ece22d16f8e637b497f1cc74fe13&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1ee83a254148ece22d16f8e637b497f1cc74fe13&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2734,7 +5873,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dd58858e9532318d516ed57b16245e44be2fb4de&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dd58858e9532318d516ed57b16245e44be2fb4de&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2771,7 +5913,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:aa6f79f823230cedbd277e5a05dbf8e1853c50e5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:aa6f79f823230cedbd277e5a05dbf8e1853c50e5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2808,7 +5953,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b9cf561e8ac1085a78165bd486d18ba4e61c2118&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b9cf561e8ac1085a78165bd486d18ba4e61c2118&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2845,7 +5993,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:31a0c6b6f0e847b3d6cf22f53d35c899d66b7924&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:31a0c6b6f0e847b3d6cf22f53d35c899d66b7924&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2882,7 +6033,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:57d207c5d1edb0953996f673725ec3a75d804256&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:57d207c5d1edb0953996f673725ec3a75d804256&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2919,7 +6073,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1f4dfc0f1c16dab0fc7934424ca84ac259ac0564&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1f4dfc0f1c16dab0fc7934424ca84ac259ac0564&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2956,7 +6113,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:574f0992f2911f80ac79b7d4130faa5d2503266f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:574f0992f2911f80ac79b7d4130faa5d2503266f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -2993,7 +6153,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:16460879ed72523d7a76b98b15970677756b0bf2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:16460879ed72523d7a76b98b15970677756b0bf2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3030,7 +6193,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9086edb838e8acfb3bc079d1eef83bebd4e3783a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9086edb838e8acfb3bc079d1eef83bebd4e3783a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3067,7 +6233,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1b8dd24a05a2465db821216ead41e1084ec4fee0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1b8dd24a05a2465db821216ead41e1084ec4fee0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3104,7 +6273,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8ae9b65d65f4819113020dc6e19622658d81598a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8ae9b65d65f4819113020dc6e19622658d81598a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3141,7 +6313,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0e33d7cc960aa3a0b7e4b37a47ba7b4086399239&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0e33d7cc960aa3a0b7e4b37a47ba7b4086399239&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3178,7 +6353,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1df9c6182c114d1ab7e6d012cc47423e2588fb0b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1df9c6182c114d1ab7e6d012cc47423e2588fb0b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3215,7 +6393,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:879e8d525e336aed5755a2c8b466d262555b7e6b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:879e8d525e336aed5755a2c8b466d262555b7e6b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3252,7 +6433,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2e2dacdb188717946e39494758b5d7790a644f12&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2e2dacdb188717946e39494758b5d7790a644f12&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3289,7 +6473,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:10439a6905f4dbc193b9f21ec3fce8b8c4332046&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:10439a6905f4dbc193b9f21ec3fce8b8c4332046&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3326,7 +6513,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c50a95b441d443da725d3f0d78695b572bcac1ec&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c50a95b441d443da725d3f0d78695b572bcac1ec&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3363,7 +6553,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0e85efcf78c41ae7e290ce210d83252898e7e722&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0e85efcf78c41ae7e290ce210d83252898e7e722&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3400,7 +6593,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:50e90df73c882a4ff3481113f0d258ecc8ee65a6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:50e90df73c882a4ff3481113f0d258ecc8ee65a6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3437,7 +6633,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c918fe26e52f89774a9049e5b3089e22049714c0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c918fe26e52f89774a9049e5b3089e22049714c0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3474,7 +6673,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b5f733e420b0e2d9133953728287b321e035cfa9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b5f733e420b0e2d9133953728287b321e035cfa9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3511,7 +6713,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cbe2162f8df65bd00a9db108234ee7304591a8b9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cbe2162f8df65bd00a9db108234ee7304591a8b9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3548,7 +6753,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1dede4e69e6b6b013c7d0f5caf6bc3b0158e8060&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1dede4e69e6b6b013c7d0f5caf6bc3b0158e8060&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3585,7 +6793,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7e9ebf0e2a51fd0b5fbac280def73b3fdd7d1ac0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7e9ebf0e2a51fd0b5fbac280def73b3fdd7d1ac0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3622,7 +6833,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e6ce8de4c0f6e226aaf065403ca829ccf6d87af3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e6ce8de4c0f6e226aaf065403ca829ccf6d87af3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3659,7 +6873,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ec7567d99f884e19ec5c9364b42c20396c05a8d3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ec7567d99f884e19ec5c9364b42c20396c05a8d3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3696,7 +6913,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:78bfb2cc1c5cfd88e4f26bfca734842aeed3e817&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:78bfb2cc1c5cfd88e4f26bfca734842aeed3e817&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3733,7 +6953,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0424b591aaa81cc9188249d9d0efee9843f28b29&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0424b591aaa81cc9188249d9d0efee9843f28b29&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3770,7 +6993,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fe251723eec00e12e755f49be691c4f8f6633ff9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fe251723eec00e12e755f49be691c4f8f6633ff9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3807,7 +7033,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2acc2455c449606e86e814b72a4f44cf66a539c4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2acc2455c449606e86e814b72a4f44cf66a539c4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3844,7 +7073,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:83342a4fe3c6da02fc9a51621f1a6a2fb048de4a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:83342a4fe3c6da02fc9a51621f1a6a2fb048de4a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3881,7 +7113,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6d08ccb564583327c9ea7207e0f663c40b85cce3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6d08ccb564583327c9ea7207e0f663c40b85cce3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3918,7 +7153,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:545c3479afad75843b87618e14903d27dcae1a92&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:545c3479afad75843b87618e14903d27dcae1a92&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3955,7 +7193,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:84fe12c9971304cd8f0bf39661f7ddb4a060a387&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:84fe12c9971304cd8f0bf39661f7ddb4a060a387&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -3992,7 +7233,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1b14f30cb69487b16afa86e04120dc7c1bf4ec5f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1b14f30cb69487b16afa86e04120dc7c1bf4ec5f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4029,7 +7273,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b4b64289b54eb4fdfa7ec9c7536e996a5787a5b8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b4b64289b54eb4fdfa7ec9c7536e996a5787a5b8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4066,7 +7313,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f98e73c0c4baf4ce4ffbd743b419dc686226ec1c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f98e73c0c4baf4ce4ffbd743b419dc686226ec1c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4103,7 +7353,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:051e53aed6d5f21605b971fdf4b517d8570d15c8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:051e53aed6d5f21605b971fdf4b517d8570d15c8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4140,7 +7393,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6ddf1a01e902092d40a74d97b98a812d7abb49f6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6ddf1a01e902092d40a74d97b98a812d7abb49f6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4177,7 +7433,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2766efd4cebc64820438128bddd4433ca26db116&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2766efd4cebc64820438128bddd4433ca26db116&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4214,7 +7473,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:03059388566a4aaa3fa7fea27ff08b7417ef635a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:03059388566a4aaa3fa7fea27ff08b7417ef635a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4251,7 +7513,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:713dae72f21f1f8bba27f0ae4ca7497f1decab2d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:713dae72f21f1f8bba27f0ae4ca7497f1decab2d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4288,7 +7553,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9d181d79f993d958399b429e16f0f6f7a13e3856&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9d181d79f993d958399b429e16f0f6f7a13e3856&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4325,7 +7593,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9fe73497f5400e1852418fdc4c71a80d4d904e69&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9fe73497f5400e1852418fdc4c71a80d4d904e69&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4362,7 +7633,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ae1076eab27a5e7c0d4fb696c54a55c60b67341c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ae1076eab27a5e7c0d4fb696c54a55c60b67341c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4399,7 +7673,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cc36435a2c340ac897b0ddeab33aff2989155110&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cc36435a2c340ac897b0ddeab33aff2989155110&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4436,7 +7713,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:26819df4802892c5ee4c467d8bca824fbaf44eee&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:26819df4802892c5ee4c467d8bca824fbaf44eee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4473,7 +7753,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b1189ed770c7b3bb66fb9f9382f39145a2a851a6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b1189ed770c7b3bb66fb9f9382f39145a2a851a6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4510,7 +7793,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:66b74525f59de78267c1a02a2e1bb2c4a3a393cb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:66b74525f59de78267c1a02a2e1bb2c4a3a393cb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4547,7 +7833,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:088f60ce8e929cca615aaffc2a8fb158c8837dcf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:088f60ce8e929cca615aaffc2a8fb158c8837dcf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4584,7 +7873,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b714d4215104f44083d1acc45b37c96752c92510&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b714d4215104f44083d1acc45b37c96752c92510&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4621,7 +7913,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:720250a94076d973698bdef24f4e91b3eaf1c838&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:720250a94076d973698bdef24f4e91b3eaf1c838&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4658,7 +7953,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:44cf56d5f58b35d9d7231cb2dc86ba2b71c4d24a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:44cf56d5f58b35d9d7231cb2dc86ba2b71c4d24a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4695,7 +7993,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b9b096a3d41ef715d069d193d6bd4db2a2396302&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b9b096a3d41ef715d069d193d6bd4db2a2396302&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4732,7 +8033,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f75462e68feeecc01a7018ad8940979b959280c8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f75462e68feeecc01a7018ad8940979b959280c8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4769,7 +8073,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2f88f9dfb55824eafb4eabfb61c8e459edfcd520&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2f88f9dfb55824eafb4eabfb61c8e459edfcd520&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4806,7 +8113,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:41a577bec76d81292eed31f69ff148ee2c601efc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:41a577bec76d81292eed31f69ff148ee2c601efc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4843,7 +8153,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:eca12d1c9fbcbee206ada97348913c9a45e95e29&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:eca12d1c9fbcbee206ada97348913c9a45e95e29&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4880,7 +8193,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cce2c228b10c0389d42f2bcce39e5b30d3dafba7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cce2c228b10c0389d42f2bcce39e5b30d3dafba7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4917,7 +8233,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1496780971f9a738476908e136f53a81987069f8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1496780971f9a738476908e136f53a81987069f8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4954,7 +8273,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:10de0cc4b71bf930282055c7abc434a4f419b099&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:10de0cc4b71bf930282055c7abc434a4f419b099&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -4991,7 +8313,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ad69b0ecba7bb11159759598b490274d901e7283&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ad69b0ecba7bb11159759598b490274d901e7283&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5028,7 +8353,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:38a5d1e9c992a9b3e2d0da91232d160592f6d92f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:38a5d1e9c992a9b3e2d0da91232d160592f6d92f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5065,7 +8393,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8918ec9cbe17fbc26e94f728d19a2c89d4f13667&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8918ec9cbe17fbc26e94f728d19a2c89d4f13667&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5102,7 +8433,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:52f41dcbe3c0d7c6b3c6edaab9dd5c697bde16b4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:52f41dcbe3c0d7c6b3c6edaab9dd5c697bde16b4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5139,7 +8473,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7e09f508be9db3b8cc2003090b2f83c07535a7fd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7e09f508be9db3b8cc2003090b2f83c07535a7fd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5176,7 +8513,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4094980b12276c0b6ec27082808db1e6cecd89ef&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4094980b12276c0b6ec27082808db1e6cecd89ef&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5213,7 +8553,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0df46559d33fafbc9229261e5d5bb167d29e3822&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0df46559d33fafbc9229261e5d5bb167d29e3822&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5250,7 +8593,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c48065fb91b91ddb781836da5ee9a05272dca4eb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c48065fb91b91ddb781836da5ee9a05272dca4eb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5287,7 +8633,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:af9e6d0b2bf8c222f3eaf9c3cf5e4bfa1f2cd48c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:af9e6d0b2bf8c222f3eaf9c3cf5e4bfa1f2cd48c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5324,7 +8673,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6e0c6d15e61be7d8e12d2974dc9fdd64eb3604fd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6e0c6d15e61be7d8e12d2974dc9fdd64eb3604fd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5361,7 +8713,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1191a2b71d3701b71850c8d3985992f5d5b5f46e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1191a2b71d3701b71850c8d3985992f5d5b5f46e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5398,7 +8753,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f69189f5d1ffca566d9505666b574da8fe44c04a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f69189f5d1ffca566d9505666b574da8fe44c04a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5435,7 +8793,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:74c198100f277b40fb8aa0e3b855ecba3d932fc0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:74c198100f277b40fb8aa0e3b855ecba3d932fc0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5472,7 +8833,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:825e681c1fbf67e3272c6d23b059ff55ebac27ad&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:825e681c1fbf67e3272c6d23b059ff55ebac27ad&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5509,7 +8873,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bba02d20a16e7408b3307086df2bdececc41cdc6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bba02d20a16e7408b3307086df2bdececc41cdc6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5546,7 +8913,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ef1d85e933d3236049ab37e247cad1466fc45ada&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ef1d85e933d3236049ab37e247cad1466fc45ada&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5583,7 +8953,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:efc35b9c7d1f81f469d65f544e74eaae6cab3e6c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:efc35b9c7d1f81f469d65f544e74eaae6cab3e6c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5620,7 +8993,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:97c2dd151561d1cdb0e485ce47dec502a6d62c84&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:97c2dd151561d1cdb0e485ce47dec502a6d62c84&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5657,7 +9033,10 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1ffab261a6f90cea3dc3b45fb7b95b3786752d8a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1ffab261a6f90cea3dc3b45fb7b95b3786752d8a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5694,7 +9073,20839 @@ module.exports = [
 "generalRanking": 2,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5b5a7ad30614bd912f93da2053375aec5e51b097&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5b5a7ad30614bd912f93da2053375aec5e51b097&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Kokkoku (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-89f0e89d7912513651349a74bf350af4cf10a704.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-06-01T01:10:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:89f0e89d7912513651349a74bf350af4cf10a704&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ✿小花花同盟戰線✿【請問您今天要來點兔子嗎？ 我親愛的妹妹_Is the order a rabbit？？ ~Dear My Sister~】[劇場版][1080P_BDRIP_MP4][繁體]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6451fcfb3ac7696eb3ab23daa716c0da15ca8fdf.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-31T14:54:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6451fcfb3ac7696eb3ab23daa716c0da15ca8fdf&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [U3-Project] 劇場版 窈窕淑女 前編～紅緒、花樣的17歲～ / 劇場版はいからさんが通る 前編~紅緒、花の17歳~  / Gekijoban Haikara-san ga Toru Zenpen: Benio, ～Hana no 17-sai～[BDRip 1920x1080p AVC AACx3(2.0+5.1+2.0)][mp4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c5cae164643b91dda1279c798516c45f54ac3212.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-31T12:41:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c5cae164643b91dda1279c798516c45f54ac3212&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [U3-Project] 劇場版 窈窕淑女 前編～紅緒、花樣的17歲～ / 劇場版はいからさんが通る 前編~紅緒、花の17歳~ / Gekijoban Haikara-san ga Toru Zenpen: Benio, ～Hana no 17-sai～ [BDRip 1920x1080p AVC FLAC DTS-HDMA][mkv]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3778b50864a62b48c84533cd42371585a55ddaa5.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-31T12:36:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3778b50864a62b48c84533cd42371585a55ddaa5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 刻刻 Kokkoku (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-397c35b75b260583ce1dc0dcc50bda401e9213e7.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-31T10:57:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:397c35b75b260583ce1dc0dcc50bda401e9213e7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 请问您今天要来点兔子吗？剧场版 Gochuumon wa Usagi Desuka Dear My Sister (BD 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b611aac8e8a5cdb8da74387e1c32af541094bafa.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-31T10:09:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b611aac8e8a5cdb8da74387e1c32af541094bafa&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Godzilla Kaijuu Wakusei - MOVIE (BD 1080P x264 FLACx4)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5f51b1ab7d22a85cc7456c8be6b994e201946264.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-31T06:03:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5f51b1ab7d22a85cc7456c8be6b994e201946264&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 关于我女友是个一本正经的处女碧池这件事  Boku no Kanojo ga Majimesugiru Sho-bitch na Ken  1-10+OVA (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b19a7e023ba876a530afe50923c79628a8f32656.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-31T04:07:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b19a7e023ba876a530afe50923c79628a8f32656&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨36.万圣节的王子殿下][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fb559450ab76280f8933a66e064596ee30b2196c.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-31T02:59:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fb559450ab76280f8933a66e064596ee30b2196c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] B-Project Kodou Ambitious (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-061fd5f004de945126c34a899f083fe6a42475d1.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-31T00:30:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:061fd5f004de945126c34a899f083fe6a42475d1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 请问您今天要来点兔子吗？剧场版 Gochuumon wa Usagi Desu ka ~Dear My Sister~ (BDRip 1920x1080 x264 FLAC）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fc491dbefcb67a426a6fad2db91b301509d0e619.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-31T00:05:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fc491dbefcb67a426a6fad2db91b301509d0e619&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Itsudatte Bokura no Koi wa 10 cm Datta (BD 1080P x264 FLAC)rev",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-48b8dc25352efb4e971d794fcece3afe3d0f3e2a.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-30T14:48:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:48b8dc25352efb4e971d794fcece3afe3d0f3e2a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 亚人酱有话要说 Demi-chan wa Kataritai 1-13 [BDRip 1920x1080 x264 FLAC] 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f6d54d5f0c123d298107cba676159452017807b3.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-30T14:33:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f6d54d5f0c123d298107cba676159452017807b3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        犬夜叉•剧场版（Inuyasha Movie）国日英三语（国语台配）；内挂英文字幕，外挂简中字幕；BDrip；1920×(1040~1080)P",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ce9b016416ae07fa2c827fb63785415da9cc18d7.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-30T11:51:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ce9b016416ae07fa2c827fb63785415da9cc18d7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[粗点心战争2][だがしかし2][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-af604cea0f754925d26b1d5019ef6f93ff483f5f.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-30T11:34:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:af604cea0f754925d26b1d5019ef6f93ff483f5f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Itsudatte Bokura no Koi wa 10 cm Datta (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5a7596feeabb91e7b400d520b8699eaf9f7e6fef.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-30T08:51:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5a7596feeabb91e7b400d520b8699eaf9f7e6fef&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 大小姐x执事/管家后宫学园 Ladies versus Butlers 1-12 (BD 1920x1080 x.264 FLACx2)（乳）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5e8e665f81552f3600e34e1216959b3985413f18.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-30T04:26:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5e8e665f81552f3600e34e1216959b3985413f18&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 我的老婆是学生会长 第一季 Okusama ga Seitokaichou! 1-12 (BD 1920x1080 x.264 FLACx2) - TV + AT-X Ver. + SP",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7f7a515a843f2ef7951cd471542f6c6b210f4e78.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-29T13:25:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7f7a515a843f2ef7951cd471542f6c6b210f4e78&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】★ [Fate/stay night Heaven's Feel I.presage flower][BDrip][1080P][HEVC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6f532b0f07678faa9890b599275a7a3d82ecba70.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-29T11:21:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6f532b0f07678faa9890b599275a7a3d82ecba70&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Knight's & Magic (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-57510e9a274cbe38b34fb880d209396372baf389.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-29T10:47:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:57510e9a274cbe38b34fb880d209396372baf389&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        Rogue One A Star Wars Story 2016 TW 2D BDrip 1080p AVC AC-3 6ch[星球大战外传：侠盗一号(台版)]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7f07a4f491fccc43ffc6d50c33146f885bd8901a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-28T18:45:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7f07a4f491fccc43ffc6d50c33146f885bd8901a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 雏逻辑 来自幸运逻辑 Hina Logic from Luck & Logic 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1862becd1be5b8394a5811944b6c04423dc0bfb6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-28T18:17:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1862becd1be5b8394a5811944b6c04423dc0bfb6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Uchouten Kazoku 2 (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f821c27daaa2bdbf59e772a860d1d34e230207e9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-28T12:20:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f821c27daaa2bdbf59e772a860d1d34e230207e9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Sword Oratoria (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d3834cb40cb8847924567292ebad360165bc638b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-28T00:11:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d3834cb40cb8847924567292ebad360165bc638b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 众神的恶作剧 Kamigami no Asobi 1-12 (BD 1920x1080 x.264 Flac) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6329e19494205625199256e885a117fe9e7099a1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-27T17:52:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6329e19494205625199256e885a117fe9e7099a1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 骑士&魔法 Knight's & Magic 1-13 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cdf26687bee6881921265a3967a1729d7f43da2d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-27T11:37:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cdf26687bee6881921265a3967a1729d7f43da2d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Guilty Crown [ Sharp Ver.] (BD 1920x1080 x264 2Audio)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-65220a0f3aa6182909f66366878f69dfbb99bb43.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-27T10:47:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:65220a0f3aa6182909f66366878f69dfbb99bb43&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [肥猫压制][FatCatRAW][假面骑士平成世代FINAL][BDRIP][1080P][HEVC-YUV420P10 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-076d86fddf82359fb22d8754c90404e45bdca71d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-27T02:37:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:076d86fddf82359fb22d8754c90404e45bdca71d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Kakuchou Shoujo Kei Trinary (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d638bb18adf28c2dbda51cdde2db4becbc09b561.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-27T00:16:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d638bb18adf28c2dbda51cdde2db4becbc09b561&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 七大罪 戒律的复活 Nanatsu no Taizai Imashime no Fukkatsu Vol 1 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b52a7ca6dacec9ebc1c208805f74ec0d850752e9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-26T18:07:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b52a7ca6dacec9ebc1c208805f74ec0d850752e9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 魔装学园 HxH Masou Gakuen HxH 1-12 [BDRip 1920x1080 x264 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-90bfb38d82726fef427efebd97ca7fcbe71c43f2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-26T10:09:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:90bfb38d82726fef427efebd97ca7fcbe71c43f2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [诸神&豌豆&风之圣殿][剧场版][命运停驻之夜 天之杯 I -预示之花-][Fate/stay night Heaven's Feel I.presage flower][简繁日语字幕][BDRip][1080P][HEVC MKV]v2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fd32bd7b01eb71b03808d7de2409338c229232d0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-26T07:12:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fd32bd7b01eb71b03808d7de2409338c229232d0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        七人魔法使 Trinity Seven(2014)[BDRIP][1920x1080][TV12+OVA+剧场版 悠久图书馆与炼金术少女+NCOPED5+menu7+pv4][x264_m4a][10bit]加刘景长压制",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-638d00d363732a72b29d668357441b5d96262505.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-26T06:45:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:638d00d363732a72b29d668357441b5d96262505&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Shakunetsu no Takkyuu Musume (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7cdf3bc5772af49cec2a7513e42b1e1706e8104d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-26T01:23:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7cdf3bc5772af49cec2a7513e42b1e1706e8104d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 女高网球/网球并不可笑嘛 第九季 Teekyuu S9 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2999a02ce52dfe4264681461d89001ffad86b121.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-25T14:34:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2999a02ce52dfe4264681461d89001ffad86b121&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [魔星字幕团][假面骑士Amazons II][DISC1][01-06][本篇][中日双语字幕][1080P][BDRip][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fab2e71c852315fbafd8087b0de0823a8a818ca8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-25T08:44:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fab2e71c852315fbafd8087b0de0823a8a818ca8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Yousei-raws] 超能力大战 Needless 1-24 [BDrip 1920x1080 x264 FLAC] 简繁外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9ece92f6f79a538cf841d5b9ffa132632b2eabe7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-25T04:41:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9ece92f6f79a538cf841d5b9ffa132632b2eabe7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 无论何时我们的恋情都是10厘米 Zero kara Hajimeru Mahou no Sho 1-6 [BDRip 1920x1080 HEVC FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1ac2daf436fb4a32e10a6641ff50e51645abcafb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-25T00:46:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1ac2daf436fb4a32e10a6641ff50e51645abcafb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Sister Princess (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-49af35460063b12733c60bb926f2337847b8aca5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-25T00:16:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:49af35460063b12733c60bb926f2337847b8aca5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 战斗女子学园 Battle Girl High School 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-99f185a3687d1b05b26dc18557659124655e8538.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-22T17:21:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:99f185a3687d1b05b26dc18557659124655e8538&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 骑士&魔法 Knight's & Magic 1-13 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-911b015e41bd9f5375fa01e84c898853f5a95e3e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-22T09:39:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:911b015e41bd9f5375fa01e84c898853f5a95e3e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 小魔女学园 Little Witch Academia (2017) 1-25  [BDRip 1920x1080 x264 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c65ad514924aa23c4fac014813c89a5a55a5efc5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-22T05:18:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c65ad514924aa23c4fac014813c89a5a55a5efc5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作4][动物战队兽王者丨第三卷24-35][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0760a912a9e651548b376293b1cab303b0168593.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-22T01:25:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0760a912a9e651548b376293b1cab303b0168593&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 不正经的魔术讲师与禁忌教典 Roku de Nashi Majutsu Koushi to Akashic Records 1-12 [BDRip 1920x1080 x264 FLAC] 内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-70317631f427e39b8233e543d9934d7746710d3e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-20T14:16:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:70317631f427e39b8233e543d9934d7746710d3e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Yara-Raws] 武装少女 Busou Shoujo Machiavellianism 1-13 [BDRip 1920x1080 x264 FLAC] 内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b0f773f38173701364f2fadbc289a70c09ae9768.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-20T13:43:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b0f773f38173701364f2fadbc289a70c09ae9768&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 火星公主 Aldnoah.Zero 1-24 [BDRip 1920x1080 x264 FLAC]神作中的烂尾粪作",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7f5b154c590ea02275e62c3cba39249e2037d42b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-20T12:17:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7f5b154c590ea02275e62c3cba39249e2037d42b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[少女终末旅行_Shoujo Shuumatsu Ryokou][01-12+SP 附相关专辑][BDRIP 1920x1080 x264 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-72c6ef390404dc0c3577e1229ecdee77ae3f6dee.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-20T10:34:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:72c6ef390404dc0c3577e1229ecdee77ae3f6dee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] D.C. II + S.S. (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5d3456736c6c0f1693b365d5178024502acbe63f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-20T01:04:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5d3456736c6c0f1693b365d5178024502acbe63f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨35.兽王者的末日][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-191b74baee20059173d40b7560ef6cbbc2fd63be.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-19T06:24:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:191b74baee20059173d40b7560ef6cbbc2fd63be&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【ReinForce] 扩张少女系三重奏 Kakuchou Shoujo Kei Trinary 1-34 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1d20b0c26f05f273a5e917fa6796dee1c10c9d2d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-19T03:03:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1d20b0c26f05f273a5e917fa6796dee1c10c9d2d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 只有神知道的世界/女神篇 第三季 Kami nomi zo Shiru Sekai Megami Hen 1-12 (BD 1920x1080 x.264 FLACx2) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-091e5ffdf211c473fce6d6596e8966f6e76a16b3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-18T16:19:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:091e5ffdf211c473fce6d6596e8966f6e76a16b3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 只有神知道的世界 第二季  Kami nomi zo Shiru Sekai S2 - 1-12 (BD 1920x1080 x.264 Flac) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c31858ece7453949c189c262ae39b6b6711d7a09.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-18T16:18:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c31858ece7453949c189c262ae39b6b6711d7a09&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 只有神知道的世界 第一季 Kami nomi zo Shiru Sekai S1 - 1-12 (BD 1920x1080 x.264 Flac) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-416e19500bbe8e96d63bbce3eb9598c78de89671.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-18T16:17:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:416e19500bbe8e96d63bbce3eb9598c78de89671&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[路人女主的養成方法][第1期+第2期][BDRip][HEVC_FLAC][1080P_Ma10P][簡繁外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-41da237e5c77d2871377469a69e3fc9f9d4e0a96.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-18T09:12:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:41da237e5c77d2871377469a69e3fc9f9d4e0a96&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Watashi ga Motete Dou Sunda (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b4ce1dc6c050c2f6aa5887df7f20cce920b73c81.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-18T05:07:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b4ce1dc6c050c2f6aa5887df7f20cce920b73c81&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 战国Basara第二季 Sengoku Basara S2 (BD 1920x1080 x.264 Flac) - TV + SP",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-53f0682929fba3047e23e7933ceda999d80d66bf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-18T05:04:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:53f0682929fba3047e23e7933ceda999d80d66bf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 加速猪/加速世界 Accel World 1-24 (BD 1920x1080 x.264 Flac) 肥宅快乐番（生不如加速猪）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-75038691a8a29dbea38af734c24e77e8471fbc6e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T15:51:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:75038691a8a29dbea38af734c24e77e8471fbc6e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 狗与剪刀的正确用法 Inu to Hasami wa Tsukaiyou 1-12 (BD 1920x1080 x.264 FLACx2)内附字幕（死不如剪刀狗）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-50b6bed86ae806d8b8b1edc37617686df36d3955.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T15:28:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:50b6bed86ae806d8b8b1edc37617686df36d3955&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★劇場版[遊戲人生 No Game No Life Zero][BDRIP]hevc-yuv420p10_flacx3_chap][1080p][簡繁外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-88e1c1316b7166a559951e5ceda24b820fe0a504.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T13:44:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:88e1c1316b7166a559951e5ceda24b820fe0a504&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★劇場版[遊戲人生 No Game No Life Zero][BDRIP][1920x1080][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-324dfa622d2f809f66fcaee72f654f7c8a5d3037.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T13:39:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:324dfa622d2f809f66fcaee72f654f7c8a5d3037&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】★剧场版[游戏人生 No Game No Life Zero][BDRIP][1920x1080][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e0427ca2c483413db245c6f631033527efa915f1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T13:38:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e0427ca2c483413db245c6f631033527efa915f1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [风车字幕组][数码宝贝大冒险Tri.][第六章最终章 我们的未来][2018.05.05][简繁内封4字幕][常用童年版译名&日语直译][BDRip][1080P_10bit_WAV][MKV][内附7个无字幕特典映像][见内附说明]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d63f606c8513c34afa8b6506be1f54d1402bace3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T07:08:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d63f606c8513c34afa8b6506be1f54d1402bace3&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [BD 1080P]龙娘七七七埋藏的宝藏 [09-11][简体][极影字幕社]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ef9bd3c21a29c0c70aaacc82e965b7e19ed755c7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T06:10:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ef9bd3c21a29c0c70aaacc82e965b7e19ed755c7&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Boku no Kanojo ga Majime Sugiru Shobitch na Ken (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ddbd0a47f154e10cdc976479f082dd1b431085fa.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T05:17:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ddbd0a47f154e10cdc976479f082dd1b431085fa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 山田君与七人魔女/山田君与七位魔女 Yamada-kun to 7-nin no Majo 1-12+OAD1~2 (BD 1920x1080 x.264 Flac) 内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f750abe2e2552073328582888b37ec65cd457f23.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T04:33:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f750abe2e2552073328582888b37ec65cd457f23&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 龙与虎 Toradora 1-25 BD-BOX  - TV + OVA 内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e3d4b4b03c2e58731afcfe4a838a1badfcea32e1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T17:10:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e3d4b4b03c2e58731afcfe4a838a1badfcea32e1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 七大罪 第一季  Nanatsu no Taizai - 1-24 (BD 1920x1080 x.264 Flac) 内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d33bb6790b52b16d97c807fd8a307ddeba98f0a2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T16:53:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d33bb6790b52b16d97c807fd8a307ddeba98f0a2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 幼女战记 Youjo Senki 1-12 (BD 1280x720 x264 AAC) 内附字幕",
+
+
+"workName": "幼女戦記",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-39b582b97bad0fdacd241748257285d75ead40cd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T16:27:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:39b582b97bad0fdacd241748257285d75ead40cd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 粗点心战争 第二季 Dagashi Kashi S2 1-12 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bab11c4677c878c7c3ad7b5c95211ada21f07b95.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T15:45:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bab11c4677c878c7c3ad7b5c95211ada21f07b95&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 斩赤红之瞳 Akame ga Kill! 1-24 (BD 1920x1080 x.264 FLACx2) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0c9f2ed05ddee7d4491b33359fbc3984bba241af.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T15:32:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0c9f2ed05ddee7d4491b33359fbc3984bba241af&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Takunomi. (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-de83462059df447f22d9a4717565c2ce749919c0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T12:49:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:de83462059df447f22d9a4717565c2ce749919c0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 天使与龙的轮舞 Cross Ange - Tenshi to Ryuu no Rondo 1-25 (BDRip 1920x1080 x264 FLAC) 内附字幕 （非常好看的剧情番）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-78bb5917502e86f01cacf8960b1aef332deb4dc3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T04:22:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:78bb5917502e86f01cacf8960b1aef332deb4dc3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Shoujo Shuumatsu Ryokou (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2c947102c91c2fd13b835ca349b9ba033437c4b7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T00:30:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2c947102c91c2fd13b835ca349b9ba033437c4b7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [BD 1080P]龙娘七七七埋藏的宝藏 [07-08][简体][极影字幕社]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a9351a2d1645c7d48f026cdc75fd4c31c85c3805.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-15T15:01:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a9351a2d1645c7d48f026cdc75fd4c31c85c3805&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 弑神者 Campione! 1-13 (BDRip 1920x1080 x264 FLAC)（舌吻是不行的）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d8ec908560d00f26a6d39d7b0225b61575f35b31.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-15T12:24:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d8ec908560d00f26a6d39d7b0225b61575f35b31&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[魔笛MAGI 辛巴达的冒险][マギ シンドバッドの冒険][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3cde2593794c5b5d37187311958faaf6bf059420.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-15T10:57:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3cde2593794c5b5d37187311958faaf6bf059420&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 宇宙神作/人类圣经/系京紫/紫罗兰永恒花园 Violet Evergarden (Vol.1-2) [BDRip 1920x1080 x264 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-73af1ca1ccd0354c8fa7556c29959a9900973ced.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-15T04:24:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:73af1ca1ccd0354c8fa7556c29959a9900973ced&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Seikaisuru-Kado (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-efdbb6b2fde817532472ab912e90fbe103203db9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-15T01:25:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:efdbb6b2fde817532472ab912e90fbe103203db9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 日本国有铁道公安队 Rail Wars! 1-12 (BDRip 1920x1080 x264 FLAC) （打着铁道名义一本正经的卖奶番）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0dadc43c7b51dc5e8c07cba3b4fac8786eb4a3a2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-14T14:20:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0dadc43c7b51dc5e8c07cba3b4fac8786eb4a3a2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组】【命运/停驻之夜 天之杯 I.预示之花_Fate/stay night Heaven's Feel I.presage flower】[剧场版][BDRIP_720P][x264_AAC][简体内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9ca4b6f7efe68320502f365ccd7b443f1b0ce5b0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-14T13:04:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9ca4b6f7efe68320502f365ccd7b443f1b0ce5b0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2 / Notice] 剑姬神圣谭 DanMachi Sword Oratoria 1-12 (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2020af98b5e8b00169a223e965c62971ac4eb739.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-14T12:50:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2020af98b5e8b00169a223e965c62971ac4eb739&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[咕噜咕噜魔法阵2017][魔法陣グルグル2017][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-85f654f9fb5ccf4637a9bdde02a9491de75fa24d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-14T11:52:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:85f654f9fb5ccf4637a9bdde02a9491de75fa24d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [肥猫压制][FatCatRAW][初音岛Ⅱ/D.C.Ⅱ][BDBOX][BDRIP][HEVC-YUV420P10 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-36290e7e637898c7b402e9bc8542ec340e0c5abb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-14T11:50:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:36290e7e637898c7b402e9bc8542ec340e0c5abb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨34.巨兽猎人的反攻][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6f59b4c00a8d7f5ec7f408739e3d6b116e0ed5aa.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-14T02:04:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6f59b4c00a8d7f5ec7f408739e3d6b116e0ed5aa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] Rewrite S1+S2 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-07ffb8c483ce143eef4b788ab92720d68dec3cba.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T16:30:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:07ffb8c483ce143eef4b788ab92720d68dec3cba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [诸神&豌豆&风之圣殿][剧场版][命运停驻之夜 天之杯 I -预示之花-][Fate/stay night Heaven's Feel I.presage flower][简繁日语字幕][BDRip][1080P][HEVC MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fb590cba45db09085787d886bbbfce323db88a34.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T14:59:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fb590cba45db09085787d886bbbfce323db88a34&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 妖精的旋律 Elfen Lied 1-13 BD-BOX - TV + Special EP + SP （很治愈的动画片）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c1595c69ae531a59ccd202b1a39c741f38898dc0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T09:56:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c1595c69ae531a59ccd202b1a39c741f38898dc0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Magi Sinbad no Bouken 魔笛 辛巴德的冒險 (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-431a202ffa184a953a086a8b6f5694cf2f8393d4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T06:00:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:431a202ffa184a953a086a8b6f5694cf2f8393d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 战国无双第一季 Sengoku Basara S1 (BD 1920x1080 x.264 FLACx2) - TV + SP",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-da0b59d1440dfb6085de6d9b5a87b3e11e663e9e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T05:44:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:da0b59d1440dfb6085de6d9b5a87b3e11e663e9e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 魔力女管家 特别篇 Mahoromatic Tadaima Okaeri 1-2 (BD 1920x1080 x.264 Flac) 内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f23ea01783e217132c552d3a1979013fcb0e9964.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T05:23:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f23ea01783e217132c552d3a1979013fcb0e9964&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 魔力女管家 第二季 Mahoromatic Motto Utsukushii Mono 1-14 (BD 1920x1080 x.264 Flac) 内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6f4671413a849c37e11cfe02d1ab4f7454a608f8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T05:20:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6f4671413a849c37e11cfe02d1ab4f7454a608f8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 魔力女管家 第一季 Mahoromatic 1-12 (BD 1920x1080 x.264 Flac) 内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0f4126aba69a2f5db97e136d98abcb009c6c8254.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T05:19:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0f4126aba69a2f5db97e136d98abcb009c6c8254&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 剧场版 Fate stay night Heaven's Feel I - presage flower [BDRip 1920x1080 x264 FLAC] 内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bbb7f11cdd96dcc98187aa21ed33d834c993f204.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T03:38:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bbb7f11cdd96dcc98187aa21ed33d834c993f204&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 魔力充电娘 Fight Ippatsu! Juuden-chan!! OVA1~6+SP(BD 1920x1080 x.264 Flac)（乳） 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-34c122561d0a061a9227d93abc02dd325b0319c5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T23:32:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:34c122561d0a061a9227d93abc02dd325b0319c5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 魔力充电娘 Fight Ippatsu! Juuden-chan!! 1-12 (BD 1920x1080 x.264-10Bit FLACx2)（乳） 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-db0c449c4ee4ae79d060563ed673e01968c20ee0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T23:15:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:db0c449c4ee4ae79d060563ed673e01968c20ee0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [XX-Project] [比翼之吻 / 和达令上弗兰XX / 情迷弗朗克斯 / 国家队  / ditf][DARLING in the FRANXX][ダーリン・イン・ザ・フランキス][BDMV][1080p][Vol.1]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e1d449be1a5c34dab05c24c6013ff864ae945425.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T17:26:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e1d449be1a5c34dab05c24c6013ff864ae945425&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce]  欢迎来到实力至上主义的教室 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 1-12 (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0239b82391e493ef8d9fc64b4de5594195a77425.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T16:38:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0239b82391e493ef8d9fc64b4de5594195a77425&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Anime Land] 剧场版 Fate stay night Movie - Heaven's Feel - I. Presage Flower (BDRip 1080p Hi10P DTS) 内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-16d0b1f770afaf80400d264e4ad5ce41526fa59a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T16:27:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:16d0b1f770afaf80400d264e4ad5ce41526fa59a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 粗点心战争 第二季 Dagashi Kashi S2  1-12  (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-39e82ef7098be513b1eba52377bcabdaaf8197cf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T15:32:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:39e82ef7098be513b1eba52377bcabdaaf8197cf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 境界触发者 World Trigger 1-72 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c2a1b374b7518e2b47252bda5954e1850edb773a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T15:23:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c2a1b374b7518e2b47252bda5954e1850edb773a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Kino no Tabi The Beautiful World The Animated Series (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-960e7799b2028f3cf84b1e100ca1def8288b9b19.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T15:19:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:960e7799b2028f3cf84b1e100ca1def8288b9b19&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★劇場版[魔法科高中的劣等生:呼喚繁星的少女][BDRip][HEVC_FLAC][1080P_Ma10P][簡繁外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5e7fd2b62fb74ef8d0da49a7bf1bd7916b39624a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T11:37:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5e7fd2b62fb74ef8d0da49a7bf1bd7916b39624a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [BD 1080P]龙娘七七七埋藏的宝藏 [05-06][简体][极影字幕社]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-136f8e2a43a729bed956b306c1bace9041371d54.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T10:39:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:136f8e2a43a729bed956b306c1bace9041371d54&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [BD 1080P]龙娘七七七埋藏的宝藏 [03-04][简体][极影字幕社]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-06b080b1ff2a8d64def2fe3497efdcf1b56a07eb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T07:10:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:06b080b1ff2a8d64def2fe3497efdcf1b56a07eb&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        紫羅蘭永恆花園 / Violet Evergarden / ヴァイオレット・エヴァーガーデン [Blu-ray Vol.2 劇場上映版][BDRip AVC-yuv420p 1920x1080p FLAC(2.0+5.1)][繁體中文字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-63abfc2f29844ad056c25ca7c9e0ec697e39c609.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T06:19:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:63abfc2f29844ad056c25ca7c9e0ec697e39c609&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [BD 1080P]龙娘七七七埋藏的宝藏 [01-02][简体][GB][极影字幕社]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f6a8dbf52e2069a20cb7d7ae1cd19204ae4e21e1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T04:53:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f6a8dbf52e2069a20cb7d7ae1cd19204ae4e21e1&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Nora to Oujo to Noraneko Heart (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-de577e5140dfdec2675b360798a1b092aaac5036.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-11T23:58:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:de577e5140dfdec2675b360798a1b092aaac5036&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 宇宙巡警露露子 Uchuu Patrol Luluco 1-13 (BD 1920x1080 x.264 DTS-HDMA)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f0621160b6b96fc2956c983c199a8737e3ee0766.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-11T17:25:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f0621160b6b96fc2956c983c199a8737e3ee0766&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 带着智能手机闯荡异世界 Isekai wa Smartphone to Tomo ni. 1-12 (BD 1920x1080 x.264 Flac)内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-20653c858e3f6fe1f1c4bdd7b7a66c8123c10606.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-11T15:33:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:20653c858e3f6fe1f1c4bdd7b7a66c8123c10606&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Two Car (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-932303faa87e2de4521099f702095614c612046f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-11T15:27:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:932303faa87e2de4521099f702095614c612046f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2017] 劇場版「Fate／stay night [Heaven's Feel]」 I. presage flower (BD 1080p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-edf32cf076000625b43f92a3ee07a9a03c13acc1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-11T12:25:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:edf32cf076000625b43f92a3ee07a9a03c13acc1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Mahoraba Heartful Days (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-550e219dfb6986b2f78f3d2bfb0264dfd57f1317.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-11T01:27:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:550e219dfb6986b2f78f3d2bfb0264dfd57f1317&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 第一次的辣妹/第一次的gal Hajimete no Gal 1-11 (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-af78376f999fbb9b94e49e65a53d90230b3a7913.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-10T18:50:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:af78376f999fbb9b94e49e65a53d90230b3a7913&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 恋爱与谎言/恋爱禁止的世界 Koi to Uso 1-12 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9df60835208215751b983688398a8f03bd2b7e5c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-10T18:36:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9df60835208215751b983688398a8f03bd2b7e5c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 恋爱与谎言/恋爱禁止的世界 Koi to Uso 1-12 BD-BOX - TV + SP",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ab5ee3132110ca6b05654ba0bc1b3f7eecde23d3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-10T18:33:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ab5ee3132110ca6b05654ba0bc1b3f7eecde23d3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] Gekijouban Fate Stay Night Heaven`s Feel - 01 (BD 1920x1080 x264 FLA）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0e1801196085dd9d40ffaaf21776bad29a712839.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-10T18:12:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0e1801196085dd9d40ffaaf21776bad29a712839&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【囧夏字幕组&WiKi】齐木楠雄的灾难真人版 Psychic.Kusuo.2017 [1080p][BluRay][x265][10bit][DTS][MKV][简繁内封]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f56c297247a33220de800fc3c6fd6276cf98de13.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-10T16:40:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f56c297247a33220de800fc3c6fd6276cf98de13&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨33.猫骗式的报恩][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2a8814038036a84f2a7177b77f10eb2368884a1d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-10T15:07:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2a8814038036a84f2a7177b77f10eb2368884a1d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [INDRA] Fate stay night -Heaven's Feel- I.presage flower [1080P][BDRip][HEVC 8bit AAC 5.1]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4a8c1b8756dfb9f03a8ead7a387a77b67cfa04a3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-10T10:15:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4a8c1b8756dfb9f03a8ead7a387a77b67cfa04a3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Fate／stay night Movie：Heaven's Feel - I. Presage Flower][BDRip 1920x1080 X265 10bit OPUS 5.1]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3a61ab1858ed782d8585f61c43d87795c66acfd0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-10T01:27:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3a61ab1858ed782d8585f61c43d87795c66acfd0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [魔星字幕团][奈欧斯奥特曼][03][来自大海的SOS][中日双语字幕][BDRip][1080P][HEVC Main10P FLACx2 MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f7f29cd9fc627498f2ea609e85600fe8303f42bb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-09T14:26:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f7f29cd9fc627498f2ea609e85600fe8303f42bb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 剧场版 Fate／Stay Night Heaven's Feel.Presage Flower (BDRip 1920x1080 x264）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0b4c6f3b76ed44429cae46b2fffa111a84ab8062.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-09T10:05:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0b4c6f3b76ed44429cae46b2fffa111a84ab8062&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Rin] 剧场版 Fate stay night - Heaven's Feel I.presage flower (BD 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-76eb6dffcfba67a68e5998f900197f7c53ed4e6f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-09T07:32:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:76eb6dffcfba67a68e5998f900197f7c53ed4e6f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][希德尼婭的騎士 特殊視角 導演剪輯版][BD][BIG5][全24話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e5794e6b45d386376d9a0ada3743c53259a0982b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-08T22:33:23.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e5794e6b45d386376d9a0ada3743c53259a0982b&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 具象革命 超人幻想 Concrete Revolutio Choujin Gensou 1-24 (BD 1920x1080 x.264 FLACx2) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-23f4ef89380f9de905f7b1632d150bf5d0e7bd1a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-08T17:54:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:23f4ef89380f9de905f7b1632d150bf5d0e7bd1a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 三颗星彩色冒险 / 三星Colors Mitsuboshi Colors - Vol 1 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3e72f7f2a7aca22b8030f4ceb050c3b761d0d3da.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-08T12:06:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3e72f7f2a7aca22b8030f4ceb050c3b761d0d3da&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 青之驱魔师 京都不净王篇 Ao no Exorcist Kyoto Fujouou Hen 1-12 (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c02d1daf470d2e440688165a955765b36c597417.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-08T11:40:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c02d1daf470d2e440688165a955765b36c597417&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 青之驱魔师 京都不净王篇 Ao no Exorcist Kyoto Fujouou Hen 1-12  (BD 1920x1080 x.264 Flac) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bd13ebc82914f7d0a2f3e0a18c9c0dde9ee86900.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-08T11:39:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bd13ebc82914f7d0a2f3e0a18c9c0dde9ee86900&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [VeU3-Project] [Fate/stay night [Heaven's Feel] I.預示之花][劇場版「Fate/stay night [Heaven's Feel] I.presage flower」][フェイト ステイナイト ヘブンズフィール][BDMV][1080p][Movie Vol.1][AVC][Ue]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f4da0f79e9d07ad1a9938d6aaafef30082e8a052.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-08T03:12:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f4da0f79e9d07ad1a9938d6aaafef30082e8a052&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻之字幕组】剧场版 - fate stay night heaven's feel剧场版 [1080P][BDRip][Movie][简体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cdef0d66cbcf3dba3a1ab7cdf1922702fd1671ae.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-07T21:15:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cdef0d66cbcf3dba3a1ab7cdf1922702fd1671ae&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨32.一心两面][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-954345a6ba38d5951a10de2119cb6031f03cbc75.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-07T19:18:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:954345a6ba38d5951a10de2119cb6031f03cbc75&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][來自深淵][BD][BIG5][全13話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-908674852b1a2e6cd520de6d1792a29afc11f433.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-07T18:43:05.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:908674852b1a2e6cd520de6d1792a29afc11f433&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] Gamers! (BD 1080P x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d46404977b261fbd0aaf6f65d53dda072f6c4257.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-07T17:15:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d46404977b261fbd0aaf6f65d53dda072f6c4257&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[OVERLORD-Ple_Ple_Pleiades][BDRip][Vol.01][HEVC_FLAC][1080P_Ma10P][簡繁外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-74f1ea6a4aca6b52b4244d1e1d4db076c9a8a0c7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-07T13:00:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:74f1ea6a4aca6b52b4244d1e1d4db076c9a8a0c7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [風車字幕組][數碼寶貝大冒險Tri.][第六章最終章 我們的未來][2018.05.05][繁體][BDRip][720P][完整99分未剪輯版]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-217b740448deec648981ea7672c0a83a5861d897.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-06T11:13:16.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:217b740448deec648981ea7672c0a83a5861d897&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [风车字幕组][数码宝贝大冒险Tri.][第六章最终章 我们的未来][2018.05.05][简体][BDRip][720P][完整99分未剪辑版]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-49530ac299d8b3e8a44da151cdc99484c7928f1b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-06T10:29:11.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:49530ac299d8b3e8a44da151cdc99484c7928f1b&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 我是基佬我最屌/文豪野犬 Bungou Stray Dogs  S1+S2 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-58ee6a6fc7decaf2c667d95f075c0de2c1d6df5d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-06T01:25:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:58ee6a6fc7decaf2c667d95f075c0de2c1d6df5d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        ✿臉腫字幕組×小花花同盟戰線✿【煙花 / 升起的煙火，從下面看？還是從側面看？_Fireworks, Should We See It from the Side or the Bottom】[劇場版][1080P_BDRIP_MP4][繁體]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-09af418220dfc2ed8e70c7fc5ab671ef8da465b9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-05T20:19:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:09af418220dfc2ed8e70c7fc5ab671ef8da465b9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [狐狸小宮][無水印收藏版][一週的朋友 ED][藤宮香織 (CV.雨宮天) - 奏 (かなで)][PV][x264_aac&flac][中日字幕&假名標註][BDrip][1080P][MP4&MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-71ceeecbeb8adb742ee75f163eea806e12a93c3b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-05T03:38:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:71ceeecbeb8adb742ee75f163eea806e12a93c3b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[POP TEAM EPIC][01-12+SP+OST][BDRIP 1920x1080 x264 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-06189da1c3654fca665e82079b978a37d05e5500.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-05T03:02:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:06189da1c3654fca665e82079b978a37d05e5500&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [狐狸小宮][一週的朋友 ED][藤宮香織 (CV.雨宮天) - 奏 (かなで)][PV][x264_aac&flac][中日字幕&假名標註][BDrip][1080P][MP4&MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-028037467d9123152c6b66421ca0132396f5e7fc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-05T02:54:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:028037467d9123152c6b66421ca0132396f5e7fc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Yousei-raws] 妹妹真香/缘之空 Yosuga no Sora 1-12 [BDrip 1920x1080 x264 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0deb62bf8376824eb060687a7daf614e33ea6d9d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-04T16:09:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0deb62bf8376824eb060687a7daf614e33ea6d9d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 吔蕉少女小缠/神装少女小缠 Soushin Shoujo Matoi 1-12 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8846adcb0d3deb806357f6bb10d9c914176cbe85.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-04T15:53:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8846adcb0d3deb806357f6bb10d9c914176cbe85&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 吔蕉少女小缠/神装少女小缠 Soushin Shoujo Matoi 1-12 BD-BOX - TV + OVA",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-86cd32dcdf62543e76b432927dc6d98c7f27bab3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-04T15:52:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:86cd32dcdf62543e76b432927dc6d98c7f27bab3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        恋爱暴君 Renai Boukun 1-12 [BDRip] [1080p] [RUS + JAP] 内附字幕下载",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0b917df3d75beb9e8850f0cfb2296e77a69ba54f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-04T15:13:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0b917df3d75beb9e8850f0cfb2296e77a69ba54f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 记录的地平线 第一季 Log Horizon S1  1-25 (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7552275a3bd0adc95b9c2a849f8d9fa0a59a5e8d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-04T11:08:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7552275a3bd0adc95b9c2a849f8d9fa0a59a5e8d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] GO! GO! 575  1-5 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-67b6ca2270fa62fe5fe20f0756ddbb5b999cb2a0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-04T10:55:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:67b6ca2270fa62fe5fe20f0756ddbb5b999cb2a0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Go! Go! 575  (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-55093ab6b7da319948368115b6afa4f3975f336f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-04T10:53:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:55093ab6b7da319948368115b6afa4f3975f336f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][傳頌之物-虛偽的假面][BD][BIG5][全25話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6bdf1b92c7be6276fe7eb6ed91939fae8f690ce0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-03T20:15:53.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6bdf1b92c7be6276fe7eb6ed91939fae8f690ce0&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Akatomba-Raws] 灵能百分百 Mob Psycho 100 1-12 (BD 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1a754ae29b4d66484103d5f19cea9ff24d3c14ae.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-03T16:48:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1a754ae29b4d66484103d5f19cea9ff24d3c14ae&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [VCB-Studio] Mahouka Koukou no Rettousei / 魔法科高校的劣等生 / 魔法科高校の劣等生 10-bit 1080p HEVC BDRip [TV+Movie Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3251f606423f5b63800ef081ff67011f6c4ef1fa.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-03T13:30:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3251f606423f5b63800ef081ff67011f6c4ef1fa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 側車搭檔 Two Car (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7b245e84b937852712c6375027b8daabb5582f7f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-03T10:40:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7b245e84b937852712c6375027b8daabb5582f7f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][Fate Apocrypha][BD][BIG5][全25話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d9fa496a1a3a12d8e2685e00927b225aa98b09a8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-03T02:24:38.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d9fa496a1a3a12d8e2685e00927b225aa98b09a8&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][傳頌之物][BD][BIG5][全26話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5688f46e72130387c8a0841dcda41ee23f7d889d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-02T18:08:23.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5688f46e72130387c8a0841dcda41ee23f7d889d&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [AikatsuFans][偶像活动!/Aikatsu!/アイカツ!][S1][BDBOX1][BDRIP][简繁外挂][1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c856893e8cfd8100a1f6262b089270045ff39977.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-02T14:38:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c856893e8cfd8100a1f6262b089270045ff39977&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Fate Apocrypha][BDRip 1920x1080 X265 10bit OPUS][1-25]外挂简体",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c7144c204a20fe39470f43e23e314a03e3c9d04b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-02T03:25:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c7144c204a20fe39470f43e23e314a03e3c9d04b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [诸神字幕组][虐杀器官][Genocidal Organ/Gyakusatsu Kikan][简繁日语字幕][BDRip][1080P][HEVC MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b1876bff86e9a74870a6fb96adc4902d48b70594.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-02T03:05:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b1876bff86e9a74870a6fb96adc4902d48b70594&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 比宇宙更远的地方 / Sora yori mo Tooi Basho [Vol. 1-2] [BDRip 1920x1080 x264 Hi10P FLAC] [俄语英语外挂字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0b2ab4f71e373a73f01848313e397ad0dbbfe5d9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T22:46:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0b2ab4f71e373a73f01848313e397ad0dbbfe5d9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Yousei-raws] 剧场版  勇者传说/勇者物语 Brave Story [BDrip 1920x1080 x264]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6f315597a7cb24fe46f3dfcebd71b5a744130022.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T14:01:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6f315597a7cb24fe46f3dfcebd71b5a744130022&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [剧场版] 勇者传说/勇者物语 Brave.Story.2006.1080p.BluRay.x264.DD5.1-FGT",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b23e4b2ee57a1f5e0af25d228ec749a9031dacfc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T13:57:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b23e4b2ee57a1f5e0af25d228ec749a9031dacfc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [轻之国度字幕组][剧场版][No Game No Life Zero][HEVC][BDRip][　]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-141a0b423b6cc1586f1eafe1db9b616bb913d4da.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T07:34:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:141a0b423b6cc1586f1eafe1db9b616bb913d4da&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 爱丽丝与藏六 Alice to Zouroku 1-12 (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-624911a14247d4ff2732dd0518bfabea0c62ef54.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T04:03:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:624911a14247d4ff2732dd0518bfabea0c62ef54&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [幻樱字幕组][剧场版] 世界一初恋/世界第一初恋～横泽隆史的场合~Sekai-ichi Hatsukoi~The Case of Yokozawa Takafumi~[BDrip][BIG5][1920X1080]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9f30e5df9c44c840928a95f7827aa06904f7894e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T03:35:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9f30e5df9c44c840928a95f7827aa06904f7894e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Blu-ray BOX] 世界第一初恋/世界一初恋  第一季 [Sekaiichi Hatsukoi][1-12][1080P][H264_FLAC] 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f46e282c445525352282e9ed84cd17b8ba7745a4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T03:18:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f46e282c445525352282e9ed84cd17b8ba7745a4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨31.巨兽站立之时][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0781d8acf3774a4ae742c52a05e3892fd74ea6b3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T02:47:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0781d8acf3774a4ae742c52a05e3892fd74ea6b3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [FatCatRAW][宇宙战队九连者][DISC.04][1080P][BDRIP][YUV420P10 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-94ecf08069f063cefff2b16623c7d751c323e054.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T01:01:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:94ecf08069f063cefff2b16623c7d751c323e054&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][魔道書7使者][BD][BIG5][全13話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9312c0af809d1b9cc1330b99544e927d9562f283.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T20:34:15.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9312c0af809d1b9cc1330b99544e927d9562f283&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 91 Days (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-89da4a0745235d4781f56ce30fcb039ddff09b3b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T18:12:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:89da4a0745235d4781f56ce30fcb039ddff09b3b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 我的英雄学院 第一季 Boku no Hero Academia 1-13 (BD 1920x1080 x.264 Flac) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-afbff078adf656225ce96e3ee003b0756fa77598.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T18:03:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:afbff078adf656225ce96e3ee003b0756fa77598&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] NTR战争/魔法战争 Mahou Sensou 1-12 (BD 1920x1080 x.264 Flac) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-335d46e863e5c3c3c67dc948325cb8309c8d740a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T17:28:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:335d46e863e5c3c3c67dc948325cb8309c8d740a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR動研字幕組】[重啟咲良田_Sakurada Reset][01-24全][繁體][BDRip][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-899ff3a06fbde09c9b94a0fb3597fb3fdebc4890.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T11:43:35.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:899ff3a06fbde09c9b94a0fb3597fb3fdebc4890&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 世界征服谋略之星 Sekai Seifuku ~Bouryaku no Zvezda~  1-13 (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4275c335202a4d4672dbad0d6edf08f1ad25c578.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T11:08:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4275c335202a4d4672dbad0d6edf08f1ad25c578&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[此花亭奇谭][このはな綺譚][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-db8b426dbb0cf259d690081b56132b5ecded48e8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T10:35:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:db8b426dbb0cf259d690081b56132b5ecded48e8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 赤发白雪姬 Akagami no Shirayuki-hime 1-24 [BDRip 1920x1080 x264 FLAC] 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-25d80c7cc0422f8c48c6f5066249486d0a542f50.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T04:19:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:25d80c7cc0422f8c48c6f5066249486d0a542f50&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 新妹魔王的契约者 OVA Shinmai Maou no Testament Departures OVA (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-10d4d799ce9800597e4607fedfccb80bbbca4f29.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T18:47:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:10d4d799ce9800597e4607fedfccb80bbbca4f29&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 钱.未来式/金钱掌控 [C] The Money of Soul and Possibility Control  1-11 [BDRip 1920x1080 x264 FLAC] 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-82c7a5654318d3de4896aa8ce589d1d06a21e500.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T18:27:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:82c7a5654318d3de4896aa8ce589d1d06a21e500&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 捏造陷阱 Netsuzou Trap NTR 1-12 (BD 1920x1080 x.264 Flac) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7d04fe155f111cdcc0dada1b939eda46c4dd0609.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T18:10:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7d04fe155f111cdcc0dada1b939eda46c4dd0609&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 捏造陷阱 Netsuzou Trap NTR 1-12 [BDRip 1920x1080 x264 FLAC] 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1abf3929e049b5222db71c8d0157652358570d5a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T18:02:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1abf3929e049b5222db71c8d0157652358570d5a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        sin七宗罪/sin七大罪  Sin Nanatsu no Taizai 1-12 [BDRip] [1080p]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-85ff80a2f7d6be64239c2ea54a865d8c0e8c5891.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T17:36:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:85ff80a2f7d6be64239c2ea54a865d8c0e8c5891&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 滨虎 第二季 Re Hamatora 1-12 (BD 1920x1080 x.264 Flac) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-689e21b786a608b7c25073098dc44881d8a5d1c9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T14:26:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:689e21b786a608b7c25073098dc44881d8a5d1c9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 滨虎 第一季 Hamatora 1-12  (BD 1920x1080 x.264 Flac) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-48a406d7a42dfbf25c9b15b4da7a3490f0db2481.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T14:25:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:48a406d7a42dfbf25c9b15b4da7a3490f0db2481&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [neko-raws] 剑姬神圣谭 DanMachi Sword Oratoria 1-12 [BD][1080p][FLAC] 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c5609644483d02d3e44cb45dbc0c4c92ce062dfc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T11:00:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c5609644483d02d3e44cb45dbc0c4c92ce062dfc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 剑姬神圣谭 DanMachi ~Sword Oratoria~ 1-12  (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bbd49dc58c3650843b507c3b284fa21a590942d9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T10:52:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bbd49dc58c3650843b507c3b284fa21a590942d9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 禁忌咒纹 Taboo Tattoo 1-12 (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8e755392dc3d5ba587cc294c86ec8a370248adb6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T10:15:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8e755392dc3d5ba587cc294c86ec8a370248adb6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[樱花任务][サクラクエスト][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a27e556e0da783654eb3944b02bdd9cd79322bac.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T05:34:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a27e556e0da783654eb3944b02bdd9cd79322bac&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NEO·QSW]CODE GEASS 反叛的鲁鲁修 剧场版Ⅰ兴道 コードギアス 反逆のルルーシュ I 興道[BDrip HEVC 1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c0909bd34c54021dd19ec819049a57fd63fe54d0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-28T04:33:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c0909bd34c54021dd19ec819049a57fd63fe54d0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 亚人酱有话要说 Demi-chan wa Kataritai 1-13 (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6b8ce1f20fdd86080df9acb4d441b3dfc29a6586.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-28T04:21:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6b8ce1f20fdd86080df9acb4d441b3dfc29a6586&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [CXRAW][デジモンテイマーズ][数码宝贝3\\数码暴龙3驯兽师之王][BDrip][1080P][HEVC Main10P FLAC MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7f4807b1c1f60573951413df81b04bee36fba70c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-28T02:51:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7f4807b1c1f60573951413df81b04bee36fba70c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [小愿8压制组]忍者蝙蝠侠.Batman.Ninja.2018.BluRay.1080p[Dual-Audio] [HEVC] [GB-EN]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9e27f23590de9490490d2cbdf85adb5675d079f4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-28T02:29:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9e27f23590de9490490d2cbdf85adb5675d079f4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] New Game!! 1-12 [BDRip 1920x1080 x264 FLAC] 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-710bf542e5f2ef147599a904217696f2c3dc1e4f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-27T13:26:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:710bf542e5f2ef147599a904217696f2c3dc1e4f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 电玩咖！GAMERS 1-12 (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0d13d7937ea5473eceab6a9df9e4cf2c690cd40d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-27T12:49:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0d13d7937ea5473eceab6a9df9e4cf2c690cd40d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 网络胜利组 Netojuu no Susume 1-11 [BDRip 1920x1080 x264 FLAC] 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d52f3d9d191b275913e402298e03d023c5c1caa4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-27T06:34:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d52f3d9d191b275913e402298e03d023c5c1caa4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[游戏人生 剧场版 No Game No Life Zero][v3 简体内嵌+简繁ass]BDrip 1080p x264_Flac]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7ed2b75746aabad69113223812a075f191d5454f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-27T06:04:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7ed2b75746aabad69113223812a075f191d5454f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 此花亭奇谭 Konohana Kitan 1-12 (BD 1920x1080 x.264 FLACx2) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f846e49270324660a7904054a7a4dd2b8f381a5b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-27T05:37:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f846e49270324660a7904054a7a4dd2b8f381a5b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 此花亭奇谭 Konohana Kitan 1-12 (BDRip 1920x1080 x264 FLAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-166f6dfebb505468f3290daf7a7384b984cb9897.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-27T05:35:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:166f6dfebb505468f3290daf7a7384b984cb9897&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【修正版】[ANK-Raws] AIR (BDrip x264 FLACx2 5.1ch AC3 VFR Hi10P SUP)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b9ffcb51aa419d60a2db9bd656fcf2b1c9eccdea.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-26T19:34:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b9ffcb51aa419d60a2db9bd656fcf2b1c9eccdea&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【Xrip】[Fate/Apocrypha][BDrip][BD-BOX][1080P][x265_10bit_flac]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-558140ed5f6554af87eb5eb9e6d5d8e475d1c9b2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-26T10:10:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:558140ed5f6554af87eb5eb9e6d5d8e475d1c9b2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【Xrip】[Fate/Apocrypha][BDrip][BD-BOX][1080P][x264_10bit_flac]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c881707cfef05fe4d1f384205257f04b9a760930.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-26T10:03:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c881707cfef05fe4d1f384205257f04b9a760930&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [肥猫压制][FatCatRAW][假面骑士 真・ZO・J][BDBOX][BDRIP][HEVC-YUV420P10 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2396947bff6fe158a75793aaa186eeca340227ed.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-24T10:19:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2396947bff6fe158a75793aaa186eeca340227ed&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 与僧侣交合的色欲之夜  Souryo to Majiwaru Shikiyoku no Yoru ni.. - TV+CS+SP (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aa69390bcf3d744a5b3d3ac18d3fcf2301c3ae5e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-24T10:13:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aa69390bcf3d744a5b3d3ac18d3fcf2301c3ae5e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [QTS] 与僧侣交合的色欲之夜 Souryo to Majiwaru Shikiyoku no Yoru ni... Limited Edition ep 01-12 + Eizou Tokuten (BD Hi10P 1920x1080 WV)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3b81f3e451ba77f9f778caa32e5caab459aac4d0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-24T10:09:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3b81f3e451ba77f9f778caa32e5caab459aac4d0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        魔法阵都市 剧场版 / SILENT MÖBIUS THE MOTION PICTURE / サイレントメビウス 劇場版 [BDRip 1920x1080 HEVC-10bit FLAC]（搜索用： MOBIUS ）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-942983c3d44b9cb921134f6692f951905569c011.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-24T08:16:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:942983c3d44b9cb921134f6692f951905569c011&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [CXRAW][仮面ライダーエグゼイド トリロジー アナザー・エンディング 仮面ライダーゲンムVSレーザー][BDrip][1080P][HEVC Main10P FLAC MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d519e8a3661deffb087a1348c01e731c03ed8d90.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-24T08:07:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d519e8a3661deffb087a1348c01e731c03ed8d90&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [CXRAW][仮面ライダーエグゼイド トリロジー アナザー・エンディング 仮面ライダーパラドクスwithポッピー][BDrip][1080P][HEVC Main10P FLAC MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4fd784c7e0084e06fd155f2637f29b0f3e2ad73b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-24T00:38:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4fd784c7e0084e06fd155f2637f29b0f3e2ad73b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 裙底有野兽 Skirt no Naka wa Kedamono Deshita 1-12 [BDRip 1920x1080 x264 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-534ef82bf0c66f16f6891620935b7c7b2b172f64.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-23T15:51:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:534ef82bf0c66f16f6891620935b7c7b2b172f64&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [QTS] 裙底有野兽 Skirt no Naka wa Kedamono Deshita.  01-12 (BD Hi10P 1920x1080 WV)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-84ea80663e43ae069bd316fc36e27448ddadd7da.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-23T15:48:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:84ea80663e43ae069bd316fc36e27448ddadd7da&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [T.H.X&A.I.R.nesSub&LittleBakas!] 龙的牙医 The Dragon Dentist BDRip 1080p MKV 简体外挂[重发]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e3e0288abb02b1b0e5ff3b2dde3b7437f3cef0e0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-23T05:19:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e3e0288abb02b1b0e5ff3b2dde3b7437f3cef0e0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [T.H.X&A.I.R.nesSub&LittleBakas!] 龙的牙医 The Dragon Dentist BDRip 1080p MKV 简体外挂",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e7ff24f972bf1b47e4e8cba1e4519abdad9e6741.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-22T16:40:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e7ff24f972bf1b47e4e8cba1e4519abdad9e6741&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [波洛咖啡廳&漫藤字幕組][煙花 主題曲][DAOKO × 米津玄師 - 打上花火][中日字幕&假名標註&羅馬拼音][x264_dts&aac][BDrip][1080P][MKV](45A51D91)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ae66cdb6cfd904d7b81175f4cc5da48df08c8a97.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-22T12:17:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ae66cdb6cfd904d7b81175f4cc5da48df08c8a97&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [波洛咖啡廳&漫藤字幕組][煙花 主題曲][DAOKO × 米津玄師 - 打上花火][中日字幕&假名標註&羅馬拼音][x264_aac][BDrip][1080P][MP4](15E68EC0)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7e1cf265dda3370779159fc20bcea3351b0e9f12.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-22T12:15:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7e1cf265dda3370779159fc20bcea3351b0e9f12&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组】【升起的烟花，从下面看？还是从侧面看？_Uchiage Hanabi,Shita kara Miru ka?Yoko kara Miru ka?】[剧场版][BDRIP_720P][x264_AAC][简体内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7854d9609bb7e7458ebda4519d876c1ca7a887a8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-22T06:16:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7854d9609bb7e7458ebda4519d876c1ca7a887a8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][只有神知道的世界][BD][BIG5][全40話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b1546ac317885e5be57dafcb784c9a9a2499361d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-21T22:38:26.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b1546ac317885e5be57dafcb784c9a9a2499361d&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [HSxMaho.sub][BREAKBOTTLE] Swing Out Sisters [1080P x264 FLAC BDRIP] [简体内封]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e36fc2e11e96670ff6dfe015dc8a9b41af088ef1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-21T17:07:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e36fc2e11e96670ff6dfe015dc8a9b41af088ef1&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[异世界食堂_Isekai Shokudou][BDRIP 01-12+SPx2 1920x1080 x264 FLAC][MKV简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d835b856a83050d0702d8332ce7e6480a4875869.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-21T13:35:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d835b856a83050d0702d8332ce7e6480a4875869&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 方舟九号/Ark Nine/アークIX (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d5006b355aff2503d4b9eccc3751a5b284aea238.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-21T02:02:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d5006b355aff2503d4b9eccc3751a5b284aea238&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Naxia][劇場版 瑪麗與魔女之花][1080P][簡繁日英內掛字幕][BDRip][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a903d573ae5874b9a21f8abe3e5423326888dd48.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-20T15:04:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a903d573ae5874b9a21f8abe3e5423326888dd48&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [YMDR搬运组][烟花][打ち上げ花火、下から見るか？横から見るか？][Fireworks][2017][BDRip 1920x1080 x264 YUV420 8bit FLAC 5.1][日语][内嵌特效双语字幕][ViPHD](度盘)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d5ee7b1aa8b21e42027ff23eff61f1e3d3f6a895.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-20T11:22:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d5ee7b1aa8b21e42027ff23eff61f1e3d3f6a895&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [烟花][打ち上げ花火、下から見るか？横から見るか？][Fireworks][BDRip 1920x1080 X265 YUV444 12bit OPUS 5.1]外挂简体",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2c6de5d4e4ab862971b5be3fa07055e4b3733b11.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-20T01:16:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2c6de5d4e4ab862971b5be3fa07055e4b3733b11&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Naxia][劇場版 瑪麗與魔女之花][1080P][繁日雙語字幕][BDRip][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-93e80044ac3d9e8e719afc4a2de8fa69501e85c9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-19T13:47:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:93e80044ac3d9e8e719afc4a2de8fa69501e85c9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Naxia][剧场版 玛丽与魔女之花][1080P][简日双语字幕][BDRip][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2e4dd66849590ba935c0dfb95e52655cd4475ffa.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-19T13:39:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2e4dd66849590ba935c0dfb95e52655cd4475ffa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【LxyLab】(欧美动画)沃特希普高地 Watership Down 1978 BDRip 1080p 简体中文字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c2be1c64ce010c86178cc7787f050bc92bc6ecaf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-19T10:39:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c2be1c64ce010c86178cc7787f050bc92bc6ecaf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Naxia][劇場版 瑪麗與魔女之花][1080P][繁日雙語字幕][BDRip][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bc77cf0dc1b674168361aa5b09a5ab5f05ed1d1f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-19T08:37:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bc77cf0dc1b674168361aa5b09a5ab5f05ed1d1f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 俺物语/Ore Monogatari!!-My Love Story!!/俺物語!! (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f8d3276b4acb3007906e3d58c8aa111ade1f264c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-19T07:21:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f8d3276b4acb3007906e3d58c8aa111ade1f264c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【漫貓字幕組】[紫羅蘭永恆花園/京紫][Violet_Evergarden][01_03][BDRip][繁體][1080P][HEVC_Main10]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d28127b0bf0099cbb64a1f5a005893604c8e81b5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-19T05:26:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d28127b0bf0099cbb64a1f5a005893604c8e81b5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【波洛咖啡廳字幕組】【升空的焰火，從下面看還是從側面看/煙花】【BDrip】【繁日雙語字幕】【1080P】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9347c09f9cde5d86119d3922c52c9a133c02c784.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-19T02:34:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9347c09f9cde5d86119d3922c52c9a133c02c784&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【波洛咖啡厅字幕组】【升空的焰火，从下面看还是侧面看/烟花】【BDrip】【简日双语字幕】【1080P】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-07ff00905b6ef32a20db0907d4c82c99d692e67a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-19T02:25:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:07ff00905b6ef32a20db0907d4c82c99d692e67a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [诸神字幕组][剧场版 玛丽与魔女之花][1080P][BDRip][简日双语字幕][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8d106c46872372a9bcdf9bc878663c8e1d3b46c8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-18T14:39:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8d106c46872372a9bcdf9bc878663c8e1d3b46c8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 动作女英雄 水果应援团/Action Heroine Cheer Fruits/アクションヒロイン チアフルーツ (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1531c86eda4e11d44b8b89b012b7df54de758a9a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-18T11:52:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1531c86eda4e11d44b8b89b012b7df54de758a9a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 少女骑士物语/Walkure Romanze/ワルキューレロマンツェ (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6882f263c4580d7078614c202f070e18c1cc08f0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-18T11:51:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6882f263c4580d7078614c202f070e18c1cc08f0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 捏造陷阱 NTR/Netsuzou Trap: NTR/捏造トラップ -NTR-  (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d88a4f89697b06522fda36e29985115642753163.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-18T11:47:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d88a4f89697b06522fda36e29985115642753163&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [玛丽与魔女之花][メアリと魔女の花][Mary and The Witch's Flower][BDRip 1920x1080 X265 10bit OPUS 5.1]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c0c381d5cd345d34fd13c7fa60a677057b9871c0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-17T06:11:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c0c381d5cd345d34fd13c7fa60a677057b9871c0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] Re：Creators (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dbfb376f71be29b1b080d70209c4ce77c41bba4d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-17T06:08:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dbfb376f71be29b1b080d70209c4ce77c41bba4d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [VCB-Studio] Ben-to / 便·当 / ベン・トー 10-bit 1080p HEVC BDRip [Reseed Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-92e535dc9e4d469fdf2dd7b90b887c48dc9999b7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-17T02:22:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:92e535dc9e4d469fdf2dd7b90b887c48dc9999b7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][黑街 GANGSTA][BD][BIG5][全12話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b02ba5f788462b0e6c4c00c25831d8406cb36323.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-16T21:32:46.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b02ba5f788462b0e6c4c00c25831d8406cb36323&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【漫猫字幕组】[紫罗兰永恒花园/京紫][Violet_Evergarden][01_03][BDRip][简体][1080P][HEVC_Main10]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7bf31e90ee5dca0111b0dc6657e7c56910665a6c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-16T17:14:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7bf31e90ee5dca0111b0dc6657e7c56910665a6c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2017] 政宗君的復仇 Masamune-kun no Revenge - 全6卷 (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fe78d245a821b6ead9709f742f32673270cabdd4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-16T14:12:46.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fe78d245a821b6ead9709f742f32673270cabdd4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] セイレン (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c8af123fb5881048bfe150e27d3ec52eb92b88d3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-16T07:13:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c8af123fb5881048bfe150e27d3ec52eb92b88d3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨30.传说中的巨兽][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3dff079d92c74b85efc98a0433e6a622dbe54173.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-16T03:22:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3dff079d92c74b85efc98a0433e6a622dbe54173&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [爱恋字幕社&届恋字幕组] 魔法少女奈叶 Reflection / Magical Girl Lyrical NANOHA Reflection [BDRip 1080p AVC-8bit AAC][繁体内嵌字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-68b2c8103c82f3fdd3352c8f158c21818c386ce2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-16T03:00:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:68b2c8103c82f3fdd3352c8f158c21818c386ce2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [爱恋字幕社&届恋字幕组] 魔法少女奈叶 Reflection / Magical Girl Lyrical NANOHA Reflection [BDRip 1080p AVC-8bit AAC][简体内嵌字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-34e794f356a2c288b5e7ff809e812391f7153796.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-16T02:39:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:34e794f356a2c288b5e7ff809e812391f7153796&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 機巧少女不會受傷 Machine-Doll wa Kizutsukanai (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8d7cd2a59007bcef4f55ebd52b83b109cd6f1e1d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-15T13:44:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8d7cd2a59007bcef4f55ebd52b83b109cd6f1e1d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 少女编号 Girlish Number (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-87de3868085aa1fdb39d682495aa1df17aaac331.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-15T13:44:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:87de3868085aa1fdb39d682495aa1df17aaac331&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [爱恋字幕社&届恋字幕组] 魔法少女奈叶 Reflection / Magical Girl Lyrical NANOHA Reflection [BDRip 1080p HEVC-10bit FLAC][简繁外挂字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-235f147fac3a584b015a9c88aebd88f8f9ff103d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-15T11:55:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:235f147fac3a584b015a9c88aebd88f8f9ff103d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[Happiness Charge 光之美少女！][ハピネスチャージプリキュア！][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2fcaf2ffdcdcfa10ecf4d12bd5beaacbe95506aa.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-15T06:13:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2fcaf2ffdcdcfa10ecf4d12bd5beaacbe95506aa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] New Game!! (第二季 BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7c62f1647f7fb728727574f3ca3ebbfa1d4ea163.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-15T05:57:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7c62f1647f7fb728727574f3ca3ebbfa1d4ea163&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2011-2015] 狗♀日♂ DOG DAYS - 全3期 (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cb5eb40be752f036307f8ec91bbe8bb706cb1053.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-14T13:20:09.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cb5eb40be752f036307f8ec91bbe8bb706cb1053&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 金童卡修 魔法小神童加旋 Konjiki no Gash Bell!! BD-BOX (BD 1440x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d4aa150dc981f8d2318f396aeedfd661621625ef.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-14T10:14:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d4aa150dc981f8d2318f396aeedfd661621625ef&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 秋叶原之旅 Akiba's Trip The Animation (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d0864be6d8af32aa262b3e0ce9225b9429d79644.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-14T10:14:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d0864be6d8af32aa262b3e0ce9225b9429d79644&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 天才小廚師 伙頭智多星 Mister Ajikko BD-BOX (BD 1440x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-622a65f5c348f5090d2aa0093907cca8e18a9fe5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-14T10:14:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:622a65f5c348f5090d2aa0093907cca8e18a9fe5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 黑街 Gangsta (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c54dca985706cbce67cdb55d127e8c71ec0072cd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-14T10:14:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c54dca985706cbce67cdb55d127e8c71ec0072cd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws,REV] Fate Apocrypha (1-25 Fin)(BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-726c5eed8a34b293a1c988d0677c4f7ce1c4cdd8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-13T15:20:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:726c5eed8a34b293a1c988d0677c4f7ce1c4cdd8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][CLANNAD][第二季][BD][BIG5][全25話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-83d03f7fb990b24a2d6bb35a7d30b37652b5eae8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-13T14:59:48.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:83d03f7fb990b24a2d6bb35a7d30b37652b5eae8&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【LittleBakas!】[Lorem ipsum dolor sit amet consectetur][BD][1080p][HEVC-yuv444p10 FLAC MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9f3f98eee503a14bd3a740c7e338ecddb4c7120b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-13T14:37:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9f3f98eee503a14bd3a740c7e338ecddb4c7120b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        紫羅蘭永恆花園 / Violet Evergarden / ヴァイオレット・エヴァーガーデン [Blu-ray Vol.1 劇場上映版][BDRip HEVC-yuv420p10 1920x1080p FLAC][中,日,英文字幕內封]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d42dfe8999aa4684325c9f4e1fd50b73c20fff75.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-13T14:23:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d42dfe8999aa4684325c9f4e1fd50b73c20fff75&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【CXRAW&TamersUnion】数码宝贝/数码暴龙/数码兽驯兽师 第1话 [BDrip][HEVC][简繁日双语字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-19ca7c5600fdb359befea13842008648f4cb5b13.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-13T13:38:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:19ca7c5600fdb359befea13842008648f4cb5b13&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][CLANNAD][第一季][BD][BIG5][全24話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0221f617551d6114b9871ae4f7c5ac17b549b90c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-13T13:12:28.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0221f617551d6114b9871ae4f7c5ac17b549b90c&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] Princess Principal (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2412a50d230af2fac8f2c939d62a7e1b0ccf6d30.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-13T00:47:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2412a50d230af2fac8f2c939d62a7e1b0ccf6d30&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【CXRAW】【デジモンテイマーズ】【数码宝贝/数码暴龙3驯兽师之王】【01】【ギルモン诞生!仆の考えたデジモン】【BDrip】【1080P】【HEVC Main10P FLAC MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-74ef3b2f49d0180229e2fa57b6259867753537bd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-13T00:45:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:74ef3b2f49d0180229e2fa57b6259867753537bd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[Kobayashi-san Chi no Maid Dragon][BDrip 1920x1080 HEVC-10bit AAC][MKV 简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fe2d6591ac478b2ebce531f8bc47c3c4eb93f817.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T16:46:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fe2d6591ac478b2ebce531f8bc47c3c4eb93f817&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        浪客剑心：京都大火篇.Rurouni.Kenshin.Kyoto.Inferno.2014.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e2d64dc50c6713ea718676bb075be1359c0a45b5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T16:32:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e2d64dc50c6713ea718676bb075be1359c0a45b5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [腾云资源组&星空经典视频库][海底二万里][国语][01-03][BDrip][1080p](蓝宝石之谜/不可思议的海之娜蒂亚/Nadia The Secret of Blue Water)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-98c326617653e71b0b64c9fd15f771bd465e8ba4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T15:40:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:98c326617653e71b0b64c9fd15f771bd465e8ba4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][如果折斷她的旗][BD][BIG5][全14話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fbcd5865a720591fec8007eca03c848e5a6e89b5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T14:13:26.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fbcd5865a720591fec8007eca03c848e5a6e89b5&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】★10月新番[如果有妹妹就好了。][SP08][BDRip][1080P][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-62ab35596f37d9d11f52f946dce917a2cc32456f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T12:18:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:62ab35596f37d9d11f52f946dce917a2cc32456f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★10月新番[如果有妹妹就好了。][SP08][BDRip][1080P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0f69512742bfbadb939cffec6ae715723fae164b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T12:17:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0f69512742bfbadb939cffec6ae715723fae164b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【CXRAW】【仮面ライダーエグゼイド トリロジー アナザー・エンディング 仮面ライダーブレイブ&スナイプ】【BDrip】【1080P】【HEVC Main10P FLAC MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ea765df25fe49e64a562f18278dd47b1ddc6695c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T08:56:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ea765df25fe49e64a562f18278dd47b1ddc6695c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 秋叶原之旅/AKIBA'S TRIP (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6b1a6c38c76ca0dc703f12fabd455275fad137a1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T07:04:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6b1a6c38c76ca0dc703f12fabd455275fad137a1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨29.王者中之王者][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-210777bc2be758904db1cbd83188213f4d02ca4d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T04:53:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:210777bc2be758904db1cbd83188213f4d02ca4d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組&喵萌奶茶屋】【魔法少女奈叶 Reflection/Magical Girl Lyrical NANOHA Reflection】[剧场版][BDRip_720P][x264_AAC][MP4][简日双语]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-45b4f90dfecd133fa55e56b4cbc8ceacbd6b63f7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T02:06:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:45b4f90dfecd133fa55e56b4cbc8ceacbd6b63f7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋&千夏字幕組】【魔法少女奈葉 Reflection/Magical Girl Lyrical NANOHA Reflection】[劇場版][BDRip_720P][x264_AAC][MP4][繁日雙語]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-96708b14b8ed1712d835826487676b2cd662b7d1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T01:30:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:96708b14b8ed1712d835826487676b2cd662b7d1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 龙王的工作！Ryuuou no Oshigoto! Vol 1 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e067d49967151dee2aa89c8ed082e3078ff251ca.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-12T00:42:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e067d49967151dee2aa89c8ed082e3078ff251ca&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [neko-raws] 京紫/紫罗兰永恒花园 Violet Evergarden (Vol.1) [BD][1080p][FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0a7537f58cb0662134309efdca685541e1826637.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-11T17:21:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0a7537f58cb0662134309efdca685541e1826637&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        紫羅蘭永恆花園 / Violet Evergarden / ヴァイオレット・エヴァーガーデン [Blu-ray Vol.1 劇場上映版][BDRip AVC-yuv420p8 1920x1080p AAC(2.0+5.1)][繁體中文字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-77d7783df513833323da2a0e889203d267338d22.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-11T12:33:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:77d7783df513833323da2a0e889203d267338d22&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][碧藍幻想][BD][BIG5][全14話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f4db5386d5bcb558a34a857539c03926298da6a7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-10T23:38:00.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f4db5386d5bcb558a34a857539c03926298da6a7&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] Fate Apocrypha (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-70bd996ca14191d047893b00636ca9b664608372.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-10T14:51:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:70bd996ca14191d047893b00636ca9b664608372&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        JOJO的奇妙冒险：不灭钻石.第一章.真人版.JoJos.Bizarre.Adventure.Diamond.Is.Unbreakable.Chapter.1.2017.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-431fd168862e6ad45b118da47097fdb38ebfeb7c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-10T14:20:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:431fd168862e6ad45b118da47097fdb38ebfeb7c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        亚人.真人版.Ajin.Demi-Human.2017.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-16710f9f892135e90f571a2b5becfc340b136c96.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-10T13:10:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:16710f9f892135e90f571a2b5becfc340b136c96&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 人马小姐不迷茫-人马小姐的烦恼/Centaur no Nayami - A Centaur`s Life/セントールの悩み(BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8ba351e3d05168bc2ab5a8b7be1ae6ba9013cb0a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-10T02:58:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8ba351e3d05168bc2ab5a8b7be1ae6ba9013cb0a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 我的英雄学院 第二季 Boku no Hero Academia S2 - 1-25+OAD (BD 1920x1080 x.264 Flac).mkv",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-345930ab7d78d4ea36bad01200854b1359dfcaa5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-09T15:43:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:345930ab7d78d4ea36bad01200854b1359dfcaa5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 带着智慧型手机闯荡异世界/Isekai wa Smartphone to Tomo ni - In Another World with My Smartphone/異世界はスマートフォンとともに  (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ad741f474dd65fdcc3c61aeeea7901d13d110a93.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-09T14:50:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ad741f474dd65fdcc3c61aeeea7901d13d110a93&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨28.归来的宇宙海贼][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fc6a282e32ecb83a108bf7c346a7b93c56eba3cd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-09T03:32:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fc6a282e32ecb83a108bf7c346a7b93c56eba3cd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】清恋 Seiren (BD 1280x720)(1-12) 另附外挂字幕",
+
+
+"workName": "SEIREN",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a1e58b5ce76f89a2feaa8892b57a5b1980b2575c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-09T00:54:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a1e58b5ce76f89a2feaa8892b57a5b1980b2575c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        老师！我可以喜欢你吗？ My.Teacher.2017.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fbb7aff9d0810509ee9c76077096e22bf42a62b2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-08T11:33:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fbb7aff9d0810509ee9c76077096e22bf42a62b2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [魔星字幕团][奈欧斯奥特曼][02][神秘的黑暗物质][中日双语字幕][BDRip][1080P][HEVC Main10P FLACx2 MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0e11f01c14c628d13235d168310ef05765f36274.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-08T10:46:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0e11f01c14c628d13235d168310ef05765f36274&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [TUcaptions][2016夏][Orange橙 / オレンジ / orenji][01~13][繁][BD-1080P-HEVC-MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-589d102db84f74827faea27972c179f1cc78491e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-08T07:57:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:589d102db84f74827faea27972c179f1cc78491e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NAZOrip] 涼宮ハルヒの消失 The Disappearance of Haruhi Suzumiya (BDRip.HEVC.1080P.YUV420P10.QAAC) V2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9edbec06f8e2436812d42112f5a4bf94e626441a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-07T16:05:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9edbec06f8e2436812d42112f5a4bf94e626441a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws,REV] 要听爸爸的话！ /Papa no Iu Koto o Kikinasai！/パパのいうことを聞きなさい！ (REV,BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fafecba4e2b357c921df2b76effea56944fe03a7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-07T12:11:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fafecba4e2b357c921df2b76effea56944fe03a7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 樱花任务/Sakura Quest/サクラクエスト (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d475532d35135b85d8228ffd71b7c0a8413003b3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-07T11:14:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d475532d35135b85d8228ffd71b7c0a8413003b3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NAZOrip] 涼宮ハルヒの消失 The Disappearance of Haruhi Suzumiya (BDRip.HEVC.1080P.YUV420P10.QAAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a2c2b210cfe832e148cf1fd66e9afd5ae1c2899a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-07T07:54:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a2c2b210cfe832e148cf1fd66e9afd5ae1c2899a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NEO·QSW]剧场版 魔神Z/无限（INFINITY ）劇場版 マジンガーZ ／ INFINITY [先行试看版][BDrip HEVC 1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c0574907998b0e50cd82ea1483f993c34bea4819.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-06T12:16:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c0574907998b0e50cd82ea1483f993c34bea4819&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        浪矢解忧杂货店.Miracles.of.the.Namiya.General.Store.2017.1080p.BluRay.x264.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d8cbcce0e9f126b515af15e96edfc28cd2eae02c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-06T10:33:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d8cbcce0e9f126b515af15e96edfc28cd2eae02c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        浪矢解忧杂货店.Miracles.of.the.Namiya.General.Store.2017.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1e84a4a331834d1a9036bd5bedfa2430fc43879c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-06T10:03:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1e84a4a331834d1a9036bd5bedfa2430fc43879c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][命運石之門][BD][BIG5][全27話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-01da1beb4d7c5216097cf5a6f9c8553af23558b7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-06T07:14:05.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:01da1beb4d7c5216097cf5a6f9c8553af23558b7&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨27.谁才是真的？][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2b361e5c73dd5577e5c3fbe45b77f4c832367514.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-06T06:18:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2b361e5c73dd5577e5c3fbe45b77f4c832367514&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 要听爸爸的话！ /Papa no Iu Koto o Kikinasai！/パパのいうことを聞きなさい！ (BD 1920x1080 HEVC-YUV420P12 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ce68ed6908226bd96f5d0ca6d1e0d5097593cab2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-05T14:34:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ce68ed6908226bd96f5d0ca6d1e0d5097593cab2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [影片壓制][驚爆危機][全金屬狂潮][第三季][BD][BIG5][全14話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-26807e88d47311a74942eb4fd780465f2dcea9b9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-05T14:00:13.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:26807e88d47311a74942eb4fd780465f2dcea9b9&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [卡希米爾][偷窺孔][BD][全1話][1280X720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9ee4dfd0326667df1ade0f3dd1f4f2502106fe99.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-05T10:05:14.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9ee4dfd0326667df1ade0f3dd1f4f2502106fe99&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce]如果有妹妹就好了 Imouto sae Ireba Ii. (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8c49939ad07a90d9869d5cb080d00c74c543b264.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-05T08:36:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8c49939ad07a90d9869d5cb080d00c74c543b264&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [悠哈璃羽字幕社][不要输!! 恶之军团!_Makeruna!! Aku no Gundan!][BDRip x264_1080p][MKV简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-63c5275a8fcd8c49e407119af07d78ec6a22b4a9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-05T07:52:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:63c5275a8fcd8c49e407119af07d78ec6a22b4a9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [FatCatRAW][宇宙战队九连者][DISC.03][1080P][BDRIP][YUV420P10 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-504f3ccfef9f6bf1fcb8d27c3521401741f58408.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-05T07:35:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:504f3ccfef9f6bf1fcb8d27c3521401741f58408&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 发条精灵战记：天镜的极北之星Alderamin on the Sky [BDRip 1920x1080 x264 FLAC] 提供字幕包下载",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1fd9cac9fb24ae2ce03b13f94ef3a71ddd416d7d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-05T06:38:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1fd9cac9fb24ae2ce03b13f94ef3a71ddd416d7d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [青森小镇][文豪野犬 Bungou Stray Dogs][25 OVA][简繁内封字幕][BDRip][1080p][HEVC-10bit AAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8c9849db43f44c7a16e21187fb81ee776b2727a4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T21:45:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8c9849db43f44c7a16e21187fb81ee776b2727a4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 異世界食堂 (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2792333b77bfd1cf3239a656f9ff7616b537c162.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T17:22:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2792333b77bfd1cf3239a656f9ff7616b537c162&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 如果有妹妹就好了。Imouto sae Ireba Ii. BD-BOX (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a3d3930ed46667cdde9eeb623fc2ea158f82dd5b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T11:16:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a3d3930ed46667cdde9eeb623fc2ea158f82dd5b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 金田一少年之事件簿R Kindaichi Shounen no Jikenbo Returns (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8398c5481b224cdb37f0b2dd722599491db68923.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T11:16:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8398c5481b224cdb37f0b2dd722599491db68923&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 樱花任务 サクラクエストSakura Quest (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ae0c944fc081cebd7b76e904974b305d23714562.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T11:16:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ae0c944fc081cebd7b76e904974b305d23714562&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 舞武器舞乱伎 星之巨人Bubuki Buranki Hoshi no Kyojin (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-39fc07adfac5bb2c4c291255268f2fcb4c66768d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T11:16:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:39fc07adfac5bb2c4c291255268f2fcb4c66768d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 舞武器舞乱伎 Bubuki Buranki (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2fa8444743698e45077812a019a1b282e399a44a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T11:16:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2fa8444743698e45077812a019a1b282e399a44a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 如果有妹妹就好了/Imouto sae Ireba Ii-A Sister`s All You Need./妹さえいればいい. (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-147e3c284fe391b38961808637c271e33ec0fc11.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T03:19:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:147e3c284fe391b38961808637c271e33ec0fc11&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【囧夏字幕组&WiKi】先生，我可以喜歡你嗎？ My Teacher 2017 [1080p][BluRay][x264][10bit][DTS][MKV][简繁内封]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-15c91d017f9c06f5500a770f0939cb8dc435165a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-03T17:12:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:15c91d017f9c06f5500a770f0939cb8dc435165a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] OVERLORD (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-70193ca6d121fb9c3da875fa63b95811eb54b3fc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-03T12:30:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:70193ca6d121fb9c3da875fa63b95811eb54b3fc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2017] プリンセス・プリンシパル Princess Principal - 全6卷 (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4a4bb825d6f71fbd607a3c9c1e2977dbc7523c73.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-02T13:35:42.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4a4bb825d6f71fbd607a3c9c1e2977dbc7523c73&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] B型H系 / B Gata H Kei (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7507e5f48d291019072bad9d3a487edec455eec7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-02T10:56:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7507e5f48d291019072bad9d3a487edec455eec7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【Little字幕组】魔卡少女樱 01 [Remaster BDRip][1080P][中日双字][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3a6c037128ccb5c1029dcfbfd0059a32be797aa2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T16:59:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3a6c037128ccb5c1029dcfbfd0059a32be797aa2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Nekomoe kissaten&Airota&ANK-Raws] ゆるキャン△ Yuru Camp△ Vol.1 (BDrip 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-08992b92664a07515dea4c48465922b15a1abad0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T14:25:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:08992b92664a07515dea4c48465922b15a1abad0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        头号玩家彩蛋 The Shining 1980 BluRay 1080p DTS-HD MA 5 1 x264-beAst[闪灵/鬼店/幽光/幻觉 英语DTS]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-045ee3398308654ccb383766e0324e58d511c313.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T13:42:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:045ee3398308654ccb383766e0324e58d511c313&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        头号玩家彩蛋 Akira 1988 JP BluRay 1920x1040p x264 AC3 2Audios-KOOK[阿基拉*日英双语 中英字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-96df0d41b27479468d502e63e0946aca92d45d48.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T13:36:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:96df0d41b27479468d502e63e0946aca92d45d48&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        我想吃掉你的胰脏.Let.Me.Eat.Your.Pancreas.2017.1080p.BluRay.x264-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-45890d9f05c1f0a2118b44f587eed0f1fecf3616.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T13:29:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:45890d9f05c1f0a2118b44f587eed0f1fecf3616&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【Little字幕组】魔卡少女樱 01 [Remaster BDRip][1080P][中日双字][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b414f37bae68ddc14b14d989764ab99cafde7154.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T13:16:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b414f37bae68ddc14b14d989764ab99cafde7154&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2017] 異世界食堂 Isekai Shokudou - 全6卷 (BD 720p HEVC AAC).mp4 [累了，退休，再見。]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-eec3ab467638cfdf3d97f07bbbe2ccd462f2d802.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T12:14:51.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:eec3ab467638cfdf3d97f07bbbe2ccd462f2d802&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        我想吃掉你的胰脏.Let.Me.Eat.Your.Pancreas.2017.1080p.BluRay.x264.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ef14657993ee546759310f804bc4a5a28af18206.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T12:02:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ef14657993ee546759310f804bc4a5a28af18206&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        玛丽与魔女之花.Mary.and.the.Witch's.Flower.2017.BD-1080p.X264.AAC.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ae3b6eef70f42e97151108cf8a67f297160dadb3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T12:00:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ae3b6eef70f42e97151108cf8a67f297160dadb3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【Xrip】[人马小姐的烦恼/人马小姐不迷茫][Centaur_no_Nayami][BDrip][NCED][360P][AV1_OPUS][试验项目]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ce8f8e5904643a30f00b42bb89f37771c17ecad4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T02:29:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ce8f8e5904643a30f00b42bb89f37771c17ecad4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2011] 純白交響曲 Mashiro-iro Symphony ~The Color of Lovers~ (無修正) - 全6卷 (乳) (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-37b3fd51b7c286129798947313634cdefb298cae.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-31T14:04:51.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:37b3fd51b7c286129798947313634cdefb298cae&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [幻之字幕组&VCB-Studio] Shigatsu wa Kimi no Uso / 四月是你的谎言 / 四月は君の嘘 10-bit 1080p AVC BDRip [Reseed Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5d59cad81add2452893ad9ff5929d409998b80ba.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-31T09:51:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5d59cad81add2452893ad9ff5929d409998b80ba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【豌豆字幕組&風之聖殿字幕組】[齊木楠雄的災難 第一季 / Saiki_Kusuo_no_Ψ-nan_S1][BDRip][Vol.01-Vol.04][HEVC_FLAC][1080P_Ma10P][簡繁外掛](愚人節快樂!)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e052122d3ae6465bf3d324de48c30d6e7e1d4c1f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-31T06:27:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e052122d3ae6465bf3d324de48c30d6e7e1d4c1f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [诸神字幕组][全金属狂潮！][01-24全][简日双语字幕][BDRIP][960x720][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9f3c14b7954adc27811f0d535b9a42069fedad56.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-31T03:36:36.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9f3c14b7954adc27811f0d535b9a42069fedad56&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [诸神字幕组][全金属狂潮！][01-24全][简繁日语字幕][BDRIP][960x720][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dbe9ee4e6d92cfc349369cdf6a663cfafac50760.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-31T03:35:47.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dbe9ee4e6d92cfc349369cdf6a663cfafac50760&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] The Unlimited Hyoubu Kyousuke 兵部京介(BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-25f8ab69647509696c454bfe790b9c848c912397.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-30T17:34:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:25f8ab69647509696c454bfe790b9c848c912397&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2012-2013] 美少女死神 還我H之魂 Dakara Boku wa, H ga Dekinai. (乳) - 全6卷+第13話(OAD) (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e9fa1becbd4451328a153156321d4b277a9a0d54.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-30T12:40:50.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e9fa1becbd4451328a153156321d4b277a9a0d54&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [漫藤字幕組][棋靈王 棋魂][第04局 將棋社的加賀][V2][台配國語][繁中字幕][BDrip][x264_aac][1080P][MP4](1CB94C8F)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1449f791b71bcb2ba6555105609c7dca72cae14e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-29T07:15:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1449f791b71bcb2ba6555105609c7dca72cae14e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [漫藤字幕組][棋靈王 棋魂][第04局 將棋社的加賀][V2][國日雙語][繁中字幕][BDrip][x264_aac&flac][1080P][MKV](2D8556CC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c471419f4ef5013b36e5e3790cdaa788ba28db68.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-29T07:10:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c471419f4ef5013b36e5e3790cdaa788ba28db68&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        来自风平浪静的明天/凪のあすから/Nagi no Asukara 高质量BDRIP(1920x1080 x265 10bit OPUS) 外挂简体",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b3c083199ea96e41dfb046f6ffb0df8bbe322b77.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-28T13:05:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b3c083199ea96e41dfb046f6ffb0df8bbe322b77&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [漫藤字幕組][棋靈王 棋魂][第04局 將棋社的加賀][國日雙語][繁中字幕][BDrip][x264_aac&flac][1080P][MP4](9AE7F3C9)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5e6553bafc1f455c2891d5f272909a87c1fefbfe.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-27T17:49:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5e6553bafc1f455c2891d5f272909a87c1fefbfe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [漫藤字幕組][棋靈王 棋魂][第04局 將棋社的加賀][台配國語][繁中字幕][BDrip][x264_aac][1080P][MP4](75D8C8F3)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-84c00881965b2ea5a676ef5f6178f8cb7c216845.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-27T17:48:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:84c00881965b2ea5a676ef5f6178f8cb7c216845&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2012-2014] 在盛夏等待 在那個夏天等待 Ano Natsu de Matteru - 全6卷+OVA (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8c47231e85bfbb4b21dccaaafb68356d76b2dd10.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-27T13:12:20.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8c47231e85bfbb4b21dccaaafb68356d76b2dd10&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【劇場版】【Free! -Timeless Medley- 絆+約束】【BDrip】【BIG5_MP4】【1280X720】【合集】[十週年賀禮]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e0096d0fe0313cb037a293aefdd6f0375af12e85.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-27T00:05:44.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e0096d0fe0313cb037a293aefdd6f0375af12e85&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【剧场版】【Free! -Timeless Medley- 绊+约束】【BDrip】【GB_MP4】【1280X720】【合集】[十周年贺礼]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e695f93eed0d1dbdc90a62dfcb369f02581d9a1d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-26T23:58:37.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e695f93eed0d1dbdc90a62dfcb369f02581d9a1d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [肥猫压制][FatCatRAW][假面骑士Decade][BDBOX][BDRIP][1080P][HEVC-YUV420P10 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2da252eff944e87455e9766c5236ae62c9b1d48f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-26T13:55:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2da252eff944e87455e9766c5236ae62c9b1d48f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2017] 歡迎來到實力至上主義的教室 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - 全4卷 (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-094e24aa7af113fe92531fa7a4a6b6f59ad96085.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-26T13:43:13.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:094e24aa7af113fe92531fa7a4a6b6f59ad96085&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        欢迎来到实力至上主义的教室 高质量BDRIP(1920x1080 x265 10bit OPUS) 外挂简体",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-41d2cb39a95cd06fa65c203e87ecf60c1ade67e3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-26T12:57:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:41d2cb39a95cd06fa65c203e87ecf60c1ade67e3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[蜡笔小新2013剧场版 — 笨蛋好吃！B级美食大逃亡][クレヨンしんちゃん — 2013バカうまっ!B級グルメサバイバル!!][BDRip][1080P_x264(8bit)-FLAC][内封中日双语字幕][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5b4613d022ad22e1329a9bb40cc934968c9e3dff.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-26T11:03:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5b4613d022ad22e1329a9bb40cc934968c9e3dff&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [VCB-Studio] Sakura Quest / 樱花任务 / サクラクエスト 10-bit 1080p HEVC BDRip [Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7666a3ef40defeb012da8900933fbe1c905c1f2d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-23T11:08:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7666a3ef40defeb012da8900933fbe1c905c1f2d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【白恋动漫萝卜部】[Buddy Complex+Buddy Complex Kanketsuhen][1-13+2][简繁内封][BDRIP][1920x1080 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-57195b6b9c2b9d12c41a39ddd48b63a8b80a5315.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-23T05:21:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:57195b6b9c2b9d12c41a39ddd48b63a8b80a5315&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組&喵萌奶茶屋】【少女與戰車_最終章/Girls_und_Panzer_das_Finale】[第01話][BDRip_720P][x264_AAC][MP4][CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-874551a46cedce133ed83407b24ef4f4aac615c1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-22T16:44:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:874551a46cedce133ed83407b24ef4f4aac615c1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NAZOrip] NO GAME NO LIFE ZERO 游戏人生0 (BDRip.HEVC.1080P.YUV420P10.QAAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bb3ff3c06544dedfd4d988b798a7320a1d3b4894.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-22T16:42:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bb3ff3c06544dedfd4d988b798a7320a1d3b4894&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组&喵萌奶茶屋】【少女与战车_最终章/Girls_und_Panzer_das_Finale】[第01话][BDRip_720P][x264_AAC][MP4][CHS]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-76be70408b914da23448330c2ef024e663db0e36.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-22T16:07:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:76be70408b914da23448330c2ef024e663db0e36&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        FatCatRAW][宇宙战队九连者][DISC.02][BDRIP][YUV420P10 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c6a708728cad397add4e4fc78997063baaa4a0d8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-22T13:54:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c6a708728cad397add4e4fc78997063baaa4a0d8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        魔法少女伊莉雅剧场版(雪下的誓言/Oath Under Snow)高质量BDRIP(1920x1080 x265 10bit) 外挂简体",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e74a9816f457b432eea1900de90e051ad3b522ed.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-22T03:54:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e74a9816f457b432eea1900de90e051ad3b522ed&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【囧夏字幕组&WiKi】第三度嫌疑人 三度目の殺人 The Third Murder 2017 [1080p][BluRay][x264][10bit][DTS][MKV][简繁内封]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8d7bb825518c320f980ecfb55b2476f77a9b563f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-21T15:22:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8d7bb825518c320f980ecfb55b2476f77a9b563f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組】【謝謝你 在世界的角落找到我_In This Corner of the World】[劇場版][BDRIP_720P][x264_AAC][繁體內嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-db9d6101b0ccdd0a99832352ca51943ed6875d02.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-21T13:27:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:db9d6101b0ccdd0a99832352ca51943ed6875d02&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [魔星字幕团][奈欧斯奥特曼][01][奈欧斯诞生][中日双语字幕][BDRip][1080P][HEVC Main10P FLACx2 MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-57455bb6a7356e025ec8dbe997adf883d119dbd0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-21T12:18:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:57455bb6a7356e025ec8dbe997adf883d119dbd0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [届恋字幕组&LoliHouse] 剧场版 吹响！上低音号~想要传达的旋律~ / Gekijouban Hibike! Euphonium Todoketai Melody [BDRip 1920x1080 HEVC-10bit][简繁外挂字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-77a87833c662aa02f8b9af48ba164a07087d02a0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-20T16:04:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:77a87833c662aa02f8b9af48ba164a07087d02a0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NAZOrip] NO GAME NO LIFE 游戏人生 (BDRip.HEVC.1080P.YUV420P10.QAAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-45265b917412c5149cfd976e19b55232346b8f73.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-20T11:34:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:45265b917412c5149cfd976e19b55232346b8f73&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NEO·QSW]机动战士高达 铁血的孤儿 壹+贰 全50话 機動戦士ガンダム 鉄血のオルフェンズ[Bdrip AVC 720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-499637c89cd1e97e2b9c1d2e975dc3907a02cca9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-20T10:13:50.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:499637c89cd1e97e2b9c1d2e975dc3907a02cca9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        小森林.夏秋篇.Little.Forest.Winter.Spring.2015.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fa52f8ad2cf1ab0299b4630c9c9941324f8dc6c4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-19T12:05:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fa52f8ad2cf1ab0299b4630c9c9941324f8dc6c4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        小森林.冬春篇.Little.Forest.Summer.Autumn.2014.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f368ce3c3d84c89099c38bceecf8ce161b3105d8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-19T12:04:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f368ce3c3d84c89099c38bceecf8ce161b3105d8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【白恋动漫萝卜部】[2014年4月新番][地球队长/地球舰长 Captain Earth][1-25][BDRIP][简繁内封][1920x1080 x264 FLAC][MKV]急招分流君",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7e89e28d40229f1b6fb0e907058da50ada78558d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-19T06:29:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7e89e28d40229f1b6fb0e907058da50ada78558d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】 ★10月新番 装神少女 OVA GB 1080P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-67dd578dc9a8efca96d646217d5cc90ef4a1ecea.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-18T19:57:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:67dd578dc9a8efca96d646217d5cc90ef4a1ecea&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】 ★10月新番 装神少女 OVA BIG5 1080P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e65f0101313502e25dda43b6ef7930975db836fe.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-18T19:57:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e65f0101313502e25dda43b6ef7930975db836fe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】 ★10月新番 装神少女 OVA GB 1080P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d82518c4b5b403146ccc79f947adbb4a34e69f93.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-18T14:23:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d82518c4b5b403146ccc79f947adbb4a34e69f93&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】 ★10月新番 装神少女 OVA BIG5 1080P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-96ba32a247c6086cf22ad6390cc4ace20f8b3dea.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-18T14:22:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:96ba32a247c6086cf22ad6390cc4ace20f8b3dea&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨26.想要守护重要的一天][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f3725f56aaa5c9e09020b21daf56b7ea3ca6f5b8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-18T01:02:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f3725f56aaa5c9e09020b21daf56b7ea3ca6f5b8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【国粤日三语】你的名字.Your.Name.2016.BluRay.中文特效字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5309bd954ddd7a76fc9ba182e214c518cf0718b8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-17T12:48:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5309bd954ddd7a76fc9ba182e214c518cf0718b8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [届恋字幕组] 剧场版 吹响吧！上低音号 ～想要传达的旋律～ / Gekijouban Hibike! Euphonium Todoketai Melody [BDRip 1920x1080 AVC-8bit AAC][繁体内嵌字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a5c55a344aee4cb65795231bd4162e354dcafcbc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-17T00:53:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a5c55a344aee4cb65795231bd4162e354dcafcbc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [届恋字幕组] 剧场版 吹响吧！上低音号 ～想要传达的旋律～ / Gekijouban Hibike! Euphonium Todoketai Melody [BDRip 1920x1080 AVC-8bit AAC][简体内嵌字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-920bdd6ac6b1e2c3199da76891296f06a86c31ea.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-17T00:18:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:920bdd6ac6b1e2c3199da76891296f06a86c31ea&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【喵萌茶会字幕組】★剧场版 游戏人生 ZERO [BDrip][1080P][MP4][简体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0b72ddb6477babfd251f516754d0e6d45a6f3715.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-16T15:22:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0b72ddb6477babfd251f516754d0e6d45a6f3715&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【喵萌茶会字幕組】★剧场版 游戏人生 ZERO [BDrip][1080P][MP4][繁体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-590bb7d9af8f410e99477f0e3d8069b21f14be04.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-16T15:21:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:590bb7d9af8f410e99477f0e3d8069b21f14be04&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【喵萌茶会字幕組】★剧场版 吹响！悠风号～想要传达的旋律～[BDrip][1080P][MP4][繁体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d0e8498dd0f6d2cc35670ec7c387002265f16b7b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-16T15:19:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d0e8498dd0f6d2cc35670ec7c387002265f16b7b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【喵萌茶会字幕組】★剧场版 吹响！悠风号～想要传达的旋律～[BDrip][1080P][MP4][简体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c3b3c4da543d32cc6ed071820664a4034b958dac.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-16T15:19:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c3b3c4da543d32cc6ed071820664a4034b958dac&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        试看【CXRAW】【ウルトラマンネオス】【奈欧斯奥特曼】【12】【光の戦士よ永遠に】【BDrip】【1080P】【HEVC Main10P FLAC MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0afab7e2b39a2c87d5979209be4bf76ac7da5864.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-16T10:16:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0afab7e2b39a2c87d5979209be4bf76ac7da5864&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨25.不开心·相机][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c94d35ff3a14d9c8c7a3eee0968578d861749530.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-16T01:17:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c94d35ff3a14d9c8c7a3eee0968578d861749530&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 重啟咲良田 Sagrada Reset BD-BOX (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-88de8b7df2fbc12c013dd4be45b8b754d8a5e182.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-15T11:10:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:88de8b7df2fbc12c013dd4be45b8b754d8a5e182&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 劇場版 吹響吧！上低音號～想要傳達的旋律～ Hibike! Euphonium Todoketai Melody (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4e1f2b634d39f8cfc877f93fed96034c7cb154c2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-15T11:10:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4e1f2b634d39f8cfc877f93fed96034c7cb154c2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 亚人 劇場版 Ajin The Movie BD-BOX (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2634733c8b279810a87bbd48693cd6651082a889.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-15T11:09:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2634733c8b279810a87bbd48693cd6651082a889&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【AnClark 重新打包】精灵宝可梦剧场版第7部  裂空的访问者 代欧奇希斯 Bluray Repack 1080p TrueHD",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e2117e36849d3df21784c9bb18772b2895b4d5d0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-15T09:17:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e2117e36849d3df21784c9bb18772b2895b4d5d0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 爱杀宝贝/Kill Me Baby/キルミーベイベー  (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a3ad528a30d38259a125c8e3affa6d3b20911ad8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-15T06:03:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a3ad528a30d38259a125c8e3affa6d3b20911ad8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [繁中内嵌][惡魔高校_High School DxD - S1+S2+S3][三季合集](BD 720P AVC AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7313080ad2d44fe47602eecdbb7db561a78b4deb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-14T16:51:12.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7313080ad2d44fe47602eecdbb7db561a78b4deb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [VCB-Studio] Project Itoh / 伊藤计划 / 伊藤計劃 10-bit 1080p AVC/HEVC BDRip [Reseed Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f518b3bfd285c89d28ad60b370831bd795264c7c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-14T00:18:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f518b3bfd285c89d28ad60b370831bd795264c7c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR動研字幕組&動漫國字幕組】【私人内嵌字幕重压版】[惡魔高校_High School DxD Born][1-13][BDRip][繁中内嵌][1080P][AAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-83aa2b7c04e0b601b8d5b723af9db76769b5aa79.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-13T05:54:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:83aa2b7c04e0b601b8d5b723af9db76769b5aa79&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【BDISO】剧场版 光之美少女食尚甜心 华丽的千层派回想 / 映画 キラキラ☆プリキュアアラモード　パリッと！想い出のミルフィーユ！",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b43699743f956b4a315669cf13304611bae10706.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-12T15:28:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b43699743f956b4a315669cf13304611bae10706&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[犬屋敷_杀戮重生犬屋敷 Inuyashiki][BDBOX1 01-05][BDRip 1080p x264 FLAC][MKV 简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9ba09c67f9e4a6cf4df9815001f87ff13249e9eb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-12T04:55:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9ba09c67f9e4a6cf4df9815001f87ff13249e9eb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社＆ANK-Raws】[喜欢上你的瞬间+很久以前就喜欢你了][BDRIP x265_10bit FLAC][MKV简繁外挂] 修复版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5156220af5dbef9e3404fc9322e1086ffa7afd29.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-11T09:35:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5156220af5dbef9e3404fc9322e1086ffa7afd29&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[NEW GAME!!][ニューゲーム!!][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4400850c3c38da53fc76c4b990d78a1eab0f3954.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-11T02:26:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4400850c3c38da53fc76c4b990d78a1eab0f3954&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [漫藤字幕組][棋靈王 棋魂][第03局 氣勢洶洶的阿亮][國日雙語][繁中字幕][BDrip][x264_aac&flac][1080P][MKV](5E8948C2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-768d4be7fdd6618e22232b114fa5cd23aa430fea.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-10T10:36:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:768d4be7fdd6618e22232b114fa5cd23aa430fea&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [漫藤字幕組][棋靈王 棋魂][第03局 氣勢洶洶的阿亮][台配國語][繁中字幕][BDrip][x264_aac][1080P][MP4](34C6090A)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-96f8f116aec1842b876227b595fc278ffc99a7f6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-10T10:20:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:96f8f116aec1842b876227b595fc278ffc99a7f6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【风之圣殿字幕组】★剧场版[美妙旋律剧场版03][KING_OF_PRISM -PRIDE_the_HERO-][BDRip][简体][1080P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b58f203035bf2e461f5e6c5499c89c3a5bdfb486.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T21:21:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b58f203035bf2e461f5e6c5499c89c3a5bdfb486&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【風之聖殿字幕組】★劇場版[美妙旋律劇場版03][KING_OF_PRISM -PRIDE_the_HERO-][BDRip][繁體][1080P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-df20497425b0bdb7eda0f1bf8fa3ae41b44f2ebe.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T21:17:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:df20497425b0bdb7eda0f1bf8fa3ae41b44f2ebe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [银色子弹字幕组][名侦探柯南][剧场版1 引爆摩天楼][20周年4K数字重制版][简日双语MP4/简繁日多语MKV][BDRIP(4KDR)][1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0503726db7bb2edd471cb7845e4c73aa2bbb146f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T13:08:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0503726db7bb2edd471cb7845e4c73aa2bbb146f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【白恋动漫萝卜部】[2014年4月新番][地球队长/地球舰长 Captain Earth][1-25合集][BDRIP][GB][720P][MP4]招募分流君",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3ef3ef12bbfe8bf1d603fbc26bb4a49fc934509e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T12:12:53.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3ef3ef12bbfe8bf1d603fbc26bb4a49fc934509e&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【白戀動漫蘿蔔部】[2014年4月新番][地球隊長/地球艦長 Captain Earth][1-25合集][BDRIP][BIG5][720P][MP4]招募分流君",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0cf8853f2aa8d4d4fde51626e44b10ddfc2477b7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T12:11:59.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0cf8853f2aa8d4d4fde51626e44b10ddfc2477b7&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 从零开始的魔法书 Zero kara Hajimeru Mahou no Sho (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-102659bb418be8b5e7e013914433a14893bbbd91.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T11:19:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:102659bb418be8b5e7e013914433a14893bbbd91&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 電玩咖 Gamers! (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d565123863c0792b5c07876bb0d4dbcdf34040e4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T11:19:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d565123863c0792b5c07876bb0d4dbcdf34040e4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Re:Creators (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f4485d51369f176d79200ff6506db89fa7948dbc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T11:19:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f4485d51369f176d79200ff6506db89fa7948dbc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] New Game!! (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-01b56eb88dcee20cac5cc6063fd2681c4b91358d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T11:19:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:01b56eb88dcee20cac5cc6063fd2681c4b91358d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 亚人2 Ajin S2 (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0fc2b2c5eaf3a5023a557d9637298618d8953384.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T11:19:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0fc2b2c5eaf3a5023a557d9637298618d8953384&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Princess Principal (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-04a90b7fa31fe1b0bf85d7d3cf944c822445d134.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T11:19:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:04a90b7fa31fe1b0bf85d7d3cf944c822445d134&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 战姬绝唱Symphogear AXZ Senki Zesshou Symphogear AXZ (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ef51cc6a7bc7d0be7c7a26105c0e4c3b8e3acdad.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T11:19:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ef51cc6a7bc7d0be7c7a26105c0e4c3b8e3acdad&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【Little字幕组】美少女战士Sailor Moon 07 [BDRip][1080P][中日双字][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-27781ab5d940763d3b4d31061f7c58475be1da01.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-07T12:46:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:27781ab5d940763d3b4d31061f7c58475be1da01&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ANK-Raws] ソードアート・オンラインII   刀剑神域II   Sword Art Online II (BDrip 1920x1080 HEVC-YUV420P10 FLAC REV)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-847dbdad1a991048bde30ae004d9c22d17417126.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-06T15:16:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:847dbdad1a991048bde30ae004d9c22d17417126&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨24.复苏的记忆][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c758fb360d98d7b88e1fa088a40a776ba8647ccd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-05T23:58:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c758fb360d98d7b88e1fa088a40a776ba8647ccd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR百合組】[Princess Principal][SP05-06完][繁體][BDRip][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-96374dbf9b7b2ac70b94cba355f92cba9bfa37d4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-04T08:26:26.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:96374dbf9b7b2ac70b94cba355f92cba9bfa37d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Mmch.sub&ANK-Raws] ノーゲーム・ノーライフ ゼロ No Game No Life Zero (BDrip 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-06022b8c539d84ee906de72a20137321e07a6220.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-04T04:02:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:06022b8c539d84ee906de72a20137321e07a6220&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【茉語星夢&風之聖殿字幕組】[Princess_Principal][BDRip][SP01-06][合集][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0a8abf6acd7d7367e8b11b361edd6dd7b7dc83b4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-03T17:32:56.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0a8abf6acd7d7367e8b11b361edd6dd7b7dc83b4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【茉语星梦&风之圣殿字幕组】[Princess_Principal][BDRip][SP01-06][合集][简体][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-da19384e6ceee65689f4d6ca3e556bebe2b27c67.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-03T17:32:48.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:da19384e6ceee65689f4d6ca3e556bebe2b27c67&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽＆西农YUI】[Fate／Apocrypha][BDBOX1 01-12][BDRip 1920x1080 x264 FLAC][简日_繁日双语外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2615eab873aee70b3f3399753cfb23793b237c49.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-01T19:06:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2615eab873aee70b3f3399753cfb23793b237c49&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [APTX4869][CONAN][名侦探柯南 21 枫红的恋歌][BDRIP][1080P][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-49143dc9b687b8051cb89e39c9e91f075089bb6d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-01T12:24:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:49143dc9b687b8051cb89e39c9e91f075089bb6d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【青森小镇】 [繁简外挂字幕] [文豪野犬] [Bungou Stray Dogs] [25] [1080P] [BD] [OVA]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a58735b9c7661891a8d71daff2c2ea8e29f38b95.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-28T17:14:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a58735b9c7661891a8d71daff2c2ea8e29f38b95&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【Little字幕组】魔卡少女樱 51 [BDRip][1080P][中日双字][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-10a7fb90be1c73615eb528165e1542c483ecfa76.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-28T04:13:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:10a7fb90be1c73615eb528165e1542c483ecfa76&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】★剧场版[魔法科高中的劣等生:呼唤繁星的少女][BDRip][AVC_AAC][1080P][简体][MP4]&碎碎念",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a672a20ee86b24fef9c6b840b31141803c47f120.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-28T01:15:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a672a20ee86b24fef9c6b840b31141803c47f120&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★劇場版[魔法科高中的劣等生:呼喚繁星的少女][BDRip][AVC_AAC][1080P][繁體][MP4]&碎碎唸",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cc9e736792bb40ab7822a5b9054c58efaeb2a154.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-27T20:08:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cc9e736792bb40ab7822a5b9054c58efaeb2a154&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【囧夏字幕组&WiKi】浪矢解忧杂货店 ナミヤ雑貨店の奇蹟 Miracles of the Namiya General Store 2017 [1080p][BluRay][x264][10bit][DTS][MKV][简繁内封]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1504be1cd947a50a570da43f829547371ab4052c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-27T05:04:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1504be1cd947a50a570da43f829547371ab4052c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [SFEO-Raws] 夏目友人帐伍+陆 Natsume Yuujinchou Go+Roku (BD 720P x264 10bit AAC)",
+
+
+"workName": "夏目友人帳",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ec9a61d6c198267f7d2b0dd1373a8ad2e6ff22b9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-26T11:45:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ec9a61d6c198267f7d2b0dd1373a8ad2e6ff22b9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [悠哈璃羽字幕社][游戏人生 剧场版 No Game No Life Zero+SPs][BDrip 1920x1080 x264 Flac][MKV 简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a70cefef9a45e5e88ef03e519b6aceda18e288ca.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-26T04:27:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a70cefef9a45e5e88ef03e519b6aceda18e288ca&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Aurora] ALDNOAH.ZERO/アルドノア・ゼロ (BDRip,1920x1080,8bit AVC MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fab1f89257b2fafd5a1a9851c45015def663ce1e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-25T17:41:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fab1f89257b2fafd5a1a9851c45015def663ce1e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Aurora] 暗杀教室/Assassination Classroom S2/暗殺教室 ASSASSINATION CLASSROOM S2 (BDRip,1920x1080,8bit AVC MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ccceefc66d72f4d6549dc556b031c560b671f6db.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-25T17:39:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ccceefc66d72f4d6549dc556b031c560b671f6db&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Aurora] 爱的魔法/Maburaho/まぶらほ (BDRip,1920x1080,8bit AVC MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0d0aa53bc54083395231b9208676a0c3d1d5a323.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-25T17:39:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0d0aa53bc54083395231b9208676a0c3d1d5a323&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】★10月新番[如果有妹妹就好了。][SP07][BDRip][1080P][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d0ce9361ee974df6083d3c31cbdf9ebe3eda2442.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-25T11:16:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d0ce9361ee974df6083d3c31cbdf9ebe3eda2442&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★10月新番[如果有妹妹就好了。][SP07][BDRip][1080P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f2737663a37c572989561e96e6a864572285a803.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-25T11:16:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f2737663a37c572989561e96e6a864572285a803&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        我们都是超能力者.2015.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ce5f9236a3a251b2a6d423f13d2cb9249a27ab18.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-25T04:24:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ce5f9236a3a251b2a6d423f13d2cb9249a27ab18&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        劇場版 ノーゲーム・ノーライフ ゼロNo Game No Life Zero BD Source",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bb121acedeb3ffef8aba78abd7ee129e103abe5a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-25T04:21:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bb121acedeb3ffef8aba78abd7ee129e103abe5a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Aurora] 黄昏天空的炼金术师/Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi - Alchemists of the Dusk Sky/エスカ&ロジーのアトリエ ~黄昏の空の錬金術士~ (BDRip,1920x1080,8bit AVC MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9822235a54031e00f6520a94d8fae5942b16447e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-24T16:45:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9822235a54031e00f6520a94d8fae5942b16447e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] AKB0048 (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-39f4dc72a5cb67cb45a2f4a6b06b46c697ba33ca.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-24T16:32:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:39f4dc72a5cb67cb45a2f4a6b06b46c697ba33ca&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] AKB0048 next stage (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-81fd124a23a307c96370100a14dc8786f1f213a2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-24T16:31:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:81fd124a23a307c96370100a14dc8786f1f213a2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] Aiura/あいうら (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a8de34284dfc62bdae8ec65cc78a9dc76cfd88f5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-24T16:25:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a8de34284dfc62bdae8ec65cc78a9dc76cfd88f5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2007-2013] 劇場版 空之境界 Kara no Kyoukai - BD-BOX 全8章+未來福音+Extra Chorus (BD 720p HEVC AACx2 [5.1+2.0]).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1ed7ef5a455af62aa8cfee9091faa10570bb70e0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-24T12:46:02.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1ed7ef5a455af62aa8cfee9091faa10570bb70e0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ANK-Raws] ソードアート・オンラインII   刀剑神域II   Sword Art Online II (BDrip 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aa40355bcb28846b5423c2d8dfeb905876fdfdaf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-24T10:49:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aa40355bcb28846b5423c2d8dfeb905876fdfdaf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        我的英雄学院 第一季.1-13.BDrip1080P.X264.AC3.国语配音内封字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d4ef03ad9b219b244cb478435c9f6f53084c4e50.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-24T07:25:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d4ef03ad9b219b244cb478435c9f6f53084c4e50&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [悠哈璃羽字幕社&LoliHouse] NO GAME NO LIFE ZERO / ノーゲーム・ノーライフ ゼロ [BDRip 1920x1080 HEVC-10bit FLAC][简繁外挂字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-783db6cba8daa0b896b64e0eba6ffb78d730ffc5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-24T05:30:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:783db6cba8daa0b896b64e0eba6ffb78d730ffc5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 劇場版 No Game No Life Zero (BD 1920x1080 x264 FLACx3)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e3a0790614d0a9acaff93644a571fef5bb145b97.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-24T03:47:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e3a0790614d0a9acaff93644a571fef5bb145b97&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[游戏人生_剧场版 No Game No Life ZERO][BDRIP 1080P_AVC_AAC][GB]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-65ad52069008eb61fdcfb091e417245b59097f2f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-24T01:13:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:65ad52069008eb61fdcfb091e417245b59097f2f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[游戏人生_剧场版 No Game No Life ZERO][BDRIP 1080P_AVC_AAC][BIG5]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-34e447ed11b18f411d0957e9249db9aa822f396f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-24T01:11:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:34e447ed11b18f411d0957e9249db9aa822f396f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        暗杀教室：毕业篇.Assassination.Classroom.The.Graduation.2016.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b279c4bd1a5ecb2564701191e684b73490539a3b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T14:47:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b279c4bd1a5ecb2564701191e684b73490539a3b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        暗杀教室.真人版.Assassination.Classroom.2015.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cc3a07b91d7c5a4872a69fde0771cc4808395001.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T14:46:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cc3a07b91d7c5a4872a69fde0771cc4808395001&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] No Game No Life + Zero (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3d20c74d4a6792f45c49cd15fb8b6a09993c0de5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T11:03:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3d20c74d4a6792f45c49cd15fb8b6a09993c0de5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Day1] No Game No Life: Zero 游戏人生 零[BD 1080p FLAC 5.1]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1fecdd7fd6d073dde15ac5a15f240f0d1ca68653.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T10:21:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1fecdd7fd6d073dde15ac5a15f240f0d1ca68653&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        三月的狮子真人版.后篇.March.Comes.in.Like.a.Lion.2.2017.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5ee05251f210f877734558a8cb113d66a25b26d4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T09:45:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5ee05251f210f877734558a8cb113d66a25b26d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        三月的狮子真人版.前篇.March.Comes.in.Like.a.Lion.2017.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-11b3bcedef9c812cae5c18a41333d10da74b918d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T09:44:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:11b3bcedef9c812cae5c18a41333d10da74b918d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        三月的狮子真人版.后篇.March.Comes.in.Like.a.Lion.2.2017.1080p.BluRay.x264.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-80ce05a79ace3a0dffb4e6d12992450630939df2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T09:40:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:80ce05a79ace3a0dffb4e6d12992450630939df2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        三月的狮子真人版.前篇.March.Comes.in.Like.a.Lion.2017.1080p.BluRay.x264.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-27897617a6274df00f4eb2354f60b017e9a4a38d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T09:39:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:27897617a6274df00f4eb2354f60b017e9a4a38d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        狼少女与黑王子真人版.Wolf.Girl.and.Black.Prince.2016.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4d09a0883bec78bf1ac38a6e536b1ffe7124f2e1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T03:21:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4d09a0883bec78bf1ac38a6e536b1ffe7124f2e1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        狼少女与黑王子真人版.Wolf.Girl.and.Black.Prince.2016.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8c849e27f8b6ee4253caf94ff1699c75ef390ed1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T03:19:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8c849e27f8b6ee4253caf94ff1699c75ef390ed1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        帝一之国.Teiichi.Battle.of.Supreme.High.2017.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7234a82a95a2a9ebc4cf2e6a852360f38e6a1bb7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-22T07:06:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7234a82a95a2a9ebc4cf2e6a852360f38e6a1bb7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        帝一之国.Teiichi.Battle.of.Supreme.High.2017.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5419174f81d37f6cb178a63d3ba903031ae4381a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-22T07:05:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5419174f81d37f6cb178a63d3ba903031ae4381a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作3][动物战队兽王者丨超级动物大战-03][GB][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3487de65ff6e271bdfe7a5a7e534f7b79fb0f40f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-22T07:04:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3487de65ff6e271bdfe7a5a7e534f7b79fb0f40f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        女主角失格.Heroine.Disqualified.2015.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e424b704fd4663f32df0f10042cd10a62efb3d3e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-22T06:47:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e424b704fd4663f32df0f10042cd10a62efb3d3e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        女主角失格.Heroine.Disqualified.2015.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-af17d88ba0f845f6021dc109e6c0320daa9d1732.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-22T06:45:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:af17d88ba0f845f6021dc109e6c0320daa9d1732&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        只要你说你爱我.真人版.Say.I.Love.You.2014.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-42c06f079f884666aca57cb01db2a7a9af67a5a1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-22T06:40:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:42c06f079f884666aca57cb01db2a7a9af67a5a1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        进击的巨人真人版：后篇.Attack.On.Titan.Part.2.End.Of.The.World.2015.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a42824c1b5d2c5e4babc025717db710402af6c47.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-21T06:34:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a42824c1b5d2c5e4babc025717db710402af6c47&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        进击的巨人真人版：前篇&后篇&反击的狼烟.Attack.on.Titan.Part.1&2.2015.BD1080P.X264.DTS.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2a2ab71150e375778929bc8256874dd1466171f8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-21T06:23:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2a2ab71150e375778929bc8256874dd1466171f8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [魔星字幕团][初代假面骑士][BDBOX1][01-26][本篇][中日双语字幕][BDRip][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fed7dd6d96454a42330771e84bd390476c877d17.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-21T06:13:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fed7dd6d96454a42330771e84bd390476c877d17&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        进击的巨人真人版：后篇 Attack.on.Titan.Part.2.2015.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-39846ac2ee2848fa003dde87113e9a59e8a8d493.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-21T06:10:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:39846ac2ee2848fa003dde87113e9a59e8a8d493&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        进击的巨人真人版：前篇 Attack.on.Titan.Part.1.2015.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8d2844c95407e339ecf07e3844b1223ab2578c0d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-21T06:08:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8d2844c95407e339ecf07e3844b1223ab2578c0d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        在这世界的角落.In.This.Corner.of.the.World.2016.1080p.BluRay.x264-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8b68d3eef4409a8f9e9bb8d9a8bb38dc7553596b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-21T03:27:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8b68d3eef4409a8f9e9bb8d9a8bb38dc7553596b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【sin七宗罪 忏悔录 sin Nanatsu no Taizai - Zangeroku】【01~19】【BDrip】【GB_MP4】【1280X720】【重制合集】[附网盘]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c8de1dc236bb39858171b23e18b263bb6cbc0eb2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-21T01:34:25.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c8de1dc236bb39858171b23e18b263bb6cbc0eb2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【sin七宗罪 懺悔錄 sin Nanatsu no Taizai - Zangeroku】【01~19】【BDrip】【BIG5_MP4】【1280X720】【重制合集】[附網盤]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e580e6eb3c5c89d4d3d82f8b3ecc253891ac851b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-21T01:34:15.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e580e6eb3c5c89d4d3d82f8b3ecc253891ac851b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[Fresh光之美少女剧场版：玩具王国有很多秘密！？][映画 フレッシュプリキュア！ おもちゃの国は秘密がいっぱい！？][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b0c97e3a2e13dcd7cc483ba8998a3f047a5c6207.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-20T07:47:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b0c97e3a2e13dcd7cc483ba8998a3f047a5c6207&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [银色子弹字幕组][名侦探柯南][剧场版4 瞳孔中的暗杀者][20周年4K数字重制版][简日双语MP4/繁日双语MP4/简繁日多语MKV][BDRIP(4KDR)][1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-91ff82a749ca22800c047f8e0d1e4ff67d5eeaf2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-20T06:10:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:91ff82a749ca22800c047f8e0d1e4ff67d5eeaf2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [银色子弹字幕组][名侦探柯南][剧场版4 瞳孔中的暗杀者][简日双语MP4/繁日双语MP4/简繁日多语MKV][BDRIP][1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e47bd6f871aac80bbe1bde4491d63507046c3f45.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-20T06:07:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e47bd6f871aac80bbe1bde4491d63507046c3f45&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        2007.天元突破红莲螺岩.Tengen.Toppa.Gurren.Lagann.1-27.Bluray.1080p.x265.AAC.GREENOTEA 内封字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5f9b07794f8dfd59d408b7d4a1daadecff13a596.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-20T01:39:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5f9b07794f8dfd59d408b7d4a1daadecff13a596&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[魔法使光之美少女剧场版：奇迹的变身！Cure Mofurun！][映画 魔法つかいプリキュア！奇跡の変身！キュアモフルン！][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d9eb171c8565aef170165b234b084490ffe3b03f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-19T03:35:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d9eb171c8565aef170165b234b084490ffe3b03f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [FatCatRAW][假面骑士KIVA][BDBOX01][BDRIP][1080P][HEVC-YUV420P10 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-40bbe42d52406cc15358c9ef7433442377e174be.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-18T13:51:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:40bbe42d52406cc15358c9ef7433442377e174be&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 劇場版 你的名字 Kimi no Na wa.[10Bit Ver.](BD 1920x1080 x264 DTS-HDMAx4)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4429726df9b9622f46fd994bfae013bb8ebd7d48.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-18T11:14:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4429726df9b9622f46fd994bfae013bb8ebd7d48&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 劇場版 你的名字 Kimi no Na wa.[10Bit Ver.](BD 1920x1080 x264 DTS-HDMAx4)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fa2d832b3472a4d195346ed5269b145b1fc97b65.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-18T11:12:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fa2d832b3472a4d195346ed5269b145b1fc97b65&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[剧场版 Go！公主光之美少女剧场版：Go！Go！！豪华三合一！！][映画 Go!プリンセスプリキュア Go!Go!!豪華3本立て!!!][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f2be1fa92406f8d78b3dfaf5697c521fcd7cda6f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-17T13:15:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f2be1fa92406f8d78b3dfaf5697c521fcd7cda6f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [银色子弹字幕组][名侦探柯南][真•第一集 变小了的名侦探][Detective Conan Episode \"One\"][简日双语MP4/简日繁多语MKV][BDRIP][1080p]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9437c1c71ff1287dbfeec6ef865481c58b7ce608.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-16T12:03:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9437c1c71ff1287dbfeec6ef865481c58b7ce608&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NEO·QSW]机动战士高达 铁血的孤儿 第一季 機動戦士ガンダム 鉄血のオルフェンズ S1[Bdrip HEVC 1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-04588c3d8f371b1d9e5955b28f6b5903c2344ac1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-16T09:43:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:04588c3d8f371b1d9e5955b28f6b5903c2344ac1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [天香字幕社&A.I.R.nesSub][2017年04月][ID-0][BDRIP][1080p][HEVC_FLAC][簡繁外掛][重發，之前發的請勿下]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6d09f46fc66e357417ca3e92ced5e6422e28b9fe.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-16T09:21:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6d09f46fc66e357417ca3e92ced5e6422e28b9fe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [漫游字幕组] 网络胜利组 导演剪辑版 Netojuu no Susume 1-11FIN 简体/繁体内嵌 BDRip 720P MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c4e2bc67a33edaf2a324fc6b1aca58e8c028134e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-16T08:25:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c4e2bc67a33edaf2a324fc6b1aca58e8c028134e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [天香字幕社&A.I.R.nesSub][2017年04月][ID-0][BDRIP][1080p][HEVC_FLAC][簡繁外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-011298f92ef8812e66233416e3a3cb57b2d85d02.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-16T02:06:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:011298f92ef8812e66233416e3a3cb57b2d85d02&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Aurora] 稻荷恋之歌/Inari, Konkon, Koi Iroha./いなり, こんこん, 恋いろは. (BDRip,1920x1080,8bit AVC MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8cfcf19c03a6c14f50f88432f113e10b706b816d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-15T18:32:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8cfcf19c03a6c14f50f88432f113e10b706b816d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [KRL][假面骑士OOO][BDrip][Vol.10-12][1080P][x265_AC3][Main10][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c1ed0c46963cc80875f034421cd8401d900725c6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-15T15:15:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c1ed0c46963cc80875f034421cd8401d900725c6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        新年礼16[CXRAW][仮面ライダー THE FIRST & THE NEXT][假面骑士THE FIRST & THE NEXT][BDrip][1080P][HEVC Main10P FLAC MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-08b9ba810310e2b8ad3004c74f95df39aa17bf2b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-15T07:12:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:08b9ba810310e2b8ad3004c74f95df39aa17bf2b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        (新年献礼)[FatCatRAW][假面骑士EX-AID 剧场版][True Ending][BDRIP][1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-836b17e6017c14fc66e137ec01e9650419458d24.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-15T02:03:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:836b17e6017c14fc66e137ec01e9650419458d24&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Aurora] MM一族/MM!/えむえむっ! (BDRip,1920x1080,8bit AVC MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c932c27aaf3df98a8fb6d9c73c57d0934dc23f38.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-14T22:59:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c932c27aaf3df98a8fb6d9c73c57d0934dc23f38&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        命运石之门 Steins;Gate(2011)[BDRIP][1920x1080][TV24+剧场版 负荷领域的既视感+menu10+pv+sp][x264_m4a][10bit]加刘景长压制",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dd25568d7e5c353b85536554268746ae579f8885.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-14T10:41:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dd25568d7e5c353b85536554268746ae579f8885&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        我女友与青梅竹马的惨烈修罗场 Ore no Kanojo to Osananajimi ga Shuraba Sugiru(2013)[BDRIP][1920x1080][TV13+menu14+ncoped3+ep12][x264_m4a][10bit]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e4b3456ad4e875671d1f17e1f2ccb2901002b937.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-14T10:17:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e4b3456ad4e875671d1f17e1f2ccb2901002b937&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 我们的仙境 / 心动的日子 まほらば～Heartful days Mahoraba Heartful Days BD-BOX (BD 1440x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-becd758cdd66382343377fea297a20e724b0f72b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-14T09:43:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:becd758cdd66382343377fea297a20e724b0f72b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【LxyLab】恶魔人:诞生篇 Devilman The Birth OVA 1987 BDRip 1080p 简体中文字幕V2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-90d2344eb03c3f406a3065cbfa5a3a436fe13dbf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-14T09:40:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:90d2344eb03c3f406a3065cbfa5a3a436fe13dbf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Aurora] 光明之心 幸福的麵包/Shining Hearts: Shiawase no Pan/シャイニング・ハーツ～幸せのパン～ (BDRip,1920x1080,8bit AVC MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-403a3b7e97e63ff4499b8277e7b3f96fbf51aacc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-14T07:37:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:403a3b7e97e63ff4499b8277e7b3f96fbf51aacc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Aurora] Vividred Operation//ビビッドレッド・オペレーション (BDRip,1920x1080,8bit AVC MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9c8274d71d7f07a202026b3dee72508de7bf3a42.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-14T07:20:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9c8274d71d7f07a202026b3dee72508de7bf3a42&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [AikatsuFans][偶像活动Stars!/Aikatsu Stars!/アイカツスターズ!][SE2][BOX1-2][BDRIP][1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-047923335ea75fabb82f3c9e4995c6441951ff53.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-14T05:26:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:047923335ea75fabb82f3c9e4995c6441951ff53&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作4][动物战队兽王者丨第二卷12-23][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1712ddb0f238d9ec3c22a7015c2bcc706feefa12.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-14T02:21:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1712ddb0f238d9ec3c22a7015c2bcc706feefa12&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社＆ANK-Raws】[喜欢上你的瞬间+很久以前就喜欢你了][BDRIP x265_10bit FLAC][MKV简繁外挂] 情人节贺礼",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-86ffd67ff369efd53861bec135e078f8588d6563.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-13T17:57:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:86ffd67ff369efd53861bec135e078f8588d6563&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        青春之旅真人版.Blue.Spring.Ride.2014.1080p.BluRay.x264-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3667df478f895f32f9061f139c3f26aa5d8d27f0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-13T13:57:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3667df478f895f32f9061f139c3f26aa5d8d27f0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        闪烁的爱情.Strobe.Edge.2015.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6d9fb023fe61cba3c1546a93e0e5a218258c4b25.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-13T13:50:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6d9fb023fe61cba3c1546a93e0e5a218258c4b25&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        少女编号 Girlish Number(2016)[BDRIP][1920x1080][TV12+menu6+SP7+NCop][x264_m4a][10bit]加刘景长压制",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3f3deb2f7d6a4ef8ec633c5d855058367d0d17b7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-13T12:40:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3f3deb2f7d6a4ef8ec633c5d855058367d0d17b7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Aurora] 鹡鸰女神/Sekirei/セキレイ (BDRip,1920x1080,8bit AVC MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e45164c951041ce9b30b70fb18a26f226e3ea9e8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-13T12:37:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e45164c951041ce9b30b70fb18a26f226e3ea9e8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Aurora] 鶺鴒女神 ～Pure Engagement～/Sekirei Pure Engagement/セキレイ ~Pure Engagement~ (BDRip,1920x1080,8bit AVC MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-642cdb5b7e725897f3948588d1568e6fdf26a183.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-13T12:37:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:642cdb5b7e725897f3948588d1568e6fdf26a183&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        我才不会对黑崎君说的话言听计从.The.Black.Devil.and.the.White.Prince.2016.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-725d4a04b3cd3236e11c5192758007b73fb7bcf5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-12T13:05:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:725d4a04b3cd3236e11c5192758007b73fb7bcf5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        我才不会对黑崎君说的话言听计从.The.Black.Devil.and.the.White.Prince.2016.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c367d574e6872126fddcb14977d6a9c7562ca858.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-12T13:04:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c367d574e6872126fddcb14977d6a9c7562ca858&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        今天的吉良同学.Closest.Love.to.Heaven.2017.1080p.BluRay.x264.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2965d560f2bca1f9e87bfeb4d1c88df1395f46a0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-12T12:54:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2965d560f2bca1f9e87bfeb4d1c88df1395f46a0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        今天的吉良同学 きょうのキラ君 .Closest.Love.to.Heaven.2017.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1b1d53443b0674fa13b9dfd7e810bcd5e95b1b7e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-12T12:52:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1b1d53443b0674fa13b9dfd7e810bcd5e95b1b7e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        寄生兽.Parasyte.Part.1.2014.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-498f12116ddfce75c9c7f70c3a7dd7e76c5194c4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-12T02:58:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:498f12116ddfce75c9c7f70c3a7dd7e76c5194c4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        哥哥太爱我了怎么办.My.Brother.Loves.Me.Too.Much.2017.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d30158b116f902d9a02c8f9b4a1ec8d4bc73375f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-12T02:50:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d30158b116f902d9a02c8f9b4a1ec8d4bc73375f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        哥哥太爱我了怎么办.My.Brother.Loves.Me.Too.Much.2017.1080p.BluRay.x264.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-eb42158f1950135d31f17e40118949043e727e04.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-12T02:46:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:eb42158f1950135d31f17e40118949043e727e04&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Aurora] 游戏王 次元的黑暗面/Yu-Gi-Oh! The Dark Side of Dimensions/遊☆戯☆王 THE DARK SIDE OF DIMENSIONS (MOVIE) (BDRip,1920x1080,8bit AVC MP4, 可扩展为BDMV, HTML5 兼容)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-059a68e3f7a3f7fae083d22c50f5ae19415d40b9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-12T02:42:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:059a68e3f7a3f7fae083d22c50f5ae19415d40b9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨23.巨兽猎人][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-553566d3b59aec0aed7f792da62f7329ecbc081d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-11T15:42:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:553566d3b59aec0aed7f792da62f7329ecbc081d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] TO HEART 2 (BD 1920×1080 HEVC-yuv420p10 FLAC MKV)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-84b4bc46cfcd6c622c5ecee4c195dc68da2b1e28.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-11T14:28:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:84b4bc46cfcd6c622c5ecee4c195dc68da2b1e28&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        食梦者真人版/爆漫王.Bakuman.2015.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-17d036860fd7a0946034d18b05cdebcbadb14d6c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-11T07:26:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:17d036860fd7a0946034d18b05cdebcbadb14d6c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        食梦者真人版/爆漫王.Bakuman.2015.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f9be04b97ae5caa0416a0afea56a37fafcc0ca15.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-11T07:25:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f9be04b97ae5caa0416a0afea56a37fafcc0ca15&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【BDMV】食梦者真人版/爆漫王.Bakuman.2015.BluRay.REMUX.1080p.AVC.DTS-HD.MA5.1-HDS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8f325f11adb28d6559852472b65cb5d989b84ba6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-11T07:22:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8f325f11adb28d6559852472b65cb5d989b84ba6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        近距离恋爱.A.Short.Distance.Relationship.2014.1080p.BluRay.x264.DTS-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2ddffc9826e0d7732baf9ae48c65134048e0c3c5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-10T13:55:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2ddffc9826e0d7732baf9ae48c65134048e0c3c5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        近距离恋爱.A.Short.Distance.Relationship.2014.BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2a5705197eb93586a48928ca9601d2c7a6753b47.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-10T13:50:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2a5705197eb93586a48928ca9601d2c7a6753b47&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [风车字幕组七周年献礼][名侦探柯南动画20周年纪念2小时特别篇][Episode‘ONE’][变小的名侦探][真·第一集][BDRip][简体&繁体][MKV][1080P_10bit_HEVC_FLAC][详情见内附说明]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a8d339e00d839e371cc7aa287e5bd9507f69bae4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-10T10:25:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a8d339e00d839e371cc7aa287e5bd9507f69bae4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 亡念之扎姆德 Xam'd Lost Memories (BD 1920x1080 x264 flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fca5967e77463db55359cae4838956aa18241323.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-10T00:02:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fca5967e77463db55359cae4838956aa18241323&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【晨曦制作】【帕瓦特奥特曼】【12】【美版&日版】【双字幕】【BDrip】【1080P】【HEVC Ma10p FLAC MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aee238377454c3fd1347d43cb869f234cc10c3d4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-09T10:09:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aee238377454c3fd1347d43cb869f234cc10c3d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [EX8][2007][神探伽利略][Galileo ][ep01-10+sp][BD1080P][x264-aac][中日双语]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fbc46d7d4ebe72d9549d7ea4dcef3b942827bf26.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-09T07:58:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fbc46d7d4ebe72d9549d7ea4dcef3b942827bf26&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        明日的我与昨日的你约会.Tomorrow.I.Will.Date.with.Yesterdays.You.2016.1080p.BluRay.x264-WiKi",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5e94d0b6e641d0c5d256f61e81e27f6d3728cde2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-09T07:42:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5e94d0b6e641d0c5d256f61e81e27f6d3728cde2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ANK-Raws] 劇場版 魔法科高校の劣等生 星を呼ぶ少女 (BDrip 1920x1080 HEVC-YUV420P10 FLAC SUP)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-233ef16356a91e2c9923def13dfee566320b535e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-08T16:24:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:233ef16356a91e2c9923def13dfee566320b535e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        闺房调查团-【春宵苦短，少女前进吧！Yoru wa Mijikashi Aruke yo Otome】[剧场版][1080P_BDRIP_MP4][简体] [1.3 GB]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e595258ecbf4bccc027f24fe3afe6fd9355933cc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-08T08:27:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e595258ecbf4bccc027f24fe3afe6fd9355933cc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [银光字幕组][蜡笔小新剧场版2017][025][外星人来袭][BDRIP][1080P][简繁日内封字幕][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d9a2713f576c8cdad0d9ec7d5e06932a9e08500b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-07T15:15:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d9a2713f576c8cdad0d9ec7d5e06932a9e08500b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【LxyLab】恶魔人:妖鸟死丽濡篇 Devilman The Demon Bird OVA 1990 BDRip 1080p 简体中文字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ad413831289aed2efd5fb70e132dcd85fd8e598a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-07T09:51:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ad413831289aed2efd5fb70e132dcd85fd8e598a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Non-Credit Opening & Ending Collection][NCOP NCED batch 2011][DVD-raw & BD-raw][",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9e7c487a8aa38bef9ea0cb5541f866d17560db21.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-06T20:54:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9e7c487a8aa38bef9ea0cb5541f866d17560db21&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【Little字幕组】美少女战士Sailor Moon 06 [BDRip][1080P][中日双字][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-83f4415062db609a3ea7cea2c1c6a09f6b982b9f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-05T07:23:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:83f4415062db609a3ea7cea2c1c6a09f6b982b9f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[小魔女學園 全系列][01-25+OVA+MOVIE][BDRip][AVC_AAC][720P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-56c2f8b72fd88a774ecd0def059e6aea6ee811d4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T12:28:53.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:56c2f8b72fd88a774ecd0def059e6aea6ee811d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】[小魔女学园 全系列][01-25+OVA+MOVIE][BDRip][AVC_AAC][720P][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1c5d741ef4f496bc5ad901368d18ebdf6d31f6a5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T12:27:45.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1c5d741ef4f496bc5ad901368d18ebdf6d31f6a5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 龙的牙医 Ryuu no Haisha - TV + Movie (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-88dc778cb64ab1cc5c28d109837978a0358bb0f6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T11:23:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:88dc778cb64ab1cc5c28d109837978a0358bb0f6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [银色子弹字幕组][鲁邦三世VS名侦探柯南 the Movie][2013MOVIE][简日双语MP4/繁日双语MP4/简繁日多语MKV][BDRIP][1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fad3f9231c901ccdcbcc77e9df77063675a7ad14.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T08:58:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fad3f9231c901ccdcbcc77e9df77063675a7ad14&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[小魔女學園][BDRip][Vol.09][AVC_FLAC_PGS][1080P_Hi10P][簡繁外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-af4067d00e2109f562b9b3688c1ceecc41f90a62.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T06:19:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:af4067d00e2109f562b9b3688c1ceecc41f90a62&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [个人制作]机动战士高达 THE ORIGIN　 V 激突 鲁姆会战     1080p bdrip",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-521a6434fe12bca0b10a0ef799dc1e0db45a4a33.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-03T20:17:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:521a6434fe12bca0b10a0ef799dc1e0db45a4a33&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LM制作1][动物战队兽王者丨22.觉醒？误会？][GBJP][1080P][BDRIP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-46c6eac1d3f86a65602c11bd9518e9b322c46a76.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-03T14:37:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:46c6eac1d3f86a65602c11bd9518e9b322c46a76&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        金银岛.Treasure.Island.MULTI.1080p.DTS.HDMA.BluRay.x264-Dryl",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-81d05b6a8307bfecbccba3d3a8072408c47e02d0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-03T13:45:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:81d05b6a8307bfecbccba3d3a8072408c47e02d0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5719,7 +29930,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-354bbb0e2bef5940e3c58138f02c8409373c3623.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-03T01:09:47.000Z",
@@ -5731,7 +29942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:354bbb0e2bef5940e3c58138f02c8409373c3623&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:354bbb0e2bef5940e3c58138f02c8409373c3623&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5756,7 +29970,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-358f3aa907749836822fc12a2d2c8cb2a1b6a2d1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-02T02:19:46.000Z",
@@ -5768,7 +29982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:358f3aa907749836822fc12a2d2c8cb2a1b6a2d1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:358f3aa907749836822fc12a2d2c8cb2a1b6a2d1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5793,7 +30010,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c5cbfc9b45cf3d398bc9663939ed9d501fc8de05.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-01T09:01:08.000Z",
@@ -5805,7 +30022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c5cbfc9b45cf3d398bc9663939ed9d501fc8de05&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c5cbfc9b45cf3d398bc9663939ed9d501fc8de05&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5830,7 +30050,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4a4bd61eb6ed0ec5eb4da20ef9bb2453e8c690f2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-01T04:32:13.000Z",
@@ -5842,7 +30062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4a4bd61eb6ed0ec5eb4da20ef9bb2453e8c690f2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4a4bd61eb6ed0ec5eb4da20ef9bb2453e8c690f2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5867,7 +30090,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-75ab9aeb6f8b07771d0b06845f1bb1e6ddc3bece.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-01T04:31:12.000Z",
@@ -5879,7 +30102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:75ab9aeb6f8b07771d0b06845f1bb1e6ddc3bece&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:75ab9aeb6f8b07771d0b06845f1bb1e6ddc3bece&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5904,7 +30130,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5d49f61a7582fb63e3598d41e597289eaf4209fe.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-01T04:29:45.000Z",
@@ -5916,7 +30142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5d49f61a7582fb63e3598d41e597289eaf4209fe&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5d49f61a7582fb63e3598d41e597289eaf4209fe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5941,7 +30170,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b60cf4ff735a6736abf0ebfa5c5b2501f697745f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-01T04:28:33.000Z",
@@ -5953,7 +30182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b60cf4ff735a6736abf0ebfa5c5b2501f697745f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b60cf4ff735a6736abf0ebfa5c5b2501f697745f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -5978,7 +30210,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b3afe11ffbf9610937fb057f117c8456e932f814.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-30T11:31:17.000Z",
@@ -5990,7 +30222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b3afe11ffbf9610937fb057f117c8456e932f814&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b3afe11ffbf9610937fb057f117c8456e932f814&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6015,7 +30250,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-78acb60a67d1ea75d16ba691ba6ddc9e27eff403.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-30T01:44:57.000Z",
@@ -6027,7 +30262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:78acb60a67d1ea75d16ba691ba6ddc9e27eff403&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:78acb60a67d1ea75d16ba691ba6ddc9e27eff403&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6052,7 +30290,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9745ee58a03a96abd731223da90572ef8b597365.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-29T07:15:55.000Z",
@@ -6064,44 +30302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9745ee58a03a96abd731223da90572ef8b597365&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
+"magnetLink": "magnet:?xt=urn:btih:9745ee58a03a96abd731223da90572ef8b597365&tr=http://open.acgtracker.com:1096/announce",
 
 
-"name": "\n        [VCB-Studio] GO!GO!575 / ゴ～! ゴ～! ご～ しち ご～ 10-bit 1080p HEVC BDRip [Fin]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-bb3821d4ead965b55c8699fbabf18e3d965e159f.html",
-
-
-"isNew": true,
-
-
-"publishTime": "2018-01-28T11:43:25.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:bb3821d4ead965b55c8699fbabf18e3d965e159f&tr=http://open.acgtracker.com:1096/announce"
+"dup": false
 
 },
 
@@ -6126,7 +30330,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-536d555c9c6db34a90d326e54d1bb360a3a4de3c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-28T11:37:52.000Z",
@@ -6138,81 +30342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:536d555c9c6db34a90d326e54d1bb360a3a4de3c&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
+"magnetLink": "magnet:?xt=urn:btih:536d555c9c6db34a90d326e54d1bb360a3a4de3c&tr=http://open.acgtracker.com:1096/announce",
 
 
-"name": "\n        【LittleBakas!】[恋 中二病でも恋がしたい！][Chuunibyou demo Koi ga Shitai! Ren][中二病也想谈恋爱！恋][BD][1080p][HEVC-yuv444p10 FLAC MKV]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-af4d5cab34dcf12e14b06b2b4fb554461b82dfc7.html",
-
-
-"isNew": true,
-
-
-"publishTime": "2018-01-28T08:05:55.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:af4d5cab34dcf12e14b06b2b4fb554461b82dfc7&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        【LittleBakas!】[中二病でも恋がしたい！][Chuunibyou demo Koi ga Shitai!][中二病也想谈恋爱！][BD][1080p][HEVC-yuv444p10 FLAC MKV]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-e9e83839a42fc7d4fe31aa94e695e560afb91665.html",
-
-
-"isNew": true,
-
-
-"publishTime": "2018-01-28T04:35:33.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:e9e83839a42fc7d4fe31aa94e695e560afb91665&tr=http://open.acgtracker.com:1096/announce"
+"dup": false
 
 },
 
@@ -6237,7 +30370,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7d3f560aafdc5fb222ea1a4833dbf42b4e005ec3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-28T02:15:15.000Z",
@@ -6249,7 +30382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7d3f560aafdc5fb222ea1a4833dbf42b4e005ec3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7d3f560aafdc5fb222ea1a4833dbf42b4e005ec3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6274,7 +30410,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-72ae48386a009259ac1f66530fc893a77436bcd0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-27T21:37:23.000Z",
@@ -6286,7 +30422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:72ae48386a009259ac1f66530fc893a77436bcd0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:72ae48386a009259ac1f66530fc893a77436bcd0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6311,7 +30450,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8df32b3d2b37265086aeeef6ee5063dc6409f1a5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-27T21:37:10.000Z",
@@ -6323,7 +30462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8df32b3d2b37265086aeeef6ee5063dc6409f1a5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8df32b3d2b37265086aeeef6ee5063dc6409f1a5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6348,7 +30490,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3bb81edc9c298f342b41e912b8a73036ecca60ba.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-27T21:37:07.000Z",
@@ -6360,7 +30502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3bb81edc9c298f342b41e912b8a73036ecca60ba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3bb81edc9c298f342b41e912b8a73036ecca60ba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6385,7 +30530,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f0538b190bc1447296a78c31c2db942b403f5ef3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-27T21:36:42.000Z",
@@ -6397,44 +30542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f0538b190bc1447296a78c31c2db942b403f5ef3&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
+"magnetLink": "magnet:?xt=urn:btih:f0538b190bc1447296a78c31c2db942b403f5ef3&tr=http://open.acgtracker.com:1096/announce",
 
 
-"name": "\n        [VCB-Studio] Yuru Yuri / 摇曳百合 / ゆるゆり 10-bit 1080p HEVC BDRip [S1+S2+S3+OVAs Reseed Fin]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-32d593e9db47f92f5bb1f3442787bfd769772629.html",
-
-
-"isNew": true,
-
-
-"publishTime": "2018-01-27T16:27:47.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:32d593e9db47f92f5bb1f3442787bfd769772629&tr=http://open.acgtracker.com:1096/announce"
+"dup": false
 
 },
 
@@ -6459,7 +30570,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-97cba9253bfefbb39ed3535939ed692d079744db.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-26T10:31:35.000Z",
@@ -6471,44 +30582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:97cba9253bfefbb39ed3535939ed692d079744db&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
+"magnetLink": "magnet:?xt=urn:btih:97cba9253bfefbb39ed3535939ed692d079744db&tr=http://open.acgtracker.com:1096/announce",
 
 
-"name": "\n        【LittleBakas!】[氷菓][Hyouka][冰菓][BD][1080p][HEVC-yuv444p10 FLAC MKV]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-ed1c54956ac8afb58514c4f0cf7a2f6b00fdf890.html",
-
-
-"isNew": true,
-
-
-"publishTime": "2018-01-26T09:52:20.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:ed1c54956ac8afb58514c4f0cf7a2f6b00fdf890&tr=http://open.acgtracker.com:1096/announce"
+"dup": false
 
 },
 
@@ -6533,7 +30610,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5ae6fd44e9389ef7184bf189aaea81f0a3354b99.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-25T18:42:22.000Z",
@@ -6545,7 +30622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5ae6fd44e9389ef7184bf189aaea81f0a3354b99&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5ae6fd44e9389ef7184bf189aaea81f0a3354b99&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6570,7 +30650,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-55f1f34e36411f528c291435c6a145d8288e0bb3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-25T17:40:37.000Z",
@@ -6582,118 +30662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:55f1f34e36411f528c291435c6a145d8288e0bb3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:55f1f34e36411f528c291435c6a145d8288e0bb3&tr=http://open.acgtracker.com:1096/announce",
 
-},
 
-{
-
-
-"name": "\n        【LittleBakas!】[マクロスΔ][Macross Delta][超时空要塞Δ][BD][1080p][HEVC-yuv444p10 FLAC MKV]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-421325f2754ac5de7caa4add1b18d95c64b948c7.html",
-
-
-"isNew": true,
-
-
-"publishTime": "2018-01-25T17:34:27.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:421325f2754ac5de7caa4add1b18d95c64b948c7&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        【LittleBakas!】[シロバコ][SHIROBAKO][白箱][BD][1080p][HEVC-yuv444p10 FLAC MKV]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-8f9a6654fecb9a7a470b81b0885ab2190d063586.html",
-
-
-"isNew": true,
-
-
-"publishTime": "2018-01-25T17:20:46.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:8f9a6654fecb9a7a470b81b0885ab2190d063586&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        【LittleBakas!】[干物妹! うまるちゃん][Himouto! Umaru-chan][干物妹! 小埋][BD][1080p][HEVC-yuv444p10 FLAC MKV]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-faafce4a6e011111427423c1fb00c3d6b9d315c7.html",
-
-
-"isNew": true,
-
-
-"publishTime": "2018-01-25T17:04:30.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:faafce4a6e011111427423c1fb00c3d6b9d315c7&tr=http://open.acgtracker.com:1096/announce"
+"dup": false
 
 },
 
@@ -6718,7 +30690,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-63608f4ffb4975c9dbfcb2677e93396bcbe74817.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-25T10:05:38.000Z",
@@ -6730,7 +30702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:63608f4ffb4975c9dbfcb2677e93396bcbe74817&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:63608f4ffb4975c9dbfcb2677e93396bcbe74817&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6755,7 +30730,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-442da75c377a33fabc73ff6429b68d2f15a8718f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-25T09:56:09.000Z",
@@ -6767,7 +30742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:442da75c377a33fabc73ff6429b68d2f15a8718f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:442da75c377a33fabc73ff6429b68d2f15a8718f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6792,7 +30770,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6308ca872e3396bb8c34e9956d166055ab78c480.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-24T14:55:29.000Z",
@@ -6804,7 +30782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6308ca872e3396bb8c34e9956d166055ab78c480&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6308ca872e3396bb8c34e9956d166055ab78c480&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6829,7 +30810,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b2172cda84c1e8c46b9af2cd23c05936741639c3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-22T18:04:18.000Z",
@@ -6841,7 +30822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b2172cda84c1e8c46b9af2cd23c05936741639c3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b2172cda84c1e8c46b9af2cd23c05936741639c3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6866,7 +30850,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4900bdcb8fa166721cc219255b5681cec01d52e7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-22T08:18:07.000Z",
@@ -6878,7 +30862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4900bdcb8fa166721cc219255b5681cec01d52e7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4900bdcb8fa166721cc219255b5681cec01d52e7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6915,7 +30902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:77407c1d24b682418cce74dbef2217ccc72cb515&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:77407c1d24b682418cce74dbef2217ccc72cb515&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6952,7 +30942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3a706182403acc4fc0e94771f5bf8d4ac3fdc40f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3a706182403acc4fc0e94771f5bf8d4ac3fdc40f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -6989,7 +30982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:241087647c3c8650632df774adbeafc51db94680&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:241087647c3c8650632df774adbeafc51db94680&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7026,7 +31022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fa0f05fbc705e48c45e2245d167cb1d031583323&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fa0f05fbc705e48c45e2245d167cb1d031583323&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7063,7 +31062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6f9ecf3895d1acafcec200ebd5bde7e68952c1a0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6f9ecf3895d1acafcec200ebd5bde7e68952c1a0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7100,7 +31102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ea35a4d974dbd73cd5658fc2eaa55639779bf731&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ea35a4d974dbd73cd5658fc2eaa55639779bf731&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7137,7 +31142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:787b09fdb5f5a491ae941434619a20ec1a3075b1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:787b09fdb5f5a491ae941434619a20ec1a3075b1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7174,7 +31182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:93cc28b02da5421ac724cfb806987b0fba69018c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:93cc28b02da5421ac724cfb806987b0fba69018c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7211,7 +31222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6d0fc780029c4d6398bc9cd75a70869df2f314b6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6d0fc780029c4d6398bc9cd75a70869df2f314b6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7248,7 +31262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:04bed6d8c43fd0abd8bbef0106c24322d742aaea&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:04bed6d8c43fd0abd8bbef0106c24322d742aaea&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7285,7 +31302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6ae2c4284386d4859628f8c855905acffa4b0af5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6ae2c4284386d4859628f8c855905acffa4b0af5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7322,7 +31342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d2372d549abbff8b7eacee100abcfe7a4c1817d9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d2372d549abbff8b7eacee100abcfe7a4c1817d9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7359,7 +31382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2f6fb476bc9fdaaed4ed41015c26896b55a3ccf5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2f6fb476bc9fdaaed4ed41015c26896b55a3ccf5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7396,7 +31422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d3166f525100acea0ff42aed5695fb41370e3436&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d3166f525100acea0ff42aed5695fb41370e3436&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7433,7 +31462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:34890a7f7896aab3442616809d0dff5ec6d7cd6a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:34890a7f7896aab3442616809d0dff5ec6d7cd6a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7470,7 +31502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d19ef558abe1478fd92014e73a126fed89999427&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d19ef558abe1478fd92014e73a126fed89999427&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7507,7 +31542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:104d14abe16413943e71f926fe24402812aadb35&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:104d14abe16413943e71f926fe24402812aadb35&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7544,7 +31582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:75284fb1a64a7ce4709ef62c668418be0643de2c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:75284fb1a64a7ce4709ef62c668418be0643de2c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7581,7 +31622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e28e7898ef14743769e2327b740531ff90ad2a36&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e28e7898ef14743769e2327b740531ff90ad2a36&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7618,7 +31662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:aed885fa0e7720e205b1f05e27dcf00f0e7f1dbc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:aed885fa0e7720e205b1f05e27dcf00f0e7f1dbc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7655,7 +31702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:43228552b860e97d15825769584e999ab9616aa4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:43228552b860e97d15825769584e999ab9616aa4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7692,7 +31742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6b0b0897e12064a0594432317f6fda29c49e85f9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6b0b0897e12064a0594432317f6fda29c49e85f9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7729,7 +31782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7bc061c286b351172b8ef4bf99ee713572f2e90d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7bc061c286b351172b8ef4bf99ee713572f2e90d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7766,7 +31822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cd302f6e264259e51157c32486575d94d4d58e2a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cd302f6e264259e51157c32486575d94d4d58e2a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7803,7 +31862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6b421f8925de0c39f6044e440d192a82bb7fac1b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6b421f8925de0c39f6044e440d192a82bb7fac1b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7840,7 +31902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8aaab1ed57fd0259d812db33facdae6bcf3ea8eb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8aaab1ed57fd0259d812db33facdae6bcf3ea8eb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7877,7 +31942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9852660cf435ffd92a95d21a55999ecb7039a2f6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9852660cf435ffd92a95d21a55999ecb7039a2f6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7914,7 +31982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1d665a786046eb85a74dfb4f682d48861f2bfc85&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1d665a786046eb85a74dfb4f682d48861f2bfc85&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7951,7 +32022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:67f2df16828a2e1dacc9b85c5c38cf5a5fb116ff&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:67f2df16828a2e1dacc9b85c5c38cf5a5fb116ff&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -7988,7 +32062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6e3b1d403a430feae241a5cd302220bf278dc587&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6e3b1d403a430feae241a5cd302220bf278dc587&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8025,7 +32102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:160029190ecd6e477db31eba5252b5ef3539cb6d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:160029190ecd6e477db31eba5252b5ef3539cb6d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8062,7 +32142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8f838ebd660bbf896c9f0a2c3f4e0b58e1685de0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8f838ebd660bbf896c9f0a2c3f4e0b58e1685de0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8099,7 +32182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:41e453c388a2b683eeff009efde78fd4bcd59ed6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:41e453c388a2b683eeff009efde78fd4bcd59ed6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8136,7 +32222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b238cab766a81b9a58ba59e7ae9ed24b5d407968&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b238cab766a81b9a58ba59e7ae9ed24b5d407968&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8173,7 +32262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7d0a493b609b8ad5cddfb84a6189151ca15211f9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7d0a493b609b8ad5cddfb84a6189151ca15211f9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8210,7 +32302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:458f4c5c196a9b6cd9e2b9c842a82cebb257741e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:458f4c5c196a9b6cd9e2b9c842a82cebb257741e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8247,7 +32342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:323b078393b18aea4ff895a8c9221c3e31bcf77d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:323b078393b18aea4ff895a8c9221c3e31bcf77d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8284,7 +32382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:aa929192c3c55473ac2eb38e3ba004b27f4a3e5f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:aa929192c3c55473ac2eb38e3ba004b27f4a3e5f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8321,7 +32422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a6f0386c0cc10bed065ff0dfb2dc23f3ce951bd9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a6f0386c0cc10bed065ff0dfb2dc23f3ce951bd9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8358,7 +32462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e86ba22c267a6fd14953d4603f0ee17762ffd803&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e86ba22c267a6fd14953d4603f0ee17762ffd803&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8395,7 +32502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:113ecd82f2608ed8f6dac8cc8c57a3f240bff2c0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:113ecd82f2608ed8f6dac8cc8c57a3f240bff2c0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8432,7 +32542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cbef3ecd67cac2119066187c103b5dc48cc88e61&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cbef3ecd67cac2119066187c103b5dc48cc88e61&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8469,7 +32582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d864b707c0e6b850e6a706ce7c6c25d5554bcc52&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d864b707c0e6b850e6a706ce7c6c25d5554bcc52&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8506,7 +32622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6e775dfd8bb504bad0ff8e805f8fa10e9710e5dc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6e775dfd8bb504bad0ff8e805f8fa10e9710e5dc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8543,7 +32662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:616b42eb5836f92395d40d86c37fb0aff2c3ea3a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:616b42eb5836f92395d40d86c37fb0aff2c3ea3a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8580,7 +32702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d57ba648cd22859d436b21cc53f3feee9f65afa2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d57ba648cd22859d436b21cc53f3feee9f65afa2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8617,7 +32742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:938cd332c7b9f91651a05da57ebe34e3cbd6cb5c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:938cd332c7b9f91651a05da57ebe34e3cbd6cb5c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8654,7 +32782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ebed267a29b0b3e06ead9a70c027b4aaa41460dc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ebed267a29b0b3e06ead9a70c027b4aaa41460dc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8691,7 +32822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:de26229f2bb5ba5ad54780712ce3dab2030ff6eb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:de26229f2bb5ba5ad54780712ce3dab2030ff6eb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8728,7 +32862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c68fa128c9c959cecf9f91aa0493d276a7f88364&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c68fa128c9c959cecf9f91aa0493d276a7f88364&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8765,7 +32902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fcd4b8c15f6202a8e2e99ba3f9b1621f50339681&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fcd4b8c15f6202a8e2e99ba3f9b1621f50339681&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8802,7 +32942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:82474ced95b982a1c1940207a2a32986051509dd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:82474ced95b982a1c1940207a2a32986051509dd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8839,7 +32982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:20e2d2b0f14aaa593e3ce7f6d4aee485b41f5efb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:20e2d2b0f14aaa593e3ce7f6d4aee485b41f5efb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8876,7 +33022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5b5f7378d6b5b95b828216426ea0a335892d1922&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:5b5f7378d6b5b95b828216426ea0a335892d1922&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -8913,7 +33062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d58202e0278aec2a62bef8dd8abc1c41c4b71c4f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d58202e0278aec2a62bef8dd8abc1c41c4b71c4f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8950,7 +33102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:878d854606cbb13dbd9f8f7c8a2b67f3a089b546&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:878d854606cbb13dbd9f8f7c8a2b67f3a089b546&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -8987,7 +33142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:27e985de85e7da37e3e6fab8490198e1e51c493c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:27e985de85e7da37e3e6fab8490198e1e51c493c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9024,7 +33182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b9ac8992463f6fc69938f93eec777c27867c133b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b9ac8992463f6fc69938f93eec777c27867c133b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9061,7 +33222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b4f84fea77d87e9b6bfa02bbd6a94162c2e28fda&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b4f84fea77d87e9b6bfa02bbd6a94162c2e28fda&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9098,7 +33262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c982a701cc9de0ab58ea6592798ce34e97223648&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c982a701cc9de0ab58ea6592798ce34e97223648&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9135,7 +33302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:98d1f91317bfb16d83a6cfaab995ead3eab15bfe&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:98d1f91317bfb16d83a6cfaab995ead3eab15bfe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9172,7 +33342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2f8fd7505bae8674b12386b55a73ff44c3dd2ba2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2f8fd7505bae8674b12386b55a73ff44c3dd2ba2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9209,7 +33382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7d76a6b31f1dbdddc0e76e4d2bed22aa0c8ad093&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7d76a6b31f1dbdddc0e76e4d2bed22aa0c8ad093&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9246,7 +33422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d94fdf7225a58d0d80176719bd3ecefeaf424cdc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d94fdf7225a58d0d80176719bd3ecefeaf424cdc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9283,7 +33462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:60d17826124ddd9a103d315096ad5c3a210a37a5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:60d17826124ddd9a103d315096ad5c3a210a37a5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9320,7 +33502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:002c9e79c65ed61b537cf2c6d76d577e03e1db52&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:002c9e79c65ed61b537cf2c6d76d577e03e1db52&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9357,7 +33542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:608968034afa208e06abb67d54ee7d0f8152fe98&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:608968034afa208e06abb67d54ee7d0f8152fe98&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9394,7 +33582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f209711941ba2dc488430dda3bf3fda0bc3aa578&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f209711941ba2dc488430dda3bf3fda0bc3aa578&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9431,7 +33622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0f9fc2df263ae99900a86cc18e288a1d37ae81bd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0f9fc2df263ae99900a86cc18e288a1d37ae81bd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9468,7 +33662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e57cf4445d6c7077c349a35a16f91768a7222f9e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e57cf4445d6c7077c349a35a16f91768a7222f9e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9505,7 +33702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:828a93aeec3abc14a16ae78f3ce0a92a6e0a1329&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:828a93aeec3abc14a16ae78f3ce0a92a6e0a1329&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9542,7 +33742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ef2c0865bc5e870ea1bb100c3004e50a4c148ef2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ef2c0865bc5e870ea1bb100c3004e50a4c148ef2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9579,7 +33782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fe0361fdba43a5024965ddc4787c3df245bc7e62&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fe0361fdba43a5024965ddc4787c3df245bc7e62&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9616,7 +33822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5734b021fcdd3e93b119ca1b5081252c25d60ae9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5734b021fcdd3e93b119ca1b5081252c25d60ae9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9653,7 +33862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:76684c6049349a42d6be7d23c7575f4f2b889985&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:76684c6049349a42d6be7d23c7575f4f2b889985&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9690,7 +33902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c08bda46630a443752e8cf9c4cc059a5a086c7a9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c08bda46630a443752e8cf9c4cc059a5a086c7a9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9727,7 +33942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:14da5796266b9e1792305b26823e6b82acfb3763&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:14da5796266b9e1792305b26823e6b82acfb3763&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9764,7 +33982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:78b384e455a7056a749c3cfafffd633ac7c03a6a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:78b384e455a7056a749c3cfafffd633ac7c03a6a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9801,7 +34022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c5d436eb9b05e37ca6025f27f87df8ab3f018cdf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c5d436eb9b05e37ca6025f27f87df8ab3f018cdf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9838,7 +34062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ecdb1da4f952e9e281bb7f55631b37f2aeec5038&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ecdb1da4f952e9e281bb7f55631b37f2aeec5038&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9875,7 +34102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:589c9bf3f4034e5dec78d04f1c88b7db6719efb9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:589c9bf3f4034e5dec78d04f1c88b7db6719efb9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9912,7 +34142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3086cae6dc820fde8d07c69464394d8ce1c4ded5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3086cae6dc820fde8d07c69464394d8ce1c4ded5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9949,7 +34182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7568c6759026a6f41dcd9a7d1444b62471a28670&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7568c6759026a6f41dcd9a7d1444b62471a28670&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -9986,7 +34222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:52f7356cc30de5ce331895cf47a255c1e2794ead&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:52f7356cc30de5ce331895cf47a255c1e2794ead&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10023,7 +34262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:90a0bdde93d36201e9fa91f4142acc417f06ba23&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:90a0bdde93d36201e9fa91f4142acc417f06ba23&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10060,7 +34302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:83d3131346ab27f9fbe72d7aba55356c09792147&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:83d3131346ab27f9fbe72d7aba55356c09792147&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10097,7 +34342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c7a4382944ef81b15384e0d0d4b128172097f5a6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c7a4382944ef81b15384e0d0d4b128172097f5a6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10134,7 +34382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c3156239c82929164b557b6c0188a7a4168632f7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c3156239c82929164b557b6c0188a7a4168632f7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10171,7 +34422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:63dcd28db5be88f393f36059b9799442b4bcf4e0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:63dcd28db5be88f393f36059b9799442b4bcf4e0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10208,7 +34462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b4f96fb7b6c529f82293f8d47a65050f53f48980&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b4f96fb7b6c529f82293f8d47a65050f53f48980&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10245,7 +34502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:926dfa7a05bce0d9ec52bef0f9ffd8ccde3ed3e8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:926dfa7a05bce0d9ec52bef0f9ffd8ccde3ed3e8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10282,7 +34542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7899f42326436b3d0dc534349d08d3813d830ad0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7899f42326436b3d0dc534349d08d3813d830ad0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10319,7 +34582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1980e1851cebed5a8635420dcf02976a0ae2a6e9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1980e1851cebed5a8635420dcf02976a0ae2a6e9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10356,7 +34622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:afbd49d2b0659972a634c2f61ebba18d99248cd0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:afbd49d2b0659972a634c2f61ebba18d99248cd0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10393,7 +34662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:102580edc30c24b76ba683a467e3cab21f1cc18a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:102580edc30c24b76ba683a467e3cab21f1cc18a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10430,7 +34702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:57d8c8df2795796246bdc945b5acce776318c0c5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:57d8c8df2795796246bdc945b5acce776318c0c5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10467,7 +34742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2adb65a9c69c8ca4175a901e892b32529451d35e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2adb65a9c69c8ca4175a901e892b32529451d35e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10504,7 +34782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:09adc327ffaab53fdb0b177f97f55a25376f5d0d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:09adc327ffaab53fdb0b177f97f55a25376f5d0d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10541,7 +34822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7117b711600d763937bfa4960406da708c7856d0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7117b711600d763937bfa4960406da708c7856d0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10578,7 +34862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ddebef759b3efe62a560712b762bf7f7e0874b24&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ddebef759b3efe62a560712b762bf7f7e0874b24&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10615,7 +34902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:29e0ea74b92541f209bcf66ed3dac84b5767be18&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:29e0ea74b92541f209bcf66ed3dac84b5767be18&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10652,7 +34942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e3c64dce00b4a4e545d646c000e52126199118fb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e3c64dce00b4a4e545d646c000e52126199118fb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10689,7 +34982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:820bb6b26467347fee0e1c150689b2b11816cea7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:820bb6b26467347fee0e1c150689b2b11816cea7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10726,7 +35022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:79598654c80a285d5ed94f0d48fbb62754d9efed&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:79598654c80a285d5ed94f0d48fbb62754d9efed&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10763,7 +35062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c2132ef37c6e4d0d854a76c027b186cd545cbbdf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c2132ef37c6e4d0d854a76c027b186cd545cbbdf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10800,7 +35102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4986928878190871634bd52e6f6fa0293cabd159&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4986928878190871634bd52e6f6fa0293cabd159&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10837,7 +35142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1713ceaca3709cd80cda50b8b766957aaf8a297d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1713ceaca3709cd80cda50b8b766957aaf8a297d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10874,7 +35182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:00f90b860960a7666eb57cb13031386827764999&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:00f90b860960a7666eb57cb13031386827764999&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10911,7 +35222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:37bc034fa5873327d965ee34e3510ab1760f6737&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:37bc034fa5873327d965ee34e3510ab1760f6737&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10948,7 +35262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1fb45a83efb534cb50e8ccd99d873205d0726652&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1fb45a83efb534cb50e8ccd99d873205d0726652&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -10985,7 +35302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7139152739b4d5e792df4f246240b219d1c1fb55&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7139152739b4d5e792df4f246240b219d1c1fb55&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11022,7 +35342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3b4babdd99fad27593d484f060482b4e05ee2c76&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3b4babdd99fad27593d484f060482b4e05ee2c76&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11059,7 +35382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cc6029410cc5c9b9b3f45fbb3ebe925817f0436a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cc6029410cc5c9b9b3f45fbb3ebe925817f0436a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11096,7 +35422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cc1de759c46f3a3fa7d5e09c8b360fa9e32b6a23&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cc1de759c46f3a3fa7d5e09c8b360fa9e32b6a23&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11133,7 +35462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f7177e6b4951adf8ba5940b6dc73b841f6f636b1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f7177e6b4951adf8ba5940b6dc73b841f6f636b1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11170,7 +35502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7e8e2c39841e08d35db024c95523483c749bbfe8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7e8e2c39841e08d35db024c95523483c749bbfe8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11207,7 +35542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dead8fee3e478081034f038ebf965b348ace2f3c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dead8fee3e478081034f038ebf965b348ace2f3c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11244,7 +35582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b3354bb8e303c2acda63a23055861949a788d113&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b3354bb8e303c2acda63a23055861949a788d113&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11281,7 +35622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8776129627652885b414198ccbeaa1a59783ea1a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8776129627652885b414198ccbeaa1a59783ea1a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11318,7 +35662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:501cc379dd32bbed480218d26d0b896b8cc70da5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:501cc379dd32bbed480218d26d0b896b8cc70da5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11355,7 +35702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6cbd30aa3a84656a7462a1cbbb71760e4f7bbc9d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6cbd30aa3a84656a7462a1cbbb71760e4f7bbc9d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11392,7 +35742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:92ef934d1f805f7864aac441f8864c98e374947b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:92ef934d1f805f7864aac441f8864c98e374947b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11429,7 +35782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0bc5552b07f9d9b23a3e6f1e9b93422ce0aa6244&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0bc5552b07f9d9b23a3e6f1e9b93422ce0aa6244&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11466,7 +35822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2c258fa7159c43d96c1fe66aff6eb4a47aefde70&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2c258fa7159c43d96c1fe66aff6eb4a47aefde70&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11503,7 +35862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8c954b1971f294127d49bb6e87aff003088c0855&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8c954b1971f294127d49bb6e87aff003088c0855&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11540,7 +35902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0372eaba8311b5cd44839ae4b53103d6e69b6f86&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0372eaba8311b5cd44839ae4b53103d6e69b6f86&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11577,7 +35942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:55b9558cad6202e9a7addc13bf324a4f564f9d8b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:55b9558cad6202e9a7addc13bf324a4f564f9d8b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11614,7 +35982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c771d8518a134551f230bfcff05729fa4512ea49&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c771d8518a134551f230bfcff05729fa4512ea49&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11651,7 +36022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2c90b544bce180640620fdb1b295f107cd97d3b8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2c90b544bce180640620fdb1b295f107cd97d3b8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11688,7 +36062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3bbbe61d4c2ea187f3469cd40dc74aa568a3238e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3bbbe61d4c2ea187f3469cd40dc74aa568a3238e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11725,7 +36102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:34289fe39401b07f0df3790a9d522fe4046b19d7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:34289fe39401b07f0df3790a9d522fe4046b19d7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11762,7 +36142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:008448466cd504568d72da50eda56be10d5f3b0e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:008448466cd504568d72da50eda56be10d5f3b0e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11799,7 +36182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:52f6fb37750336c888f97c912ae939242868ce81&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:52f6fb37750336c888f97c912ae939242868ce81&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11836,7 +36222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9a1e43e0ffefbf8b70ab0f999e0639b73e7f7e67&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9a1e43e0ffefbf8b70ab0f999e0639b73e7f7e67&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11873,7 +36262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b523eab57699624eb57f5693a4cddf3f54871503&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b523eab57699624eb57f5693a4cddf3f54871503&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11910,7 +36302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6ea3d4ae04e41778ac761510c4e4664f9c97c260&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6ea3d4ae04e41778ac761510c4e4664f9c97c260&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11947,7 +36342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1e7be32776c7ea476455b1304c2da5f0ed332abc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1e7be32776c7ea476455b1304c2da5f0ed332abc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -11984,7 +36382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:006aeb2eeb7790b07370941c0cd7492d03adcb46&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:006aeb2eeb7790b07370941c0cd7492d03adcb46&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12021,7 +36422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5bcd25c5edd8ef7f881b2ffef646da951f113bf5&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:5bcd25c5edd8ef7f881b2ffef646da951f113bf5&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -12058,7 +36462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5ac7221a60cba52e1632e6644b3343431f74c132&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5ac7221a60cba52e1632e6644b3343431f74c132&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12095,7 +36502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f6e9ec806eac35f1310f517dae9b7e90223ef96c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f6e9ec806eac35f1310f517dae9b7e90223ef96c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12132,7 +36542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2624c8f35f60d24705c244f80831bc50f49eb409&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2624c8f35f60d24705c244f80831bc50f49eb409&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12169,7 +36582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1f99a56794fbfc71f05d69dc29041b4066de2e66&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1f99a56794fbfc71f05d69dc29041b4066de2e66&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12206,7 +36622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bf58120788366f8ea117a4a19df90ba18382ab47&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bf58120788366f8ea117a4a19df90ba18382ab47&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12243,7 +36662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cbc5f45f291f5640308bbb8608c874b43634bf15&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cbc5f45f291f5640308bbb8608c874b43634bf15&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12280,7 +36702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7d1ce8e7b6d86864da52fb429edd4b2fa543900c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7d1ce8e7b6d86864da52fb429edd4b2fa543900c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12317,7 +36742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ccbce519c4095d4ce19af01b3e42aa86ae3d3772&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ccbce519c4095d4ce19af01b3e42aa86ae3d3772&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12354,7 +36782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:388ce789e6c6a74d1cc98f5104a0780f8b5cdb54&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:388ce789e6c6a74d1cc98f5104a0780f8b5cdb54&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12391,7 +36822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5475a54d0539888f2598d8ad848600c0e26b6f4d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5475a54d0539888f2598d8ad848600c0e26b6f4d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12428,7 +36862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f7e036afb4ec572feb68296c8f86826c797763ca&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f7e036afb4ec572feb68296c8f86826c797763ca&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12465,7 +36902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:61f37acce88741ca7428bf490239a49b928c918b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:61f37acce88741ca7428bf490239a49b928c918b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12502,7 +36942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:64d4e48968345e5ba441891fea239d3e18e778d1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:64d4e48968345e5ba441891fea239d3e18e778d1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12539,7 +36982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:48ac2411dfc2007db5ee207656f7b6b2c7e447a5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:48ac2411dfc2007db5ee207656f7b6b2c7e447a5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12576,7 +37022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6097516a1b3a7cbe063aa696d9d1d3efb4bf317f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6097516a1b3a7cbe063aa696d9d1d3efb4bf317f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12613,7 +37062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a6a5297943c8f3164528a3d7f8efe4167763a106&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a6a5297943c8f3164528a3d7f8efe4167763a106&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12650,7 +37102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:34eff15208bfa5b013c76af200cc8c1d711d7208&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:34eff15208bfa5b013c76af200cc8c1d711d7208&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12687,7 +37142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:eeea9d83bb10f1ea9de676ad9c85df50e9282b58&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:eeea9d83bb10f1ea9de676ad9c85df50e9282b58&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12724,7 +37182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e8e5755ce49545ccbd475c6ba5ea223326f50b6a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e8e5755ce49545ccbd475c6ba5ea223326f50b6a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12761,7 +37222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b8ab9b67af866ee7bda5b3162cf44e954fffa924&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b8ab9b67af866ee7bda5b3162cf44e954fffa924&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12798,7 +37262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fa34ecc6e4b2ae4e4d9269bc56abb18b9ed28106&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fa34ecc6e4b2ae4e4d9269bc56abb18b9ed28106&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12835,7 +37302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4000ba8f87b1423400f0c7939000da6d81ce62b0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4000ba8f87b1423400f0c7939000da6d81ce62b0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12872,7 +37342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:57972e9d6427b340c89cdd1ebb61d86169998c99&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:57972e9d6427b340c89cdd1ebb61d86169998c99&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12909,7 +37382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9c147aa716d234acd93199f44e6310e9ee255404&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9c147aa716d234acd93199f44e6310e9ee255404&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12946,7 +37422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:59a859a9877d9ac58759b419efabc88d595c5af9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:59a859a9877d9ac58759b419efabc88d595c5af9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -12983,7 +37462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e7684ffc3f7d840a6bfcf66c29cb395641c8167d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e7684ffc3f7d840a6bfcf66c29cb395641c8167d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13020,7 +37502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:75304e26b960a36fbaf5415dcc3a6a5d68015bba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:75304e26b960a36fbaf5415dcc3a6a5d68015bba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13057,7 +37542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0243fe0b52eb322f8e3bb5c24f68af1819eb75db&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0243fe0b52eb322f8e3bb5c24f68af1819eb75db&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13094,7 +37582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a9d9b0b5492d72644ef110d917938d772f579f05&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a9d9b0b5492d72644ef110d917938d772f579f05&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13131,7 +37622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:11c09716bdf992c7fe9ab5affd83fc67ec90b3cd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:11c09716bdf992c7fe9ab5affd83fc67ec90b3cd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13168,7 +37662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8bacba5ca40dae7e268d4ef37adf65cb76a132d6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8bacba5ca40dae7e268d4ef37adf65cb76a132d6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13205,7 +37702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:05b8f3e4d7beb878fdca8e0c0e495dcc4832f452&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:05b8f3e4d7beb878fdca8e0c0e495dcc4832f452&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13242,7 +37742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8d4b26466318da0b4989b34194d90b6d36f32acd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8d4b26466318da0b4989b34194d90b6d36f32acd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13279,7 +37782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:96bc2616395320918c4c4870c73a5068765f8c0d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:96bc2616395320918c4c4870c73a5068765f8c0d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13316,7 +37822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6dba55f70789ff20c699f60c2fa36cf2785adf65&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6dba55f70789ff20c699f60c2fa36cf2785adf65&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13353,7 +37862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cc98ff45990eb34ebed7838a86a755e3e822f3c7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cc98ff45990eb34ebed7838a86a755e3e822f3c7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13390,7 +37902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:756e8000530d2284f77d1533030a30f741d85133&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:756e8000530d2284f77d1533030a30f741d85133&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13427,7 +37942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:77a83137712ea75ab48b57b5e30d93da3aecfba7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:77a83137712ea75ab48b57b5e30d93da3aecfba7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13464,7 +37982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ff81b7c5e261ac9a07b57875caa38477dc75b0cd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ff81b7c5e261ac9a07b57875caa38477dc75b0cd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13501,7 +38022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:60af0324328c274dafab30403c25c43c472e7493&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:60af0324328c274dafab30403c25c43c472e7493&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13538,44 +38062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:921218536a880b9c7fac354eed31acbe49ad02cf&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
+"magnetLink": "magnet:?xt=urn:btih:921218536a880b9c7fac354eed31acbe49ad02cf&tr=http://open.acgtracker.com:1096/announce",
 
 
-"name": "\n        [Moozzi2] 爱丽丝与藏六 Alice to Zouroku (BD 1920x1080 x264 FLACx2)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-2620ffbd92db7c99a4d905a6c8ee61a41aea996e.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-11-19T04:57:50.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:2620ffbd92db7c99a4d905a6c8ee61a41aea996e&tr=http://open.acgtracker.com:1096/announce"
+"dup": false
 
 },
 
@@ -13612,7 +38102,50 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:64060d93dbe51fd83b69f2b05486925ba797d67d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:64060d93dbe51fd83b69f2b05486925ba797d67d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 爱丽丝与藏六 Alice to Zouroku (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2620ffbd92db7c99a4d905a6c8ee61a41aea996e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-11-19T04:57:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2620ffbd92db7c99a4d905a6c8ee61a41aea996e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13649,7 +38182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6484bfee0354cce438229d35d773bf1c8caf445a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6484bfee0354cce438229d35d773bf1c8caf445a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13686,7 +38222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fbcea058a2f01d82ed88618e22fc5b3516ecb27c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fbcea058a2f01d82ed88618e22fc5b3516ecb27c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13723,7 +38262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3bc85a3813d8940ddcb64f7a384e6cee9f841903&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3bc85a3813d8940ddcb64f7a384e6cee9f841903&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13760,7 +38302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5a2659d27841b7571ac268f9bca47d5e69a4fb5b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5a2659d27841b7571ac268f9bca47d5e69a4fb5b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13797,7 +38342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:14078729cedd0a63158412b6f2f09e5c7efd7a77&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:14078729cedd0a63158412b6f2f09e5c7efd7a77&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13834,7 +38382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:43d691c83a2aa87a846b1da055bafd2714f0fed7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:43d691c83a2aa87a846b1da055bafd2714f0fed7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13871,7 +38422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fbb2196cc23e62e2393ef2ba4b1ae3eb310d8ac1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fbb2196cc23e62e2393ef2ba4b1ae3eb310d8ac1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13908,7 +38462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b133aff334988de1f982bafe9c0fcbd561863560&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b133aff334988de1f982bafe9c0fcbd561863560&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13945,7 +38502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3ad2a4d3f37b2e76ba821b85dd0210b6011be846&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3ad2a4d3f37b2e76ba821b85dd0210b6011be846&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -13982,7 +38542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7af2328e7d8e9c8f026b753e83a9734a0694d692&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7af2328e7d8e9c8f026b753e83a9734a0694d692&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14019,7 +38582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:54333d037f2c750e09d471468f41fd91933f2407&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:54333d037f2c750e09d471468f41fd91933f2407&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14056,7 +38622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5ad133af8232ecf36c8d048cf5a695f9426fca56&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5ad133af8232ecf36c8d048cf5a695f9426fca56&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14093,7 +38662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b81a0a2b22b56621fb07be164a623416cd951d2b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b81a0a2b22b56621fb07be164a623416cd951d2b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14130,7 +38702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dc49518beeac5ef78e365e99340aa7196b9199af&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dc49518beeac5ef78e365e99340aa7196b9199af&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14167,7 +38742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:50963b8d9145ac55b477d1ab4f044a16c81c0151&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:50963b8d9145ac55b477d1ab4f044a16c81c0151&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14204,7 +38782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:772ac7adca4942440db97df195404fc6d45020a2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:772ac7adca4942440db97df195404fc6d45020a2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14241,7 +38822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c7b75b17f99ea2b1068136205fb7729ca16fde2a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c7b75b17f99ea2b1068136205fb7729ca16fde2a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14278,7 +38862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:947686a94e6f524f2fa3ea0095f7ac0f8beb721c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:947686a94e6f524f2fa3ea0095f7ac0f8beb721c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14315,7 +38902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8f66ac0141c1b12f67a6dc8d5c2d4e18b8c5ca31&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8f66ac0141c1b12f67a6dc8d5c2d4e18b8c5ca31&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14352,7 +38942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2badf88488ef691bedbfbd20a80eef5154161851&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2badf88488ef691bedbfbd20a80eef5154161851&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14389,7 +38982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:df1dbd5cc13d4efd03c3e5ce2f7078396cd9b15b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:df1dbd5cc13d4efd03c3e5ce2f7078396cd9b15b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14426,7 +39022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:91421df4c3f7f0bd6e615b920ae1185154618c46&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:91421df4c3f7f0bd6e615b920ae1185154618c46&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14463,7 +39062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8884c959cbfc36d8ef9a60199057cb7014fde0df&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8884c959cbfc36d8ef9a60199057cb7014fde0df&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14500,7 +39102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:836f5c85bb1295e01fa41fc0205f056b11476316&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:836f5c85bb1295e01fa41fc0205f056b11476316&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14537,7 +39142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8259ab1b8aec6682a1469b375b0f7fb099446bed&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8259ab1b8aec6682a1469b375b0f7fb099446bed&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14574,7 +39182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fa8f0bbd5126ce96deabb3c7d9b229a0e5c6b64b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fa8f0bbd5126ce96deabb3c7d9b229a0e5c6b64b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14611,7 +39222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:19b301655bcd053c7893f844f7ab6b9efcae7817&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:19b301655bcd053c7893f844f7ab6b9efcae7817&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14648,7 +39262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2e18928a00ce654a2d0cce4353b977a2fff80a35&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:2e18928a00ce654a2d0cce4353b977a2fff80a35&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -14685,7 +39302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d839043de6ba3712b55b61c330373cf7a9482198&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d839043de6ba3712b55b61c330373cf7a9482198&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14722,7 +39342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e780314f7ca62e8c0c816f2302ef61773495949e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e780314f7ca62e8c0c816f2302ef61773495949e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14759,7 +39382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ebe898d5b4122bd1f822e85fb716bb680d07a27f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ebe898d5b4122bd1f822e85fb716bb680d07a27f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14796,7 +39422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5b00afebd18b0060acf0d27922f29691b24ab335&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5b00afebd18b0060acf0d27922f29691b24ab335&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14833,7 +39462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:735350691fc307cbe77996af59e35cedfe8b0c20&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:735350691fc307cbe77996af59e35cedfe8b0c20&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14870,7 +39502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:14bc953448a6553ce8c6e01da65d187581982e94&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:14bc953448a6553ce8c6e01da65d187581982e94&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14907,7 +39542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3a55a27d793fd66e15a9e5d57c10ad54d3eff606&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3a55a27d793fd66e15a9e5d57c10ad54d3eff606&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14944,7 +39582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1aaa6c3da731afe4661d4d442ac39517ea55aff6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1aaa6c3da731afe4661d4d442ac39517ea55aff6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -14981,7 +39622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ea922f832ff203ea246153cff3afc2b3e31c7756&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ea922f832ff203ea246153cff3afc2b3e31c7756&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15018,7 +39662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:10cde540f3e0d6b0ac19bc5b83383199f4d62b24&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:10cde540f3e0d6b0ac19bc5b83383199f4d62b24&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15055,7 +39702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:528e8ec995a3ca04f67dc48445d6862f3bc62a9b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:528e8ec995a3ca04f67dc48445d6862f3bc62a9b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15092,7 +39742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:053ef2e88f643e3d293f8cfb1dc74b0908e881b4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:053ef2e88f643e3d293f8cfb1dc74b0908e881b4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15129,7 +39782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6f167da4dce910b4e403aacf666336c0544bebe4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6f167da4dce910b4e403aacf666336c0544bebe4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15166,7 +39822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c732b6da9746fe552a6a9771b14222c245b78c96&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c732b6da9746fe552a6a9771b14222c245b78c96&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15203,7 +39862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:db65e75adefbd271aab22a87500436e7c8f89ca1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:db65e75adefbd271aab22a87500436e7c8f89ca1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15240,7 +39902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5aa4df82a43932c72b862647c4988b8bd1842a98&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5aa4df82a43932c72b862647c4988b8bd1842a98&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15277,7 +39942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:81c1a4216cd9fa10eb7e49af45392e5dec2b55ec&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:81c1a4216cd9fa10eb7e49af45392e5dec2b55ec&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15314,7 +39982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8fed5638541e36d55763c5484502acf13b3529c3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8fed5638541e36d55763c5484502acf13b3529c3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15351,7 +40022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1adde463d7c7b558a067bf638fb148add3323e05&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1adde463d7c7b558a067bf638fb148add3323e05&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15388,7 +40062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9ffb0a036540dee84dbfe8f0194e2b0766c7de5e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9ffb0a036540dee84dbfe8f0194e2b0766c7de5e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15425,7 +40102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:707419bc2204ecc0582073dbaa6619c869086ba5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:707419bc2204ecc0582073dbaa6619c869086ba5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15462,7 +40142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ed451e66db4a664837ef18ac9e9627cb28008967&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ed451e66db4a664837ef18ac9e9627cb28008967&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15499,7 +40182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2b3c593f75d836db838611a37d47aec4f8421cfb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2b3c593f75d836db838611a37d47aec4f8421cfb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15536,7 +40222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8e9b95553aa47369a926fe6c6299163c0fa714d4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8e9b95553aa47369a926fe6c6299163c0fa714d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15573,7 +40262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5f6010cd1acf9c3455292ba0d411662fddf2527b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5f6010cd1acf9c3455292ba0d411662fddf2527b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15610,7 +40302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bf1d194cca8d57adb0741076e9098162c11c80a3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bf1d194cca8d57adb0741076e9098162c11c80a3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15647,7 +40342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:22a1bb14d134386358ab644185b38035a728736f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:22a1bb14d134386358ab644185b38035a728736f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15684,7 +40382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a93cb354accb23c7f8f52ef7adc9a934132c8108&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a93cb354accb23c7f8f52ef7adc9a934132c8108&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15721,7 +40422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:353f4a9c6e6d0e608e372d035030e842b64da248&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:353f4a9c6e6d0e608e372d035030e842b64da248&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15758,7 +40462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2de50a42f41a2324f26b3cb65d6c6f16830eff5b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2de50a42f41a2324f26b3cb65d6c6f16830eff5b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15795,7 +40502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4f20cbd6eb73ee7a483a89cadda84c741d635007&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:4f20cbd6eb73ee7a483a89cadda84c741d635007&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -15832,7 +40542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:62ac6f0d6eb5a22014a87502f7aaf2575193e675&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:62ac6f0d6eb5a22014a87502f7aaf2575193e675&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15869,7 +40582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:904ff5d22284a113acd3e6c8fbdf31085bb6d830&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:904ff5d22284a113acd3e6c8fbdf31085bb6d830&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15906,7 +40622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8077a2fd3c357734fbd223d51cf49e50b7bd5659&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8077a2fd3c357734fbd223d51cf49e50b7bd5659&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15943,7 +40662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:78a2692ca62212ed0adec9a48243c7aceb981d1e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:78a2692ca62212ed0adec9a48243c7aceb981d1e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -15980,7 +40702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5350f0049180f417cd41a34db0dae26d710403fe&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5350f0049180f417cd41a34db0dae26d710403fe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16017,7 +40742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:01efa539440992815618d37522b6b22c736bb598&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:01efa539440992815618d37522b6b22c736bb598&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16054,7 +40782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:540396bef00e221b6d4475fa74e4db19961dd1ec&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:540396bef00e221b6d4475fa74e4db19961dd1ec&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16091,7 +40822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2b6c4e51681ab8785c1a3668625704333e18f997&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2b6c4e51681ab8785c1a3668625704333e18f997&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16128,7 +40862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fa3efd74c45453f91a2db11c60039049d1e86b98&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fa3efd74c45453f91a2db11c60039049d1e86b98&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16165,7 +40902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1f1e3f63e2ec2bb53c023c45da7966085f571fb6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1f1e3f63e2ec2bb53c023c45da7966085f571fb6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16202,7 +40942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:504d2817e77444c957b368d52f1b49abb1c57a65&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:504d2817e77444c957b368d52f1b49abb1c57a65&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16239,7 +40982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:16a5190de3bcec8d0f7361f55c47c13c183258d3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:16a5190de3bcec8d0f7361f55c47c13c183258d3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16276,7 +41022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f27e490b79852efaaaab985bc74b3832aec44778&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f27e490b79852efaaaab985bc74b3832aec44778&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16313,7 +41062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8dacd7e04414bba598318761d4c1f0002db3e78f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8dacd7e04414bba598318761d4c1f0002db3e78f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16350,7 +41102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c13fd2c0f62b66993ec68271af5e8adb8abe7a1e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c13fd2c0f62b66993ec68271af5e8adb8abe7a1e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16387,7 +41142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:978db338f01c70409ec08488a0181d28c3052575&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:978db338f01c70409ec08488a0181d28c3052575&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16424,7 +41182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2518ce83f082afb0ffd24d869cab8e04b7ef37b6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2518ce83f082afb0ffd24d869cab8e04b7ef37b6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16461,7 +41222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6b6ab489d9e570f92fda2e719385497a91586ced&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6b6ab489d9e570f92fda2e719385497a91586ced&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16498,7 +41262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2eaa10346e254205f869d024e3e65d938884166a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2eaa10346e254205f869d024e3e65d938884166a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16535,7 +41302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:10e992903e361b9ee13997d71810734c62d94041&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:10e992903e361b9ee13997d71810734c62d94041&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16572,7 +41342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:709139ce83109b8041a2b55074611cd0e0653fc9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:709139ce83109b8041a2b55074611cd0e0653fc9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16609,7 +41382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:259c4900a021ffd99c444e34310fbd27cb589f3c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:259c4900a021ffd99c444e34310fbd27cb589f3c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16646,7 +41422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3078c647caf42e60e9e57d9a9690d812b3545566&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3078c647caf42e60e9e57d9a9690d812b3545566&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16683,7 +41462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:300cea904506ecab1e76738f7d4599e11831dab5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:300cea904506ecab1e76738f7d4599e11831dab5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16720,7 +41502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:93bc493acee31944dc153e2e27bcf53dc8f7ddfa&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:93bc493acee31944dc153e2e27bcf53dc8f7ddfa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16757,7 +41542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:71a3fd736b1f5941c51bd33eb69bad1b824a0e92&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:71a3fd736b1f5941c51bd33eb69bad1b824a0e92&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16794,7 +41582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b42ffb28cbb9b2eed54e9550969baa4303493023&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b42ffb28cbb9b2eed54e9550969baa4303493023&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16831,7 +41622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:901d4ea4259cf72b33c576e88cc591dd8f119a80&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:901d4ea4259cf72b33c576e88cc591dd8f119a80&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16868,7 +41662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8ba8493814cc812371ba17f16f81205b41133744&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8ba8493814cc812371ba17f16f81205b41133744&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16905,7 +41702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cb2e65f70ce8c4d41ed6f1a1148a78c911c88ae3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cb2e65f70ce8c4d41ed6f1a1148a78c911c88ae3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16942,7 +41742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:80cc84c20a648b0d4b878e9dda59de5a30ad37f4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:80cc84c20a648b0d4b878e9dda59de5a30ad37f4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -16979,7 +41782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a69817b7ac731d11eb8e7bb15291d3a85db23f45&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a69817b7ac731d11eb8e7bb15291d3a85db23f45&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17016,7 +41822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b7b93c3dc501910ef1ec362792fff9b4348a76d9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b7b93c3dc501910ef1ec362792fff9b4348a76d9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17053,7 +41862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2c3acb377237ac2b75265ea86282bd043077099b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2c3acb377237ac2b75265ea86282bd043077099b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17090,7 +41902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:27b504c154045f651c84f5525ea1c2c06e4912c0&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:27b504c154045f651c84f5525ea1c2c06e4912c0&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -17127,7 +41942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0d7344fff717601330dec22a9fe19c2c8cda404b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0d7344fff717601330dec22a9fe19c2c8cda404b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17164,7 +41982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6b6d435ee605d94f7c20e22bf7f5c3c8dd7ed770&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6b6d435ee605d94f7c20e22bf7f5c3c8dd7ed770&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17201,7 +42022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:549e091544ee1ecdab1d4c9a9995267b1f9483f0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:549e091544ee1ecdab1d4c9a9995267b1f9483f0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17238,7 +42062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ead40d9854595742a0b3508107922213ae7992ab&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ead40d9854595742a0b3508107922213ae7992ab&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17275,7 +42102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:85f93bd555a2f9c5988fca40be9a36819c8b339f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:85f93bd555a2f9c5988fca40be9a36819c8b339f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17312,7 +42142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:98afb0839c4c0f96b8b2f9ed7a560cb74006cfd2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:98afb0839c4c0f96b8b2f9ed7a560cb74006cfd2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17349,7 +42182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cfa4083241594d6afce75cb9c86874d573ddf54c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cfa4083241594d6afce75cb9c86874d573ddf54c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17386,7 +42222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a0b645f7dd28e52dac9076dba2ae22b5647bade3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a0b645f7dd28e52dac9076dba2ae22b5647bade3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17423,7 +42262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e20262717f771a28ae45cd6f3949f1b0d3947019&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e20262717f771a28ae45cd6f3949f1b0d3947019&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17460,7 +42302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2df128b73ba4eb81fd1fcb62d83ffc9639e4151f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2df128b73ba4eb81fd1fcb62d83ffc9639e4151f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17497,7 +42342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:071169e4150517bedb1ae5e1e80a38f0bc753a57&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:071169e4150517bedb1ae5e1e80a38f0bc753a57&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17534,7 +42382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b5a05215be7589412f4a7481d1d446f18b0b9723&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b5a05215be7589412f4a7481d1d446f18b0b9723&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17571,7 +42422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dbc79b4ee1d7d4aa501520f75cdb5a500937013e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dbc79b4ee1d7d4aa501520f75cdb5a500937013e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17608,7 +42462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4d68c543cb5e1e87cd93b0a3746b3077873374db&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4d68c543cb5e1e87cd93b0a3746b3077873374db&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17645,7 +42502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c4a26958ef77d55db87d9b0516140df2c6e840e6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c4a26958ef77d55db87d9b0516140df2c6e840e6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17682,7 +42542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e3da1905c9a499b9f1ef80b12e915eb836d70f03&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e3da1905c9a499b9f1ef80b12e915eb836d70f03&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17719,7 +42582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8e82481355b1b39538ac9687cb05d12a0a20f6e3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8e82481355b1b39538ac9687cb05d12a0a20f6e3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17756,7 +42622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:650300fdacbb3e47e2308daf09cfacd70ac82ce9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:650300fdacbb3e47e2308daf09cfacd70ac82ce9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17793,7 +42662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:be3c1ada5c81b62da67f10e861b8bd6fd2babfc4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:be3c1ada5c81b62da67f10e861b8bd6fd2babfc4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17830,7 +42702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0d71bb99fef9b1d181b1dbc76664c5c06a2dbcdc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0d71bb99fef9b1d181b1dbc76664c5c06a2dbcdc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17867,7 +42742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c87373bf15dee8fe53fb670c2b14cc0bf6a1b704&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c87373bf15dee8fe53fb670c2b14cc0bf6a1b704&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17904,7 +42782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cbbdabd7fc177f8420efb70dd36db1ce7a917213&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cbbdabd7fc177f8420efb70dd36db1ce7a917213&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17941,7 +42822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:165e2f7ea88ef4324501aef1d2bcdb388028f094&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:165e2f7ea88ef4324501aef1d2bcdb388028f094&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -17978,7 +42862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6362f3675161626ba0f73a7353e2eb535cd22de9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6362f3675161626ba0f73a7353e2eb535cd22de9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18015,7 +42902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9e06e07914918e5b3910ed16655c46073c38beeb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9e06e07914918e5b3910ed16655c46073c38beeb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18052,7 +42942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a1d6306eb8d39ed05c2486cf6a13269ff9764c46&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a1d6306eb8d39ed05c2486cf6a13269ff9764c46&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18089,7 +42982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:476a57e03a319e092faa1fdb39abd584ac09b74f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:476a57e03a319e092faa1fdb39abd584ac09b74f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18126,7 +43022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e7fb5e0b7fc5dd774905616251fe307e21717a1b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e7fb5e0b7fc5dd774905616251fe307e21717a1b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18163,7 +43062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3ee9151f33b4dc9f715fee7f7ce0a9f6ddbfe497&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3ee9151f33b4dc9f715fee7f7ce0a9f6ddbfe497&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18200,7 +43102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e5bfe9a9819eaa78a98ce9ee71ea1296c0001370&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e5bfe9a9819eaa78a98ce9ee71ea1296c0001370&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18237,7 +43142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7560da0aa1ec3f496b8153be6902e61850d545d5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7560da0aa1ec3f496b8153be6902e61850d545d5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18274,7 +43182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1daddad8b6d011d7631a817d6806c5c4cc002237&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1daddad8b6d011d7631a817d6806c5c4cc002237&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18311,7 +43222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:39c168afcaaa32ee33c53ae867caea3c451617c2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:39c168afcaaa32ee33c53ae867caea3c451617c2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18348,7 +43262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:71a9cab2866346c7d9b7e14a71d8336902a151b7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:71a9cab2866346c7d9b7e14a71d8336902a151b7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18385,7 +43302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:64f1e1787e7ff5b29822628687fd1e79db61da69&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:64f1e1787e7ff5b29822628687fd1e79db61da69&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18422,7 +43342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2edff814b7572face4bc7511fe3c2b1b10ee89e3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2edff814b7572face4bc7511fe3c2b1b10ee89e3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18459,7 +43382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0e0307c4eb7b2ed53838c97da8a3aff4e5ad2bb9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0e0307c4eb7b2ed53838c97da8a3aff4e5ad2bb9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18496,7 +43422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3a49ea978426806e552a332025f7bd35c1eef54c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3a49ea978426806e552a332025f7bd35c1eef54c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18533,7 +43462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9867eefcc95e9063eafc3226eb087edbb71bc9fc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9867eefcc95e9063eafc3226eb087edbb71bc9fc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18570,7 +43502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0835f9b83afc17bc42427c4ef6175f477ced66e4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0835f9b83afc17bc42427c4ef6175f477ced66e4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18607,7 +43542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ddc89aaf20682fd80b69363f5c4b02bcbbdbd972&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ddc89aaf20682fd80b69363f5c4b02bcbbdbd972&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18644,7 +43582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8e52c6b3d5f94c7cbbc0f6eae7756c7e94f88f30&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8e52c6b3d5f94c7cbbc0f6eae7756c7e94f88f30&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18681,7 +43622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:339627f5258bc83c7ed95b960863aae797589c55&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:339627f5258bc83c7ed95b960863aae797589c55&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18718,7 +43662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1e942750f978b063f8f38072ebd482e214d57504&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1e942750f978b063f8f38072ebd482e214d57504&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18755,7 +43702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2a43f6b42f7614beba32f1f0ebc4f2e4af75d214&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2a43f6b42f7614beba32f1f0ebc4f2e4af75d214&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18792,7 +43742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:02b5ad2ddd36c0db880ece33eabacacfe81283f1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:02b5ad2ddd36c0db880ece33eabacacfe81283f1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18829,7 +43782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:50c9fc0729fdbf00b6863d8770518a483d9cce67&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:50c9fc0729fdbf00b6863d8770518a483d9cce67&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18866,7 +43822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a340c38eeeb0759b2735e86833e41b18b220bdbf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a340c38eeeb0759b2735e86833e41b18b220bdbf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18903,7 +43862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ad7e915e90d2e5be4bd1d2522e7786a7daedeeeb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ad7e915e90d2e5be4bd1d2522e7786a7daedeeeb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18940,7 +43902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:72952ff50d7cdaec516281fbbcd4f83e1d85cffa&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:72952ff50d7cdaec516281fbbcd4f83e1d85cffa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -18977,7 +43942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:51267c7306e5200ec08fe1e3784a9ad96041060a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:51267c7306e5200ec08fe1e3784a9ad96041060a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19014,7 +43982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c9cf5f7844f1044c949a336d24b64d726b9191f0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c9cf5f7844f1044c949a336d24b64d726b9191f0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19051,7 +44022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:689dad3638bf3103cd446bc341cfdb43c373d523&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:689dad3638bf3103cd446bc341cfdb43c373d523&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19088,7 +44062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0debe6d4ba6d4658f8551055d68a71ac0d255682&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0debe6d4ba6d4658f8551055d68a71ac0d255682&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19125,7 +44102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4609fa3788c380fe2041e1e6400fcc4c763a2c0a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4609fa3788c380fe2041e1e6400fcc4c763a2c0a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19162,7 +44142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ae1abad77acbabc4b22d8966f28485dfba8ef97c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ae1abad77acbabc4b22d8966f28485dfba8ef97c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19199,7 +44182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:274b6cada4cf774c4fbd09f22765431840ae12c7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:274b6cada4cf774c4fbd09f22765431840ae12c7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19236,7 +44222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c7617a49652a91cd6c3a3311cb395295669b051f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c7617a49652a91cd6c3a3311cb395295669b051f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19273,7 +44262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6f352f0b6ddd3304ec86dbf20f6a79cf908bab00&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6f352f0b6ddd3304ec86dbf20f6a79cf908bab00&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19310,7 +44302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1b57f989d764934fb2fb7703b2ab8fe1fea6db43&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1b57f989d764934fb2fb7703b2ab8fe1fea6db43&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19347,7 +44342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:becd96b28d37e915ba2f11c7a5652901be283f3b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:becd96b28d37e915ba2f11c7a5652901be283f3b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19384,7 +44382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e805793ed84ffe44126dfc1ad7caf91e4c53d977&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e805793ed84ffe44126dfc1ad7caf91e4c53d977&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19421,7 +44422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f8de199c22c90985fb1a7142b8953e4a30b1310e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f8de199c22c90985fb1a7142b8953e4a30b1310e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19458,7 +44462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ef6a2845560ab261075bcb2f9d7fcd99122a6310&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ef6a2845560ab261075bcb2f9d7fcd99122a6310&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19495,7 +44502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bb3e989348605b80e868f3f0b84f3c51c71d5743&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bb3e989348605b80e868f3f0b84f3c51c71d5743&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19532,7 +44542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2b78cb1dd95a3089db36d06ccc6fee51bbf8587f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2b78cb1dd95a3089db36d06ccc6fee51bbf8587f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19569,7 +44582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ef5c9e28cb65307f8c19b357b2a726cc905c1716&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ef5c9e28cb65307f8c19b357b2a726cc905c1716&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19606,7 +44622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fe822a9e23cb074c7d67d2d189fe3fa0766f12df&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fe822a9e23cb074c7d67d2d189fe3fa0766f12df&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19643,7 +44662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:723706ee47def814343a95406ac55f258d6c4f0b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:723706ee47def814343a95406ac55f258d6c4f0b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19680,7 +44702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6eb6c1067677ac52bca4891a53ba0a9bdde05893&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6eb6c1067677ac52bca4891a53ba0a9bdde05893&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19717,7 +44742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:10a89b18032c13b7373abe611fa0b42568daacfa&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:10a89b18032c13b7373abe611fa0b42568daacfa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19754,7 +44782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:662bc2a10bf7b54f50731489ce9ef6c3754cfc0a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:662bc2a10bf7b54f50731489ce9ef6c3754cfc0a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19791,7 +44822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b391d6144ab6919f6ee4f0f42dbb4bc008f2dfaf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b391d6144ab6919f6ee4f0f42dbb4bc008f2dfaf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19828,7 +44862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:493c89e6d2b1ef94d820755c98eaa7445af38dfe&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:493c89e6d2b1ef94d820755c98eaa7445af38dfe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19865,7 +44902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:86fe6eda161359cce3f3966e3b0961b1c1ba47d1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:86fe6eda161359cce3f3966e3b0961b1c1ba47d1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19902,7 +44942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0b0f715ccdfc95f917653bf0569841bfa55a11ef&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0b0f715ccdfc95f917653bf0569841bfa55a11ef&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19939,7 +44982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0ca1a9fb131e8c12abf97506d9d871cea2da85bc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0ca1a9fb131e8c12abf97506d9d871cea2da85bc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -19976,7 +45022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5a9f6bcaf5f54e4cb4642c7d984372cf6f7011c8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5a9f6bcaf5f54e4cb4642c7d984372cf6f7011c8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20013,7 +45062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4a9f80ee358286c15b776110ae7b3412dbb2584d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4a9f80ee358286c15b776110ae7b3412dbb2584d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20050,7 +45102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:72fd5a93c0df4fff0ee15ce392523e708aba2e40&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:72fd5a93c0df4fff0ee15ce392523e708aba2e40&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20087,7 +45142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:82618400913716a55771e1de15d65a7f3b1ca4e3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:82618400913716a55771e1de15d65a7f3b1ca4e3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20124,7 +45182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f66d395ad556ad5171ed81e5ceeb25040e5be87c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f66d395ad556ad5171ed81e5ceeb25040e5be87c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20161,7 +45222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f463664845046d5bbcce6ff87ff1dc833ef037ed&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f463664845046d5bbcce6ff87ff1dc833ef037ed&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20198,7 +45262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:876c253b8597589749ea8e5ccd84d5712bc58445&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:876c253b8597589749ea8e5ccd84d5712bc58445&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20235,7 +45302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1ff71c8b437032f1968d33362e04c31307bc5d5a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1ff71c8b437032f1968d33362e04c31307bc5d5a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20272,7 +45342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2254e056a61f42b7fa6a55bceec28eca3d19dab5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2254e056a61f42b7fa6a55bceec28eca3d19dab5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20309,7 +45382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:273abf634d898abb4ed2bf1dda25e72a15043420&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:273abf634d898abb4ed2bf1dda25e72a15043420&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20346,7 +45422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b74f61c7c51ea04883038fbd44b2b622e754f99b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b74f61c7c51ea04883038fbd44b2b622e754f99b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20383,7 +45462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2dcd5cacb6587ab30daed0c367ce53294678277d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2dcd5cacb6587ab30daed0c367ce53294678277d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20420,7 +45502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5c8ae833755b9dd0e5a96478b5db18ddb430aa1a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5c8ae833755b9dd0e5a96478b5db18ddb430aa1a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20457,7 +45542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e21b6dbbe574195b88a0a3a6048c04dbfcb49231&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e21b6dbbe574195b88a0a3a6048c04dbfcb49231&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20494,7 +45582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:59236b1dd03ba2bc6ff20903e2812aa6aec04949&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:59236b1dd03ba2bc6ff20903e2812aa6aec04949&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20531,7 +45622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:11ff18188c9ae2fd1251a67050a0137d8de7f1f4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:11ff18188c9ae2fd1251a67050a0137d8de7f1f4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20568,7 +45662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0af96987bf4a3ce8ee272245b1dfb9eb78f9cee7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0af96987bf4a3ce8ee272245b1dfb9eb78f9cee7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20605,7 +45702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:70878a6fc195a27f6507f31b3b389e5254d34699&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:70878a6fc195a27f6507f31b3b389e5254d34699&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20642,7 +45742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c9604b45eefcd39d3725c6f65ca6542aee3602d6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c9604b45eefcd39d3725c6f65ca6542aee3602d6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20679,7 +45782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:657e7d10ba5ff0644e66eca4564cfeebe7e8f055&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:657e7d10ba5ff0644e66eca4564cfeebe7e8f055&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20716,7 +45822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:51b7d1c0cfa2422178f56bbf521ecbc6bc2751af&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:51b7d1c0cfa2422178f56bbf521ecbc6bc2751af&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20753,7 +45862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d4be0a7ec28a6c2f9e57a9acad7975a86ec94cfd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d4be0a7ec28a6c2f9e57a9acad7975a86ec94cfd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20790,7 +45902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:31261d4420081b9bfaaa987dc1995d4eeba5fa36&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:31261d4420081b9bfaaa987dc1995d4eeba5fa36&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20827,7 +45942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:02e705d127b40526b92c9145867a77b647403826&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:02e705d127b40526b92c9145867a77b647403826&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20864,7 +45982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dcf76ac8ac30d561fe2435d80fd604dafb50efdc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dcf76ac8ac30d561fe2435d80fd604dafb50efdc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20901,7 +46022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4a24d7120980894c9db683d178dea0f468566300&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4a24d7120980894c9db683d178dea0f468566300&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20938,7 +46062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3cf29a9f58e4fe4312f6e4a7d19536f954cec453&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3cf29a9f58e4fe4312f6e4a7d19536f954cec453&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -20975,7 +46102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9532516a2035b0b3de2c55f053961d899c96381b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9532516a2035b0b3de2c55f053961d899c96381b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21012,7 +46142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a3f16fe5480f2bb7fa1827a403e9d112a8c4c094&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a3f16fe5480f2bb7fa1827a403e9d112a8c4c094&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21049,7 +46182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:568fe4acc02ee8e48beac062aada4947f4da7e23&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:568fe4acc02ee8e48beac062aada4947f4da7e23&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21086,7 +46222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b485eb6676fffef956410299d6f3c57bd13b7449&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:b485eb6676fffef956410299d6f3c57bd13b7449&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -21123,7 +46262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7abbb7071125c337f43b644fa0dd1bf6f012de01&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7abbb7071125c337f43b644fa0dd1bf6f012de01&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21160,7 +46302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f976064bda0bfc134d0fc031acc8591f6a8d2aa2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f976064bda0bfc134d0fc031acc8591f6a8d2aa2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21197,7 +46342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6569b5fc52985259800248aeb88d5d107f11f70d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6569b5fc52985259800248aeb88d5d107f11f70d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21234,7 +46382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:da952537f041b8c5b27c9e379b52856c29207b2a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:da952537f041b8c5b27c9e379b52856c29207b2a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21271,7 +46422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:adaf7e2c58158a525398408c47ccc1f3c6c5307f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:adaf7e2c58158a525398408c47ccc1f3c6c5307f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21308,7 +46462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3df3f0475b47b549b8162b7c36113cceb51dfe32&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3df3f0475b47b549b8162b7c36113cceb51dfe32&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21345,7 +46502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:93b598906062d8d4c01574abd22381a5839454a6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:93b598906062d8d4c01574abd22381a5839454a6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21382,7 +46542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:446b124e6e9025957de9e8466e50b3840fd66cdc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:446b124e6e9025957de9e8466e50b3840fd66cdc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21419,7 +46582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2a38d886129aa1f7da7cae8e1d862fb38158d6ce&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2a38d886129aa1f7da7cae8e1d862fb38158d6ce&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21456,7 +46622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3d1c0fb6fd1c06a20385e58dfb51e64425196c0e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3d1c0fb6fd1c06a20385e58dfb51e64425196c0e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21493,7 +46662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:93b92d21dcfd3229313b58b29466ec70459a8d2a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:93b92d21dcfd3229313b58b29466ec70459a8d2a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21530,7 +46702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:36e5c71f085fefcf29a7d3128e94ab0a0c8c8b8c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:36e5c71f085fefcf29a7d3128e94ab0a0c8c8b8c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21567,7 +46742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e7323582e0aa3cc0d6f529b80fb3259b37078243&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e7323582e0aa3cc0d6f529b80fb3259b37078243&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21604,7 +46782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:31b880d0069a288fde7660a8a2d2f87fff149551&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:31b880d0069a288fde7660a8a2d2f87fff149551&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21641,7 +46822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e07cc3630869eb3caf11e86611dc60384ee3a518&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e07cc3630869eb3caf11e86611dc60384ee3a518&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21678,7 +46862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4a09ddc9653817dd5512283ef1f7ae2d0b2e8e35&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4a09ddc9653817dd5512283ef1f7ae2d0b2e8e35&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21715,7 +46902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8650b54b0dc221bbc36bc7cc0776fae4737e03b4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8650b54b0dc221bbc36bc7cc0776fae4737e03b4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21752,7 +46942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5592b9b593456293544013e40bbec97941e9c7d5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5592b9b593456293544013e40bbec97941e9c7d5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21789,7 +46982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f554bd8c8737652b829efe3534556b996d0da677&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f554bd8c8737652b829efe3534556b996d0da677&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21826,7 +47022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b419f661ee05fe306b43a0e2ddae84a7aece3c2f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b419f661ee05fe306b43a0e2ddae84a7aece3c2f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21863,7 +47062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:69ef4d3fb5eed2539f1077f92ec24164b96cb72b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:69ef4d3fb5eed2539f1077f92ec24164b96cb72b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21900,7 +47102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a41e32e13e085ec59633dfe1680b1125256c864e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a41e32e13e085ec59633dfe1680b1125256c864e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21937,7 +47142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:61d375ec04fb9ce1111b71847a2381ff8a6bc938&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:61d375ec04fb9ce1111b71847a2381ff8a6bc938&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -21974,7 +47182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1a0f919c8c03b1130016e927ca1f8f2729da88bc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1a0f919c8c03b1130016e927ca1f8f2729da88bc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22011,7 +47222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c8bbf20203444d3d2a37280e7b3d780a392ba51e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c8bbf20203444d3d2a37280e7b3d780a392ba51e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22048,7 +47262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:20163f6108cb902721f06036087dc995ae9e2e4a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:20163f6108cb902721f06036087dc995ae9e2e4a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22085,7 +47302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:eddb3a91f8bb1aeed882e530e63a89ac95380db0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:eddb3a91f8bb1aeed882e530e63a89ac95380db0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22122,7 +47342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:28cfbbec08598e35225f7fe1f5c9bc12334f530b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:28cfbbec08598e35225f7fe1f5c9bc12334f530b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22159,7 +47382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2eae7785743cdb1c7657fd24a0c1522438c92787&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2eae7785743cdb1c7657fd24a0c1522438c92787&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22196,7 +47422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bbb78ba8b15b6538afcf6647ead335f1fed7b86b&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:bbb78ba8b15b6538afcf6647ead335f1fed7b86b&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -22233,7 +47462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5667815bf6a3dfe645a736669a1abc5e1ca54894&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5667815bf6a3dfe645a736669a1abc5e1ca54894&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22270,7 +47502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4c2a4e04816253b8dca0b580f02feaaf677c1b6e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4c2a4e04816253b8dca0b580f02feaaf677c1b6e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22307,7 +47542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ac75ec32a72e7c65435b73600496e043d42e444e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ac75ec32a72e7c65435b73600496e043d42e444e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22344,7 +47582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5199c044cea8691a480162aff23161738bed6197&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5199c044cea8691a480162aff23161738bed6197&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22381,7 +47622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c8752d36cff9c91d20a5759d621a83fc227fd020&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c8752d36cff9c91d20a5759d621a83fc227fd020&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22418,7 +47662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2bed97ee8fce14ba9a9130a2de52382a61fa6c42&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2bed97ee8fce14ba9a9130a2de52382a61fa6c42&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22455,7 +47702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1bb48d34a7994af2a45ade58cc5acf1412099b59&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1bb48d34a7994af2a45ade58cc5acf1412099b59&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22492,7 +47742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f49ae396f8acb874be0f11bf0dabfdc171c452de&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f49ae396f8acb874be0f11bf0dabfdc171c452de&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22529,7 +47782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5e42bb63807b4655f6bc1ad7fd1cf8164b7ac357&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5e42bb63807b4655f6bc1ad7fd1cf8164b7ac357&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22566,7 +47822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2eda21c3ec8cb9c7ff9e3388d6a218242b851c6d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2eda21c3ec8cb9c7ff9e3388d6a218242b851c6d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22603,7 +47862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0ef52a05d82e656e0b51283fb7517da502cca9f3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0ef52a05d82e656e0b51283fb7517da502cca9f3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22640,7 +47902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:79d0bea88d9c467e6e314ba66bd5c2944f217fb1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:79d0bea88d9c467e6e314ba66bd5c2944f217fb1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22677,7 +47942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0ce50c9ac28692d14a8b2cf167a689bab56720bf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0ce50c9ac28692d14a8b2cf167a689bab56720bf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22714,7 +47982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f983bea0bc77e326348e7619e2bdb1dfd2176715&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f983bea0bc77e326348e7619e2bdb1dfd2176715&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22751,7 +48022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8fd21a878ae27333448927a6b7016ddaa4eff69e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8fd21a878ae27333448927a6b7016ddaa4eff69e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22788,7 +48062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e7e6ef79b7e1d648650d5026305b582c05da1c72&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e7e6ef79b7e1d648650d5026305b582c05da1c72&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22825,7 +48102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:61af1e96267ae77124915073a255aaac4fc37d2e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:61af1e96267ae77124915073a255aaac4fc37d2e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22862,7 +48142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e1283d0dc157444417629a9a9585dd5187da9877&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e1283d0dc157444417629a9a9585dd5187da9877&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22899,7 +48182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2fe36ccfb7a904691c81ec1e597b19a5149cf838&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2fe36ccfb7a904691c81ec1e597b19a5149cf838&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22936,7 +48222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:aca876e8a571543cae18818b8229301ae418ca6e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:aca876e8a571543cae18818b8229301ae418ca6e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -22973,7 +48262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bc660a3157b6d059265e1354bcd987bb518edd34&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bc660a3157b6d059265e1354bcd987bb518edd34&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23010,7 +48302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:16544bc356132950acf89fb64681108494bab990&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:16544bc356132950acf89fb64681108494bab990&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23047,7 +48342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ea1aa223e607c67fabb5b2c600cabe979f4189b0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ea1aa223e607c67fabb5b2c600cabe979f4189b0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23084,7 +48382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9613a9ca6e47acb2f5d2b9d7c62391665851342a&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:9613a9ca6e47acb2f5d2b9d7c62391665851342a&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -23121,7 +48422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8ce7070c2f6bd8b21ad290b8b3dd6a868e1ca08c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8ce7070c2f6bd8b21ad290b8b3dd6a868e1ca08c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23158,7 +48462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6240d90324ab11a09f644fd989e59afb9542fa08&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6240d90324ab11a09f644fd989e59afb9542fa08&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23195,7 +48502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6660892747ade852f46bff394bb0e1fdb21a317d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6660892747ade852f46bff394bb0e1fdb21a317d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23232,7 +48542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4ab7f4f95f0cbf47589f45c7ac0c2f490359176f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4ab7f4f95f0cbf47589f45c7ac0c2f490359176f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23269,7 +48582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6268625c43f79b7b9ec20ce9275f16bf4ac52241&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6268625c43f79b7b9ec20ce9275f16bf4ac52241&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23306,7 +48622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:40b318c871e8045a2dd085d956c86c6e05a445c9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:40b318c871e8045a2dd085d956c86c6e05a445c9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23343,7 +48662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c2a4574448c973c8620dae9144b1c331b15f470d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c2a4574448c973c8620dae9144b1c331b15f470d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23380,7 +48702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1badae2f657646bded70f1ef091f3fa5caac4b98&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1badae2f657646bded70f1ef091f3fa5caac4b98&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23417,7 +48742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9da4d878d522fa714714265eabe61ad80d181c99&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9da4d878d522fa714714265eabe61ad80d181c99&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23454,7 +48782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d91c726fc26ee06cc60da1d3b12ca760c3c02d12&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d91c726fc26ee06cc60da1d3b12ca760c3c02d12&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23491,7 +48822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1218b37578d9523d20509a9bc70c309ff20b33b8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1218b37578d9523d20509a9bc70c309ff20b33b8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23528,7 +48862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d5d6bb04bdcf09ac34ccb8b3d8baf0be17fd47c7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d5d6bb04bdcf09ac34ccb8b3d8baf0be17fd47c7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23565,7 +48902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c2eacc081dd2cf75efec02eea3a090184963506a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c2eacc081dd2cf75efec02eea3a090184963506a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23602,7 +48942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:52e3044a4632942eaed4db9d0d9df35fa641ea34&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:52e3044a4632942eaed4db9d0d9df35fa641ea34&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23639,7 +48982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:14128d0be9b571fd7350918f47e6f1440705cd4f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:14128d0be9b571fd7350918f47e6f1440705cd4f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23676,7 +49022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:30f107baa463746ab9ae66f0d6d717134da7fa09&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:30f107baa463746ab9ae66f0d6d717134da7fa09&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23713,7 +49062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f15bd5aa8efa8699203a759b368f0f75da60b989&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f15bd5aa8efa8699203a759b368f0f75da60b989&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23750,7 +49102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6193fe38950a20629cff61f0f47fbf65831ce9e2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6193fe38950a20629cff61f0f47fbf65831ce9e2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23787,7 +49142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ae0762982b9ccf98da27f59c81ef092ccdeb12b4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ae0762982b9ccf98da27f59c81ef092ccdeb12b4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23824,7 +49182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3fec5461a41e1df37569bcad4de3c05a4043ecb9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3fec5461a41e1df37569bcad4de3c05a4043ecb9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23861,7 +49222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:32a6c9c9c5c6b62e841a1c278c109077566a5e93&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:32a6c9c9c5c6b62e841a1c278c109077566a5e93&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23898,7 +49262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d9b82f7c5953cb748651df24d1aaf4c1cd623137&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d9b82f7c5953cb748651df24d1aaf4c1cd623137&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23935,7 +49302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b48eff48696bc6542479a084d492ac1661409ef9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b48eff48696bc6542479a084d492ac1661409ef9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -23972,7 +49342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ae65139a54db91d06c31fd20418b0c2f823b70ec&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ae65139a54db91d06c31fd20418b0c2f823b70ec&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24009,7 +49382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d26ed1e9a5e5a442a00c8f4ecd9071167b7fa145&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d26ed1e9a5e5a442a00c8f4ecd9071167b7fa145&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24046,7 +49422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:08510514ec85e8825e86c4b9f635c1362e15e904&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:08510514ec85e8825e86c4b9f635c1362e15e904&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24083,7 +49462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d25bf1bb3378df1c51784fab0551136a4a292e8b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d25bf1bb3378df1c51784fab0551136a4a292e8b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24120,7 +49502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:14ca574d90f2e62f0829fea2913cd36cabc937a9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:14ca574d90f2e62f0829fea2913cd36cabc937a9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24157,7 +49542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:15dfc8ce240e8874f1a7e27d688ceccc5ed91a5f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:15dfc8ce240e8874f1a7e27d688ceccc5ed91a5f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24194,7 +49582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:782bddcda7b52825e9e6895d5acb94b63cd75af3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:782bddcda7b52825e9e6895d5acb94b63cd75af3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24231,7 +49622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8a2cad60ee2b8eaa4c3c23ef2c9dbcbd5289b7bf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8a2cad60ee2b8eaa4c3c23ef2c9dbcbd5289b7bf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24268,7 +49662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c68975f6e375762df2940a1ff8541e173258d06b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c68975f6e375762df2940a1ff8541e173258d06b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24305,7 +49702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8dbc260aa457dd48fcf8a082da2c80f2e6cac0b3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8dbc260aa457dd48fcf8a082da2c80f2e6cac0b3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24342,7 +49742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:798e8aaf04d3f4faa542619f5930e23440c3720e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:798e8aaf04d3f4faa542619f5930e23440c3720e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24379,7 +49782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1ee6aa33c85b64c4c2b8d912a46c738d1dedd971&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1ee6aa33c85b64c4c2b8d912a46c738d1dedd971&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24416,7 +49822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:17b8dc85c23c0b50a834f322b735bff1eb024718&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:17b8dc85c23c0b50a834f322b735bff1eb024718&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24453,7 +49862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7f252e1225fef94d48c4c75a9b192c4d0904bfff&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7f252e1225fef94d48c4c75a9b192c4d0904bfff&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24490,7 +49902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e79a1c023039797f783f08185b7068ecd8790d40&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e79a1c023039797f783f08185b7068ecd8790d40&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24527,7 +49942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f436df08f7fb83dd0906bb166c3d1c3837b76b01&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f436df08f7fb83dd0906bb166c3d1c3837b76b01&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24564,7 +49982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c13be1add4725abf69fc27bc118051381cc5665a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c13be1add4725abf69fc27bc118051381cc5665a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24601,7 +50022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:62f0f32f0074cb407c8e2192fbd6d0cc35d4155b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:62f0f32f0074cb407c8e2192fbd6d0cc35d4155b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24638,7 +50062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e17f998d134899595172bbce75c694a42454336a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e17f998d134899595172bbce75c694a42454336a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24675,7 +50102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f5d8149d69d01d97d8a473ccd3d0a71d8f1583f0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f5d8149d69d01d97d8a473ccd3d0a71d8f1583f0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24712,7 +50142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b608d69e109c47e2d3baff8d442da0fde00813d2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b608d69e109c47e2d3baff8d442da0fde00813d2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24749,7 +50182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c820759eed8e3dfc15c1b4d42f024528c0a36250&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c820759eed8e3dfc15c1b4d42f024528c0a36250&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24786,7 +50222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:30c4e88c1f8a3f18c9b1ce1eb022cca3c840bc99&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:30c4e88c1f8a3f18c9b1ce1eb022cca3c840bc99&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24823,7 +50262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f11ae0689fed388d88a461a63a556484fd287975&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f11ae0689fed388d88a461a63a556484fd287975&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24860,7 +50302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b254934a2429016950e00e86510d6835634e0938&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b254934a2429016950e00e86510d6835634e0938&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24897,7 +50342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fedad35e4a53b969d848c78de77cd34e579a6974&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fedad35e4a53b969d848c78de77cd34e579a6974&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24934,7 +50382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e0688e7f93c1172ce2e78cdfb30748e725936916&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e0688e7f93c1172ce2e78cdfb30748e725936916&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -24971,7 +50422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1cffad56d78297baeca9bc9bb5c0462c5041ca26&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1cffad56d78297baeca9bc9bb5c0462c5041ca26&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25008,7 +50462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:84df8b0a31d7f481f795f211ff5e54f00f9a7375&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:84df8b0a31d7f481f795f211ff5e54f00f9a7375&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25045,7 +50502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9dd1e2f01bc05ef3eb4755f428ef19b7d38ca6a0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9dd1e2f01bc05ef3eb4755f428ef19b7d38ca6a0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25082,7 +50542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:904a360039e9c90773022778d3c2aa4a4be7b3d4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:904a360039e9c90773022778d3c2aa4a4be7b3d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25119,7 +50582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f03370810d664da94e525d0e15ab3840b1b76034&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f03370810d664da94e525d0e15ab3840b1b76034&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25156,7 +50622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:61beeff4cb35608729f0838726eb94be53781141&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:61beeff4cb35608729f0838726eb94be53781141&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25193,7 +50662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2b2ccbf5097a166014eeff26765809f5e0ec14fe&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2b2ccbf5097a166014eeff26765809f5e0ec14fe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25230,7 +50702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:edc7059b6ff7d07c86fbd846ed3c59c21d30aaca&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:edc7059b6ff7d07c86fbd846ed3c59c21d30aaca&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25267,7 +50742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d986aacbad6a25c2afb7a53bd7fe0d32367ba888&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d986aacbad6a25c2afb7a53bd7fe0d32367ba888&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25304,7 +50782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5d70457d49b172f9a158be59d37afbe5ecfddc2f&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:5d70457d49b172f9a158be59d37afbe5ecfddc2f&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -25341,7 +50822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:76857fcc04d9ea46eb65dbafdd7bf237f9fc0055&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:76857fcc04d9ea46eb65dbafdd7bf237f9fc0055&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25378,7 +50862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6626e8792fcb209e899a4fd2a15cbc445a4bdc05&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6626e8792fcb209e899a4fd2a15cbc445a4bdc05&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25415,7 +50902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f94b7d12c2b376bf4d0d8bbf9792d9b5b0ec5110&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f94b7d12c2b376bf4d0d8bbf9792d9b5b0ec5110&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25452,7 +50942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f2e5929043cdd151277e8154c068e6ef71fc796d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f2e5929043cdd151277e8154c068e6ef71fc796d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25489,7 +50982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5a3946600598841fd8a9b704b06826425a5cb6b4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5a3946600598841fd8a9b704b06826425a5cb6b4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25526,7 +51022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5b28d374cd3305a7bbf661f8b194eb8b47667507&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5b28d374cd3305a7bbf661f8b194eb8b47667507&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25563,7 +51062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dd53fecd03a9a71cc744f04211848ce0f4a7d7ba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dd53fecd03a9a71cc744f04211848ce0f4a7d7ba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25600,7 +51102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:68a08412e0002443616273c94f3e1d27897ecc98&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:68a08412e0002443616273c94f3e1d27897ecc98&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25637,7 +51142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c0b3697bd2bf15fc5db0be10ded061849bec0034&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c0b3697bd2bf15fc5db0be10ded061849bec0034&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25674,7 +51182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:887e110701997355ee329b9a348d698a19cfc3d8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:887e110701997355ee329b9a348d698a19cfc3d8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25711,7 +51222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:08946702b4531540f021f89dcff93c0e8aaeaf56&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:08946702b4531540f021f89dcff93c0e8aaeaf56&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25748,7 +51262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ea0412c780141072fb7623eb191a677fe12f33ee&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ea0412c780141072fb7623eb191a677fe12f33ee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25785,7 +51302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a7d0247ba5600b6570f7661d4c94ef73b037f3a7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a7d0247ba5600b6570f7661d4c94ef73b037f3a7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25822,7 +51342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1cbc51c5a088f8660cd5a3123e18e93959e5f359&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1cbc51c5a088f8660cd5a3123e18e93959e5f359&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25859,7 +51382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2295357accc2a6ed49fb565adef751a1ffe559cb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2295357accc2a6ed49fb565adef751a1ffe559cb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25896,7 +51422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c93df0e51a582aafbb7a04aceef78f267d9a9393&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c93df0e51a582aafbb7a04aceef78f267d9a9393&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25933,7 +51462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2b45940c0e783f8df075d8adfad2e012adad02dd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2b45940c0e783f8df075d8adfad2e012adad02dd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -25970,7 +51502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e092e2c0dc9a669554a698ee90b1959e722d1bd2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e092e2c0dc9a669554a698ee90b1959e722d1bd2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26007,7 +51542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:43ca9b492dd7317ec29c68d12424bfe48853bf65&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:43ca9b492dd7317ec29c68d12424bfe48853bf65&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26044,7 +51582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c16b75042f4c0461cafebb060bad09c2a56821f8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c16b75042f4c0461cafebb060bad09c2a56821f8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26081,7 +51622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:15b04819dcbe1d78a748bccd6aed77a7d206e15b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:15b04819dcbe1d78a748bccd6aed77a7d206e15b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26118,7 +51662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6803c811d60d45a0211f97dcf25f8a33885a3223&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6803c811d60d45a0211f97dcf25f8a33885a3223&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26155,7 +51702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0fc72c98e8a606affe2a7f0d2538509fcb15c913&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0fc72c98e8a606affe2a7f0d2538509fcb15c913&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26192,7 +51742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2f4e8cd58b03adb1cc3f5031ad52c1cfb8d0d059&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2f4e8cd58b03adb1cc3f5031ad52c1cfb8d0d059&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26229,7 +51782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0c64268374e39b953b10088aa342db67ae3de91e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0c64268374e39b953b10088aa342db67ae3de91e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26266,7 +51822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:31bf965b5e6b3fa15fb8631875c6fa18ae6739e2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:31bf965b5e6b3fa15fb8631875c6fa18ae6739e2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26303,7 +51862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b0e0b3d0dbd354234920600afc082a143481cc81&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b0e0b3d0dbd354234920600afc082a143481cc81&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26340,7 +51902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:42919c789362e2d2ce04970a44694f7c6d5ba1a3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:42919c789362e2d2ce04970a44694f7c6d5ba1a3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26377,7 +51942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a439c80337465b630d2e7862d49c97a91ac9609d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a439c80337465b630d2e7862d49c97a91ac9609d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26414,7 +51982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:35a0341572505bc0712d753c4e0911a074a7cd69&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:35a0341572505bc0712d753c4e0911a074a7cd69&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26451,7 +52022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3ceced77f76f553527989b0acd5201a7ebecae10&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3ceced77f76f553527989b0acd5201a7ebecae10&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26488,7 +52062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:50714e23c63b53d93f025ab29403f73a9ee88541&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:50714e23c63b53d93f025ab29403f73a9ee88541&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26525,7 +52102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7964f76ec1a58d97cd98eb45c294d12e0b120a3e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7964f76ec1a58d97cd98eb45c294d12e0b120a3e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26562,7 +52142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cfe519d5ee406311464fc95a9607c2167acbd097&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cfe519d5ee406311464fc95a9607c2167acbd097&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26599,7 +52182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:69d8c236ec4ee88f7972dd161e68a832dbd1417f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:69d8c236ec4ee88f7972dd161e68a832dbd1417f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26636,7 +52222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:416222f2e5efb2807947a96cb03fbe6e37218556&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:416222f2e5efb2807947a96cb03fbe6e37218556&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26673,7 +52262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e4d80bfc713e4726da9bed1dab49f66cb75b2b65&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e4d80bfc713e4726da9bed1dab49f66cb75b2b65&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26710,7 +52302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c79d6e7eb3a4e494bf48ed0713e9a4a6bdaceced&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c79d6e7eb3a4e494bf48ed0713e9a4a6bdaceced&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26747,7 +52342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0648db808ab49e343982a168a04f5adc253c3cc4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0648db808ab49e343982a168a04f5adc253c3cc4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26784,7 +52382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f21010a1756b997cd2bc73f7208e9ccf2b46541f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f21010a1756b997cd2bc73f7208e9ccf2b46541f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26821,7 +52422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2c17fcbe67929c05c6e086e6ad153b963e780f88&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2c17fcbe67929c05c6e086e6ad153b963e780f88&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26858,7 +52462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:99a5c0cc3646e18960bba3d102915aabd51cc3d6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:99a5c0cc3646e18960bba3d102915aabd51cc3d6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26895,7 +52502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dc52011f8c3e7cf2f08b86c6380812bb9367f2f0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dc52011f8c3e7cf2f08b86c6380812bb9367f2f0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26932,7 +52542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:968b62a31ef6a4ab648f6b69dcf10a051de17cb4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:968b62a31ef6a4ab648f6b69dcf10a051de17cb4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -26969,7 +52582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ee0e6d761bfcc0a171e6c74bfbd6b6b927707704&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ee0e6d761bfcc0a171e6c74bfbd6b6b927707704&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27006,7 +52622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6a8d65a5405d83e5cbe49e929da4284bb9aa6833&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6a8d65a5405d83e5cbe49e929da4284bb9aa6833&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27043,7 +52662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:99dd6f5e786bb66e2be7c1d3d8518211599c080f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:99dd6f5e786bb66e2be7c1d3d8518211599c080f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27080,7 +52702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:986140d52c756dbc333dd5518b827e113a3855cf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:986140d52c756dbc333dd5518b827e113a3855cf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27117,7 +52742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a951e55ff652c41e0517991a18bbd9486727f0a6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a951e55ff652c41e0517991a18bbd9486727f0a6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27154,7 +52782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d4d7072302e8020a6e9ac64fd62a02d0aa871a46&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d4d7072302e8020a6e9ac64fd62a02d0aa871a46&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27191,7 +52822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:37b5313d8db91be62625f5ceea3c1cc12f27ffeb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:37b5313d8db91be62625f5ceea3c1cc12f27ffeb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27228,7 +52862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5cbc069aea91706961e21f276a19f4dd986840e9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5cbc069aea91706961e21f276a19f4dd986840e9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27265,7 +52902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:09b5910fdaec7c1bc4e83961e5d027403d568a6a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:09b5910fdaec7c1bc4e83961e5d027403d568a6a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27302,7 +52942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7e043ff24d99beedecea6a1093a839a2464780dc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7e043ff24d99beedecea6a1093a839a2464780dc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27339,7 +52982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0801aabdf328d128c9e04e0cb5f8f5dcdbf43539&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0801aabdf328d128c9e04e0cb5f8f5dcdbf43539&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27376,7 +53022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c582a78271b7b7bcb914fecc155c73644b878d42&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c582a78271b7b7bcb914fecc155c73644b878d42&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27413,7 +53062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7b560d102de12837894087dda2e30ad0cb616891&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7b560d102de12837894087dda2e30ad0cb616891&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27450,7 +53102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8d4574088ce45e0d2a652e5027e046f8d415ab83&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8d4574088ce45e0d2a652e5027e046f8d415ab83&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27487,7 +53142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ad19610913ae76e78ea1e634f8552e8d19752e04&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ad19610913ae76e78ea1e634f8552e8d19752e04&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27524,7 +53182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5d6b198e5c035ed070e27904174d26dcc6678e32&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5d6b198e5c035ed070e27904174d26dcc6678e32&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27561,7 +53222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:701395edc44775655c3f22c880fde140f30c3c33&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:701395edc44775655c3f22c880fde140f30c3c33&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27598,7 +53262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3d354b6a534c8fcf1ad19f22180a2c0c7bbc8039&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3d354b6a534c8fcf1ad19f22180a2c0c7bbc8039&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27635,7 +53302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b3ca2ad6d87d2c08d4294d55b24aece4fd6e884e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b3ca2ad6d87d2c08d4294d55b24aece4fd6e884e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27672,7 +53342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:029ce669ce65d1eb2d24964eaaf2acee3a391afb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:029ce669ce65d1eb2d24964eaaf2acee3a391afb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27709,7 +53382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:291b8425896f77ff2de2da368b0a767e3d45b855&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:291b8425896f77ff2de2da368b0a767e3d45b855&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27746,7 +53422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bcfce16e3a17a6ad48b8f7b574fa989bd2674b87&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bcfce16e3a17a6ad48b8f7b574fa989bd2674b87&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27783,7 +53462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:103d2ca57d6fe775ef846b8df0838ca62ef32400&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:103d2ca57d6fe775ef846b8df0838ca62ef32400&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27820,7 +53502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f1afc97926ddb1cf704aaa021bc9a6843992619d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f1afc97926ddb1cf704aaa021bc9a6843992619d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27857,7 +53542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5780233662c3e7f3cffb202923055cb75ed70125&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5780233662c3e7f3cffb202923055cb75ed70125&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27894,7 +53582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5144689104089c2d421a87a1d44ae1a757d9fae2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5144689104089c2d421a87a1d44ae1a757d9fae2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27931,7 +53622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:22c565166527d63a875108305ca682cd2a4c123f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:22c565166527d63a875108305ca682cd2a4c123f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -27968,7 +53662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:043ac55115ab2cd949e362b50b3fd75f38513e6b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:043ac55115ab2cd949e362b50b3fd75f38513e6b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28005,7 +53702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a5d186625fb603d63e867ee18e0b1a82e64dfc85&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a5d186625fb603d63e867ee18e0b1a82e64dfc85&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28042,7 +53742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c5342ced027d077daa52efb63eff0123b44b7c82&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c5342ced027d077daa52efb63eff0123b44b7c82&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28079,7 +53782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1108cac916eec179f8cf71070540028f9f2d38c3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1108cac916eec179f8cf71070540028f9f2d38c3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28116,7 +53822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2c9347920591b97cac08e4f0f745b99a4b013c21&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2c9347920591b97cac08e4f0f745b99a4b013c21&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28153,7 +53862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:19813a93c3cabcaf72ec945de00f6e10d8541c55&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:19813a93c3cabcaf72ec945de00f6e10d8541c55&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28190,7 +53902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9acfb3d11e5c6a739fc2864aee5a2b5151556a99&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9acfb3d11e5c6a739fc2864aee5a2b5151556a99&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28227,7 +53942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6835d1c9bd505e469d5526fc537dc10172a8de11&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6835d1c9bd505e469d5526fc537dc10172a8de11&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28264,7 +53982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:326e40e774bae49f14bd2af7f178e8bccc2cd9ea&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:326e40e774bae49f14bd2af7f178e8bccc2cd9ea&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28301,7 +54022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5123175c9bf7cffd31356430cd6e798ba2dce0f7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5123175c9bf7cffd31356430cd6e798ba2dce0f7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28338,7 +54062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:44a86b1bf94982de6ebec08ac5b814413e574af2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:44a86b1bf94982de6ebec08ac5b814413e574af2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28375,7 +54102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:93120f2d3ada8b844b993aaeabf07380bbbd99a6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:93120f2d3ada8b844b993aaeabf07380bbbd99a6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28412,7 +54142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fccee54002a421b999015db4f1d9f2a3c92abf39&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fccee54002a421b999015db4f1d9f2a3c92abf39&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28449,7 +54182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8dfba61bce1a98736629a19c2383fefb213c5d0d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8dfba61bce1a98736629a19c2383fefb213c5d0d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28486,7 +54222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:978b23fa13ae32b7e700506b94b85da4fbede342&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:978b23fa13ae32b7e700506b94b85da4fbede342&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28523,7 +54262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a91fa8fb28c5ae6c765b6d3a48df8bfa76bbb31e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a91fa8fb28c5ae6c765b6d3a48df8bfa76bbb31e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28560,7 +54302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3b3d9af81c84d4a6bccdf4d976a95b49ae39c6ab&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3b3d9af81c84d4a6bccdf4d976a95b49ae39c6ab&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28597,7 +54342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:56d83e0d9bb7e1a00fd49561968f8c562a374076&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:56d83e0d9bb7e1a00fd49561968f8c562a374076&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28634,7 +54382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:98767d24f2a9d0ed01a3bbc64746bd3235138e45&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:98767d24f2a9d0ed01a3bbc64746bd3235138e45&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28671,7 +54422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f928d1fbcf8b0eb879f7bea56387f44083ad733d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f928d1fbcf8b0eb879f7bea56387f44083ad733d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28708,7 +54462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:746219ff9cb584b96b0cefe9932bee952a87afd6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:746219ff9cb584b96b0cefe9932bee952a87afd6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28745,7 +54502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:07e7d748b4231f104c5409d076ef664dcb3abc3d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:07e7d748b4231f104c5409d076ef664dcb3abc3d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28782,7 +54542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b731f17741fd1ac3d266fcc3cefd0129a90fc969&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b731f17741fd1ac3d266fcc3cefd0129a90fc969&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28819,7 +54582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c9b6f0b3ed0620f5e7cbf7028a64a44bd41f8f28&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c9b6f0b3ed0620f5e7cbf7028a64a44bd41f8f28&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28856,7 +54622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:11700ed26c916feec1ea6fe91a70f5897a5f55ba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:11700ed26c916feec1ea6fe91a70f5897a5f55ba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28893,7 +54662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:395b3d899eca4dbd0421a53fe3e24319dd4eb1c1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:395b3d899eca4dbd0421a53fe3e24319dd4eb1c1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28930,7 +54702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:394358c441c21b18723be490a5477edd9cf59db1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:394358c441c21b18723be490a5477edd9cf59db1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -28967,7 +54742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:83dbf66f2e559cf70931dd0a4752e2c40725a514&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:83dbf66f2e559cf70931dd0a4752e2c40725a514&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29004,7 +54782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:25aab15378f10975d54b227ee4ae19bc6838a877&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:25aab15378f10975d54b227ee4ae19bc6838a877&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29041,7 +54822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0a20fbd513f6c60e4ac10f77245dec8c29870734&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0a20fbd513f6c60e4ac10f77245dec8c29870734&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29078,7 +54862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6fca91bdb8f3d88276529efe9542ab81b375dcb0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6fca91bdb8f3d88276529efe9542ab81b375dcb0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29115,7 +54902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:41c7a54063fc371fe302a249e684cb03caa8bead&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:41c7a54063fc371fe302a249e684cb03caa8bead&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29152,7 +54942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:99b98e3f21a3929157467d8243a2f0a798d6cef7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:99b98e3f21a3929157467d8243a2f0a798d6cef7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29189,7 +54982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2f5122590ce3b25f34812a6fa7bb03610f97fe73&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2f5122590ce3b25f34812a6fa7bb03610f97fe73&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29226,7 +55022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3aa477270145e0a255414f4d1695793a7fbdb047&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3aa477270145e0a255414f4d1695793a7fbdb047&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29263,7 +55062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:52a4c57f07d665ba98d47d9cbc714fb60dec3e82&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:52a4c57f07d665ba98d47d9cbc714fb60dec3e82&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29300,7 +55102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9c87f1648219c1d68e45e844cdf858e31a13434d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9c87f1648219c1d68e45e844cdf858e31a13434d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29337,7 +55142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f9d1fefa384082a2105f7b903e95c5bd6b2d9ae9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f9d1fefa384082a2105f7b903e95c5bd6b2d9ae9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29374,7 +55182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6ca07b5eb550286e8d595de5040dd82cca5df175&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6ca07b5eb550286e8d595de5040dd82cca5df175&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29411,7 +55222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fcd1e471baf5c43c845927805b1a7f9039c9a7a0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fcd1e471baf5c43c845927805b1a7f9039c9a7a0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29448,7 +55262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1ef1427d2971c43d2e52a908bf06f03ee57f6a23&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1ef1427d2971c43d2e52a908bf06f03ee57f6a23&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29485,7 +55302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:85d6d3da24969c0636e851eb1cf1017fdf3e3b11&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:85d6d3da24969c0636e851eb1cf1017fdf3e3b11&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29522,7 +55342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f34f1f23272009f0ea5434a1223145f5955080fd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f34f1f23272009f0ea5434a1223145f5955080fd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29559,7 +55382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4c5f2a5434b8c5cd1584f5cb4f69b16ceb56dc7e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4c5f2a5434b8c5cd1584f5cb4f69b16ceb56dc7e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29596,7 +55422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a95aaecdac7dc2546459c186c2afcd2df44717c5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a95aaecdac7dc2546459c186c2afcd2df44717c5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29633,7 +55462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dc2adfeb4df6a40bbc454df43dd7bdcfc7c086ff&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dc2adfeb4df6a40bbc454df43dd7bdcfc7c086ff&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29670,7 +55502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ea547352b0e6dabf089a6c4d6a208d1994649b03&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ea547352b0e6dabf089a6c4d6a208d1994649b03&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29707,7 +55542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:12a19faf8e514ff0f572f25f5e80e5a43262ba87&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:12a19faf8e514ff0f572f25f5e80e5a43262ba87&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29744,7 +55582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a11949aec5b16ee2115dbdebf46b5bc5ef580bce&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a11949aec5b16ee2115dbdebf46b5bc5ef580bce&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29781,7 +55622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d2b2b22be48f3b307834c35a224642b20066fd85&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d2b2b22be48f3b307834c35a224642b20066fd85&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29818,7 +55662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c279da275876fca45efe0c059ddc8c43bc6c4461&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c279da275876fca45efe0c059ddc8c43bc6c4461&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29855,7 +55702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e29ac27364a356a80d9a78840c3043f70acd487c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e29ac27364a356a80d9a78840c3043f70acd487c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29892,7 +55742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a161d08768f89b60f676f26fd06dc622d92b8074&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a161d08768f89b60f676f26fd06dc622d92b8074&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29929,7 +55782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e0940a54989bf6915454b63738b51913e06098bb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e0940a54989bf6915454b63738b51913e06098bb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -29966,7 +55822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a58c37b126cc7b5f6cdddfc36836a3d6b4243458&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a58c37b126cc7b5f6cdddfc36836a3d6b4243458&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30003,7 +55862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:59286ef0d7ba7c8beca039e308dcb19ce908a00a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:59286ef0d7ba7c8beca039e308dcb19ce908a00a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30040,7 +55902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9684408d299b009aff6cfcdcf69a1f1e4e47b75e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9684408d299b009aff6cfcdcf69a1f1e4e47b75e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30077,7 +55942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:979c998eb19d37fa5c8f3510ec40625fcd0e5e62&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:979c998eb19d37fa5c8f3510ec40625fcd0e5e62&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30114,7 +55982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e9b08661a1b0ff41ffe4784262ee8b69f625abba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e9b08661a1b0ff41ffe4784262ee8b69f625abba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30151,7 +56022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dcf9370fb4d999873e0e389cf31d34ee2a0a7c2a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dcf9370fb4d999873e0e389cf31d34ee2a0a7c2a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30188,7 +56062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c16516428b0de13ef5ca96f63040772dc319dde4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c16516428b0de13ef5ca96f63040772dc319dde4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30225,7 +56102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1cfcbfdce1e6efb01efa889c338f8e5636866e3f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1cfcbfdce1e6efb01efa889c338f8e5636866e3f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30262,7 +56142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4078c409a97bba29f12a38e2436d98cbf4528de8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4078c409a97bba29f12a38e2436d98cbf4528de8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30299,7 +56182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5b31931c419fcf1ed7c002b085f766c9f4046c28&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5b31931c419fcf1ed7c002b085f766c9f4046c28&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30336,7 +56222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8e56cc8098d17e3c851c7607f905d3a538ddf21f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8e56cc8098d17e3c851c7607f905d3a538ddf21f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30373,7 +56262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f4570e490c08fabad6bbdf5e9f99008fce763d1c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f4570e490c08fabad6bbdf5e9f99008fce763d1c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30410,7 +56302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7a0474311ea9156f81cde1ff12eec2780402b944&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7a0474311ea9156f81cde1ff12eec2780402b944&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30447,7 +56342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9f29ba91123f2560a5620d2fd59b2eb518c15a70&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9f29ba91123f2560a5620d2fd59b2eb518c15a70&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30484,7 +56382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0d6b51367b97a2503c69cbf64020b045a0ec6707&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0d6b51367b97a2503c69cbf64020b045a0ec6707&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30521,7 +56422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:92d9c34d2b3785c6b91e4de5f48537286f2614b4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:92d9c34d2b3785c6b91e4de5f48537286f2614b4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30558,7 +56462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:572be8a57904f90d94149134c6ede0acadb7f532&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:572be8a57904f90d94149134c6ede0acadb7f532&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30595,7 +56502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0c031eefe3f1099631ccd5ae0fd599d8ca6c7e1c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0c031eefe3f1099631ccd5ae0fd599d8ca6c7e1c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30632,7 +56542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4dbf266fb16cbcbfeb4037c447be37e565f691b2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4dbf266fb16cbcbfeb4037c447be37e565f691b2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30669,7 +56582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:43ce090224e3e0ee394a0e7a98697f812da1cfee&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:43ce090224e3e0ee394a0e7a98697f812da1cfee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30706,7 +56622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:091392b4a0743e8ac5d067468b21876e54ca6b4e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:091392b4a0743e8ac5d067468b21876e54ca6b4e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30743,7 +56662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f8305d062b2358a28a32fd7ade5b1e0dc5417054&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f8305d062b2358a28a32fd7ade5b1e0dc5417054&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30780,7 +56702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:293d0004c68a658b4bf8eb6065ac46fc027b81a8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:293d0004c68a658b4bf8eb6065ac46fc027b81a8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30817,7 +56742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4ceae062701f812db7d8ab1337aa661b161e264a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4ceae062701f812db7d8ab1337aa661b161e264a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30854,7 +56782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a1e11da2b6df277c30f2ab9d6466c91ee91174ee&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a1e11da2b6df277c30f2ab9d6466c91ee91174ee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30891,7 +56822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7a83ffcdb5a061d3bb7efb8c2f03b19f586862ed&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7a83ffcdb5a061d3bb7efb8c2f03b19f586862ed&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30928,7 +56862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:399caec04c676c8a3bdfeb4e0c243abb1d7aef70&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:399caec04c676c8a3bdfeb4e0c243abb1d7aef70&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -30965,7 +56902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1d1a6ce7a81cb2d62d2089a81b126efd37b2b6d0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1d1a6ce7a81cb2d62d2089a81b126efd37b2b6d0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31002,7 +56942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:99830a3c3e163b4da600047a617f62ddb61917f6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:99830a3c3e163b4da600047a617f62ddb61917f6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31039,7 +56982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:188317d939787736a4d38a49b78e5c20d4b16982&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:188317d939787736a4d38a49b78e5c20d4b16982&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31076,7 +57022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:90b4542a33fcbd634fd762a2b98a654c11aee155&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:90b4542a33fcbd634fd762a2b98a654c11aee155&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31113,7 +57062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f2ecf4102f301c0a7af037503446d95341c28220&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f2ecf4102f301c0a7af037503446d95341c28220&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31150,7 +57102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1a0c6f6c1f5f13ad9bd4267c1c1d19cf484ccf13&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1a0c6f6c1f5f13ad9bd4267c1c1d19cf484ccf13&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31187,7 +57142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:818e3bbc9be2d359a747cfd564fe4dee432656d2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:818e3bbc9be2d359a747cfd564fe4dee432656d2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31224,7 +57182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2b705273d18460d7781dd74856580fef4e7dc699&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2b705273d18460d7781dd74856580fef4e7dc699&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31261,7 +57222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6889cee2c227990bb939fbb57265575a62ecf3ed&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6889cee2c227990bb939fbb57265575a62ecf3ed&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31298,7 +57262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d591e81d7ab26d27b222e858be1c49a498c76fb7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d591e81d7ab26d27b222e858be1c49a498c76fb7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31335,7 +57302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3563e7a1efc7f8af523071fcec4dc8e8e8f68f2c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3563e7a1efc7f8af523071fcec4dc8e8e8f68f2c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31372,7 +57342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:13be37989f4a369b1669767209b923ae99765b83&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:13be37989f4a369b1669767209b923ae99765b83&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31409,7 +57382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f069a4313ee00fd149a6bdb3368fdfd8f4e44b60&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f069a4313ee00fd149a6bdb3368fdfd8f4e44b60&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31446,7 +57422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4971099acd213bdc33362f1aee06ef89b4a614f9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4971099acd213bdc33362f1aee06ef89b4a614f9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31483,7 +57462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1706602edbb18d7832dcfe7603ebde81257aaabb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1706602edbb18d7832dcfe7603ebde81257aaabb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31520,7 +57502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9df1a2f0e9c8e0c337f228f7cbfd0d5f8ab4311e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9df1a2f0e9c8e0c337f228f7cbfd0d5f8ab4311e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31557,7 +57542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:46e7ab32a7a7b106f018ce21427234e1ad438f29&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:46e7ab32a7a7b106f018ce21427234e1ad438f29&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31594,7 +57582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b3c80c55e5db1e523faa675d23e691586c8a3a02&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b3c80c55e5db1e523faa675d23e691586c8a3a02&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31631,7 +57622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:604ac09b3ef94aa92251c77097c4e8ba0e8a7b39&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:604ac09b3ef94aa92251c77097c4e8ba0e8a7b39&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31668,7 +57662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:49623d3dee68a38a928924b46544a4ab294b4b5f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:49623d3dee68a38a928924b46544a4ab294b4b5f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31705,7 +57702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7fb4f22d2a76d3a9332b26ec93fef4977c943db1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7fb4f22d2a76d3a9332b26ec93fef4977c943db1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31742,7 +57742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6561816e87d13c7022ee488582fe536ed3a7f2b5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6561816e87d13c7022ee488582fe536ed3a7f2b5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31779,7 +57782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b6b4e3076d45ebe0e602edfee23106bb8159a7da&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b6b4e3076d45ebe0e602edfee23106bb8159a7da&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31816,7 +57822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e749e98badd65881f7c35ad043e2c5d1ee9eed33&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e749e98badd65881f7c35ad043e2c5d1ee9eed33&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31853,7 +57862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3008083229a52730f10caef11f4f2d872c15c870&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3008083229a52730f10caef11f4f2d872c15c870&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31890,7 +57902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:43239417662b7c9c02bc5959519341b01f2e0be9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:43239417662b7c9c02bc5959519341b01f2e0be9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31927,7 +57942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e6978039f2c9cb16c167c97e1b544ee57244c311&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e6978039f2c9cb16c167c97e1b544ee57244c311&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -31964,7 +57982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5f3b1cf5b30fe3c3b798785f80a04c2b246d0ba0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5f3b1cf5b30fe3c3b798785f80a04c2b246d0ba0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32001,7 +58022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8e66b654efacdb6ec1a854db00cb0200a20ce89d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8e66b654efacdb6ec1a854db00cb0200a20ce89d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32038,7 +58062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:33da4eeacc93fc6de2a165d15fca1c61415c4750&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:33da4eeacc93fc6de2a165d15fca1c61415c4750&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32075,7 +58102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ea2a89d4026371e34f589c5e99980e8144317f7a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ea2a89d4026371e34f589c5e99980e8144317f7a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32112,7 +58142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:006927b25ea9d2c70336e6d4391ccfa22aed8a8a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:006927b25ea9d2c70336e6d4391ccfa22aed8a8a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32149,7 +58182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b1897bf8e4cda9493866967626986c000a57dcb3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b1897bf8e4cda9493866967626986c000a57dcb3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32186,7 +58222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:29f3c64a1ef2ba186c42cbe7fdad24de325faf67&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:29f3c64a1ef2ba186c42cbe7fdad24de325faf67&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32223,7 +58262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1f65af50d46ac8d27f421d82bb286501abb2421f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1f65af50d46ac8d27f421d82bb286501abb2421f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32260,7 +58302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d69c6d5f9c8eeed1b70c1e26f3455e1889ab263f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d69c6d5f9c8eeed1b70c1e26f3455e1889ab263f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32297,7 +58342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:707c3d6ff0ec5bfb06cf91fb5379e3cfebdb9cd7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:707c3d6ff0ec5bfb06cf91fb5379e3cfebdb9cd7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32334,7 +58382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6f94645f68da984082e6f837ba54695ca0989d36&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6f94645f68da984082e6f837ba54695ca0989d36&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32371,7 +58422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e2f7654b9de33d038457a64f3e2ddc75e47472b9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e2f7654b9de33d038457a64f3e2ddc75e47472b9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32408,7 +58462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a326896595663a507016d1986f89b2bf6ce1ed1a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a326896595663a507016d1986f89b2bf6ce1ed1a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32445,7 +58502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0edc47c01692db916c74b448d83974f0df6f8980&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0edc47c01692db916c74b448d83974f0df6f8980&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32482,7 +58542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ff6fffd66becfa3d1c4b448d72ad621b0d3ac8d5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ff6fffd66becfa3d1c4b448d72ad621b0d3ac8d5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32519,7 +58582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:949d9f35fe2549a58e813bb0092c094099453f33&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:949d9f35fe2549a58e813bb0092c094099453f33&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32556,7 +58622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ac8b1d7f5cb483ef7cfc4bcafd731cd550c99b87&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ac8b1d7f5cb483ef7cfc4bcafd731cd550c99b87&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32593,7 +58662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dec8786b3c4269ccbd4be6163ba68eb3b7231891&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dec8786b3c4269ccbd4be6163ba68eb3b7231891&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32630,7 +58702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fc165a26f839ed7757a162d9f68e5ea046424f75&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fc165a26f839ed7757a162d9f68e5ea046424f75&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32667,7 +58742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3f88806b5a6a182f96045855dbe9aeb9269d3c39&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3f88806b5a6a182f96045855dbe9aeb9269d3c39&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32704,7 +58782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e08398f4ca34c8619f93b923d5c9bd3fbf3d00c2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e08398f4ca34c8619f93b923d5c9bd3fbf3d00c2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32741,7 +58822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:31f1b7ec954d08ba698dd39f1fb6e2a4bf8ef958&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:31f1b7ec954d08ba698dd39f1fb6e2a4bf8ef958&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32778,7 +58862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b10d9a7aec871c6b42b23bb15f95c4d1eb25f330&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b10d9a7aec871c6b42b23bb15f95c4d1eb25f330&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32815,7 +58902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ceaf25e53f7f222927ef4cc878ce87ce113a0d8e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ceaf25e53f7f222927ef4cc878ce87ce113a0d8e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32852,7 +58942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:51674e5bd090a03b2e8a070f0cb0ee15114a8e27&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:51674e5bd090a03b2e8a070f0cb0ee15114a8e27&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32889,7 +58982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:296d1c317cc27062ebb0de15694ebc13c59e69a1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:296d1c317cc27062ebb0de15694ebc13c59e69a1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32926,7 +59022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:56356f5870960ab58d03fc7fb40b51b46691a9c3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:56356f5870960ab58d03fc7fb40b51b46691a9c3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -32963,7 +59062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:840a9bf5ef6153182b66fab50510634e0a9e5976&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:840a9bf5ef6153182b66fab50510634e0a9e5976&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33000,7 +59102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bb2b82dc98fbe781655dec4740f860e8a83610e6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bb2b82dc98fbe781655dec4740f860e8a83610e6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33037,7 +59142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:35ac9e8b5b78dc9564d2760d2a69ec9e9d63a689&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:35ac9e8b5b78dc9564d2760d2a69ec9e9d63a689&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33074,7 +59182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3080b5961ff3da01126b47be373b47697651b0c0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3080b5961ff3da01126b47be373b47697651b0c0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33111,7 +59222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9a49676d0d68a7ed981a4639a455fe51901af895&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9a49676d0d68a7ed981a4639a455fe51901af895&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33148,7 +59262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:38c29c10f3152da148653a1ee52dbe2dc02d1db6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:38c29c10f3152da148653a1ee52dbe2dc02d1db6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33185,7 +59302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:292f58ab9cb490b812e1ef7ae2d614680519a1f9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:292f58ab9cb490b812e1ef7ae2d614680519a1f9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33222,7 +59342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4037db54cf93591156a82728e8cceda4ad4e4d92&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4037db54cf93591156a82728e8cceda4ad4e4d92&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33259,7 +59382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:40b5cc0981d9beff2313e524482b71efaffe0aa1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:40b5cc0981d9beff2313e524482b71efaffe0aa1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33296,7 +59422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:782fc381bf1e54ddfbdf2a10f37fa0eb78cc9341&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:782fc381bf1e54ddfbdf2a10f37fa0eb78cc9341&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33333,7 +59462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0d6df471f2b473705f5a7f7537762ef254c8a476&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0d6df471f2b473705f5a7f7537762ef254c8a476&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33370,7 +59502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:442e401abf4f2667a0ec77afe697ffe9163b3f01&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:442e401abf4f2667a0ec77afe697ffe9163b3f01&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33407,7 +59542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cc5c0564c30ce1dfc8674188d056e952d2314798&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cc5c0564c30ce1dfc8674188d056e952d2314798&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33444,7 +59582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d962c2f68c81f322e157d8dd498213aba496c2ba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d962c2f68c81f322e157d8dd498213aba496c2ba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33481,7 +59622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e56eb38014e6eef473c8b1e370b89897fdb4d31e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e56eb38014e6eef473c8b1e370b89897fdb4d31e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33518,7 +59662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9d7703a1d9c86f73ca309a55b61e3a8a18ba2f4e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9d7703a1d9c86f73ca309a55b61e3a8a18ba2f4e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33555,7 +59702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2254ea942c3a85a3bbe0173961c169249cd79e9f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2254ea942c3a85a3bbe0173961c169249cd79e9f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33592,7 +59742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:92d4ae3531f1797d183a0481d93e96b137f4daca&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:92d4ae3531f1797d183a0481d93e96b137f4daca&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33629,7 +59782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5a171ca23d92b4a73fa0b0876cc2258f50d34ee0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5a171ca23d92b4a73fa0b0876cc2258f50d34ee0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33666,7 +59822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:34035e49683596aae92098c79d1a73cfd2c7ff0a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:34035e49683596aae92098c79d1a73cfd2c7ff0a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33703,7 +59862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b71b5a6c36d76a9e139716a54d79b2d8a2075408&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b71b5a6c36d76a9e139716a54d79b2d8a2075408&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33740,7 +59902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d0fa4d3ba668961c4bcdf4fa5a08d7e8fad03fc2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d0fa4d3ba668961c4bcdf4fa5a08d7e8fad03fc2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33777,7 +59942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7644c0ababaf06103d37ead6171688bb00d0a871&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7644c0ababaf06103d37ead6171688bb00d0a871&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33814,7 +59982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dea6fb299c781e76ece9df15a87a8f78657557bc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dea6fb299c781e76ece9df15a87a8f78657557bc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33851,7 +60022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:57abb8eba786453656dc032853d360851df2aa4b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:57abb8eba786453656dc032853d360851df2aa4b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33888,7 +60062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3f0d75a6ad1094bb0c225228352ae2b5fa2ebf6e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3f0d75a6ad1094bb0c225228352ae2b5fa2ebf6e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33925,7 +60102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:92331b17ee902740919fd34676d09eae50b40d04&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:92331b17ee902740919fd34676d09eae50b40d04&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33962,7 +60142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5f309c4cae86399a4d0472787513b5a0f781fe8c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5f309c4cae86399a4d0472787513b5a0f781fe8c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -33999,7 +60182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f814dfca07caf20f078ce2f45cc277b5dcdccbf5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f814dfca07caf20f078ce2f45cc277b5dcdccbf5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34036,7 +60222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7b48bd846432571e120baa563045a8d3e9512d26&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7b48bd846432571e120baa563045a8d3e9512d26&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34073,7 +60262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5a37555d04b8ac3403d0be68ca12e1fb54a730ba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5a37555d04b8ac3403d0be68ca12e1fb54a730ba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34110,7 +60302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9f30196054ab748a79abd652bbbe7d2737edca95&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9f30196054ab748a79abd652bbbe7d2737edca95&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34147,7 +60342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:14fd869bf31072187f2d5c2fc57a43e9a1cd55bb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:14fd869bf31072187f2d5c2fc57a43e9a1cd55bb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34184,7 +60382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:50b26ae3a40451ef4629a79463cbe338154a34ad&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:50b26ae3a40451ef4629a79463cbe338154a34ad&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34221,7 +60422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:205030671472be808abdd410be451ffd5dac7e7d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:205030671472be808abdd410be451ffd5dac7e7d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34258,7 +60462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:15ac24cbb64a68e0a2c11adedba6a9d65f1689f7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:15ac24cbb64a68e0a2c11adedba6a9d65f1689f7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34295,7 +60502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cc3c098b25dd3af730d6cb3dda6c24fd4228327b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cc3c098b25dd3af730d6cb3dda6c24fd4228327b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34332,7 +60542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cf526be9116a8de053f143f74c0f65e8479ba382&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cf526be9116a8de053f143f74c0f65e8479ba382&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34369,7 +60582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d43b9bbf8264fa9264461efcf6e1e23cd0ea5ca2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d43b9bbf8264fa9264461efcf6e1e23cd0ea5ca2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34406,7 +60622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ac2f1f86da431f9cdfd683de11a1ec2e9526a828&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ac2f1f86da431f9cdfd683de11a1ec2e9526a828&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34443,7 +60662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8ea6f49617ac0136bb4c2ae74a8799899ddbcc58&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8ea6f49617ac0136bb4c2ae74a8799899ddbcc58&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34480,7 +60702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:698453d4cfd895fa1e54fac08290e1de08496127&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:698453d4cfd895fa1e54fac08290e1de08496127&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34517,7 +60742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:364587daeb23095cfa0ee9565d4879675bfef7e4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:364587daeb23095cfa0ee9565d4879675bfef7e4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34554,7 +60782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:66fb6051e87b4cdbedefefaee055e73f097a8325&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:66fb6051e87b4cdbedefefaee055e73f097a8325&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34591,7 +60822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:02e21bad45ca35c544c025aca756847823231c69&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:02e21bad45ca35c544c025aca756847823231c69&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34628,7 +60862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6d27529244277afc997ba4609862819dbbe74911&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6d27529244277afc997ba4609862819dbbe74911&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34665,7 +60902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:24beb914fd2b7ad6e192308dcb6dddc019cbfe24&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:24beb914fd2b7ad6e192308dcb6dddc019cbfe24&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34702,7 +60942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cba681d68f9bb791eea2683ebf793e9d857ad3e2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cba681d68f9bb791eea2683ebf793e9d857ad3e2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34739,7 +60982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7b3ea23a649467968c2cbd9cdaf91f931f2dad8b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7b3ea23a649467968c2cbd9cdaf91f931f2dad8b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34776,7 +61022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e8e483911eac074ff1ade337e3debac1473875d0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e8e483911eac074ff1ade337e3debac1473875d0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34813,7 +61062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:718bf31896c31451154827b3e1ce57b3d8746ee0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:718bf31896c31451154827b3e1ce57b3d8746ee0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34850,7 +61102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fc335ad73b5e36ff146bd02af223a22b0749a46c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fc335ad73b5e36ff146bd02af223a22b0749a46c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34887,7 +61142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:abb689d746530cc41f7733c95fd79df3e8e1ca04&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:abb689d746530cc41f7733c95fd79df3e8e1ca04&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34924,7 +61182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ba6b1905d06f60f00d33b25e81e6fc9450b82ff2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ba6b1905d06f60f00d33b25e81e6fc9450b82ff2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34961,7 +61222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7281f3fb1d6297015fbf87f646649e9e0b721536&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7281f3fb1d6297015fbf87f646649e9e0b721536&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -34998,7 +61262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:39f7dcca7ab89f20ba7b8e483bfca638e3e6332b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:39f7dcca7ab89f20ba7b8e483bfca638e3e6332b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35035,7 +61302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f2ee24b506b0c914b4ca1d396b98a43654379c8f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f2ee24b506b0c914b4ca1d396b98a43654379c8f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35072,7 +61342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f6d513f83444a1af760d15c1c886dcf7d91d97c8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f6d513f83444a1af760d15c1c886dcf7d91d97c8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35109,7 +61382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:be965228a8de0cfed67bd1cd49cce250348f08b9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:be965228a8de0cfed67bd1cd49cce250348f08b9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35146,7 +61422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:aafd0fac72b5c8b61d6037ac3da646ed30e1ba0b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:aafd0fac72b5c8b61d6037ac3da646ed30e1ba0b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35183,7 +61462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b538f2bbe52acdcd97a91eb948c1c7c33255e84e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b538f2bbe52acdcd97a91eb948c1c7c33255e84e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35220,7 +61502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c0bd4f717015f84e452be4d0f9f6bad52b840037&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c0bd4f717015f84e452be4d0f9f6bad52b840037&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35257,7 +61542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:790668975af952d69b98b511c790240a8d4c9618&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:790668975af952d69b98b511c790240a8d4c9618&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35294,7 +61582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1832d91572efa0a2eac2145596cee687cac5d06c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1832d91572efa0a2eac2145596cee687cac5d06c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35331,7 +61622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:35b03c2e4aa6c2b88db8eb2a05625f38bff3e1b6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:35b03c2e4aa6c2b88db8eb2a05625f38bff3e1b6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35368,7 +61662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5eb590542e803a28ae1db549e3373f8c505c6cbe&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5eb590542e803a28ae1db549e3373f8c505c6cbe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35405,7 +61702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:42688f133f162be3359ab32a4c61147474d952d9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:42688f133f162be3359ab32a4c61147474d952d9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35442,7 +61742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8cb4ff87c61518c9588ae6dfcbb754b22f387e17&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8cb4ff87c61518c9588ae6dfcbb754b22f387e17&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35479,7 +61782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:53e9c9fdab68d809cb7c5430ee0b96c89d8ce474&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:53e9c9fdab68d809cb7c5430ee0b96c89d8ce474&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35516,7 +61822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:653ec7210f8c6001f5d231eaea7a1b961c84b259&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:653ec7210f8c6001f5d231eaea7a1b961c84b259&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35553,7 +61862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:aaaf0e957ebc7e4f33b76a56e050d6587e149509&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:aaaf0e957ebc7e4f33b76a56e050d6587e149509&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35590,7 +61902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:293467805fe72daf15424ebd796eff8ca16b1c54&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:293467805fe72daf15424ebd796eff8ca16b1c54&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35627,7 +61942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ba6c0c39d826e8e2cd73df8b83673a1b9799ef61&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ba6c0c39d826e8e2cd73df8b83673a1b9799ef61&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35664,7 +61982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:41c4c859a2005c5cc06f44c1928f584be25765da&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:41c4c859a2005c5cc06f44c1928f584be25765da&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35701,7 +62022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ed42dc5257d7570f0cdf7c620501b969935a6c40&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ed42dc5257d7570f0cdf7c620501b969935a6c40&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35738,7 +62062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5513ef25972ebd951f4c22f1fc5a0e6dcbd44439&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5513ef25972ebd951f4c22f1fc5a0e6dcbd44439&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35775,7 +62102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5e28b5fc6261b4df0eea97cc0781d622cfac6f4e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5e28b5fc6261b4df0eea97cc0781d622cfac6f4e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35812,7 +62142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5f71490241ff0d06078b86171f364ac1e83e6420&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5f71490241ff0d06078b86171f364ac1e83e6420&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35849,7 +62182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:612fdbb4719e8401e338581172686a047ee2821e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:612fdbb4719e8401e338581172686a047ee2821e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35886,7 +62222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f13da5a0db02887975876e2a2dac80f698a11625&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f13da5a0db02887975876e2a2dac80f698a11625&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35923,7 +62262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8424e3306c277f1980eff9b9153d6705796dd0d4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8424e3306c277f1980eff9b9153d6705796dd0d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35960,7 +62302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c7de8be02d94eaac92d203d5b8e0391c1b118df4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c7de8be02d94eaac92d203d5b8e0391c1b118df4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -35997,7 +62342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:85b85ae57298401c2a9d4895931db4c5e932b4b2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:85b85ae57298401c2a9d4895931db4c5e932b4b2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36034,7 +62382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3d72b30ffa68666e5d2732fa5fa292fbb51059bd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3d72b30ffa68666e5d2732fa5fa292fbb51059bd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36071,7 +62422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4bbc10f26dce6f75559d8910f17d81afe8fd6819&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4bbc10f26dce6f75559d8910f17d81afe8fd6819&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36108,7 +62462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e5dcdb850632f1d4220caf9a03cdfcd0a8617143&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e5dcdb850632f1d4220caf9a03cdfcd0a8617143&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36145,7 +62502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:04b14ede7d460f83ec7a35d8663faf7ffc5c7267&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:04b14ede7d460f83ec7a35d8663faf7ffc5c7267&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36182,7 +62542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c594aeb8552e4d5993e3ecf63172d6cd18289c6d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c594aeb8552e4d5993e3ecf63172d6cd18289c6d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36219,7 +62582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:167e31e904dafde8c4f06f7cb6c6c5c0b4c9945a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:167e31e904dafde8c4f06f7cb6c6c5c0b4c9945a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36256,7 +62622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8ec1d1f8e873b9c20dff9e0023110963fbc7d3b8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8ec1d1f8e873b9c20dff9e0023110963fbc7d3b8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36293,7 +62662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:eaf6866c25d19f4f940dc662bc462b16caec8583&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:eaf6866c25d19f4f940dc662bc462b16caec8583&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36330,7 +62702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0a97a73dc97e3af223f11fd2798f1bc1a92b19cb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0a97a73dc97e3af223f11fd2798f1bc1a92b19cb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36367,7 +62742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d30ab73e80feba25309adc20c0689b6d7e6cd18a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d30ab73e80feba25309adc20c0689b6d7e6cd18a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36404,7 +62782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fb9bf079aa1df9c697142c3721ff39c8b8734392&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fb9bf079aa1df9c697142c3721ff39c8b8734392&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36441,7 +62822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:446d1b49be1a88c3279a9f10eb8c1c4775d47297&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:446d1b49be1a88c3279a9f10eb8c1c4775d47297&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36478,7 +62862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4fec76cfe85f986ae60867ccb13434a0a3af7e67&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4fec76cfe85f986ae60867ccb13434a0a3af7e67&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36515,7 +62902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5f841086e4c9cae2bf347be32098db161cb31b33&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5f841086e4c9cae2bf347be32098db161cb31b33&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36552,7 +62942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:816a46c7cb7a2298d37b3d78ecbcfd4a8e21b91b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:816a46c7cb7a2298d37b3d78ecbcfd4a8e21b91b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36589,7 +62982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:85725e4327167e2892c142dfb6a7ac401d428eff&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:85725e4327167e2892c142dfb6a7ac401d428eff&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36626,7 +63022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e77542f62a9d1da68532050e3ce0a88c562aa38c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e77542f62a9d1da68532050e3ce0a88c562aa38c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36663,7 +63062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b5623f5091715c8666fb992ebcc74744ca1e703d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b5623f5091715c8666fb992ebcc74744ca1e703d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36700,7 +63102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:75bfaaed17a4661fe88ce11e79c33d631ee13b98&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:75bfaaed17a4661fe88ce11e79c33d631ee13b98&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36737,7 +63142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a02f4a3d2e28640fc7e0345484b4d6c23eb53574&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a02f4a3d2e28640fc7e0345484b4d6c23eb53574&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36774,7 +63182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e4dd6128168c67b8071b52acb48a684d1e7be6f2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e4dd6128168c67b8071b52acb48a684d1e7be6f2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36811,7 +63222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:37134cf49a61cc18124705cafd97ec5a71a04da5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:37134cf49a61cc18124705cafd97ec5a71a04da5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36848,7 +63262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4c8d13bf989a6beef50d6aa14d503dd1ac94f2d4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4c8d13bf989a6beef50d6aa14d503dd1ac94f2d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36885,7 +63302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a830f1ae554946d88e12506db07d4a6204643b57&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a830f1ae554946d88e12506db07d4a6204643b57&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36922,7 +63342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5fb7a6e4febf00f1d5dceb1dd65df5d59ddbebbb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5fb7a6e4febf00f1d5dceb1dd65df5d59ddbebbb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36959,7 +63382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6cd80bcdece56932f8df120da23a1008f64f1dad&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6cd80bcdece56932f8df120da23a1008f64f1dad&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -36996,7 +63422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9310f4e58b77ba6b88b94d53acd614a879f9cf18&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:9310f4e58b77ba6b88b94d53acd614a879f9cf18&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -37033,7 +63462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f89832e29f016ccd2d633414b00e14951642afcd&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:f89832e29f016ccd2d633414b00e14951642afcd&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -37070,7 +63502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:654ac4d7f18c85ca4376109990601829232734a3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:654ac4d7f18c85ca4376109990601829232734a3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37107,7 +63542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ec178111d4b2f4c98b39d0c228d538dc253172e0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ec178111d4b2f4c98b39d0c228d538dc253172e0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37144,7 +63582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:909d0beb812b957a0f4390db70499fd8d5fbff98&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:909d0beb812b957a0f4390db70499fd8d5fbff98&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37181,7 +63622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:85fd50de876185dd184db1121db0b9d1834b0f0f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:85fd50de876185dd184db1121db0b9d1834b0f0f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37218,7 +63662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9ba7ee25906b0cf2c9dae62012e18a37bee0aa57&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9ba7ee25906b0cf2c9dae62012e18a37bee0aa57&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37255,7 +63702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:66e164d31c2b1944683d3a62cc45437c280ae8cb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:66e164d31c2b1944683d3a62cc45437c280ae8cb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37292,7 +63742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:333fa9d4adc72818eecaaf383ddf5000d0e6828f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:333fa9d4adc72818eecaaf383ddf5000d0e6828f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37329,7 +63782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9373fab2e6d9fa1bc430da125e04f14ccc5169c9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9373fab2e6d9fa1bc430da125e04f14ccc5169c9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37366,7 +63822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:83de4e01d9fd8ea36eacc7a547987d2da4649435&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:83de4e01d9fd8ea36eacc7a547987d2da4649435&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37403,7 +63862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b4e0f488986ec26c983703dfac3a6c62dd9c70ab&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b4e0f488986ec26c983703dfac3a6c62dd9c70ab&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37440,7 +63902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4bc9fb7dfc327a8b6c2563adcea8861d3ec8bf5f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4bc9fb7dfc327a8b6c2563adcea8861d3ec8bf5f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37477,7 +63942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6141945611becea950994def411b9d0dc7757877&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6141945611becea950994def411b9d0dc7757877&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37514,7 +63982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:df7762eb2da478bbfd7d5f353221d4538f674825&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:df7762eb2da478bbfd7d5f353221d4538f674825&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37551,7 +64022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:eb6693f881f7e7db57d4fea9783eff3360b3121b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:eb6693f881f7e7db57d4fea9783eff3360b3121b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37588,7 +64062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f7d36e85a617ab1dca6dfb4688c69775e731d522&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f7d36e85a617ab1dca6dfb4688c69775e731d522&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37625,7 +64102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cb714149433986b5dfa5c2ba1c4015842fb6deba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cb714149433986b5dfa5c2ba1c4015842fb6deba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37662,7 +64142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:85c0f18b3fed47e471d428fa47d64ecf83b90ba0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:85c0f18b3fed47e471d428fa47d64ecf83b90ba0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37699,7 +64182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1661f4be06d69afb3d70faa0d491c1636f9c63c3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1661f4be06d69afb3d70faa0d491c1636f9c63c3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37736,7 +64222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b4aa6eb66a39e329ad7fb1e445bced944ca6c6e1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b4aa6eb66a39e329ad7fb1e445bced944ca6c6e1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37773,7 +64262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:43b8d1ee76face50d63ca641011b5489d268020b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:43b8d1ee76face50d63ca641011b5489d268020b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37810,7 +64302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fa6823ad9ba5cb015026efc77ca74d2100eb7406&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fa6823ad9ba5cb015026efc77ca74d2100eb7406&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37847,7 +64342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6c263aa06aedee0b51add4d0b42f92b05cf87a2d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6c263aa06aedee0b51add4d0b42f92b05cf87a2d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37884,7 +64382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:79d9042759f9979234c06442027b01771001177c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:79d9042759f9979234c06442027b01771001177c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37921,7 +64422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ee55e8e0aaf024b6e8584c63161c96b8e6e04492&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ee55e8e0aaf024b6e8584c63161c96b8e6e04492&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37958,7 +64462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3207fa03b0fd995ac58d61867d9a2477a0b465eb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3207fa03b0fd995ac58d61867d9a2477a0b465eb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -37995,7 +64502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0fb54b807abac19b69057e19d914661f99fc1559&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0fb54b807abac19b69057e19d914661f99fc1559&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38032,7 +64542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cae7b10f0cbd483ef71cefdb1cb003b842ffa536&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cae7b10f0cbd483ef71cefdb1cb003b842ffa536&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38069,7 +64582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6dd4c35e7d48854bb612ac283b7c640e441ea97a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6dd4c35e7d48854bb612ac283b7c640e441ea97a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38106,7 +64622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f119c9117f03d12175bff5e8625b818018c62e93&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f119c9117f03d12175bff5e8625b818018c62e93&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38143,7 +64662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d0b6a4f4f24c3e5144c1c3ed40a8c4a3c7b44111&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d0b6a4f4f24c3e5144c1c3ed40a8c4a3c7b44111&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38180,7 +64702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fb934cce058718d1725ce5111377f5204dc19d31&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fb934cce058718d1725ce5111377f5204dc19d31&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38217,7 +64742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f9d3e99697eba00bdd9d6737da1ed4a58ac61b6d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f9d3e99697eba00bdd9d6737da1ed4a58ac61b6d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38254,7 +64782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b3dac22ba04cc9b408914ef2830838b910f798d2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b3dac22ba04cc9b408914ef2830838b910f798d2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38291,7 +64822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4df150b79ecec55bbf76c213074f328000dc9da4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4df150b79ecec55bbf76c213074f328000dc9da4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38328,7 +64862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8f8ffccead2c85076646204cd0d7c315fb2802c9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8f8ffccead2c85076646204cd0d7c315fb2802c9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38365,7 +64902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:79f2ee55444be83f1fc762beee012a2548f21847&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:79f2ee55444be83f1fc762beee012a2548f21847&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38402,7 +64942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:14424c785a82f26821a51d720751ba55ec931547&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:14424c785a82f26821a51d720751ba55ec931547&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38439,7 +64982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c44ea6e8c86ac3ee1e1cb2469bc38fff3bf2f29b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c44ea6e8c86ac3ee1e1cb2469bc38fff3bf2f29b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38476,7 +65022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f90d3ff7bb288287974ca531d0cef1a19fd2ae20&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f90d3ff7bb288287974ca531d0cef1a19fd2ae20&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38513,7 +65062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:17f31e17ada79d7d94ddb611e0463f4362f7bf77&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:17f31e17ada79d7d94ddb611e0463f4362f7bf77&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38550,7 +65102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d95b4f58a211a52238a1af2aa717b56206fe81fc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d95b4f58a211a52238a1af2aa717b56206fe81fc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38587,7 +65142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bd87cf6d8774c68d9e8fdb98c1a787dc9073b751&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bd87cf6d8774c68d9e8fdb98c1a787dc9073b751&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38624,7 +65182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3d1a40f7b46f00eec995a28d77e88b5e5cec0b9d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3d1a40f7b46f00eec995a28d77e88b5e5cec0b9d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38661,7 +65222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fc07c2d0ae6738e10f8fe926657155538001d12e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fc07c2d0ae6738e10f8fe926657155538001d12e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38698,7 +65262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8582d23214e7d2fa49a718ed06776e1deba20750&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8582d23214e7d2fa49a718ed06776e1deba20750&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38735,7 +65302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d92c939fe496f140a756bce2f3686c5d5dda0636&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d92c939fe496f140a756bce2f3686c5d5dda0636&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38772,7 +65342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:978f5f66808de924b282d361d0c75188e670419a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:978f5f66808de924b282d361d0c75188e670419a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38809,7 +65382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f94bd8bcf463b532ceeaad2f417c6d3f17c7c150&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f94bd8bcf463b532ceeaad2f417c6d3f17c7c150&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38846,7 +65422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6c394d737145d87fdab1504b19318e5b848c23cf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6c394d737145d87fdab1504b19318e5b848c23cf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38883,7 +65462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bb55d4200b024ff3b5a8a2e426f422dca1d0ca7d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bb55d4200b024ff3b5a8a2e426f422dca1d0ca7d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38920,7 +65502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7105b14d3342ced3b98158e4f55f1aa408e3142f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7105b14d3342ced3b98158e4f55f1aa408e3142f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38957,7 +65542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5f92d4fb0e03ccb192834c3aa1299684eefdd929&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5f92d4fb0e03ccb192834c3aa1299684eefdd929&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -38994,7 +65582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7ede1eafccf447647d5146c036d8e5d01e72bf61&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7ede1eafccf447647d5146c036d8e5d01e72bf61&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39031,7 +65622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:59bb55c49c56a0fa6160980f7f3efe1b81cc1c17&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:59bb55c49c56a0fa6160980f7f3efe1b81cc1c17&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39068,7 +65662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bc0556c05c673143f9e6844c6bcd7e896a0cc999&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bc0556c05c673143f9e6844c6bcd7e896a0cc999&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39105,7 +65702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:62ac751b60815e352ad2bb9116b5384a04ff2e19&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:62ac751b60815e352ad2bb9116b5384a04ff2e19&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39142,7 +65742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:301fe380071705761306e471fefc230196d84c02&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:301fe380071705761306e471fefc230196d84c02&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39179,7 +65782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:28eb17432a7e4245741af12ec9a269c9c2994539&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:28eb17432a7e4245741af12ec9a269c9c2994539&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39216,7 +65822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:231d7a080b9bb65d2570830e3281071b68729b5b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:231d7a080b9bb65d2570830e3281071b68729b5b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39253,7 +65862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:625206cd7a9e426840c4758705d550cfba2d471e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:625206cd7a9e426840c4758705d550cfba2d471e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39290,7 +65902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3100c36de84716b441695c4a5df1138a8f5fe633&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3100c36de84716b441695c4a5df1138a8f5fe633&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39327,7 +65942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bc153c8989818cfa11e8bdc9195dfd0aacfac8a8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bc153c8989818cfa11e8bdc9195dfd0aacfac8a8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39364,7 +65982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:38f4c448003c2a3fe7af429ffe699744a77a087a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:38f4c448003c2a3fe7af429ffe699744a77a087a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39401,7 +66022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:033867f7fbfe7ffe9a2964dec576a63632df8856&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:033867f7fbfe7ffe9a2964dec576a63632df8856&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39438,7 +66062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fe62c7f80b09bb3da139ff1aad6eb67a68008694&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fe62c7f80b09bb3da139ff1aad6eb67a68008694&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39475,7 +66102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:df54f7357d8a623ecf10aafb4cc3d65ef6a84b37&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:df54f7357d8a623ecf10aafb4cc3d65ef6a84b37&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39512,7 +66142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7775a10773db1974204733a7752e210deb53311a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7775a10773db1974204733a7752e210deb53311a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39549,7 +66182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:37d9517b9be7c3c95209ad8e0467178d8dab38e4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:37d9517b9be7c3c95209ad8e0467178d8dab38e4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39586,7 +66222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d0c45c13628ad4967b1502e40486bcfbb58b87b7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d0c45c13628ad4967b1502e40486bcfbb58b87b7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39623,7 +66262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:91e5eb1798c1b412525cd5266cc31e779a25777e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:91e5eb1798c1b412525cd5266cc31e779a25777e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39660,7 +66302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:111fbaf44404bc98e816ebe975c6d6162e345683&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:111fbaf44404bc98e816ebe975c6d6162e345683&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39697,7 +66342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9d75beef574df117d870c8df03dc3d09aa0a9cfa&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9d75beef574df117d870c8df03dc3d09aa0a9cfa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39734,7 +66382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e97650c3cafcfe1dd3b4465cc56ca961f04d1b68&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e97650c3cafcfe1dd3b4465cc56ca961f04d1b68&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39771,7 +66422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:502a48af04e3ccf018d94e917f6497e3da556fef&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:502a48af04e3ccf018d94e917f6497e3da556fef&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39808,7 +66462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5e6f3272a8a9eb8b8c0fb72a8a96aad3089fd09b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5e6f3272a8a9eb8b8c0fb72a8a96aad3089fd09b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39845,7 +66502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a3776ceb5d81c9b22725c018aa2fc10bb704bde2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a3776ceb5d81c9b22725c018aa2fc10bb704bde2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39882,7 +66542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:78d1bce3fc0f33f74f9ac9f46a96be794753596c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:78d1bce3fc0f33f74f9ac9f46a96be794753596c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39919,7 +66582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0eb436b298539dee5689dce859d2f60a7a8d3320&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0eb436b298539dee5689dce859d2f60a7a8d3320&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39956,7 +66622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7f67c858a874e464dc93d0ff86b601df1f3ec6a4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7f67c858a874e464dc93d0ff86b601df1f3ec6a4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -39993,7 +66662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0c2e96b56d96112360dc1e9f206ed121bb3a3981&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0c2e96b56d96112360dc1e9f206ed121bb3a3981&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40030,7 +66702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a4d5af6732b7c76f3c9d0e9724239f96b2c2b9f4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a4d5af6732b7c76f3c9d0e9724239f96b2c2b9f4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40067,7 +66742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f9929940300295b0c7360396f44f11bd830f1081&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f9929940300295b0c7360396f44f11bd830f1081&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40104,7 +66782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:67838cbe26bf8eb539b0b6825090381d1620db75&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:67838cbe26bf8eb539b0b6825090381d1620db75&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40141,7 +66822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:16519a84f41cc16847832af417f46cf8e03e84e8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:16519a84f41cc16847832af417f46cf8e03e84e8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40178,7 +66862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:92b34664d81a4c83966c5e1bf1b082305302a3e9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:92b34664d81a4c83966c5e1bf1b082305302a3e9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40215,7 +66902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:586dd6d96f59d9e4515e0fd93d1592ca7a1ebeb0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:586dd6d96f59d9e4515e0fd93d1592ca7a1ebeb0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40252,7 +66942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ebc50a09f222d8842d183e9249bd44b8c7c24cb5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ebc50a09f222d8842d183e9249bd44b8c7c24cb5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40289,7 +66982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0a3f0cbe768fdbdce7b1804fc586c1005b674057&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0a3f0cbe768fdbdce7b1804fc586c1005b674057&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40326,7 +67022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bc6f8a8eda6f35fc281649fdcaa10749bb67aa7a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bc6f8a8eda6f35fc281649fdcaa10749bb67aa7a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40363,7 +67062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:de54e49b89d44cf08291e54457dcc934cbcf794d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:de54e49b89d44cf08291e54457dcc934cbcf794d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40400,7 +67102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:43f3f6b3999844ba85f6075b90f0a80de1729aec&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:43f3f6b3999844ba85f6075b90f0a80de1729aec&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40437,7 +67142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b981b9524abbda288e074e612f709b30c8f4a00c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b981b9524abbda288e074e612f709b30c8f4a00c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40474,7 +67182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:387604907260b75106cff90eb3ec58f486f587f1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:387604907260b75106cff90eb3ec58f486f587f1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40511,7 +67222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:916de0d4d1ac772a68aca0b65225c9d84c3f917f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:916de0d4d1ac772a68aca0b65225c9d84c3f917f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40548,7 +67262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:842e752f36c613cd11a0be1e6e09bed34894d683&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:842e752f36c613cd11a0be1e6e09bed34894d683&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40585,7 +67302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:35dda73a5f476a1e56b5adc870de048ec718de03&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:35dda73a5f476a1e56b5adc870de048ec718de03&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40622,7 +67342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b357a99c69d3eebf2ef7e516a193e9db388e9f26&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b357a99c69d3eebf2ef7e516a193e9db388e9f26&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40659,7 +67382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6a7ab22110d691fe9a933a2052fe181573303a8e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6a7ab22110d691fe9a933a2052fe181573303a8e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40696,7 +67422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:10f2d960c8addd246d4571dd0fb65b37d5b57667&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:10f2d960c8addd246d4571dd0fb65b37d5b57667&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40733,7 +67462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d35f9104fecaf68b78aa9b9b7fc8a4be47d919ee&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d35f9104fecaf68b78aa9b9b7fc8a4be47d919ee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40770,7 +67502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:87d10945e76a6356569e435d131aa8a1f67ba38f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:87d10945e76a6356569e435d131aa8a1f67ba38f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40807,7 +67542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c0ba863362cfebc723187e245364e9442699dc89&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c0ba863362cfebc723187e245364e9442699dc89&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40844,7 +67582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b6e3c38a388730f03e8438eab9de93910ae739a0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b6e3c38a388730f03e8438eab9de93910ae739a0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40881,7 +67622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:12904560bac503da2efa13d896ecb99b009d49e2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:12904560bac503da2efa13d896ecb99b009d49e2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40918,7 +67662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d62b478ddbce95a8cb8caff7803bcea6fae2572b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d62b478ddbce95a8cb8caff7803bcea6fae2572b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40955,7 +67702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:63ae97d527948bca2783958560b07447081457cb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:63ae97d527948bca2783958560b07447081457cb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -40992,7 +67742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:36d5fcc631f657463861a7c48b0500a98897acdf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:36d5fcc631f657463861a7c48b0500a98897acdf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41029,7 +67782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:91a645dedfdf9000d2fefeddaa028199e49aeae7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:91a645dedfdf9000d2fefeddaa028199e49aeae7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41066,7 +67822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:52ed11feceb7ffbd61950f153718c77fb4785a6b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:52ed11feceb7ffbd61950f153718c77fb4785a6b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41103,7 +67862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:39707f978bfd8aee0f4abbf1a5f8f8617db1ad4e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:39707f978bfd8aee0f4abbf1a5f8f8617db1ad4e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41140,7 +67902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:892d2e684899ba3c9516ee11aa1d4377c53c4a31&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:892d2e684899ba3c9516ee11aa1d4377c53c4a31&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41177,7 +67942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:99bf26e684eafc2479386abc4df5a915499941a7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:99bf26e684eafc2479386abc4df5a915499941a7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41214,7 +67982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c89c092590529ae05bcee6ed27bdd2a38a72ba6d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c89c092590529ae05bcee6ed27bdd2a38a72ba6d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41251,7 +68022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7842c44569f2dc42f513eb1d6a3338e3818fb33d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7842c44569f2dc42f513eb1d6a3338e3818fb33d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41288,7 +68062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a45c95a324bf8ff1899901f62814d4b5af79fa94&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a45c95a324bf8ff1899901f62814d4b5af79fa94&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41325,7 +68102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8ae5587c9735819cc77bee9cc358b7f1bc9db18a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8ae5587c9735819cc77bee9cc358b7f1bc9db18a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41362,7 +68142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2576a2bc13ad38f62071869ed6046edc3d4471d0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2576a2bc13ad38f62071869ed6046edc3d4471d0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41399,7 +68182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2df4574c49b25891ac7acbe92b909c78a06dd556&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2df4574c49b25891ac7acbe92b909c78a06dd556&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41436,7 +68222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:253702de0c9047dbdeb1fdfb5cfc5edc92603647&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:253702de0c9047dbdeb1fdfb5cfc5edc92603647&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41473,7 +68262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6b6c863506a5abe85a4ca3535c41055b5b84db09&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6b6c863506a5abe85a4ca3535c41055b5b84db09&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41510,7 +68302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e2954d845d911c48a5cf5564fabd514de35c1ac3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e2954d845d911c48a5cf5564fabd514de35c1ac3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41547,7 +68342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ee869074010549c428d0f6ecbad4db5c9bfe0366&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ee869074010549c428d0f6ecbad4db5c9bfe0366&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41584,7 +68382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b407b66e4d099f81d9a04695f5939fd3c1e792ff&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b407b66e4d099f81d9a04695f5939fd3c1e792ff&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41621,7 +68422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bfc3162e60e049f2d99cb85474b578b468634c12&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bfc3162e60e049f2d99cb85474b578b468634c12&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41658,7 +68462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:09d613d3fb936c4e5d8aa9e7f63afc8f421df564&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:09d613d3fb936c4e5d8aa9e7f63afc8f421df564&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41695,7 +68502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c0d04ddf32a689b76277aef2b52e0da5d132ffaf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c0d04ddf32a689b76277aef2b52e0da5d132ffaf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41732,7 +68542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2726dd0f8c9f0c525a7345e668eda2425b26327d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2726dd0f8c9f0c525a7345e668eda2425b26327d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41769,7 +68582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9e194dacd9de24ee4d049ecfe3f2845c4ecde7cf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9e194dacd9de24ee4d049ecfe3f2845c4ecde7cf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41806,7 +68622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d3b6a3b9297f3b47521fcfdf9edd1bd96ecec426&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d3b6a3b9297f3b47521fcfdf9edd1bd96ecec426&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41843,7 +68662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e2c2897ce90de4e51dfb0a227c40ca534d22528e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e2c2897ce90de4e51dfb0a227c40ca534d22528e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41880,7 +68702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:308178601000a626219172b8d79db94d71e71b0d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:308178601000a626219172b8d79db94d71e71b0d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41917,7 +68742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7748c132e5183ba9bbc3345d87c9e08981aaebc9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7748c132e5183ba9bbc3345d87c9e08981aaebc9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41954,7 +68782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9a5355ac4ace1890f7526ea45e43efed65ce595d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9a5355ac4ace1890f7526ea45e43efed65ce595d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -41991,7 +68822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:034f168374907e41c20492e59f8d0c29422b1186&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:034f168374907e41c20492e59f8d0c29422b1186&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42028,7 +68862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8410bf2a827d0d94f4fb45eef8a1c32bfb9f7e2b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8410bf2a827d0d94f4fb45eef8a1c32bfb9f7e2b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42065,7 +68902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f40ec7977ebd163992530b51307c4d8e77ef456b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f40ec7977ebd163992530b51307c4d8e77ef456b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42102,7 +68942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f93d4914159f464d1e2625b4cb1acfeed0951fd6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f93d4914159f464d1e2625b4cb1acfeed0951fd6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42139,7 +68982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bfb1d9d9a4faabcfbaa4c597ffa2f1860652c836&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bfb1d9d9a4faabcfbaa4c597ffa2f1860652c836&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42176,7 +69022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8947973750fbcfc265ee95ef90031a4178098331&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8947973750fbcfc265ee95ef90031a4178098331&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42213,7 +69062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a400c5d95855e10f5a4374a010641f148b699b10&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a400c5d95855e10f5a4374a010641f148b699b10&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42250,7 +69102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:20edd1ece307f09e2dafdf0029ff2b738ed0b954&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:20edd1ece307f09e2dafdf0029ff2b738ed0b954&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42287,7 +69142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:809a6be2f0bf8b84467a3d4660a740d0800abd41&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:809a6be2f0bf8b84467a3d4660a740d0800abd41&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42324,7 +69182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7613407498a6c7f2ffa607dd6fcb7e15791c8343&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7613407498a6c7f2ffa607dd6fcb7e15791c8343&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42361,7 +69222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8c4becd8577041eeb99d3dbf596b228d7d331516&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8c4becd8577041eeb99d3dbf596b228d7d331516&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42398,7 +69262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dfaa2920a23da377c53bd541adba1ca453932744&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dfaa2920a23da377c53bd541adba1ca453932744&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42435,7 +69302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3bd6bb14402dc9341d856d741483dd5830ba83d0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3bd6bb14402dc9341d856d741483dd5830ba83d0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42472,7 +69342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9a3ce95f642db5747692efa25537702df2dbeaa7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9a3ce95f642db5747692efa25537702df2dbeaa7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42509,7 +69382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:362a6bd58a675536606d0a619a725a85aa8cbe3b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:362a6bd58a675536606d0a619a725a85aa8cbe3b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42546,7 +69422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2bbece361a1aa5a240aecd4fa5006f02f11d9c98&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2bbece361a1aa5a240aecd4fa5006f02f11d9c98&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42583,7 +69462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d99fccda9f9fb81975f2a66d8f96012863ae04ff&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d99fccda9f9fb81975f2a66d8f96012863ae04ff&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42620,7 +69502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2cf8696cb11da10a5a30331a2476d3e371ab0173&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2cf8696cb11da10a5a30331a2476d3e371ab0173&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42657,7 +69542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:94349ef16f4471362cb54a9d8cf913c34ab6c89f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:94349ef16f4471362cb54a9d8cf913c34ab6c89f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42694,7 +69582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3e45fd9649889482d6c776f6703c5ab9f044e4f9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3e45fd9649889482d6c776f6703c5ab9f044e4f9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42731,7 +69622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5383afd8c03a9d6923f60c80638e63b31a745801&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5383afd8c03a9d6923f60c80638e63b31a745801&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42768,7 +69662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bacb57fe5ebd3cee281f1fabbcf22a82cd628768&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bacb57fe5ebd3cee281f1fabbcf22a82cd628768&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42805,7 +69702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0d262ddd91c3250a434ab1fb7f715364b10084bd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0d262ddd91c3250a434ab1fb7f715364b10084bd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42842,7 +69742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6b29c98084acef9923f91ffe48c28692b8f73a50&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6b29c98084acef9923f91ffe48c28692b8f73a50&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42879,7 +69782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0ab11e00489df03f6b96b2e7773376b3b977b1eb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0ab11e00489df03f6b96b2e7773376b3b977b1eb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42916,7 +69822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:95e3794c70ad3f620b0d2446637076244503be18&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:95e3794c70ad3f620b0d2446637076244503be18&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42953,7 +69862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fdc41f03f8cd8f596117f87e02728a81d9a725f1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fdc41f03f8cd8f596117f87e02728a81d9a725f1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -42990,7 +69902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1c4d01f204ccd0bdd6640bd28239ba446c9857a5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1c4d01f204ccd0bdd6640bd28239ba446c9857a5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43027,7 +69942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:315e1c8a4ab734ecddb91d21f58de1691d46a98c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:315e1c8a4ab734ecddb91d21f58de1691d46a98c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43064,7 +69982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:acbd81d867bb672b6f2c7e2b86718c1c654ec66f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:acbd81d867bb672b6f2c7e2b86718c1c654ec66f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43101,7 +70022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dcbf8283392c7dce6234b450bd3502b0ec44f98c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dcbf8283392c7dce6234b450bd3502b0ec44f98c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43138,7 +70062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3622f9d8fe557e82eab7896c7623477bfc3245aa&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3622f9d8fe557e82eab7896c7623477bfc3245aa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43175,7 +70102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3096b463e613398288009ca8307fe8d36fb7768b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3096b463e613398288009ca8307fe8d36fb7768b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43212,7 +70142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1ddaba64ea7999ccf85a4cc416d7114c6affd447&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1ddaba64ea7999ccf85a4cc416d7114c6affd447&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43249,7 +70182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:16206eab0733d6900a530c764c7acd1c536e759b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:16206eab0733d6900a530c764c7acd1c536e759b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43286,7 +70222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f1da8cba80af6d945e55707a22b59cab8cc11e37&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f1da8cba80af6d945e55707a22b59cab8cc11e37&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43323,7 +70262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3918c2b45de166cc153c19a2ec55b8fc1d41baee&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3918c2b45de166cc153c19a2ec55b8fc1d41baee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43360,7 +70302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a923537850a38eddaed7e056ab95ed5a1e234537&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a923537850a38eddaed7e056ab95ed5a1e234537&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43397,7 +70342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bd764a878d10a71cead3aa8565585cfebeb84483&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bd764a878d10a71cead3aa8565585cfebeb84483&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43434,7 +70382,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8d1c20b44c0126a7afafbf5d2623aeacf8602d05&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8d1c20b44c0126a7afafbf5d2623aeacf8602d05&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43471,7 +70422,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d6c64a9abdd8ebf3e900e4522faaa4732566c7bf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d6c64a9abdd8ebf3e900e4522faaa4732566c7bf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43508,7 +70462,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:188efae70f67bfe5a9bce9d362744ef5ebf22bed&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:188efae70f67bfe5a9bce9d362744ef5ebf22bed&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43545,7 +70502,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6ad2c51a1847f9fba9a11199da9b19d0335aa2ce&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6ad2c51a1847f9fba9a11199da9b19d0335aa2ce&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43582,7 +70542,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a5c60843d8a39935753fb783910a581977b7cc9c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a5c60843d8a39935753fb783910a581977b7cc9c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43619,7 +70582,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9a8a7f9859eefc3fafa470cc0f30e326e71563ad&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9a8a7f9859eefc3fafa470cc0f30e326e71563ad&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43656,7 +70622,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0a825eb7406e8fb05129eabb18a5f34e910a39af&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0a825eb7406e8fb05129eabb18a5f34e910a39af&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43693,7 +70662,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f84e01a8b56d13bd1dd5cdab575ba518997394fe&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f84e01a8b56d13bd1dd5cdab575ba518997394fe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43730,7 +70702,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ad0e4ba567c3187779923085633dbfac196fae50&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ad0e4ba567c3187779923085633dbfac196fae50&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43767,7 +70742,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2296b79620c3f4e3c6bc92831411a1ea117656f2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2296b79620c3f4e3c6bc92831411a1ea117656f2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43804,7 +70782,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:86aff4e77eb15942b4df1298799d6a0218b3256b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:86aff4e77eb15942b4df1298799d6a0218b3256b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43841,7 +70822,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4bb3fa3c55127a7be9581722397e95e0f2256ce5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4bb3fa3c55127a7be9581722397e95e0f2256ce5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43878,7 +70862,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c126837d4a6e95c5a8a7e905dbe1d37a04f6a017&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c126837d4a6e95c5a8a7e905dbe1d37a04f6a017&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43915,7 +70902,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6865685e5deaa579821e8477c7d73b802dd400f6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6865685e5deaa579821e8477c7d73b802dd400f6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43952,7 +70942,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:59d1c5b546084dae4bb3194708854bf6a6776c5b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:59d1c5b546084dae4bb3194708854bf6a6776c5b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -43989,7 +70982,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0519cf11de2a3c16cf0600977ba823e2e0f0c1a1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0519cf11de2a3c16cf0600977ba823e2e0f0c1a1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44026,7 +71022,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:236a62f721f951eaa34a04db07163d68c4a9ad5c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:236a62f721f951eaa34a04db07163d68c4a9ad5c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44063,7 +71062,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b7c3739c8c6fd5782c2d951b9056672745919480&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b7c3739c8c6fd5782c2d951b9056672745919480&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44100,7 +71102,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8323bdc2610739f1fcc0ba5c6d245ea452ba67d4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8323bdc2610739f1fcc0ba5c6d245ea452ba67d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44137,7 +71142,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d23e60d188ec5f16b000a0600355a68bbd6c8318&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d23e60d188ec5f16b000a0600355a68bbd6c8318&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44174,7 +71182,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d19a87513873f93a61a21e05bd144fa6784898b0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d19a87513873f93a61a21e05bd144fa6784898b0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44211,7 +71222,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8e6a84028145f71a35e91ad88cf5dddcf150e9cd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8e6a84028145f71a35e91ad88cf5dddcf150e9cd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44248,7 +71262,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:518d464647201dfafa90b53581f58df7b30c7f78&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:518d464647201dfafa90b53581f58df7b30c7f78&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44285,7 +71302,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b3d663a4f66a3b0bcb5e5b8f67ab9190be60966a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b3d663a4f66a3b0bcb5e5b8f67ab9190be60966a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44322,44 +71342,10 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "magnet:?xt=urn:btih:72472450096c0e840fcfa7936411e02e56e3ea37&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
+"magnetLink": "magnet:?xt=urn:btih:72472450096c0e840fcfa7936411e02e56e3ea37&tr=http://open.acgtracker.com:1096/announce",
 
 
-"name": "\r\n        [咖啡發佈][飆速宅男/弱虫ペダル/Yowamushi Pedal] 01-13 [基於BDRIP外掛字幕文件][繁體]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-97aa23e403e43c8cef304c88495e6a16af07761c.html",
-
-
-"isNew": false,
-
-
-"publishTime": "1970-01-01T00:00:00.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
+"dup": false
 
 },
 
@@ -44396,7 +71382,6795 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": ""
+"magnetLink": "",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\r\n        [咖啡發佈][飆速宅男/弱虫ペダル/Yowamushi Pedal] 01-13 [基於BDRIP外掛字幕文件][繁體]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-97aa23e403e43c8cef304c88495e6a16af07761c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 请问您今天要来点兔子吗？剧场版  Gochuumon wa Usagi Desuka Dear My Sister (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0269271f2f8996b063c7ed7382c60ac27689d976.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-31T10:10:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0269271f2f8996b063c7ed7382c60ac27689d976&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 关于我女友是个一本正经的处女碧池这件事 Boku no Kanojo ga Majime Sugiru Shobitch na Ken (2018) - OVA (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3f81beebb9ba2dccfff7fea82257117222116aa6.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-30T14:04:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3f81beebb9ba2dccfff7fea82257117222116aa6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 骑士&魔法 Knight`s & Magic 1-13 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cd5393fd6afef00e2d67781655f43c062fdcdcce.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-30T13:49:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cd5393fd6afef00e2d67781655f43c062fdcdcce&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 91天 91 Days (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-66b570ae97a57b9e06999364042eaa5ea46027df.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-30T13:47:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:66b570ae97a57b9e06999364042eaa5ea46027df&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】 Fate／Apocrypha (BD 1280x720) (1-25)另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3d71abfed894621ca4f8b021f83b8e49e80391a1.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2018-05-30T01:12:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3d71abfed894621ca4f8b021f83b8e49e80391a1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 雏逻辑 来自幸运逻辑 Hina Logi From Luck & Logic 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ce101a3203da1075b113a75f9d2a9549b05ad8bf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-28T18:16:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ce101a3203da1075b113a75f9d2a9549b05ad8bf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 幸运逻辑 Luck and Logic 1-12 (BD 1280x720 x264 AAC)内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9a692e339f8f06c1c6cbc3bbbb57e89030aad5e7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-28T18:09:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9a692e339f8f06c1c6cbc3bbbb57e89030aad5e7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 巴哈姆特之怒 第二季 Shingeki no Bahamut Virgin Soul 1-24 (BD 1280x720 x264 AAC).内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d66cbb2d4b8a914d9f3485ef7189d65632416c09.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-28T02:26:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d66cbb2d4b8a914d9f3485ef7189d65632416c09&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        玛雅蜜蜂历险记2：蜜糖游戏.Maya.The.Bee：The.Honey.Games.2018.中英字幕.BD-720.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4addd9f7a250842897675784ecb4bd7ff706eb25.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-27T19:36:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4addd9f7a250842897675784ecb4bd7ff706eb25&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 锁链战记 赫克瑟塔斯之光 Chain Chronicle Haecceitas no Hikari 1-12 (BD 1280x720 x264 AAC)内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-488a76b92aea47bbed91a9332a7aab0b3acc9c2d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-27T18:02:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:488a76b92aea47bbed91a9332a7aab0b3acc9c2d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] New Game!! (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f977cf7f7971c925d2ec3c12b109b5c4d3765dba.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-27T14:05:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f977cf7f7971c925d2ec3c12b109b5c4d3765dba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        达芙妮与维尔玛.Daphne.and.Velma.2018.中英字幕.BD-720.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0511689f321e7d3a974fccd0bdec90aa85f5ee03.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-27T05:14:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0511689f321e7d3a974fccd0bdec90aa85f5ee03&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 泥鲸之子们在沙地上歌唱/鲸鱼的孩子们在沙海上歌唱 Kujira no Kora wa Sajou ni Utau 1-12+OVA1~2 (BD 1280x720 x264 AAC) 简繁外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-094c3e3cbab0c94e4ae20466721d469da870c96c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-26T10:22:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:094c3e3cbab0c94e4ae20466721d469da870c96c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 此花亭奇谭 Konohana Kitan 1-12 (BD 1280x720 x264 AAC) 内附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cd75ce3cd21addafca7b004d7ea6ef4141c1c17e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-25T17:27:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cd75ce3cd21addafca7b004d7ea6ef4141c1c17e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 我的英雄学院 第二季 Boku no Hero Academia S2 1-25 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-413fff3ebd0415f2b016e9b620f5bc6a350797c6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-25T17:13:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:413fff3ebd0415f2b016e9b620f5bc6a350797c6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】战姬绝唱Symphogear AXZ Senki Zesshou Symphogear AXZ (BD 1280x720)(1-13) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bef192cdb4f038f00d2a3eeb1ad442bdcb6824ba.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-25T00:30:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bef192cdb4f038f00d2a3eeb1ad442bdcb6824ba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 战斗女子学园 Battle Girl High School 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e0822a8f334c3f1259a256636f2158cd33e881bb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-22T17:32:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e0822a8f334c3f1259a256636f2158cd33e881bb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】亚尔斯兰战记 风尘乱舞 Arslan Senki Fuujin Ranbu(BD 1280x720)(1-8) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ed14e3d4ca9b8bae4b8d63fe3288436cb54f9089.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-22T01:08:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ed14e3d4ca9b8bae4b8d63fe3288436cb54f9089&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】★ [Fate/stay night Heaven's Feel I.presage flower][BDrip][720P][GB][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a4b281e7f03c5206f73d8b5a94e2f7eef4fdf89a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-20T15:47:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a4b281e7f03c5206f73d8b5a94e2f7eef4fdf89a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】★ [Fate/stay night Heaven's Feel I.presage flower][BDrip][720P][BIG5][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3948a922f57525c65b818a18b968a012057999ec.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-20T15:45:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3948a922f57525c65b818a18b968a012057999ec&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 众神的恶作剧 Kamigami no Asobi 01-12 (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-51434434791e79a05504645f79a55c47db1af232.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-19T12:57:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:51434434791e79a05504645f79a55c47db1af232&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】[路人女主的养成方法][第1期+第2期][00-12+00-11][BDRip][AVC_AAC][720P][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cd48511d9de718cbef470716465213979d8eddec.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-18T03:48:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cd48511d9de718cbef470716465213979d8eddec&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[路人女主的養成方法][第1期+第2期][00-12+00-11][BDRip][AVC_AAC][720P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6645754dbce17d1d5b1c5e7a3737495d0db3b947.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-18T03:45:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6645754dbce17d1d5b1c5e7a3737495d0db3b947&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】亚尔斯兰战记 The Heroic Legend of Arslan(BD 1280x720)(1-25) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-286690ada306ad908e5b204ebefbb98694687bb2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-18T00:16:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:286690ada306ad908e5b204ebefbb98694687bb2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】★剧场版[游戏人生 No Game No Life Zero][BDRIP][1280x720][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6229e1c909dd928b5c1f07867114f05a9149a081.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T13:37:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6229e1c909dd928b5c1f07867114f05a9149a081&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★劇場版[遊戲人生 No Game No Life Zero][BDRIP][1280x720][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e15c5eb012fd09bc2fa5f8bdbcef743c728548b2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T13:36:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e15c5eb012fd09bc2fa5f8bdbcef743c728548b2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [风车字幕组][数码宝贝大冒险Tri.][第六章最终章 我们的未来][2018.05.05][简繁内封4字幕][常用童年版译名&日语直译][BDRip][720P_10bit_WAV][MKV][内附7个无字幕特典映像][见内附说明]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c71eee587a7adc516292fc8edfb9a87adbc2965e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-17T07:09:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c71eee587a7adc516292fc8edfb9a87adbc2965e&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 小林家的龙女仆 Kobayashi-san Chi no Maid Dragon 01-14+SP (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f86c23e0f7b916c575222008592027798f9ea9eb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T12:57:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f86c23e0f7b916c575222008592027798f9ea9eb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Kirion] 境界触发者 World Trigger 1-73 (BD 1280x720 x264 QAAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-361eb15ab1f7a8e4602ea2036d293ed39e0c1555.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T12:24:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:361eb15ab1f7a8e4602ea2036d293ed39e0c1555&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 初音岛 D.C.II ~Da Capo II~ (BDRip 1280x720 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0f56431b632a129fdac1b3285eedeb92240497c8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-16T05:29:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0f56431b632a129fdac1b3285eedeb92240497c8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】剧场版 魔法科高中的劣等生 呼唤流星的少女The irregular at magic high school Movie the girl who calls the stars (BD 1280x720)另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-04258eea2fffbeda51e2a04b628b71f2dfbd884a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-15T01:00:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:04258eea2fffbeda51e2a04b628b71f2dfbd884a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 粗点心战争 第二季  Dagashi Kashi2 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b6a7fc3e3338554248b530b8a223139ba6a14198.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-14T00:21:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b6a7fc3e3338554248b530b8a223139ba6a14198&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 酒鬼妹子/宅饮 Takunomi 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3646c260d9c8cb5dc4b7d9f5806d12b4425c9a61.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-14T00:19:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3646c260d9c8cb5dc4b7d9f5806d12b4425c9a61&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [諸神&豌豆&風之聖殿][劇場版][命運停駐之夜 天之杯 I -預示之花-][Fate/stay night Heaven's Feel I.presage flower][繁日雙語字幕][BDRip][720P][MP4][v2]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9b193ff7e341c66ca0cb093b7b730aaa6d317d82.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T22:43:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9b193ff7e341c66ca0cb093b7b730aaa6d317d82&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [诸神&豌豆&风之圣殿][剧场版][命运停驻之夜 天之杯 I -预示之花-][Fate/stay night Heaven's Feel I.presage flower][简日双语字幕][BDRip][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-12c83f1ce33a4449aa5d1b24f590a881abccc957.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T22:43:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:12c83f1ce33a4449aa5d1b24f590a881abccc957&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [諸神&豌豆&風之聖殿][劇場版][命運停駐之夜 天之杯 I -預示之花-][Fate/stay night Heaven's Feel I.presage flower][繁日雙語字幕][BDRip][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3192b06aef7dc75604e22957dc7f052275109f7c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-13T08:29:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3192b06aef7dc75604e22957dc7f052275109f7c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 魔力充电娘 Fight Ippatsu! Juuden-chan!! - SP (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cbf597bef695eba68e6fbd5ffda2a329803fa201.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T23:21:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cbf597bef695eba68e6fbd5ffda2a329803fa201&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 魔力充电娘 Fight Ippatsu! Juuden-chan!! 1-12 (BD 1280x720 x264 AAC)（乳） 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dc8f2f41f2c651c72a7a33ad8a43323525146369.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T23:19:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dc8f2f41f2c651c72a7a33ad8a43323525146369&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        魔力充电娘BD 01～12+OVA 1280X720 X264 10BIT AAC MKV",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b25745a5574fbc0ca403a4bdd3d39ef0b1cb7b1f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T21:58:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b25745a5574fbc0ca403a4bdd3d39ef0b1cb7b1f&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 欢迎来到实力至上主义的教室 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 1-12 (BD 1280x720 x264 AAC)内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-301da08c1bac763961304a5ab108d957550af7c9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T16:20:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:301da08c1bac763961304a5ab108d957550af7c9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 吸血鬼仆人 SERVAMP 01-12+SP (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a5496a4363f55202c9679054cb661bc6d59a04da.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-12T14:01:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a5496a4363f55202c9679054cb661bc6d59a04da&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 带着智能手机闯荡异世界 Isekai wa Smartphone to Tomo ni. 1-12 (BD 1280x720 x264 AAC)内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c19dcf5a74a6d26b392746c488f43b016fe21ad6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-11T15:28:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c19dcf5a74a6d26b392746c488f43b016fe21ad6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] Gekijouban Fate Stay Night Heaven`s Feel - 01 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-571c492ecef47dd92ee227c4636a969fbd7a33bf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-10T18:04:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:571c492ecef47dd92ee227c4636a969fbd7a33bf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】混沌武士 Samurai Champloo (BD 1280x720)(1-26) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d0ebbad04b505499e9ff2d6962dbd24d0433ffbc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-10T00:27:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d0ebbad04b505499e9ff2d6962dbd24d0433ffbc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 天地无用! 魉皇鬼 第4期 Tenchi Muyou! Ryououki Dai Yon-ki 01-04 (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1e7069b8ee3639077fd78b6b43fe1dd644b6e89d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-09T13:07:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1e7069b8ee3639077fd78b6b43fe1dd644b6e89d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2017] 劇場版「Fate／stay night [Heaven's Feel]」 I. presage flower (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e6a15777557add8719cc9d282291951b7f1b5dad.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-09T11:54:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e6a15777557add8719cc9d282291951b7f1b5dad&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 尻女/竞女 Keijo!!!!!!!! 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b1c41ddcfc2e2939ca83efc4f5a3fca9b575817b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-09T04:09:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b1c41ddcfc2e2939ca83efc4f5a3fca9b575817b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [VCB-Studio] Fate/stay night Heaven's Feel I.presage flower 8-bit 720p HEVC BDRip [Early Release]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-65ed60acc70e38983e564183311c9b0f47996313.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-08T19:37:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:65ed60acc70e38983e564183311c9b0f47996313&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 天使的3P Tenshi no 3P! 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e45c26b1d4022a29ce8729d05234e158ef7b2b07.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-08T17:03:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e45c26b1d4022a29ce8729d05234e158ef7b2b07&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 从零开始的魔法书 Zero kara Hajimeru Mahou no Sho 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-974adb093b87aa487861d5eadf8ecf82e6a8cf14.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-08T13:13:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:974adb093b87aa487861d5eadf8ecf82e6a8cf14&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 喵喵喵？/悠悠式 Yuyushiki 1-12  [BD 1280x720 x264 AAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9302794c64480fe0add2185e1c81c49a135df54c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-08T10:45:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9302794c64480fe0add2185e1c81c49a135df54c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 锁链战记 赫克瑟塔斯之光 01-12+MOVIE 01-03 Chain Chronicle Haecceitas no Hikari (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c4613b7c162a7b55f23a4fddaad6595df6a5ec14.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-07T13:15:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c4613b7c162a7b55f23a4fddaad6595df6a5ec14&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】来自深渊 Made in Abyss(BD 1280x720)(1-13) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1e789aeb4cffcf2fb563a73d8fb571830b042182.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-07T04:26:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1e789aeb4cffcf2fb563a73d8fb571830b042182&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] M3~ 黑钢 M3 Sono Kuroki Hagane 1-24 (BD 1280x720 x264 AAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2b1c878e88e4b80dea0ca2b6bc707ce45bf36411.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-06T01:00:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2b1c878e88e4b80dea0ca2b6bc707ce45bf36411&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 文豪基犬/文豪野犬 Bungou Stray Dogs S1+S2+OAD (BD 1280x720 x264 AAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ef7884f06d6f42907b08fd032204e834ff6cfed2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-06T00:41:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ef7884f06d6f42907b08fd032204e834ff6cfed2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 文豪基犬/文豪野犬 Bungou Stray Dogs S1+S2+OAD (BD 1280x720 x264 AAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6a837ed5c3bd8a801d6cebab162b3e5f4f955085.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-06T00:40:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6a837ed5c3bd8a801d6cebab162b3e5f4f955085&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 青春x机关枪 Aoharu x Kikanjuu 01-13 (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-052ac3f4f0ae8ec34adc92304d2fda1331166012.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-05T11:19:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:052ac3f4f0ae8ec34adc92304d2fda1331166012&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 电波教师 Denpa Kyoushi 1-24 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e170763e26629dd519d829738038e79b49eed3ac.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-05T10:45:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e170763e26629dd519d829738038e79b49eed3ac&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 吔蕉少女小缠/神装少女小缠 Soushin Shoujo Matoi 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f1c675f6010c0cb83dc97b359b73200b7d914606.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-04T15:55:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f1c675f6010c0cb83dc97b359b73200b7d914606&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 灵能百分百 Mob Psycho 100 1-12 (BD 1280x720 x264 AAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1216e5b4615555a4d3622deb3ead181cc1f47dad.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-03T16:43:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1216e5b4615555a4d3622deb3ead181cc1f47dad&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        黑豹.Black.Panther.2018.BD720P&BD1080P.X264.AAC.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5a1ba795adf454c169b42b6401f3fb858d1d8acc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-03T16:36:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5a1ba795adf454c169b42b6401f3fb858d1d8acc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        黑豹.720p.BD中英双字",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a9528de4668fe0e2950ebf8ac99025f680e8f2b7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-03T16:28:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a9528de4668fe0e2950ebf8ac99025f680e8f2b7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【OVA】【傳頌之物-致逝者的搖籃曲- 圖斯庫爾皇女的華麗日常】【BDrip】【BIG5_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b0030eb7dae3b32e5f1e48d28169dc9ef1dd7cc3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-02T23:57:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b0030eb7dae3b32e5f1e48d28169dc9ef1dd7cc3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【OVA】【传颂之物-致逝者的摇篮曲- 图斯库尔皇女的华丽日常】【BDrip】【GB_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8626a216b526a560217fbfba068ae2c8d8916988.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-02T23:57:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8626a216b526a560217fbfba068ae2c8d8916988&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 齐木楠雄的灾难 Saiki Kusuo no Sainan 01-24 (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-91d9660d5ff513e891abfff675bf7fcc8681bc26.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-02T12:15:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:91d9660d5ff513e891abfff675bf7fcc8681bc26&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        钢之炼金术师真人版.Fullmetal.Alchemist.2017.BD720P&BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-98cef3a9b17092399cb2b082b364cc93c7fe9151.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-02T03:12:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:98cef3a9b17092399cb2b082b364cc93c7fe9151&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [诸神字幕组][虐杀器官][Genocidal Organ/Gyakusatsu Kikan][简日双语字幕][BDRip][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9c903268a36648d9a56837b69fb99be24b754fbe.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-02T03:05:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9c903268a36648d9a56837b69fb99be24b754fbe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [DDD] 京泳！特别版：起跳台上 Free!-Take Your Marks- [BDrip 720p HEVC AAC][10bits]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-76397048d6a8d65cfcb87e10ec4ebd3c7ccc9d5c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-05-01T03:24:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:76397048d6a8d65cfcb87e10ec4ebd3c7ccc9d5c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 我们的仙境/心动的日子 Mahoraba Heartful Days 1-26 (BD 960x720 x264 AAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-170e812007db621c8a8649488c68bf22610807dc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T18:20:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:170e812007db621c8a8649488c68bf22610807dc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 男子啦啦队!! Cheer Danshi!! 01-13+OVA (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-12faf4327813809420b4c5f76ce2fe4104335df7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T12:33:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:12faf4327813809420b4c5f76ce2fe4104335df7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [AikatsuFans][偶像活动Stars!/Aikatsu Stars!/アイカツスターズ!][1-88+Movie][BDRIP][简体内嵌][720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0a64fe15c92bab6bbd64da20f99de50b1a94c05a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-30T05:52:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0a64fe15c92bab6bbd64da20f99de50b1a94c05a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 动画同好会 Anime-Gataris 1-12 (BD 1280x720 x264 AAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c1665dc917fb8d9659162adb57902ff86f7e72cc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T15:01:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c1665dc917fb8d9659162adb57902ff86f7e72cc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 剑姬神圣谭 Sword Oratoria 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9ffffe653c022cb3144d879187f9c8d397c80b4c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T14:13:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9ffffe653c022cb3144d879187f9c8d397c80b4c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 禁忌咒纹 Taboo Tattoo 1-12 (BD 1280x720 x264 AAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-eabb2c4a20373fdc6386a8c38fb421be66d47886.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-29T10:19:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:eabb2c4a20373fdc6386a8c38fb421be66d47886&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【TV未放送】【七美德 Nanatsu no Bitoku】【11~12+NCED】【BDrip】【BIG5_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a12f62fb6cd4e84649f4dd6e0884ebc256b9e0a0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-28T19:43:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a12f62fb6cd4e84649f4dd6e0884ebc256b9e0a0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【TV未放送】【七美德 Nanatsu no Bitoku】【11~12+NCED】【BDrip】【GB_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-afbcffd6472f28826edf3909b11c69587a79940f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-28T19:42:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:afbcffd6472f28826edf3909b11c69587a79940f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 境界之轮回 Rin-Ne 01-50 (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7a8a47415575dd41e738d6d1408e4887f30bda6e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-28T12:18:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7a8a47415575dd41e738d6d1408e4887f30bda6e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NEO·QSW]CODE GEASS 反叛的鲁鲁修 剧场版Ⅰ兴道 コードギアス 反逆のルルーシュ I 興道[BDrip AVC 720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d521566725f95cbe1611968e88bb1ec5c9abe94a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-28T04:34:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d521566725f95cbe1611968e88bb1ec5c9abe94a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】圣剑使的禁咒咏唱 Seiken Tsukai no World Break(BD 1280x720)(1-12) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0570f3a405d3a0cc3ee68cf288db77c1cfd37cbd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-28T00:49:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0570f3a405d3a0cc3ee68cf288db77c1cfd37cbd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 蓝兰岛漂流记 Nagasarete Airantou 1-26 (BDRip 1280x720 x264 FLAC) 内附简繁外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b33adcdb2291d05f17174d73ec220671817c44ae.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-27T13:43:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b33adcdb2291d05f17174d73ec220671817c44ae&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 电玩咖！Gamers! 1-12 (BD 1280x720 x264 AAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4cf5c9ba69c2d98859825571eead5d3ff0053925.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-27T12:57:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4cf5c9ba69c2d98859825571eead5d3ff0053925&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        心灵想要大声呼喊.The.Anthem.of.the.Heart.2017.BD720P&BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-29df2bd1d994c759df5af1c47313134f3d066e57.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-27T05:54:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:29df2bd1d994c759df5af1c47313134f3d066e57&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [DDD] 人造人009 正义的呼唤 CYBORG 009 CALL OF JUSTICE [BDrip 720p HEVC AAC][10bits]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a23f2683a8178eb1232dd771a3ce4e3e8cb45c67.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-26T15:50:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a23f2683a8178eb1232dd771a3ce4e3e8cb45c67&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 禁忌咒纹 Taboo Tattoo 01-12 (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f7b783d254f1e86dc26bb67f3c7d341060422c2d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-26T13:04:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f7b783d254f1e86dc26bb67f3c7d341060422c2d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [AikatsuFans][偶像活动Stars!/Aikatsu Stars!/アイカツスターズ!][1-88+Movie][BDRIP][简体内嵌][720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f6598874b7f78988968a15bb43e88e83155d95db.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-26T13:01:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f6598874b7f78988968a15bb43e88e83155d95db&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [AikatsuFans][偶像活动Stars!/Aikatsu Stars!/アイカツスターズ!][1-88+Movie][BDRIP][简体内嵌][720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ea9a176e0643de32832045733d0c879dfca2df6c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-26T06:58:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ea9a176e0643de32832045733d0c879dfca2df6c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】最弱无败神装机龙 Saijaku Muhai no Bahamut (BD 1280x720)(1-12) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0ea70dd271a081e62e0bb0e08affb1348d13e091.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-25T03:47:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0ea70dd271a081e62e0bb0e08affb1348d13e091&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 我的妹妹是工口漫画老师 Eromanga Sensei 01-12 (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-26b93daadf1e134f9de5cc4fa480483c58089d26.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-24T12:58:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:26b93daadf1e134f9de5cc4fa480483c58089d26&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 风夏 Fuuka 01-12 (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4097c06183413145fa59d63a9d8bd125da0f3803.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-22T11:47:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4097c06183413145fa59d63a9d8bd125da0f3803&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Kirion] 亚人酱有话要说 Demi-chan wa Kataritai - 1-13 (BD 1280x720 x264 AAC) 内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2335833c88ae513013c956b34675450376dff983.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-22T03:56:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2335833c88ae513013c956b34675450376dff983&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】第一次的辣妹/第一次的GAL/Hajimete no Gal(BD 1280x720)(1-10+11OAD) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-19d2ba1d7156d9ce555cc603f46fbe44ea861852.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-20T02:18:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:19d2ba1d7156d9ce555cc603f46fbe44ea861852&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2017] 劇場版 煙花 Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka? (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-14e2186bc9ea1b8b136c230dfc817a3301579387.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-19T10:29:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:14e2186bc9ea1b8b136c230dfc817a3301579387&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】如果有妹妹就好了。Imouto sae Ireba Ii.(BD 1280x720)(1-12) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2752d421a84ecd12b53e0aac117e912930f1e900.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-19T02:18:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2752d421a84ecd12b53e0aac117e912930f1e900&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [諸神字幕組][劇場版 瑪麗與魔女之花][720P][BDRip][繁日雙語字幕][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-61296c844062e712b7676343c0a2c2ea44d2cee9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-18T14:39:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:61296c844062e712b7676343c0a2c2ea44d2cee9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [诸神字幕组][剧场版 玛丽与魔女之花][720P][BDRip][简日双语字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4cc0ac2f7de7e42f537430ae23f4f0acd88a4b99.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-18T14:39:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4cc0ac2f7de7e42f537430ae23f4f0acd88a4b99&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [LowPower-Raws] 动物好友 KEMONO FRIENDS 01-12 (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a8f334e1fd926a62c139561361ca219d701f93d5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-18T13:51:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a8f334e1fd926a62c139561361ca219d701f93d5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[煙花/煙花、應該和誰看/升空的焰火，從下面看？還是從側面看？/打ち上げ花火、下から見るか?横から見るか?/Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?][劇場版][BDRip][BIG5][720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b992bf426c7d92e008abe1b3cf1affced0f4feff.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-17T19:01:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b992bf426c7d92e008abe1b3cf1affced0f4feff&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[烟花/烟花、应该和谁看/升空的焰火，从下面看？还是从侧面看？/打ち上げ花火、下から見るか?横から見るか?/Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?][剧场版][BDRip][GB][720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-694ae67f03162c7b49549f9aa104407e3b2cae6b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-17T18:52:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:694ae67f03162c7b49549f9aa104407e3b2cae6b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Kirion] 青出于蓝 Ai yori Aoshi  第一期+第二期 (BD 960x720 x264 AAC)内附字幕包",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f50a64ded236559bbff46e984547e588ed7b4215.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-17T14:16:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f50a64ded236559bbff46e984547e588ed7b4215&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】黑街 Gangsta (BD 1280x720)(1-12) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-14b815a46fd4e706ad9d171e08f415a0778a0b16.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-16T05:23:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:14b815a46fd4e706ad9d171e08f415a0778a0b16&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【漫貓字幕組】[紫羅蘭永恆花園/京紫][Violet_Evergarden][01_03][BDRip][繁體][720P][AVC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2f8f319f07187c6d5c8c4ba785a54b218b5af107.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-15T18:51:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2f8f319f07187c6d5c8c4ba785a54b218b5af107&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【漫猫字幕组】[紫罗兰永恒花园/京紫][Violet_Evergarden][01_03][BDRip][简体][720P][AVC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b391974ed76d612778d5f7ecf860e90e48b58b06.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-15T18:51:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b391974ed76d612778d5f7ecf860e90e48b58b06&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        移动迷宫3：死亡解药 The.Maze.Runner.The.Death.Cure.2018.BD720P&BD1080P.X264.AAC.English&Mandarin.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-050049a981189950687d77acd4979431a30db9db.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-14T05:30:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:050049a981189950687d77acd4979431a30db9db&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】草莓100% Ichigo 100 %(BD 960x720)(1-12) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f04a51516f8b19041e7db965d45ab3af93e5e668.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-13T01:04:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f04a51516f8b19041e7db965d45ab3af93e5e668&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        JOJO的奇妙冒险：不灭钻石.第一章.真人版.JoJo's.Bizarre.Adventure.Diamond.Is.Unbreakable.Chapter.1.2017.BD720P&BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-497082ade5635ada569db1279c04d1606b298be7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-10T13:57:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:497082ade5635ada569db1279c04d1606b298be7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        亚人.真人版.Ajin.Demi.Human.2017.BD720P&BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-99c1085d85f731f45b1e1510bc485d2cefbcfb21.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-10T11:16:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:99c1085d85f731f45b1e1510bc485d2cefbcfb21&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        老师！我可以喜欢你吗？ My.Teacher.2017.BD720P&BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3481aa4364bbc6caccb6ee94e489037abce2682c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-08T11:29:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3481aa4364bbc6caccb6ee94e489037abce2682c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Kirion] 蓝兰岛漂流记 Nagasarete Airantou - 1-26 (BD 1280x720 x264 QAAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-969e42d5e8ff00e3583105459166d2eebf91239f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-08T08:22:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:969e42d5e8ff00e3583105459166d2eebf91239f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [TUcaptions][2016夏][Orange橙 / オレンジ / orenji][01~13][繁][BD-720P-x264-MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1e7dcb21590fbc6da258cd50a00af25c025fb108.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-08T07:50:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1e7dcb21590fbc6da258cd50a00af25c025fb108&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [DDD] ReLIFE 1-17 fin [BDrip HEVC AAC 720p][10bits]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-98b3ffeb8674827b3ad5072c8e69b853caf4745b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-06T15:24:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:98b3ffeb8674827b3ad5072c8e69b853caf4745b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NEO·QSW]剧场版 魔神Z/无限（INFINITY ）劇場版 マジンガーZ ／ INFINITY [先行试看版][BDrip AVC 720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2969bc5d5fca8ca27429b22e6a6b0debc4d9647b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-06T12:15:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2969bc5d5fca8ca27429b22e6a6b0debc4d9647b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        浪矢解忧杂货店.Miracles.of.the.Namiya.General.Store.2017.BD720P&BD1080P.X264.AAC.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8d1ad01dab6cf3b90a015e4a61cd99b10be0e0ff.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-06T10:02:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8d1ad01dab6cf3b90a015e4a61cd99b10be0e0ff&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [neko-raws] 发条精灵战记：天镜的极北之星Alderamin on the Sky [BD][720p][AAC]提供字幕包下载",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0d5008169935113feb0d284958dd40054234bfe2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-05T06:52:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0d5008169935113feb0d284958dd40054234bfe2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [亡念之扎姆德] [BD][BIG5][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fee250e73f554f7662845f751fa1abe4b5582909.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T08:04:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fee250e73f554f7662845f751fa1abe4b5582909&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【国英台粤四语】寻梦环游记.CoCo.2017.BD720P&1080P",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2b3d3fbdaa9df27857394626fbc782f5bd467aa8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T06:12:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2b3d3fbdaa9df27857394626fbc782f5bd467aa8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】妖精的尾巴 Zero FAIRY TAIL ZERO (BD 1280x720) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7813d4cfcb6618ed114f42353f005bfe31f33724.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-04T00:43:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7813d4cfcb6618ed114f42353f005bfe31f33724&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】重启咲良田Sagrada Reset(BD 1280x720) 另附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-366c3f23ac1ca076de42a37c4eb03bc55fb9a4a0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-03T01:44:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:366c3f23ac1ca076de42a37c4eb03bc55fb9a4a0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Cleo]犬夜叉剧场版.InuYasha Movies 1-4 (Dual Audio_10bit_BD720p_x265).mkv",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8684062745f7551cf5e5eac52bffb9d7c5654c7a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-03T01:15:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8684062745f7551cf5e5eac52bffb9d7c5654c7a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        玛丽与魔女之花.Mary.and.the.Witch's.Flower.2017.BD720P&BD1080P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-57017917b9f4e091454607a9c7a1f6160e0be4ca.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T12:56:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:57017917b9f4e091454607a9c7a1f6160e0be4ca&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR百合組】[搖曳露營△_Yuru Camp][00][BDRip][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f73027a281a93243feececd5044c3a4be37c7b8f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T06:53:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f73027a281a93243feececd5044c3a4be37c7b8f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【Xrip】[人马小姐的烦恼/人马小姐不迷茫][Centaur_no_Nayami][BDrip][NCED][720P][AV1_OPUS][试验项目]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d66fbe2ec01272bad9e5a6e69df1e5e3557581d2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-04-01T02:30:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d66fbe2ec01272bad9e5a6e69df1e5e3557581d2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★劇場版[秒速5厘米][BDRip][AVC_AAC][720P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7d88dca412897d11205675ccacd8479ce1d33c7e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-31T10:23:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7d88dca412897d11205675ccacd8479ce1d33c7e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】★剧场版[秒速5厘米][BDRip][AVC_AAC][720P][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bcf6e81ffe02570f90495e68903f5451857368a7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-31T10:23:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bcf6e81ffe02570f90495e68903f5451857368a7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】核爆默示录 Coppelion (BD 1280x720) 附外挂字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-be46fc38cc70a2bfa630350c181000caab7fdd58.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-29T06:10:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:be46fc38cc70a2bfa630350c181000caab7fdd58&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2017] 戀愛與謊言 戀愛禁止的世界 Koi to Uso - BD-BOX (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2de4faa58b14c9ba2a3608cd35aa5dde7810c3a6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-28T13:09:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2de4faa58b14c9ba2a3608cd35aa5dde7810c3a6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】钢之炼金术师2009 FULLMETAL ALCHEMIST [BDRIP][720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3ea062ed1b33004e8788a7b3175aab66d0c84f46.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-27T03:55:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3ea062ed1b33004e8788a7b3175aab66d0c84f46&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR百合組】[水星領航員 The AVVENIRE_Aria the Avvenire][OVA03][繁體][BDRip][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e4295a03d9f7b2eeeebcaabe8a533ccc3d2a11b4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-24T14:01:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e4295a03d9f7b2eeeebcaabe8a533ccc3d2a11b4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】東京地震8.0 Tokyo Magnitude 8.0 [BDRIP][720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-16e3577c80118ad875f08041c088ab604f724e6c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-23T05:18:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:16e3577c80118ad875f08041c088ab604f724e6c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【浩天个人发布】Princess Principal  [BDRIP][720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a604d0af31f34ef0eeef3b7738ac0f740b3ad25f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-22T07:09:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a604d0af31f34ef0eeef3b7738ac0f740b3ad25f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        水形物语.The.Shape.of.Water.2017.BD720P&BD1080P.X264.AAC.English.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e125d7aeaab8793f9626080d11a498d53b5c43ee.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-22T01:05:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e125d7aeaab8793f9626080d11a498d53b5c43ee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【喵萌茶会字幕組】★剧场版 游戏人生 ZERO [BDrip][720P][MP4][简体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5d6e86557e8806edb84c6316f205f69622dc3a8b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-16T15:21:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5d6e86557e8806edb84c6316f205f69622dc3a8b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【喵萌茶会字幕組】★剧场版 游戏人生 ZERO [BDrip][720P][MP4][繁体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-21e40d9c1930b73759232cd47588e05a7dcf553c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-16T15:20:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:21e40d9c1930b73759232cd47588e05a7dcf553c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        冰菓真人版 BD720P  简体",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d346cbfd84759cf165a4b88ec470728c0b3aecee.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-14T15:07:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d346cbfd84759cf165a4b88ec470728c0b3aecee&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        夜樱四重奏 花之歌、星之海、月之泣 [BDrip 720p][10bit]@loushao（龙之子、补番推荐）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5347164218e58c52f19bbc39d380d8cf62a6ac15.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-14T13:40:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5347164218e58c52f19bbc39d380d8cf62a6ac15&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【白戀動漫蘿蔔部】[2014年4月新番][地球隊長/地球艦長 Captain Earth][12][BDRIP][BIG5][720P][MP4]明天发1080P  急招分流",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d66d9e4cb38dd7e17c06d48c227e7c335247312a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-14T11:58:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d66d9e4cb38dd7e17c06d48c227e7c335247312a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        星球大战8:最后的绝地武士.720p.BD中文字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-36fc988ebd86a382d0b5722d66460c7205a71ec5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-11T13:39:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:36fc988ebd86a382d0b5722d66460c7205a71ec5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【白恋动漫萝卜部】[2014年4月新番][地球队长/地球舰长 Captain Earth][06-07][BDRIP][简繁修正][720P][MP4]之前种子的06 07请勿下载",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2441f881e6e3db8b4e8d7c2456daa6d538afd6f7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-10T12:26:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2441f881e6e3db8b4e8d7c2456daa6d538afd6f7&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [APTX4869][CONAN][名侦探柯南 MOVIE21 枫红的恋歌][BDRIP][720P][V2][简体MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-19791eba51de1a3610e4bb74431c9f54ffd02917.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-10T12:26:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:19791eba51de1a3610e4bb74431c9f54ffd02917&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Conan06] 明日之丈 劇場版 あしたのジョー Gekijouban Ashita no Joe 1+2 - MOVIE (BD 1280x720 AVC AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dbba663fff3cefedeab2f4fbcf3d5cf0d00a1be0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-10T07:19:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dbba663fff3cefedeab2f4fbcf3d5cf0d00a1be0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【风之圣殿字幕组】★剧场版[美妙旋律剧场版03][KING_OF_PRISM -PRIDE_the_HERO-][BDRip][简体][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5c6f781f7ae377bb7e56601f335be1881fca489c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T21:14:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5c6f781f7ae377bb7e56601f335be1881fca489c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【風之聖殿字幕組】★劇場版[美妙旋律劇場版03][KING_OF_PRISM -PRIDE_the_HERO-][BDRip][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d6590d8a7d748fc112502cbbed8db9f77dc83f35.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-09T21:14:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d6590d8a7d748fc112502cbbed8db9f77dc83f35&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 妖精的尾巴 Fairy Tail 266-277 (BDRip 1280x720 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-54686b544594afaf73b89da8e7501772f7f9fea3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-04T21:33:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:54686b544594afaf73b89da8e7501772f7f9fea3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        头文字D/頭文字D/Initial D HD Remaster 总集篇 [BDRip 1280x720 AVC-8bit AAC][内嵌字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-955d7bc92381880bf36b4ac42f18ae67e1ec3456.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-04T01:57:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:955d7bc92381880bf36b4ac42f18ae67e1ec3456&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【茉語星夢&風之聖殿字幕組】[Princess_Principal][BDRip][SP06][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-02c6618728d97271080038b445b82b5b72b29eaf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-03T17:32:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:02c6618728d97271080038b445b82b5b72b29eaf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【茉语星梦&风之圣殿字幕组】[Princess_Principal][BDRip][SP06][简体][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e2af78122b4962b56b24567c79568a431edefed7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-03-03T17:32:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e2af78122b4962b56b24567c79568a431edefed7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】★剧场版[魔法科高中的劣等生:呼唤繁星的少女][BDRip][AVC_AAC][720P][简体][MP4]&碎碎念",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-be378ab06204e819ea35a0a8a4b429f1bc41e9f6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-27T15:59:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:be378ab06204e819ea35a0a8a4b429f1bc41e9f6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★劇場版[魔法科高中的劣等生:呼喚繁星的少女][BDRip][AVC_AAC][720P][繁體][MP4]&碎碎唸",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-762b4faa68d143f78adea5857b0cabb9df10a25a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-27T15:58:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:762b4faa68d143f78adea5857b0cabb9df10a25a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2010-2011] 祝福的鐘聲 祝福之鐘 Shukufuku no Campanella (無修正) - TV+OVA (乳) (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-26582a7a3e690309e7c64e864cbd0a50db40fa50.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-27T13:29:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:26582a7a3e690309e7c64e864cbd0a50db40fa50&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR百合組】[前進吧！登山少女 回憶的禮物_Yama no susume Omoide Present][OVA][BDRip][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e97f55b74fb23865881cf48f1d61c9ff04755288.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-25T16:53:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e97f55b74fb23865881cf48f1d61c9ff04755288&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2015-2017] 伊藤計劃 Project Itoh (屍者的帝国+和諧+虐殺器官) (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4d56f9e1842e4af521da6dc2364b012a63788cb4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-25T12:57:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4d56f9e1842e4af521da6dc2364b012a63788cb4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2017] 劇場版 遊戲人生  No Game No Life Zero (BD 720p HEVC AAC).mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7985ffca72a7a0b565ce21f366cd5af78fe92652.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-23T14:57:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7985ffca72a7a0b565ce21f366cd5af78fe92652&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR動研字幕組】[魔道書7使者 劇場版-悠久圖書館與鍊金術少女-_TRINITY SEVEN The Movie Eternity Library & Alchemic Girl][BDRip][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cbf23fe2ade19ce7cd9bcb21bcdc19bec3b2487d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-22T11:13:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cbf23fe2ade19ce7cd9bcb21bcdc19bec3b2487d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR動研字幕組】[心之旋律_TARI TARI][OVA][BDRip][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4c6851f2e1ed3856e1e50a6bd53467943b7e985f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-21T12:45:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4c6851f2e1ed3856e1e50a6bd53467943b7e985f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [K&S][假面騎士EX-AID 秘技 - 假面騎士Snipe Episode Zero][BDRip][720P][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-77b24f68c8857a0e9bd64c1469c0deb07cc1d2c6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-20T15:45:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:77b24f68c8857a0e9bd64c1469c0deb07cc1d2c6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [DDD] 京泳！ Free! & Eternal Summer & High Speed -Starting days- [BDrip HEVC AAC 720p][10bits]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-80287fa89a12cedae01b7ad6fe9fad195e854bc6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-19T02:44:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:80287fa89a12cedae01b7ad6fe9fad195e854bc6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [DDD] ID-0 [BDrip HEVC AAC 720p][10bits]（谷口悟朗，村田莲尔）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-004e40d03ece28f048930171ca44835b49569fd5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-19T02:41:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:004e40d03ece28f048930171ca44835b49569fd5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2017] 劇場版 虐殺器官 Genocidal Organ Gyakusatsu Kikan The Movie (BD 720p HEVC AAC).mp4 [字幕內詳] 新年快樂",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-80f6a0fcb38e951eece8cd4361370f0f9c173ddf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-16T11:14:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:80f6a0fcb38e951eece8cd4361370f0f9c173ddf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2015] 劇場版 和諧 ハーモニー Harmony The Movie (BD 720p HEVC AAC).mp4 [字幕內詳] 新年快樂",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-396090dbdbd956fcd53e9db01ed0b7e047fd373b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-16T11:13:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:396090dbdbd956fcd53e9db01ed0b7e047fd373b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2015] 劇場版 屍者的帝國 -The Empire of Corpses- Shisha no Teikoku The Movie (BD 720p HEVC AAC).mp4 [字幕內詳] 新年快樂",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e8e7daa61111ffa688aab205dd382b1bec738dff.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-16T11:12:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e8e7daa61111ffa688aab205dd382b1bec738dff&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [NEO·QSW]机动战士高达 铁血的孤儿 第一季 機動戦士ガンダム 鉄血のオルフェンズ S1[Bdrip AVC 720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2a243ba7d993d188f10ed85373c28c61713599d5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-16T09:52:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2a243ba7d993d188f10ed85373c28c61713599d5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【OVA】【第一次的辣妹 Hajimete no Gal】【11】【BDrip】【BIG5_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-16e985f24eb5d7a574757b83d620302c067fa0d5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-13T15:27:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:16e985f24eb5d7a574757b83d620302c067fa0d5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【OVA】【第一次的辣妹 Hajimete no Gal】【11】【BDrip】【GB_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5da9d8c7887d87f8e1abe47269a23fc05350f5f9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-13T15:27:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5da9d8c7887d87f8e1abe47269a23fc05350f5f9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【DHR動研字幕組】[龍的牙醫_The Dragon Dentist][劇場版][BDrip][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cf8ea97a90898439697add71edc2104f56081095.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-12T15:36:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cf8ea97a90898439697add71edc2104f56081095&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [风车字幕组七周年献礼][名侦探柯南第21部剧场版][殷红的恋歌/唐红的恋歌][BDRip][简繁内封][MKV][720P_10bit_wav][详情见内附说明]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-be8bcb2240a20eb2a16c74517d90ce0ebfb0ffbe.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-10T09:10:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:be8bcb2240a20eb2a16c74517d90ce0ebfb0ffbe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        明日的我与昨日的你约会.Tomorrow.I.Will.Date.with.Yesterday's.You.2016.BD720P.X264.AAC.Japanese.CHS",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-19d1d04d7b4379d7902e0c278346389e4ec86290.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-09T07:45:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:19d1d04d7b4379d7902e0c278346389e4ec86290&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [斩服少女/双斩少女] [Kill la Kill][1-25][BDRIP][720P][X264-10bit_AAC]mp4内附字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4761e23f2a143cd2ceee0c325b9173d8adb1c6b9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-09T03:07:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4761e23f2a143cd2ceee0c325b9173d8adb1c6b9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [光の影字幕組][劇場版 媚空][BDRip][720p][x264_AAC][Hi10p][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-933ea106fb7647b74100fd82fac75d5acc9fc3fb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T12:19:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:933ea106fb7647b74100fd82fac75d5acc9fc3fb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [个人制作]机动战士高达 THE ORIGIN V 激突 鲁姆会战 720p bdrip[无水印]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ec8ca9aa9cf288757915feefde0a18f59f20a333.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T02:28:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ec8ca9aa9cf288757915feefde0a18f59f20a333&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        【豬豬日劇字幕組】2017 日本 電影 ★[忍者之國 / 忍之国   忍びの国   Mumon The Land of Stealth 2017]  [BDrip] [BIG5_繁體] 720p 藍光（個人做種）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-225538c7382470205d1aa558110890bb985f680d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-02-04T02:24:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:225538c7382470205d1aa558110890bb985f680d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44421,7 +78195,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8feffb2dd1c6448a092ff7bb2b82f4feb06a7060.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-02T10:34:59.000Z",
@@ -44433,7 +78207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8feffb2dd1c6448a092ff7bb2b82f4feb06a7060&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8feffb2dd1c6448a092ff7bb2b82f4feb06a7060&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44458,7 +78235,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-bdb997bef49832ed8d791ef0b0fb11c82a6f3566.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-02T01:43:35.000Z",
@@ -44470,7 +78247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bdb997bef49832ed8d791ef0b0fb11c82a6f3566&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bdb997bef49832ed8d791ef0b0fb11c82a6f3566&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44495,7 +78275,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6456fdd523a347f4111be0bc427a0e03bf17d009.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-01T09:13:53.000Z",
@@ -44507,7 +78287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6456fdd523a347f4111be0bc427a0e03bf17d009&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6456fdd523a347f4111be0bc427a0e03bf17d009&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44532,7 +78315,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3ab132e9f9ad94dc8e21ac109c2c17f18e7b2e98.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-02-01T09:13:48.000Z",
@@ -44544,7 +78327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3ab132e9f9ad94dc8e21ac109c2c17f18e7b2e98&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3ab132e9f9ad94dc8e21ac109c2c17f18e7b2e98&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44569,7 +78355,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-15fe228f8e6e4de1e1349b9c93d0702e3abb77a4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-29T23:05:09.000Z",
@@ -44581,44 +78367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:15fe228f8e6e4de1e1349b9c93d0702e3abb77a4&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
+"magnetLink": "magnet:?xt=urn:btih:15fe228f8e6e4de1e1349b9c93d0702e3abb77a4&tr=http://open.acgtracker.com:1096/announce",
 
 
-"name": "\n        [VCB-Studio] GO!GO!575 / ゴ～! ゴ～! ご～ しち ご～ 8-bit 720p HEVC BDRip [MP4 Ver]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-0cb592b52dd81186ba84f07ae2a14c98d70305dc.html",
-
-
-"isNew": true,
-
-
-"publishTime": "2018-01-28T01:21:20.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": "magnet:?xt=urn:btih:0cb592b52dd81186ba84f07ae2a14c98d70305dc&tr=http://open.acgtracker.com:1096/announce"
+"dup": false
 
 },
 
@@ -44643,7 +78395,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4536fd5f1fc858ca6b4e43828d885585009bdde8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-26T12:18:20.000Z",
@@ -44655,7 +78407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4536fd5f1fc858ca6b4e43828d885585009bdde8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4536fd5f1fc858ca6b4e43828d885585009bdde8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44680,7 +78435,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b48c74169bc35c56a53190366c234a54c426cc57.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-25T13:07:03.000Z",
@@ -44692,7 +78447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b48c74169bc35c56a53190366c234a54c426cc57&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b48c74169bc35c56a53190366c234a54c426cc57&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44717,7 +78475,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-da52db6fec09e5796b625e9ad0acdfc8401f2a37.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-22T15:49:30.000Z",
@@ -44729,7 +78487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:da52db6fec09e5796b625e9ad0acdfc8401f2a37&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:da52db6fec09e5796b625e9ad0acdfc8401f2a37&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44754,7 +78515,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d014334a7bb7262e143213049e400f8850dfd2c0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-22T14:01:48.000Z",
@@ -44766,7 +78527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d014334a7bb7262e143213049e400f8850dfd2c0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d014334a7bb7262e143213049e400f8850dfd2c0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44791,7 +78555,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-777c84c9d4a2e9c23218f5174ac8866fe6aba6ba.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2018-01-22T09:19:36.000Z",
@@ -44803,7 +78567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:777c84c9d4a2e9c23218f5174ac8866fe6aba6ba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:777c84c9d4a2e9c23218f5174ac8866fe6aba6ba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44840,7 +78607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:16fe3112c6745da618bec0267033f4fd1eb5a4f3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:16fe3112c6745da618bec0267033f4fd1eb5a4f3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44877,7 +78647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:012732ed8540ff666490ae49f59c90fe333ca681&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:012732ed8540ff666490ae49f59c90fe333ca681&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44914,7 +78687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:57e270252a0d626026e266c22bf6830ebe2f5299&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:57e270252a0d626026e266c22bf6830ebe2f5299&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44951,7 +78727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:51efeb646145ed0b5a95ddf38706d2af11a0e7df&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:51efeb646145ed0b5a95ddf38706d2af11a0e7df&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -44988,7 +78767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8ea43d98b04996251457bbeb1f8e5172149fa724&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8ea43d98b04996251457bbeb1f8e5172149fa724&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45025,7 +78807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b983a83a40b536ace15c495854b2bf630036c8e6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b983a83a40b536ace15c495854b2bf630036c8e6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45062,7 +78847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:56639a093ce7a03dbac05d04d45fa3b2c0958d69&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:56639a093ce7a03dbac05d04d45fa3b2c0958d69&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45099,7 +78887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6d6f54babbcb05d86a200fab1fc21b6d33507461&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6d6f54babbcb05d86a200fab1fc21b6d33507461&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45136,7 +78927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a759ccf885ecd59a04853c114c668576f80629d4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a759ccf885ecd59a04853c114c668576f80629d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45173,7 +78967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:eabb92eb1136b303702bcc436e9b888051479cd0&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:eabb92eb1136b303702bcc436e9b888051479cd0&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -45210,7 +79007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ed6c19c324fcac6df8145d703e072d4e9e7e62b6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ed6c19c324fcac6df8145d703e072d4e9e7e62b6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45247,7 +79047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:739f2223971331984e5eff0cfef8d1348b478ead&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:739f2223971331984e5eff0cfef8d1348b478ead&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -45284,7 +79087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5ad8b3d05bcc7ef1f9e5f826048b86a1a48d3d0e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5ad8b3d05bcc7ef1f9e5f826048b86a1a48d3d0e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45321,7 +79127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ba125c7beac3dfd798ca99c2412f72544d571424&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:ba125c7beac3dfd798ca99c2412f72544d571424&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -45358,7 +79167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c8ae5a58e9384e83f72513c0f674da0a1f0b45c9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c8ae5a58e9384e83f72513c0f674da0a1f0b45c9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45395,7 +79207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:89a339178e3827c7180c43801847032898420287&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:89a339178e3827c7180c43801847032898420287&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45432,7 +79247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bc7cd223b94221066c49ceb8b253a062ec022879&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bc7cd223b94221066c49ceb8b253a062ec022879&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45469,7 +79287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b8ccfc803f678c09ad77e41d4d59ad6bcb5e084a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b8ccfc803f678c09ad77e41d4d59ad6bcb5e084a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45506,7 +79327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:48530e8c5ec07a844516134bec35b472e5c4bc3c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:48530e8c5ec07a844516134bec35b472e5c4bc3c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45543,7 +79367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f20a1dfea5b08d1adf82c9f4446d4d3b081148d8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f20a1dfea5b08d1adf82c9f4446d4d3b081148d8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45580,7 +79407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d5ea6f592d7da1655d7077f4eda6743ed5f019fe&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d5ea6f592d7da1655d7077f4eda6743ed5f019fe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45617,7 +79447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4d531be9e2fe851c95c534635d634ca1e7920988&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4d531be9e2fe851c95c534635d634ca1e7920988&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45654,7 +79487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7fb9ab52592b826f04efdd78c446da9439d1919b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7fb9ab52592b826f04efdd78c446da9439d1919b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45691,7 +79527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f310b92dd81a545b6c5cd47d44dafd75029dbc16&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f310b92dd81a545b6c5cd47d44dafd75029dbc16&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45728,7 +79567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2f837736a693b160063a52f8d1fda4c95133aafd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2f837736a693b160063a52f8d1fda4c95133aafd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45765,7 +79607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5d7478f81bf291d101eca59bd9cda8875898eb67&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5d7478f81bf291d101eca59bd9cda8875898eb67&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45802,7 +79647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:914e228308a8665a60a34686352762358944c7f7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:914e228308a8665a60a34686352762358944c7f7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45839,7 +79687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c7155f74834e629ea50a48f9c14fb5966c90ceab&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c7155f74834e629ea50a48f9c14fb5966c90ceab&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45876,7 +79727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5fe7d76f538179a6148bb58e4fc7e03f9f8f860f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5fe7d76f538179a6148bb58e4fc7e03f9f8f860f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45913,7 +79767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6ee0b7d5981eccb93506cfdf6610fcb82bef2da5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6ee0b7d5981eccb93506cfdf6610fcb82bef2da5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45950,7 +79807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b37d18ef4fdc7c35ac032005445b5aae04defe91&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b37d18ef4fdc7c35ac032005445b5aae04defe91&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -45987,7 +79847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:efb2a4020109b4acf146623e6f70e009c3bf9854&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:efb2a4020109b4acf146623e6f70e009c3bf9854&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46024,7 +79887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e5cf6e3ccf7fc95ed59d4650d494ee38106f2baa&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e5cf6e3ccf7fc95ed59d4650d494ee38106f2baa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46061,7 +79927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fe198e6e611c2926a44310ff1ada71577a9861d7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fe198e6e611c2926a44310ff1ada71577a9861d7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46098,7 +79967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f0a8ab97b4037b9a06bda513577f12a5da87bd0a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f0a8ab97b4037b9a06bda513577f12a5da87bd0a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46135,7 +80007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e6346ad166c5a54369549d7dfed0193676d06a2b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e6346ad166c5a54369549d7dfed0193676d06a2b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46172,7 +80047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:669c00697694bca752cdcb167d59c9c2d4b79404&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:669c00697694bca752cdcb167d59c9c2d4b79404&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46209,7 +80087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:983479a34e942235e06ae594b3cab5ac069fd0d9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:983479a34e942235e06ae594b3cab5ac069fd0d9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46246,7 +80127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2706fd9487a968de21cc02d6c3450988864b9e87&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2706fd9487a968de21cc02d6c3450988864b9e87&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46283,7 +80167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1e02d8a17acc46878a624648e1ea9b24fe68507b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1e02d8a17acc46878a624648e1ea9b24fe68507b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46320,7 +80207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c415c9cfb8a6c81927652ba53a2cec0621b28b7f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c415c9cfb8a6c81927652ba53a2cec0621b28b7f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46357,7 +80247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6121b8858758d69df751da20d5c3eb5debc94052&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6121b8858758d69df751da20d5c3eb5debc94052&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46394,7 +80287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:941c3ae0aaa13fd46ebca9ef08208f056e698864&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:941c3ae0aaa13fd46ebca9ef08208f056e698864&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46431,7 +80327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d1eacd58fba51027a6efb81400eeada44df1a9e9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d1eacd58fba51027a6efb81400eeada44df1a9e9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46468,7 +80367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7285f177bcfdfe714ab3f382568953049a9a8415&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7285f177bcfdfe714ab3f382568953049a9a8415&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46505,7 +80407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3e9bc4cf09e520e634ef02abe9f34fb1f872740d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3e9bc4cf09e520e634ef02abe9f34fb1f872740d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46542,7 +80447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:601040bd872d85587c7210498e98633cd7d697ae&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:601040bd872d85587c7210498e98633cd7d697ae&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46579,7 +80487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:13866db732f3eae0f51dd23da91eda911352f50e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:13866db732f3eae0f51dd23da91eda911352f50e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46616,7 +80527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b67fef82b98758d745dda8b49ba01b6036ffd931&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b67fef82b98758d745dda8b49ba01b6036ffd931&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46653,7 +80567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8eebdaa691cc3ae4d8ca0354f979b38586582a2e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8eebdaa691cc3ae4d8ca0354f979b38586582a2e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46690,7 +80607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a1bf45c762c9ae5d30f91a39d7e16232d5125e31&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a1bf45c762c9ae5d30f91a39d7e16232d5125e31&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46727,7 +80647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0ad9373f47280d2eaee67494f7b4edd5ba912d5f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0ad9373f47280d2eaee67494f7b4edd5ba912d5f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46764,7 +80687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ad714650759f58b78781e5196d8f6832705ed3db&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ad714650759f58b78781e5196d8f6832705ed3db&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46801,7 +80727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:287e4577f520abdc7223337064bc48f9f3142d9f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:287e4577f520abdc7223337064bc48f9f3142d9f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46838,7 +80767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:71a5fa5eae4ab62d94f2b6fe360817ea3e615814&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:71a5fa5eae4ab62d94f2b6fe360817ea3e615814&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46875,7 +80807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8db5b51b4f2a1df1696a12f1217739daefd3de39&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8db5b51b4f2a1df1696a12f1217739daefd3de39&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46912,7 +80847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2939385ed9693dc620f50a8e872d49afc30d7cd2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2939385ed9693dc620f50a8e872d49afc30d7cd2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46949,7 +80887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0a3d5b234ba98402ccf88fff14dd2400bb90b1b2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0a3d5b234ba98402ccf88fff14dd2400bb90b1b2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -46986,7 +80927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5d95a3f9d782824c506024797d72308737a1c7ea&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5d95a3f9d782824c506024797d72308737a1c7ea&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47023,7 +80967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6bf17d6fbf7101758ae1770584f171f28a20acda&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6bf17d6fbf7101758ae1770584f171f28a20acda&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47060,7 +81007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1d864fffde4484bc478f81dd3753f5f51a15b391&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1d864fffde4484bc478f81dd3753f5f51a15b391&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47097,7 +81047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fd8ad7054c15ffd299d77406a7ca27acea9ec448&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fd8ad7054c15ffd299d77406a7ca27acea9ec448&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47134,7 +81087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a9b61eaeb24883371f657b59f9e7a4494bf59301&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a9b61eaeb24883371f657b59f9e7a4494bf59301&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47171,7 +81127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:41a3519aefdd52c03a35819cc0ede606e9fdda0a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:41a3519aefdd52c03a35819cc0ede606e9fdda0a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47208,7 +81167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:884b2f4d72167cfbe7ac8dfc7e5bd2d15b1b44f7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:884b2f4d72167cfbe7ac8dfc7e5bd2d15b1b44f7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47245,7 +81207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:eb9bda7c4c6d31046bf602e9b1da818cfe82b037&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:eb9bda7c4c6d31046bf602e9b1da818cfe82b037&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47282,7 +81247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9eeb004b75b52e4394da650aea653eec166a270f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9eeb004b75b52e4394da650aea653eec166a270f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47319,7 +81287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b1b7ae30df86b40804a145e85c2f1e6150efe9bd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b1b7ae30df86b40804a145e85c2f1e6150efe9bd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47356,7 +81327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:471c3c041987ce4864e3b8d9f534cf725ca5996f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:471c3c041987ce4864e3b8d9f534cf725ca5996f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47393,7 +81367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7263ea743c38d6284ed37be17b481225245a2e20&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7263ea743c38d6284ed37be17b481225245a2e20&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47430,7 +81407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8636cc3a6ad785a8df74cc5a47a9acba37f82ac4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8636cc3a6ad785a8df74cc5a47a9acba37f82ac4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47467,7 +81447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4d0f8643cdba97607d128a5e050a9a38072f754d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4d0f8643cdba97607d128a5e050a9a38072f754d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47504,7 +81487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6fc60cde3077c07c8638adcbb0da08513175457c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6fc60cde3077c07c8638adcbb0da08513175457c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47541,7 +81527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:690da412f15104b24e479138b4e952427a179732&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:690da412f15104b24e479138b4e952427a179732&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47578,7 +81567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b1cba023b9cba38f917c9ce902e185011be5ffb0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b1cba023b9cba38f917c9ce902e185011be5ffb0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47615,7 +81607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a62c1bc25ae3e8eb6283abadb62d7e9ff3056d20&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a62c1bc25ae3e8eb6283abadb62d7e9ff3056d20&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47652,7 +81647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:75961b260fa6616e7478198a0a327631d062b896&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:75961b260fa6616e7478198a0a327631d062b896&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47689,7 +81687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:46368b7bd5b66d3f06c20871e5b2e67d38f69b3b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:46368b7bd5b66d3f06c20871e5b2e67d38f69b3b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47726,7 +81727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d4cee9de032a68f2cbe52790d3f8456436128c69&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d4cee9de032a68f2cbe52790d3f8456436128c69&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47763,7 +81767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6c8403d659e80cee86f055b02068eee131544786&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6c8403d659e80cee86f055b02068eee131544786&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47800,7 +81807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1d8bcaf44417e1ff3d1ea5989904db57fa546e83&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1d8bcaf44417e1ff3d1ea5989904db57fa546e83&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47837,7 +81847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1a639fac43a1210b782762fac1c01049a7db2dd2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1a639fac43a1210b782762fac1c01049a7db2dd2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47874,7 +81887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:88c15fc011dee8c709397a1f7a3e52f4369c7360&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:88c15fc011dee8c709397a1f7a3e52f4369c7360&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47911,7 +81927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ac1cb02846e4a00f44f7e72974af7d70e9242bc2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ac1cb02846e4a00f44f7e72974af7d70e9242bc2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47948,7 +81967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4a1c3bf66511f7a88f22242ec68812be5f3043ed&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4a1c3bf66511f7a88f22242ec68812be5f3043ed&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -47985,7 +82007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:82c429398eff40b4ffff39f773534ab6b36a232a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:82c429398eff40b4ffff39f773534ab6b36a232a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48022,7 +82047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7b4e3b7be65f76105c49bec1cec29470b30d150a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7b4e3b7be65f76105c49bec1cec29470b30d150a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48059,7 +82087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4e9f6ae919c70714f0e41cf45b002a4e2330f89a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4e9f6ae919c70714f0e41cf45b002a4e2330f89a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48096,7 +82127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a2667bbd6ecdbe2b6ff9a29b61853e2a368193e5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a2667bbd6ecdbe2b6ff9a29b61853e2a368193e5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48133,7 +82167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0d1079b1d70aa767828f8e408c07d6584b32a749&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0d1079b1d70aa767828f8e408c07d6584b32a749&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48170,7 +82207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3adaa2a294aa05b42ee29edbba63281fd2416655&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3adaa2a294aa05b42ee29edbba63281fd2416655&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48207,7 +82247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ba23e3e756655bd50ae8186c834a6aab980dfb59&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ba23e3e756655bd50ae8186c834a6aab980dfb59&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48244,7 +82287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cd552a4349eea9815da25efcc75a52f5ffaf2c86&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cd552a4349eea9815da25efcc75a52f5ffaf2c86&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48281,7 +82327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1db61a3ba463c6f51ec14441a4f3bb2d792d378d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1db61a3ba463c6f51ec14441a4f3bb2d792d378d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48318,7 +82367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:27222f3cf1b0d9907c6f87c9e29c7da4603121e1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:27222f3cf1b0d9907c6f87c9e29c7da4603121e1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48355,7 +82407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2289bf6fe47a4388ff7eecafa5de002ae52747fd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2289bf6fe47a4388ff7eecafa5de002ae52747fd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48392,7 +82447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4e966682efe15036e2f1e37cbcf07db0359e10d8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4e966682efe15036e2f1e37cbcf07db0359e10d8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48429,7 +82487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c889b2c43b2e444370f9950d11cf5f70bd2192e9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c889b2c43b2e444370f9950d11cf5f70bd2192e9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48466,7 +82527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c67ed8f57dee171a5cd0d8e733643cfb7dfcb756&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c67ed8f57dee171a5cd0d8e733643cfb7dfcb756&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48503,7 +82567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:85366f2ce19b6e9274583f840b0d8fd60c7fdbad&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:85366f2ce19b6e9274583f840b0d8fd60c7fdbad&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48540,7 +82607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:058d7c2bde626b6fbf96119dc1be173c4afe8d05&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:058d7c2bde626b6fbf96119dc1be173c4afe8d05&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48577,7 +82647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9d8f6fe6478e1ca6552dd98f07046c186137fe1d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9d8f6fe6478e1ca6552dd98f07046c186137fe1d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48614,7 +82687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a24d1240d11a925451f384474e2635b1fb436437&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a24d1240d11a925451f384474e2635b1fb436437&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48651,7 +82727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ff5cf8f4ea13e94721d46d9cced35a1a4a45d0f2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ff5cf8f4ea13e94721d46d9cced35a1a4a45d0f2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48688,7 +82767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:040771e9e38fc4c2f9ece0fb8465acbe21067ab8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:040771e9e38fc4c2f9ece0fb8465acbe21067ab8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48725,7 +82807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7e405fd9377dc51fed601a47063fe35a4056f4b7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7e405fd9377dc51fed601a47063fe35a4056f4b7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48762,7 +82847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9cc286d6e91f02ba52a58da4a27e59cb1661d4f7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9cc286d6e91f02ba52a58da4a27e59cb1661d4f7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48799,7 +82887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e6a88d9d47c825a11c09746ad5434d961cbfa35d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e6a88d9d47c825a11c09746ad5434d961cbfa35d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48836,7 +82927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:febe60adbb0db17256c5024c9ec614a5c96be372&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:febe60adbb0db17256c5024c9ec614a5c96be372&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48873,7 +82967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:abbf37ea55fa0cfe83fc958a7afcefcb3480c896&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:abbf37ea55fa0cfe83fc958a7afcefcb3480c896&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48910,7 +83007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4196d56f1ef965ec66ea94609fd89b3549e9d105&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4196d56f1ef965ec66ea94609fd89b3549e9d105&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48947,7 +83047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:75c5163e10919afff0dd5a4925ade84886550ad5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:75c5163e10919afff0dd5a4925ade84886550ad5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -48984,7 +83087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cb6753665ae94bad70d3a6c993f0d1e0a6468a1d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cb6753665ae94bad70d3a6c993f0d1e0a6468a1d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49021,7 +83127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3a72461bb6be87b2fb1e3de811e9901ab3f04014&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3a72461bb6be87b2fb1e3de811e9901ab3f04014&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49058,7 +83167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:20cd9a17991c0dd0324b38378542900d51c17cd8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:20cd9a17991c0dd0324b38378542900d51c17cd8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49095,7 +83207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a1cbb687abd70b75487b16ff00b72250358388c1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a1cbb687abd70b75487b16ff00b72250358388c1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49132,7 +83247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3d2725ba2619df35406b3ef9dafc4cdc0c391dec&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3d2725ba2619df35406b3ef9dafc4cdc0c391dec&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49169,7 +83287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:58ad9f109d302d1e446d7e81ad0d7bb8bebff058&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:58ad9f109d302d1e446d7e81ad0d7bb8bebff058&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49206,7 +83327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dde8e000d9039684edbdf989b0a14ea9864f4680&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dde8e000d9039684edbdf989b0a14ea9864f4680&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49243,7 +83367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:099fe26b2ee1b922b70e88857eee83cd478942fe&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:099fe26b2ee1b922b70e88857eee83cd478942fe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49280,7 +83407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:800b8117ee5012dab1b29275749ed0bed4069689&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:800b8117ee5012dab1b29275749ed0bed4069689&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49317,7 +83447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9ce9b39f25b404013fd7b3cc290174b2b3226d03&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9ce9b39f25b404013fd7b3cc290174b2b3226d03&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49354,7 +83487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:46e22c2972f699e41c078e1518a0fb6bee004a04&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:46e22c2972f699e41c078e1518a0fb6bee004a04&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49391,7 +83527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3523d2ded7ba94b4defe95cb6826e44ba1e46042&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3523d2ded7ba94b4defe95cb6826e44ba1e46042&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49428,7 +83567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:41cf07c19d56f6b2dcb3cf2db49f45b92ef73500&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:41cf07c19d56f6b2dcb3cf2db49f45b92ef73500&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49465,7 +83607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2846a8eb141a1adf28c5eee22896da5782fa8067&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2846a8eb141a1adf28c5eee22896da5782fa8067&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49502,7 +83647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cf484e1a9c34762cc0e02ae918cf24e579836180&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cf484e1a9c34762cc0e02ae918cf24e579836180&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49539,7 +83687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bd9464cb2951129e8bc8cfe89fdcac8fa5c9ee34&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bd9464cb2951129e8bc8cfe89fdcac8fa5c9ee34&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49576,7 +83727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:529879902f8e3e5c9d899ca8bbd13186562f5411&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:529879902f8e3e5c9d899ca8bbd13186562f5411&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49613,7 +83767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0526ffa3d51ef9d6cf66f9410070924d5eb4cb60&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0526ffa3d51ef9d6cf66f9410070924d5eb4cb60&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49650,7 +83807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:97b910ed7169b4d2a8b168123a2e5d70943c9884&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:97b910ed7169b4d2a8b168123a2e5d70943c9884&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49687,7 +83847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c5bfb921d3d9d266fb80aa14177a330b86e3b370&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c5bfb921d3d9d266fb80aa14177a330b86e3b370&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49724,7 +83887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1262dad1a88ee72a4d42646ba7b4521929bf17c2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1262dad1a88ee72a4d42646ba7b4521929bf17c2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49761,7 +83927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:50f2a0ef18b9275b1c2ccdf47ff875a5fbac5c15&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:50f2a0ef18b9275b1c2ccdf47ff875a5fbac5c15&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49798,7 +83967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:14f951eb708575c542433d0e8f364fc85f0de18f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:14f951eb708575c542433d0e8f364fc85f0de18f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49835,7 +84007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c2fc65786bd9d5b4cef793c246ce244ffa922700&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c2fc65786bd9d5b4cef793c246ce244ffa922700&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49872,7 +84047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f37013b21a0ff0228b8f873bafe7532c0310db2d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f37013b21a0ff0228b8f873bafe7532c0310db2d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49909,7 +84087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b4cafbc4d55b5a9501f806363f65bd6192427d35&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b4cafbc4d55b5a9501f806363f65bd6192427d35&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49946,7 +84127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7cf35d10c0c5cd7ef33f93e51984e81bb9aa3736&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7cf35d10c0c5cd7ef33f93e51984e81bb9aa3736&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -49983,7 +84167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:94045e1ad72f313f0dafa304357d4417f69136c7&tr=udp://tracker.publicbt.com:80/announce"
+"magnetLink": "magnet:?xt=urn:btih:94045e1ad72f313f0dafa304357d4417f69136c7&tr=udp://tracker.publicbt.com:80/announce",
+
+
+"dup": false
 
 },
 
@@ -50020,7 +84207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0f3c35742a5003b388333d1f373879024e0c082b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0f3c35742a5003b388333d1f373879024e0c082b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50057,7 +84247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e1b60253fa2e0de5b1c49d5160d792ddb2c28c02&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e1b60253fa2e0de5b1c49d5160d792ddb2c28c02&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50094,7 +84287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1f3b72b3e41159942ebfb50e01fd0d5bdd40db3c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1f3b72b3e41159942ebfb50e01fd0d5bdd40db3c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50131,7 +84327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c22c554d508afa55469d33e24473f04241e26577&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c22c554d508afa55469d33e24473f04241e26577&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50168,7 +84367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e63ace168f24e4fec78c3000b4983d54483ee14a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e63ace168f24e4fec78c3000b4983d54483ee14a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50205,7 +84407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:37d020058dfe40854d442828198a03826e7dbc30&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:37d020058dfe40854d442828198a03826e7dbc30&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50242,7 +84447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1abfb009c978b476c54815b6043a26f309084f4b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1abfb009c978b476c54815b6043a26f309084f4b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50279,7 +84487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7491d261a01bfb68e53f8feb2a6c0d13d543c913&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7491d261a01bfb68e53f8feb2a6c0d13d543c913&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50316,7 +84527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9b4af57d07e56fbd7435143bbef2a54916795e18&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9b4af57d07e56fbd7435143bbef2a54916795e18&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50353,7 +84567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:29027bb0452f9845535b894f064e771285c9b01c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:29027bb0452f9845535b894f064e771285c9b01c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50390,7 +84607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0cb94478e6cb8e5b8b0dbe392e39e9fe22c6716a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0cb94478e6cb8e5b8b0dbe392e39e9fe22c6716a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50427,7 +84647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ed382460f65856a2dcdd57189ca30594388d98cf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ed382460f65856a2dcdd57189ca30594388d98cf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50464,7 +84687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5435c5b3a212f01df4ff2772e94bd8bdf817c33b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5435c5b3a212f01df4ff2772e94bd8bdf817c33b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50501,7 +84727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fd58ea71c5049061a0733b560e53a0c3bedabdd2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fd58ea71c5049061a0733b560e53a0c3bedabdd2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50538,7 +84767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ce3ed47a91ff93f96bb9d0af1b69677921d5081e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ce3ed47a91ff93f96bb9d0af1b69677921d5081e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50575,7 +84807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:685a061c6d6aef174f8bbbd55a4b3cbb624b757a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:685a061c6d6aef174f8bbbd55a4b3cbb624b757a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50612,7 +84847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e8cf364eb965b6ab6cda95a2931e38ce38660d09&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e8cf364eb965b6ab6cda95a2931e38ce38660d09&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50649,7 +84887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2c4860bf49e08d0f4dbd8526897b2cdee3a54f1d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2c4860bf49e08d0f4dbd8526897b2cdee3a54f1d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50686,7 +84927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2a0b14de641b2d89e8f36a04803babcfefdbbe6f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2a0b14de641b2d89e8f36a04803babcfefdbbe6f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50723,7 +84967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:65043ba0f757e17fd8f61829d82ecafe6ef3986b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:65043ba0f757e17fd8f61829d82ecafe6ef3986b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50760,7 +85007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5164cdb8d7859d9a4e76f9dd91b26fff2085fb44&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5164cdb8d7859d9a4e76f9dd91b26fff2085fb44&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50797,7 +85047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a1d4a2481904f2c1c8bdfc624496d5844e178952&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a1d4a2481904f2c1c8bdfc624496d5844e178952&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50834,7 +85087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b4f05a6a7f0cc9e3fc6f56fac6c80b50f11e177c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b4f05a6a7f0cc9e3fc6f56fac6c80b50f11e177c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50871,7 +85127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e49461d3ee0bd51919e22063628ccc246fb3a0ce&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e49461d3ee0bd51919e22063628ccc246fb3a0ce&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50908,7 +85167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ca68e635430c559ae69047b505bc26432a147b86&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ca68e635430c559ae69047b505bc26432a147b86&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50945,7 +85207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:865baaf3da219620ce166f2021061d475791788a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:865baaf3da219620ce166f2021061d475791788a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -50982,7 +85247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4fcb8ded5d10bdc9542aee505f52e7412cd3d9a6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4fcb8ded5d10bdc9542aee505f52e7412cd3d9a6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51019,7 +85287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6d079717ff94722e477f263bdaf13514fa7f89ba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6d079717ff94722e477f263bdaf13514fa7f89ba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51056,7 +85327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d6b30b20540f43d9a380f504e121e19f65de6320&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d6b30b20540f43d9a380f504e121e19f65de6320&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51093,7 +85367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c972eedcaf1637f2b6fcdbc6a3a1ae9089746dfc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c972eedcaf1637f2b6fcdbc6a3a1ae9089746dfc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51130,7 +85407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7421a9f5c77c3e937f343b075aafd809654c7241&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7421a9f5c77c3e937f343b075aafd809654c7241&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51167,7 +85447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0dde3290af6ba454bfce38386d37dfe73b523340&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0dde3290af6ba454bfce38386d37dfe73b523340&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51204,7 +85487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5c94f685ff7c89eaf1b24de48dc835bf81fb82c3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5c94f685ff7c89eaf1b24de48dc835bf81fb82c3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51241,7 +85527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:90faae7d35d773156cd2f13eabd671395b99d697&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:90faae7d35d773156cd2f13eabd671395b99d697&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51278,7 +85567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:02a345bbb4fdec0c1df79589b5c860122cdcf8e4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:02a345bbb4fdec0c1df79589b5c860122cdcf8e4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51315,7 +85607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7bf998affcc9560ab831970777f4b5a5804ca919&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7bf998affcc9560ab831970777f4b5a5804ca919&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51352,7 +85647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4e6b47ae8cc00e4b119a39106aa4fd4053a9dea6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4e6b47ae8cc00e4b119a39106aa4fd4053a9dea6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51389,7 +85687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8004cb04d716d8395a3e20e984f2d815476d723c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8004cb04d716d8395a3e20e984f2d815476d723c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51426,7 +85727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d8a0a65c9e6633b4a5a48641c3ab3d7ecff37de4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d8a0a65c9e6633b4a5a48641c3ab3d7ecff37de4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51463,7 +85767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cae26d62af2fad509de1c5496603af30964d2c3a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cae26d62af2fad509de1c5496603af30964d2c3a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51500,7 +85807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:75ffa65405db9a94c35fba45b353626a794c751c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:75ffa65405db9a94c35fba45b353626a794c751c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51537,7 +85847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:920ce73bd6afca09fefb4fb9493eaebe2d3aecf6&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:920ce73bd6afca09fefb4fb9493eaebe2d3aecf6&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51574,7 +85887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6b58bc42f9f3b4af1904e3c3399ea138a265af2b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6b58bc42f9f3b4af1904e3c3399ea138a265af2b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51611,7 +85927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e7b17950b6c694e804a00ce99099e239afc675a3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e7b17950b6c694e804a00ce99099e239afc675a3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51648,7 +85967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3bc85a01569b5b3901b4792e84f473102e2f5b79&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3bc85a01569b5b3901b4792e84f473102e2f5b79&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51685,7 +86007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f698b4b6be2034b95c0a1818486436933fc51dfe&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f698b4b6be2034b95c0a1818486436933fc51dfe&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51722,7 +86047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c011d666615b53d6d115cc0d7a4024282e6b52b5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c011d666615b53d6d115cc0d7a4024282e6b52b5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51759,7 +86087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8064c7d306e7183903a4617cc4a15a24efe2e9de&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8064c7d306e7183903a4617cc4a15a24efe2e9de&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51796,7 +86127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:684d933263242198bb9dea7ff806a541587c3fe7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:684d933263242198bb9dea7ff806a541587c3fe7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51833,7 +86167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:24a2de30e6a4791cf1a5a6774bbff442eb920628&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:24a2de30e6a4791cf1a5a6774bbff442eb920628&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51870,7 +86207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4947e24053be15cd66855f97b351bac91772286c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4947e24053be15cd66855f97b351bac91772286c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51907,7 +86247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c14cead064286c03005488f886021c4a7028d57a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c14cead064286c03005488f886021c4a7028d57a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51944,7 +86287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7c84886e624df956f4f78fd1003fa0d7eea24b47&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7c84886e624df956f4f78fd1003fa0d7eea24b47&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -51981,7 +86327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c220ee4adc4372bbf652f54a9d37ab267a75ce4f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c220ee4adc4372bbf652f54a9d37ab267a75ce4f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52018,7 +86367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3b0001a21b3dc0385eef1122bf369d5b138ce366&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3b0001a21b3dc0385eef1122bf369d5b138ce366&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52055,7 +86407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a30b8727588aed08a9b9eafe9dbf6d0db6a29df0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a30b8727588aed08a9b9eafe9dbf6d0db6a29df0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52092,7 +86447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6fcc5cd536a2af03edbf012d9ca0a2bc035c0ba4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6fcc5cd536a2af03edbf012d9ca0a2bc035c0ba4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52129,7 +86487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3cecbefba96865408bfb85b7d4da60137bf20f55&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3cecbefba96865408bfb85b7d4da60137bf20f55&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52166,7 +86527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b52298fdda155b938fcf4bc8b3a358ecd28019e7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b52298fdda155b938fcf4bc8b3a358ecd28019e7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52203,7 +86567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d87848d4142c12242b6faec733dc47aad378b7e9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d87848d4142c12242b6faec733dc47aad378b7e9&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52240,7 +86607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8135bec56691c7a77989a627a63edaed9ad045f0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8135bec56691c7a77989a627a63edaed9ad045f0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52277,7 +86647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:68105918d8df5f982c697f1e5755e72b0855938d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:68105918d8df5f982c697f1e5755e72b0855938d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52314,7 +86687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:992e8ff1351fc1dd31cbe4aee446dd675eff11fb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:992e8ff1351fc1dd31cbe4aee446dd675eff11fb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52351,7 +86727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:008f52c85d6aa38f1e6d0c702162359fe0b603e0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:008f52c85d6aa38f1e6d0c702162359fe0b603e0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52388,7 +86767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:13e4e8835ba53071b9fc40c49d2578688a922d06&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:13e4e8835ba53071b9fc40c49d2578688a922d06&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52425,7 +86807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ae2af68b2f7328a200b5da28fa3bcd3d78f8ad46&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ae2af68b2f7328a200b5da28fa3bcd3d78f8ad46&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52462,7 +86847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ab856514ed47fd10b17b43c59253c151933a98f0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ab856514ed47fd10b17b43c59253c151933a98f0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52499,7 +86887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0f07a930d19295081e53f0d7f78f62518817ec23&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0f07a930d19295081e53f0d7f78f62518817ec23&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52536,7 +86927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e46d31d2c0977053853aa3b525bbd63196e341c1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e46d31d2c0977053853aa3b525bbd63196e341c1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52573,7 +86967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fe46df3af8ca70f0b8a55d8f60ae630322b08b1e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fe46df3af8ca70f0b8a55d8f60ae630322b08b1e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52610,7 +87007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:15cf48761c8b7a87693b6b125b3654dc2d0821ad&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:15cf48761c8b7a87693b6b125b3654dc2d0821ad&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52647,7 +87047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8f590c58b59c6fe8fa04724ee8535abcd589c003&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8f590c58b59c6fe8fa04724ee8535abcd589c003&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52684,7 +87087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:80a7d14c2e2501e1ffc8e0beba4446096f44fa16&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:80a7d14c2e2501e1ffc8e0beba4446096f44fa16&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52721,7 +87127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:07ee107e88bc373a9c6fa7272f61b22efcf34c59&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:07ee107e88bc373a9c6fa7272f61b22efcf34c59&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52758,7 +87167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f63a69ac86bd9911757718848e456f1731b6025e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f63a69ac86bd9911757718848e456f1731b6025e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52795,7 +87207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:32e89dc57974da1885b50af6c0422f57d54d29dd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:32e89dc57974da1885b50af6c0422f57d54d29dd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52832,7 +87247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b909169ce7a78f3e8911e34526ab9d7b9f7983af&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b909169ce7a78f3e8911e34526ab9d7b9f7983af&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52869,7 +87287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f611eecfcfd12201db2fa09818eb853467b663c5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f611eecfcfd12201db2fa09818eb853467b663c5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52906,7 +87327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c63ec177dc00a119df8ba7bee37b46ad45087b9c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c63ec177dc00a119df8ba7bee37b46ad45087b9c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52943,7 +87367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e7c6bcb096093a91cfc5601be25f2e51a1f6aa6f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e7c6bcb096093a91cfc5601be25f2e51a1f6aa6f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -52980,7 +87407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b6e62ea3cba33ee4d6aa7e7382deca2cba24001a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b6e62ea3cba33ee4d6aa7e7382deca2cba24001a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53017,7 +87447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ca93cad4e36cf99d8d3c1b1e61087910cb385c2a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ca93cad4e36cf99d8d3c1b1e61087910cb385c2a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53054,7 +87487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:42ba55144023502bcbe8eccfe9ee523d301f21ae&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:42ba55144023502bcbe8eccfe9ee523d301f21ae&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53091,7 +87527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:37561afe821666d04894c99854d2a23cf5ad86b3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:37561afe821666d04894c99854d2a23cf5ad86b3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53128,7 +87567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fe909e4f50c444a0aceebd5636dbcde435253a75&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fe909e4f50c444a0aceebd5636dbcde435253a75&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53165,7 +87607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e234dda06bf03ebe14dd5b7a3c4a87ebc18eea72&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e234dda06bf03ebe14dd5b7a3c4a87ebc18eea72&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53202,7 +87647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:161bd7a1c4b77ff9354751bb0ce1a58b8c8ac31d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:161bd7a1c4b77ff9354751bb0ce1a58b8c8ac31d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53239,7 +87687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:140b96f378c015f922c3a6c99990415657195ce0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:140b96f378c015f922c3a6c99990415657195ce0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53276,7 +87727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:023583c73d5bf303ad10667bc86969fc53561f05&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:023583c73d5bf303ad10667bc86969fc53561f05&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53313,7 +87767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:232569e1edd6807dadf291ed83a50a1a72ea6a4c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:232569e1edd6807dadf291ed83a50a1a72ea6a4c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53350,7 +87807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4b45675e74d33e2112d6151eb0386c6ebea90b1f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4b45675e74d33e2112d6151eb0386c6ebea90b1f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53387,7 +87847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e9e797b435562d2d7f665490c0afbc0e9726aaaa&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e9e797b435562d2d7f665490c0afbc0e9726aaaa&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53424,7 +87887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:797f88e6d8524e8e25d1e9dc9c63498ddb151a3a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:797f88e6d8524e8e25d1e9dc9c63498ddb151a3a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53461,7 +87927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:71607e4c07f5e04b102a9f4cd305456e656302ca&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:71607e4c07f5e04b102a9f4cd305456e656302ca&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53498,7 +87967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:680e8df23ce776af3f5e7bc8e8e413aa794ba0ea&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:680e8df23ce776af3f5e7bc8e8e413aa794ba0ea&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53535,7 +88007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:aaed05a1eccbf407689b352c3c368670b85807df&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:aaed05a1eccbf407689b352c3c368670b85807df&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53572,7 +88047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7eedc70c3535d991453cd4d6a1ee905b1b9b653c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7eedc70c3535d991453cd4d6a1ee905b1b9b653c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53609,7 +88087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3d700ca351f076224a9350c5760ebb641c9a07be&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3d700ca351f076224a9350c5760ebb641c9a07be&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53646,7 +88127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f845308c8bf5bde43ba34800bb76a7f6b8d77182&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f845308c8bf5bde43ba34800bb76a7f6b8d77182&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53683,7 +88167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8da0ddb6d7eaef582876f43b1758790f4a7fd976&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8da0ddb6d7eaef582876f43b1758790f4a7fd976&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53720,7 +88207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:198636d10e4e80983374af642a98c123ac8e72b1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:198636d10e4e80983374af642a98c123ac8e72b1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53757,7 +88247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5ce14a6ac46b8e5e5b65a43297660e0cea8cc486&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5ce14a6ac46b8e5e5b65a43297660e0cea8cc486&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53794,7 +88287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8e247a1c3d334b9f2810c207936e3481b3206d51&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8e247a1c3d334b9f2810c207936e3481b3206d51&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53831,7 +88327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:144fa4aa4dd18ba528c706f6ac637185e1a9c050&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:144fa4aa4dd18ba528c706f6ac637185e1a9c050&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53868,7 +88367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d525beabe5b6bd7b0f185eccee595c8e32f52c49&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d525beabe5b6bd7b0f185eccee595c8e32f52c49&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53905,7 +88407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1ab4623b7e40c6cdefa7730cec99db25b355883a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1ab4623b7e40c6cdefa7730cec99db25b355883a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53942,7 +88447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7ab9af5f430f54708f8f630b1215e0dd7d52dc15&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7ab9af5f430f54708f8f630b1215e0dd7d52dc15&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -53979,7 +88487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a4682bf263b49883645f0827df8bd9f8b8b03a0f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a4682bf263b49883645f0827df8bd9f8b8b03a0f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54016,7 +88527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a7e589cfa82328af4b89f0e4a6d9495552599fac&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a7e589cfa82328af4b89f0e4a6d9495552599fac&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54053,7 +88567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2f2bd9f8db04cd73d1695f93c45b8978ad4a0570&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2f2bd9f8db04cd73d1695f93c45b8978ad4a0570&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54090,7 +88607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c104e1d926e0e6f2fa4be70fa2bb78f00c2c02bd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c104e1d926e0e6f2fa4be70fa2bb78f00c2c02bd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54127,7 +88647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:08d133ab9b6e2f14eac4a2d4c89cdf3ab6a1d29a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:08d133ab9b6e2f14eac4a2d4c89cdf3ab6a1d29a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54164,7 +88687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1ab6c5b80df4a7995d06da4ce20100660393bb65&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1ab6c5b80df4a7995d06da4ce20100660393bb65&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54201,7 +88727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:61b234adbfcbf3190442d015b1ebb8c1434db9ce&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:61b234adbfcbf3190442d015b1ebb8c1434db9ce&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54238,7 +88767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6d996ddf318075f331ed4711aa08c084c173a5ac&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6d996ddf318075f331ed4711aa08c084c173a5ac&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54275,7 +88807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:344b4386ad1e6f24aca636810b51efe25f83466c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:344b4386ad1e6f24aca636810b51efe25f83466c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54312,7 +88847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4576ef737e59b04db069aa9fee680964c264fa36&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4576ef737e59b04db069aa9fee680964c264fa36&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54349,7 +88887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8dd74d50bd258a380985d7bfa0ef895905e2d4e2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8dd74d50bd258a380985d7bfa0ef895905e2d4e2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54386,7 +88927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f0d3e0d6f028e4c135fb5d27176f4e30a5200883&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f0d3e0d6f028e4c135fb5d27176f4e30a5200883&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54423,7 +88967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:48d3e7593bbf604c24826aa39be579351078957a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:48d3e7593bbf604c24826aa39be579351078957a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54460,7 +89007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:0347fca3491575aced1227f96c4ccdf7a161d777&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:0347fca3491575aced1227f96c4ccdf7a161d777&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54497,7 +89047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b0aef10548e2600ca2e036dc71881cd7b11e4ab0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b0aef10548e2600ca2e036dc71881cd7b11e4ab0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54534,7 +89087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4de9efb7d5a591b4e596458b8ca8ef60ba95a421&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4de9efb7d5a591b4e596458b8ca8ef60ba95a421&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54571,7 +89127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:eec9a78fe854fce3d43f0c7399a43485170e730d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:eec9a78fe854fce3d43f0c7399a43485170e730d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54608,7 +89167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:fed963740b5fb27a9ede1b9b769284fe7116314d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:fed963740b5fb27a9ede1b9b769284fe7116314d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54645,7 +89207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2dca17aa1d0dc3c044fdb627dc7776ea1277ee63&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2dca17aa1d0dc3c044fdb627dc7776ea1277ee63&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54682,7 +89247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:319b36afd74f5cf2628e95d0ff04bf6f1315f6f7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:319b36afd74f5cf2628e95d0ff04bf6f1315f6f7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54719,7 +89287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8b3c285c2b61c6c16b62ab99230ae604afe66ac5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8b3c285c2b61c6c16b62ab99230ae604afe66ac5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54756,7 +89327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4a618757a90b7cef3906c2a8e0c99b440b2e7d90&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4a618757a90b7cef3906c2a8e0c99b440b2e7d90&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54793,7 +89367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3f823993f8ff60514d9ca8c907e50dc01a60bab7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3f823993f8ff60514d9ca8c907e50dc01a60bab7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54830,7 +89407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e05b64216c20d11606f2cc957d78e72921f760de&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e05b64216c20d11606f2cc957d78e72921f760de&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54867,7 +89447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a0fd626f5903f074abc7fe536b080a026c88c614&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a0fd626f5903f074abc7fe536b080a026c88c614&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54904,7 +89487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b82018d429d4a75da52321631bcddeaaa6d5b40f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b82018d429d4a75da52321631bcddeaaa6d5b40f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54941,7 +89527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bd6a528e39c4f78506426db397105b9887219f7a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bd6a528e39c4f78506426db397105b9887219f7a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -54978,7 +89567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d1776b9f368c16a246b7bb684b2af4be23b11856&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d1776b9f368c16a246b7bb684b2af4be23b11856&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55015,7 +89607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f3e1e0632afa802f88e7bcb6b142266c7c55780b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f3e1e0632afa802f88e7bcb6b142266c7c55780b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55052,7 +89647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:40328179ac39d1767856a2b82cb762a40ebebb10&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:40328179ac39d1767856a2b82cb762a40ebebb10&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55089,7 +89687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3bad9d241ef7bdfaff87cc355c98ec1a8ca91c47&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3bad9d241ef7bdfaff87cc355c98ec1a8ca91c47&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55126,7 +89727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6592c00212c28035f5fb74bc6e03fcb9725d530a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6592c00212c28035f5fb74bc6e03fcb9725d530a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55163,7 +89767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:606de9d9348588423a1cf57d2430271569b7f702&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:606de9d9348588423a1cf57d2430271569b7f702&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55200,7 +89807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:13edc21d3725f015aed254ca6261254d004adff0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:13edc21d3725f015aed254ca6261254d004adff0&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55237,7 +89847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2848c25905a6572626ed5210ed9761a53a5956e4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2848c25905a6572626ed5210ed9761a53a5956e4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55274,7 +89887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e4912e2bf7cbdefa6012225ce155d6fbc2ceb15b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e4912e2bf7cbdefa6012225ce155d6fbc2ceb15b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55311,7 +89927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:613f20e8e5fa369aead3fd405b695ad785089df7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:613f20e8e5fa369aead3fd405b695ad785089df7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55348,7 +89967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:892cf09ebab9710af0ad513ef72408b9b202105f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:892cf09ebab9710af0ad513ef72408b9b202105f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55385,7 +90007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:72268f7100d81ea7b19c3615a7877819376db561&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:72268f7100d81ea7b19c3615a7877819376db561&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55422,7 +90047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f7bfe0ca1d42d2936c2076407c1d751b08ba58a2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f7bfe0ca1d42d2936c2076407c1d751b08ba58a2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55459,7 +90087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:87f4d5f97d0a2650602740f328e6adaef3c20e65&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:87f4d5f97d0a2650602740f328e6adaef3c20e65&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55496,7 +90127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4d0a6ca7586d8d425bb12a185631f076c78acb1e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4d0a6ca7586d8d425bb12a185631f076c78acb1e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55533,7 +90167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7fca4790bb6823f285c31bd041c5b5b5fe07e02c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7fca4790bb6823f285c31bd041c5b5b5fe07e02c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55570,7 +90207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d4728df391c1503944f5b24904938ee13f216dcd&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d4728df391c1503944f5b24904938ee13f216dcd&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55607,7 +90247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a170119d6b4ac32df7882eed33befc65ba01cd84&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a170119d6b4ac32df7882eed33befc65ba01cd84&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55644,7 +90287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dc919322a2ed5941b5ff801ab10178287ed8c02f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dc919322a2ed5941b5ff801ab10178287ed8c02f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55681,7 +90327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:63862e8090074e29e710fdde176cc98e408854e2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:63862e8090074e29e710fdde176cc98e408854e2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55718,7 +90367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:989fc4e84a77ac28fe889659483f56a3938b117c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:989fc4e84a77ac28fe889659483f56a3938b117c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55755,7 +90407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:51b337498ade2786bb203a583d0ea6c9b05aff8e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:51b337498ade2786bb203a583d0ea6c9b05aff8e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55792,7 +90447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5c14e41b090e4cd3ade9aa04938be68c9fb71490&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5c14e41b090e4cd3ade9aa04938be68c9fb71490&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55829,7 +90487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:19a04440ee44b802d434b2918bb0f6c8e8d55499&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:19a04440ee44b802d434b2918bb0f6c8e8d55499&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55866,7 +90527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7db8664a32742ad993cbb1d591c7dc7ee7355c18&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7db8664a32742ad993cbb1d591c7dc7ee7355c18&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55903,7 +90567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2062e986cc695818b232fd81aceb3a8b25e0c89c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2062e986cc695818b232fd81aceb3a8b25e0c89c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55940,7 +90607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:39560537f21095278e60f160e60d7b0dc7caa2ea&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:39560537f21095278e60f160e60d7b0dc7caa2ea&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -55977,7 +90647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7883536cb07ba044f2967a17ea3cc35ad05f845d&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7883536cb07ba044f2967a17ea3cc35ad05f845d&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56014,7 +90687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3cc40d806b027f1cdc96b347af8ff558cc8061f5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3cc40d806b027f1cdc96b347af8ff558cc8061f5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56051,7 +90727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:541e420eecab35b2fefa064b24ee198c84844fe1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:541e420eecab35b2fefa064b24ee198c84844fe1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56088,7 +90767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1957213f4ec5c9426d0333623ba521f51040c3f1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1957213f4ec5c9426d0333623ba521f51040c3f1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56125,7 +90807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ae08677d9d11ff5320ee489b8b52fb16bc8ac00a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ae08677d9d11ff5320ee489b8b52fb16bc8ac00a&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56162,7 +90847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5b327358189e8e9826ff31706ddf7bee3497a938&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5b327358189e8e9826ff31706ddf7bee3497a938&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56199,7 +90887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a0bc5ff71f4c54b3ec0227fc5c7d2234c19d46f8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a0bc5ff71f4c54b3ec0227fc5c7d2234c19d46f8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56236,7 +90927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:12237c36a08a8f891099a38785bfc2ca7d0238c4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:12237c36a08a8f891099a38785bfc2ca7d0238c4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56273,7 +90967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:acaceba4b60828639473f3ba6d14ff9cc06b8c2e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:acaceba4b60828639473f3ba6d14ff9cc06b8c2e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56310,7 +91007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6ab7eabb275ebb3d22cdbcb95b187eea7a5ab1d5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6ab7eabb275ebb3d22cdbcb95b187eea7a5ab1d5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56347,7 +91047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8776c8b79ebc9c1259f76c44882a401f06ee419e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8776c8b79ebc9c1259f76c44882a401f06ee419e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56384,7 +91087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b6dcc16642b526eee3318e3c3bb62a191142b280&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b6dcc16642b526eee3318e3c3bb62a191142b280&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56421,7 +91127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e3440486fb9f1d1df0f6ce979f759c9fb7285e05&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e3440486fb9f1d1df0f6ce979f759c9fb7285e05&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56458,7 +91167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5cc71d1c6da5c3af2c4fcca73ab17b18eb0bb8ab&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5cc71d1c6da5c3af2c4fcca73ab17b18eb0bb8ab&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56495,7 +91207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cf9cd5fac9fcbc9b9b6a5c3885ad517d1f7c5aa1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cf9cd5fac9fcbc9b9b6a5c3885ad517d1f7c5aa1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56532,7 +91247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4e12a05719ad820cab0c5732d7f961c34ec4af05&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4e12a05719ad820cab0c5732d7f961c34ec4af05&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56569,7 +91287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:1f844bb04a6a9f1b778623ea036aea745385e78c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:1f844bb04a6a9f1b778623ea036aea745385e78c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56606,7 +91327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8f999063205f040538c6af61d5e1fdd06f6cc71b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8f999063205f040538c6af61d5e1fdd06f6cc71b&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56643,7 +91367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bc57f19fabdcf2b1d7db9925256462b4faf127c8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bc57f19fabdcf2b1d7db9925256462b4faf127c8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56680,7 +91407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:13a08bf6efe0faef3bc3881858c30a6fecd805e1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:13a08bf6efe0faef3bc3881858c30a6fecd805e1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56717,7 +91447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:20277ae42f85499a36c367350554ed63a854c09f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:20277ae42f85499a36c367350554ed63a854c09f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56754,7 +91487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:82fe802b7f03a51c95b7c62ceb1424a5aada18b5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:82fe802b7f03a51c95b7c62ceb1424a5aada18b5&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56791,7 +91527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bec423ac57d6c8b891d5e068ea7b9cee7085ece1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bec423ac57d6c8b891d5e068ea7b9cee7085ece1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56828,7 +91567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:582c4c4c4d2726d9579a438795e2ddb369beec5e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:582c4c4c4d2726d9579a438795e2ddb369beec5e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56865,7 +91607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:bd699b207f6a4b02fe45d7d7ddd9ad739f107ad8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:bd699b207f6a4b02fe45d7d7ddd9ad739f107ad8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56902,7 +91647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9d0d66238e24ac3f5a597e4e90eecab351808f96&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9d0d66238e24ac3f5a597e4e90eecab351808f96&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56939,7 +91687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:5a8ae63a82c2ca0517062935fa27a31736acbee1&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5a8ae63a82c2ca0517062935fa27a31736acbee1&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -56976,7 +91727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:9eb28cdd2256e40e532f50ec79e9c35d99b6de07&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:9eb28cdd2256e40e532f50ec79e9c35d99b6de07&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57013,7 +91767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d951afcf2af69cb438ac58234e66c4eefe5ee575&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d951afcf2af69cb438ac58234e66c4eefe5ee575&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57050,7 +91807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:6b5f7c4052d237a6ed65b857588b91bfd79e077c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:6b5f7c4052d237a6ed65b857588b91bfd79e077c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57087,7 +91847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:cf137f0309d136f33f4340adc175c7e5688fccbc&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cf137f0309d136f33f4340adc175c7e5688fccbc&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57124,7 +91887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f2b4bfc6782e62f531cf829e6fec4a20ba258eeb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f2b4bfc6782e62f531cf829e6fec4a20ba258eeb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57161,7 +91927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:e8cbdc634184ef344b297d7ba93f81ea86615c00&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:e8cbdc634184ef344b297d7ba93f81ea86615c00&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57198,7 +91967,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:8dc040986311766ab7b133568ccaf935dff9e4f4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:8dc040986311766ab7b133568ccaf935dff9e4f4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57235,7 +92007,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ca43eed7443fc68578c54e0cdc94bd0948208850&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ca43eed7443fc68578c54e0cdc94bd0948208850&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57272,7 +92047,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:15b88f6e68d3f1f7da149adedeca037c0c190920&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:15b88f6e68d3f1f7da149adedeca037c0c190920&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57309,7 +92087,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2eb62ab463fd77332047d44c060aa3e82853a0ed&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2eb62ab463fd77332047d44c060aa3e82853a0ed&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57346,7 +92127,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c708dc9a3754657d93967fdcb1cf5e532f07b32f&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c708dc9a3754657d93967fdcb1cf5e532f07b32f&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57383,7 +92167,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:da687d842268255fae52f3d08ea6c4830fa8d028&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:da687d842268255fae52f3d08ea6c4830fa8d028&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57420,7 +92207,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dd275c651a35f251b6451a8bca83a76f2c6d2ed3&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dd275c651a35f251b6451a8bca83a76f2c6d2ed3&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57457,7 +92247,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:2bd18afdd450854aaab6aebf2cb106b074bf4cb7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2bd18afdd450854aaab6aebf2cb106b074bf4cb7&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57494,7 +92287,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:029295858791f81338d448c0d7b52764ec8844ed&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:029295858791f81338d448c0d7b52764ec8844ed&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57531,7 +92327,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:3996722ba678ea6e55d4f5c7938c6914a75a9a0e&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:3996722ba678ea6e55d4f5c7938c6914a75a9a0e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57568,7 +92367,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:da7a7f8b201180ea052f152c673139abf0f742ba&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:da7a7f8b201180ea052f152c673139abf0f742ba&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57605,7 +92407,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7eb5fc09e36bc641b5e7ba39cc3ae13b8bd268cf&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7eb5fc09e36bc641b5e7ba39cc3ae13b8bd268cf&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57642,7 +92447,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:7ff728b564972b1281cad55087383a240beeed86&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7ff728b564972b1281cad55087383a240beeed86&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57679,7 +92487,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:c89728506dcaa3eb8e18a1c7f788c7c02b954576&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c89728506dcaa3eb8e18a1c7f788c7c02b954576&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57716,7 +92527,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:336e95809e26c0f98c29587d9865d0319fa3d32c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:336e95809e26c0f98c29587d9865d0319fa3d32c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57753,7 +92567,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:d56b93377428d0434fc315bd8ec40ebc7b11d7cb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d56b93377428d0434fc315bd8ec40ebc7b11d7cb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57790,7 +92607,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:dbba0aa22a255b042d50daffed6d114e9bbf6189&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:dbba0aa22a255b042d50daffed6d114e9bbf6189&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57827,7 +92647,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:4a670232267e5be9391ccdc8a4d87c702e676be2&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:4a670232267e5be9391ccdc8a4d87c702e676be2&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57864,7 +92687,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:f33995c75c900192275d7c4c182dbddb94b0526c&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:f33995c75c900192275d7c4c182dbddb94b0526c&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57901,7 +92727,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:ac8c50c1ccf7dc73fa01db786b7df03b844542e8&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:ac8c50c1ccf7dc73fa01db786b7df03b844542e8&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57938,7 +92767,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:60e0e71b553593dbcabcb049990abf8f29ad71d4&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:60e0e71b553593dbcabcb049990abf8f29ad71d4&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -57975,7 +92807,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:b729491c8fba02cda946b0ccf68ba65b7e6563cb&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b729491c8fba02cda946b0ccf68ba65b7e6563cb&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -58012,7 +92847,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:90955bd5f4b0b391d340c79fa03718cf27b75f32&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:90955bd5f4b0b391d340c79fa03718cf27b75f32&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -58049,7 +92887,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:a7ad70d24207d59b8f1b550df89eb4aca8091071&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:a7ad70d24207d59b8f1b550df89eb4aca8091071&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 },
 
@@ -58086,7 +92927,10 @@ module.exports = [
 "generalRanking": 4,
 
 
-"magnetLink": "magnet:?xt=urn:btih:75edb0ac21a5d10cecde889e4219993ba5cb6a22&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:75edb0ac21a5d10cecde889e4219993ba5cb6a22&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
 
 }
 ]
