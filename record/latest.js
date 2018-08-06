@@ -1,24 +1,24 @@
 module.exports = {
 
-"name": "\n        [LowPower-Raws] Kokkoku (BD 1080P x264 FLAC)",
+"name": "\n        赛马皮特.Lean.on.Pete.2017.中英字幕.BD-720.甜饼字幕组.mp3",
 
 "workName": "",
 
 "source": "Blu-ray",
 
-"resolution": "1080p",
+"resolution": "720p",
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-89f0e89d7912513651349a74bf350af4cf10a704.html",
+"url": "http://www.kisssub.org/show-cdb9b10b03109e94280adb61617d5a48c6a7cdbf.html",
 
-"isNew": true,
+"isNew": false,
 
-"publishTime": "2018-06-01T01:10:22.000Z",
+"publishTime": "2018-08-06T07:00:49.000Z",
 
 "isComplete": false,
 
-"generalRanking": 3,
+"generalRanking": 4,
 
-"magnetLink": "magnet:?xt=urn:btih:89f0e89d7912513651349a74bf350af4cf10a704&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:cdb9b10b03109e94280adb61617d5a48c6a7cdbf&tr=http://open.acgtracker.com:1096/announce"
 }
