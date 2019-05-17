@@ -4,7 +4,7 @@ var urlFetcher = require('../urlFetcher.js');
 var Item = require('../item.js');
 var util = require('../util.js');
 
-var domain = "http://www.kisssub.org/";
+const domain = "http://www.kisssub.org/";
 var searchPagePostfix = ".html";
 
 var getFullUrl = function (urlNumber) {
