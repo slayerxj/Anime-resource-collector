@@ -21,7 +21,8 @@ var assembleString = function (items) {
             }
             return head +
                 "<td>" + convertToTimeString(cur.publishTime) + "</td>" +
-                "<td><a href='" + cur.url + "'>" + cur.name + "</a></td>" +
+                // "<td><a href='" + cur.url + "'>" + cur.name + "</a></td>" +
+                "<td>" + cur.name + "</td>" +
                 "<td>" + stars[cur.generalRanking] + "</td>" +
                 "<td><a href='" + cur.magnetLink + "'>" + "link" + "</a></td>" +
                 "</tr>";

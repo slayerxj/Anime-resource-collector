@@ -1,24 +1,24 @@
 module.exports = {
 
-"name": "\n        【极影字幕社】★ Grand Blue （烦塔西~☆） 第06集 GB_CN 720p HEVC MP4",
+"name": "\n        城市猎人 City Hunter 1-51 (BDRip 1440x1080p x265 HEVC FLAC)（1987年）",
 
 "workName": "",
 
 "source": "Blu-ray",
 
-"resolution": "720p",
+"resolution": "1080p",
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-48aeabd1fb096780f3c6ea93ed9cf8f1319f2bd5.html",
+"url": "http://www.kisssub.org/show-b57f8bd9806ce619915d18dc855a4852403f7ca9.html",
 
 "isNew": true,
 
-"publishTime": "2018-08-21T13:52:25.000Z",
+"publishTime": "2019-05-30T23:02:15.000Z",
 
 "isComplete": false,
 
-"generalRanking": 4,
+"generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:48aeabd1fb096780f3c6ea93ed9cf8f1319f2bd5&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:b57f8bd9806ce619915d18dc855a4852403f7ca9&tr=http://open.acgtracker.com:1096/announce"
 }
