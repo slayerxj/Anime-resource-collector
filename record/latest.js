@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\n        城市猎人 City Hunter 1-51 (BDRip 1440x1080p x265 HEVC FLAC)（1987年）",
+"name": "\n        【喵萌茶会字幕组】★10月新番【SSSS.GRIDMAN】[BDRIP][1080P][MP4][简体]",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-b57f8bd9806ce619915d18dc855a4852403f7ca9.html",
+"url": "http://www.kisssub.org/show-2726e9db78b531eaf117f99d6c68e0691aded363.html",
 
-"isNew": true,
+"isNew": false,
 
-"publishTime": "2019-05-30T23:02:15.000Z",
+"publishTime": "2019-06-30T11:50:29.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:b57f8bd9806ce619915d18dc855a4852403f7ca9&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:2726e9db78b531eaf117f99d6c68e0691aded363&tr=http://open.acgtracker.com:1096/announce"
 }

@@ -43,6 +43,191 @@ module.exports = [
 {
 
 
+"name": "\n        【千夏字幕組】【櫻花莊的寵物女孩_Sakurasou no Pet na Kanojo】[第01-24話][BDRip_1080p_AVC][繁體][修正合集]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c4cb4091312b5efc3c4f6640759120751f40d02a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-16T20:08:50.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c4cb4091312b5efc3c4f6640759120751f40d02a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组】【樱花庄的宠物女孩_Sakurasou no Pet na Kanojo】[第01-24话][BDRip_1080p_AVC][简体][修正合集]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5184c2ec0136fe5b1dd913479a365dad314861b7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-16T20:06:15.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5184c2ec0136fe5b1dd913479a365dad314861b7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组】【樱花庄的宠物女孩_Sakurasou no Pet na Kanojo】[第01-24话][BDRip_1080p_AVC][简体][修正合集]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-50131c3bd7fb9a79265b5a447386e039232e01ef.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-16T08:35:00.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:50131c3bd7fb9a79265b5a447386e039232e01ef&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組】【櫻花莊的寵物女孩_Sakurasou no Pet na Kanojo】[第01-24話][BDRip_1080p_AVC][繁體][修正合集]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4146f23c758328af785d2b407e83288286516243.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-16T08:32:35.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4146f23c758328af785d2b407e83288286516243&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组】【樱花庄的宠物女孩_Sakurasou no Pet na Kanojo】[第01-24话][BDRip_1080p_HEVC][简繁外挂][修正合集]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-29b599ad037d671d4fd2b3eeaa9dad985df50116.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-16T01:36:21.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:29b599ad037d671d4fd2b3eeaa9dad985df50116&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        【千夏字幕組】【ISLAND】[01-12話][BDRip_1080p_AVC][繁體][合集]",
 
 
@@ -1232,6 +1417,635 @@ module.exports = [
 
 
 "dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 3D女友/三次元女友全二季 3D Kanojo Real Girl  1-24 (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d728bc33b7aadd7d1d13d8f5823fb583c47fef40.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T13:10:21.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d728bc33b7aadd7d1d13d8f5823fb583c47fef40&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 不死者之王全三季 Overlord  S1+S2+S3+Movie (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1ce0fbe42c30da54e3cbb8664ef6f4a030570093.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-25T12:30:53.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1ce0fbe42c30da54e3cbb8664ef6f4a030570093&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】★04月新番[Lost Song][01-12 END(全集修正)][BDRip][1080P][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ed85dc47cf16dc4f58b08dfb03c0404dcc47d2af.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-23T14:15:43.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ed85dc47cf16dc4f58b08dfb03c0404dcc47d2af&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★04月新番[Lost Song][01-12 END(全集修正)][BDRip][1080P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5519dc6b54a6248491dcd56154de1c2c25ef50c9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-23T14:13:53.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5519dc6b54a6248491dcd56154de1c2c25ef50c9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [MMSUB x U3-Project&U3-Rip] 夏目友人帳 劇場版：緣結空蟬 / 劇場版 夏目友人帳 ~うつせみに結ぶ~ / Gekijouban Natsume Yuujinchou (2018) [Movie][繁簡日內封字幕][BDRip 1080p HEVC-yuv420p10 FLAC DTS-HDMA_5.1]",
+
+
+"workName": "夏目友人帳",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-657b1b8aaee6a31befc73c3b73e70ff48d3376c0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-21T07:44:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:657b1b8aaee6a31befc73c3b73e70ff48d3376c0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】 ★10月新番 哥布林杀手 Goblin Slayer 合集 第01-12话 BDRIP 1080P GB MP4（字幕社招内详）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ddff9a3c3fed4946cb1a1f4bc2e0ae4a0f50a175.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T18:44:18.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ddff9a3c3fed4946cb1a1f4bc2e0ae4a0f50a175&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 哥布林殺手 Goblin Slayer 合集 第01-12話 BDRIP 1080P BIG5 MP4（字幕社招內詳）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dafa93159097323a68f3ec97207aa6f88dd6cf94.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T18:41:59.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dafa93159097323a68f3ec97207aa6f88dd6cf94&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [千夏字幕组&VCB-Studio] Kimi no Suizou o Tabetai / 我想吃掉你的胰脏 / 君の膵臓をたべたい 10-bit 1080p HEVC BDRip [MOVIE]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1f4afa18866d40ff9ebcb8917fff43e360f5e721.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T15:19:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1f4afa18866d40ff9ebcb8917fff43e360f5e721&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 劇場版 夏目友人帳 Natsume Yuujinchou Utsusemi ni Musubu (BD 1920x1080 x264 2Audio)",
+
+
+"workName": "夏目友人帳",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-931ec98e0c701adb7963c6bfe221452c3556f035.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-13T10:31:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:931ec98e0c701adb7963c6bfe221452c3556f035&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【动漫国&KNA&轻之国度字幕组】[Re:从零开始的异世界生活][OVA][01][Memory Snow][BDRip][AVC_AAC][1080P][简体][MP4]",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0aa4ecb8364e279ec59abf02e980d3e1e10888bb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-10T09:42:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0aa4ecb8364e279ec59abf02e980d3e1e10888bb&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Niconeiko Works] Re: Zero kara Hajimeru Isekai Seikatsu Memory Snow Re: 从零开始的异世界生活 Memory Snow BDRip 1080P Ma10p FLAC",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ee842c3f962041365036cf4d26d8ca11e58fe656.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-08T09:45:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ee842c3f962041365036cf4d26d8ca11e58fe656&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] OVA Re:从零开始的异世界生活 Re Zero Kara Hajimeru Isekai Seikatsu Memory Snow OVA  (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-95e4c6344eeac9f519158c5e6d6bbc18eba99070.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-07T10:41:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:95e4c6344eeac9f519158c5e6d6bbc18eba99070&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] Re:从零开始的异世界生活+OVA Re - Zero kara Hajimeru Isekai Seikatsu + Memory Snow (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6aa03a52bbc732ed7829024a3c0e8cdee699fc3c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T22:30:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6aa03a52bbc732ed7829024a3c0e8cdee699fc3c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] OVA Re:从零开始的异世界生活 Re - Zero Kara Hajimeru Isekai Seikatsu Memory Snow OVA (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b91a466cf3958aa3abefeabe4962ee556fb77f0c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T19:33:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b91a466cf3958aa3abefeabe4962ee556fb77f0c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻之字幕组】Re：从零开始的异世界生活 OVA ~Memory Snow~ 1080p BDrip HEVC AAC",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-21882ffe230ef29d225f4f7732acd07ab4375259.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T17:15:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:21882ffe230ef29d225f4f7732acd07ab4375259&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻之字幕组】Re：从零开始的异世界生活 OVA ~Memory Snow~ 1080p BDrip AVC AAC",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-588ec7f1cc48ab95138bfbcf8c3b334b8c5af584.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T15:18:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:588ec7f1cc48ab95138bfbcf8c3b334b8c5af584&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Cleo] 犬夜叉完结篇 InuYasha Kanketsu-hen 1-26 [Dual Audio 10bit BD1080p][HEVC-x265]（2009年）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-61302aa039da088f6560bb470d96c62c1aa751e3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-01T10:26:31.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:61302aa039da088f6560bb470d96c62c1aa751e3&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -15262,6 +16076,80 @@ module.exports = [
 {
 
 
+"name": "\n        【極影字幕社】黑社會的超能力女兒 Hinamatsuri 第01-12話合集 BIG5 BDRIP MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fca99471b36fcd1ddf4cc2e36216395c30b08228.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [雪飘工作室][約束のネバーランド / 约定的梦幻岛][Vol.2][BDRIP][1080p][简繁日字幕外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a9e1b9b998d6d4e3d4a6bfb414551beefe621c27.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
 "name": "\n        【DHR百合組】[賽馬娘Pretty Derby 特別篇_Uma Musume Pretty Derby Extra][01-03全][BDRip][繁體][1080P][[MP4",
 
 
@@ -15299,43 +16187,6 @@ module.exports = [
 {
 
 
-"name": "\n        【極影字幕社】黑社會的超能力女兒 Hinamatsuri 第01-12話合集 BIG5 BDRIP MP4",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-fca99471b36fcd1ddf4cc2e36216395c30b08228.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": true,
-
-
-"generalRanking": 2,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
 "name": "\n        【极影字幕社】黑社会的超能力女儿 Hinamatsuri 第01-12话合集 GB BDRIP MP4",
 
 
@@ -15354,50 +16205,13 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4dcc4828b9ec99a968cdd4a73badfdbcff28ecc6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
-"publishTime": null,
+"publishTime": "1970-01-01T00:00:00.000Z",
 
 
 "isComplete": true,
-
-
-"generalRanking": 2,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [雪飘工作室][約束のネバーランド / 约定的梦幻岛][Vol.2][BDRIP][1080p][简繁日字幕外挂]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-a9e1b9b998d6d4e3d4a6bfb414551beefe621c27.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
 
 
 "generalRanking": 2,
@@ -15428,10 +16242,10 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0c45c7b1131545e390f00a945f5431c245bf8fec.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
-"publishTime": null,
+"publishTime": "1970-01-01T00:00:00.000Z",
 
 
 "isComplete": false,
@@ -15441,6 +16255,4631 @@ module.exports = [
 
 
 "magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        【喵萌茶会字幕组】★10月新番【SSSS.GRIDMAN】[BDRIP][1080P][MP4][简体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2726e9db78b531eaf117f99d6c68e0691aded363.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-30T11:50:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2726e9db78b531eaf117f99d6c68e0691aded363&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 剧场版 魔法少女奈叶 Mahou Shoujo Lyrical Nanoha Detonation (BDRip 1920x1080 x264 FLAC) + Special disc",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-85eddaefa33c60be15cfd4372fbf5d726e40ca9a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-30T09:27:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:85eddaefa33c60be15cfd4372fbf5d726e40ca9a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌茶会字幕组】★10月新番【SSSS.GRIDMAN】[BDRIP][1080P][MP4][繁体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c297e40158386a8ad5cc23e63eb497fae622f0fe.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-30T08:36:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c297e40158386a8ad5cc23e63eb497fae622f0fe&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【转】[Cleo]七つの大罪 sin 七宗罪 sin nanatsu no taizai 1-12 BD1080P 10bit",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-54aa39602a60aa942c1bd75974c68824e108509b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-30T05:45:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:54aa39602a60aa942c1bd75974c68824e108509b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[格林笔记 The Animation][グリムノーツ The Animation][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e3e13d582bcedb6a392b09a29788970a19416303.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-30T03:09:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e3e13d582bcedb6a392b09a29788970a19416303&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [KissSub][Steins;Gate][命运石之门][14][GB_BIG5_JP][BDrip][1080P][HEVC] 衍生具象的崩坏",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-faac08bcbc7ae7041f4d8cc6f468f22542a96097.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-29T17:08:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:faac08bcbc7ae7041f4d8cc6f468f22542a96097&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [KissSub][Steins;Gate][命运石之门][13[GB_BIG5_JP][BDrip][1080P][HEVC] 永恒本源的崩坏",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c51188cacd7c8e537d9d08ee18d07a5a984a1522.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-29T17:07:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c51188cacd7c8e537d9d08ee18d07a5a984a1522&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] DATE A LIVE S3 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-edaba5e81e99cdbdadf1ed4e98fd73a0e4a822af.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-29T07:16:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:edaba5e81e99cdbdadf1ed4e98fd73a0e4a822af&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] W'z 1-13 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fe85e4b5257429f685f95af5d2d12a1c20490f6b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T13:16:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fe85e4b5257429f685f95af5d2d12a1c20490f6b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 童话魔法使/原书使 Marchen Madchen 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f00e58b4d81c1fa1be1d78f75937e7dbe752df6b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T13:13:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f00e58b4d81c1fa1be1d78f75937e7dbe752df6b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 约会大作战第三季 Date A Live S3 BD-BOX 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-64b607f978200e352a67cc1b699fdf2daa186b4f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T13:07:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:64b607f978200e352a67cc1b699fdf2daa186b4f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 狂赌之渊第二季 Kakegurui XX BD-BOX 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1b6f8b57735b89c97fd52fe8c600e7b321833b19.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T13:06:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1b6f8b57735b89c97fd52fe8c600e7b321833b19&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 勇者企划 Endro 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-11df6c90b24bf69c2186013456d478423a860a20.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T13:02:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:11df6c90b24bf69c2186013456d478423a860a20&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【鈴風字幕組&紫音壓制組】【噬血狂襲_III/Strike_the_Blood_III/ストライク・ザ・ブラッド III】【OVA】【Vol.3】[BDRip][1080P][HEVC YUV420P10 FLAC][MKV][繁體外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a8f364b6409c5c8c3c2679d3d878878b7152a821.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T12:16:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a8f364b6409c5c8c3c2679d3d878878b7152a821&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】★10月新番 关于我女友是个一本正经的处女碧池这件事 Boku no Kanojo ga Majime Sugiru Shobitch na Ken 01-OAD V2 BDRIP GB 1080P MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-790bba4d6f6229e9430fe80baafe4176af61737c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T09:45:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:790bba4d6f6229e9430fe80baafe4176af61737c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        变形金刚：领袖之证.Transformers.Prime.S01E08.中英字幕.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0cfb966b61648404a70d27826969337ca2c05b90.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T06:39:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0cfb966b61648404a70d27826969337ca2c05b90&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】★10月新番 關於我女友是個一本正經的處女碧池這件事 Boku no Kanojo ga Majime Sugiru Shobitch na Ken 01-OVA V2 BIG5 BDRIP 1080P MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8c902bfb249cf074c4f55ab3eee880e84bde3fb2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T06:14:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8c902bfb249cf074c4f55ab3eee880e84bde3fb2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[青春笨蛋猪头少年不做兔女郎学姐的梦/Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai][BDRip][HEVC_FLAC][简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1bccd45db68187998ec49f13a5f31c397801442d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-26T14:03:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1bccd45db68187998ec49f13a5f31c397801442d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Happy Sugar Life/幸福甜蜜生活][BDRIP][AVC_AAC][1080P][简体中文内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e7342baf4aad8b43c444f10401e4cfafa927bd59.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-26T04:27:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e7342baf4aad8b43c444f10401e4cfafa927bd59&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SweetSub][Sarazanmai][さらざんまい][Vol.01][BDRip][1080P][HEVC 10bit][简繁内封](检索用：皿三昧)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-89e25886a026a9cc2897f94883561e16c37dbdf7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-25T18:59:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:89e25886a026a9cc2897f94883561e16c37dbdf7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 黑礁 Black Lagoon 1-24+OVA (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f50081c9dd0bfbeb682a4bd192b5ea5029be07d6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-25T07:05:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f50081c9dd0bfbeb682a4bd192b5ea5029be07d6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Niconeiko Works] Itsudatte Bokura no Koi wa 10 cm Datta 无论何时我们的恋情都是10厘米。～告白实行委员会～ BDRip 1080P Ma10p HEVC FLAC (已修复原盘命名法)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9c4957f457c749e16186683965bb3ac042a3975d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-24T13:00:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9c4957f457c749e16186683965bb3ac042a3975d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 噬神者 God Eater 1-13 (BD 1920x1080 x.264 2Audio)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-897a016168f3273cf80e5817f664f4a7b9d8d558.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-24T10:30:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:897a016168f3273cf80e5817f664f4a7b9d8d558&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [bonkai77] 噬神者 God Eater 1-13 [BD 1080p] [DUAL-AUDIO] [x265] [HEVC] [AAC] [10bit]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bc1847476bb5e6d976b85fcd22a2a11addb4d51f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-24T10:24:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bc1847476bb5e6d976b85fcd22a2a11addb4d51f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 不死者之王第三季 Overlord III 1-13 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cfef3d16ad683f5016d8467cc9d0eedbe87ec2c4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-24T10:01:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cfef3d16ad683f5016d8467cc9d0eedbe87ec2c4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 剧场版 魔法少女奈叶Detonation Magical Girl Lyrical Nanoha Detonation (BD 1920x1080 x264 FLACx3)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-33e3ed446f3fb432c7aa75c177e24aefadec185e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-24T09:54:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:33e3ed446f3fb432c7aa75c177e24aefadec185e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 魔力女管家 全两季+特别篇 Mahoromatic S1+S2+SP (BD 1280x720 x264 AAC)（乳）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a925afeb53dfb872bed3b697ee867c4a0e0c1f9f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-23T13:00:41.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a925afeb53dfb872bed3b697ee867c4a0e0c1f9f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 剧场版 魔法少女奈叶Detonation  Mahou Shoujo Lyrical Nanoha Detonation (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a4a02e97a7024ec2853d8187e3943b1bdf8a6392.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-23T08:58:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a4a02e97a7024ec2853d8187e3943b1bdf8a6392&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 幻梦战记莉达 Genmu Senki Leda 4k Remaster BD-BOX (BD 1440x1080 x.264 Flac)（1985年）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c02573d2824637d45b4b432f9f32d4ff1c887012.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-23T01:52:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c02573d2824637d45b4b432f9f32d4ff1c887012&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[利兹与青鸟_Liz to Aoi Tori][BDRip 1920x1080 HEVC-YUV420P10 FLAC DTS-HDMA][简日/繁日外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-30c073826d8b75d1a585aa531acd62beba9e2f04.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T20:37:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:30c073826d8b75d1a585aa531acd62beba9e2f04&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[利茲與青鳥_Liz to Aoi Tori][BDRip 1920x1080 x264 FLAC][繁日雙語]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ecc29faa74a44adf3f03e25cb3a04c6aa1c51039.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T20:25:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ecc29faa74a44adf3f03e25cb3a04c6aa1c51039&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[利兹与青鸟_Liz to Aoi Tori][BDRip 1920x1080 x264 FLAC][简日双语]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6ceea50a84d63bc866512eef28ab7f3394a06141.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T20:23:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6ceea50a84d63bc866512eef28ab7f3394a06141&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [bonkai77] 蒸汽男孩 Steamboy [BD-1080p] [DUAL-AUDIO] [MULTI-SUB] [x265] [HEVC] [AAC] [10bit]（2004年）大友克洋",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0314ea889ec7a53826dd923f61b17efd8aa459d9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T13:07:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0314ea889ec7a53826dd923f61b17efd8aa459d9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[青春笨蛋/豬頭少年不做兔女郎學姐的夢/Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai][BDRip][01-13END][1080p][繁體]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5ac5ebbac4089b7532a8c486b6e069e4346964d6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T12:12:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5ac5ebbac4089b7532a8c486b6e069e4346964d6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[青春笨蛋/猪头少年不做兔女郎学姐的梦/Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai][BDRip][01-13END][1080p][简体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a3229351a10ce0aa3643a8e41b6051907b3cef17.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T12:11:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a3229351a10ce0aa3643a8e41b6051907b3cef17&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【茉语星梦&风之圣殿字幕组&VCB-Studio】[刀使巫女 / Toji_no_Miko][BDRip][01-24][合集][简体][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-82ef7d32fe625316039e144a481b8fd4f9360c71.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T08:54:07.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:82ef7d32fe625316039e144a481b8fd4f9360c71&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【茉語星夢&風之聖殿字幕組&VCB-Studio】[刀使巫女 / Toji_no_Miko][BDRip][01-24][合集][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8a08b2dfd63aff8b2363e38895ce94ab1526982a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T08:53:13.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8a08b2dfd63aff8b2363e38895ce94ab1526982a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [QTS] 幻梦战记莉达 LEDA -The Fantastic Adventure of Yohko- + Eizou Tokuten (BD Hi10P 1440x1080 WV)（1985年）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ddd78cdeb092729d0c55d5760c0495a862e8eae8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T01:10:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ddd78cdeb092729d0c55d5760c0495a862e8eae8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [BDMV] Angel Beats!",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-18cae1313b7ccd275c636b26aa1aff233e4ac8c3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-21T04:25:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:18cae1313b7ccd275c636b26aa1aff233e4ac8c3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【CXRAW】【ドラゴンボール超-ブロリー】【龙珠超布罗利】【BDrip】【HEVC Main10P FLAC】【MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9dc2f863285e9b24b6eb595bb8b07655d29a9e5e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-21T00:26:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9dc2f863285e9b24b6eb595bb8b07655d29a9e5e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 剧场版 夏目友人帐：缘结空蝉 Gekijouban Natsume Yuujinchou Utsusemi ni Musubu (BD 1280x720 x264 AAC)",
+
+
+"workName": "夏目友人帳",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1929e2fdc27f3eea844f1b0688bdd942b48fda74.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-20T11:29:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1929e2fdc27f3eea844f1b0688bdd942b48fda74&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[屍體派對 Tortured Souls -受折磨的靈魂-][BDRip][HEVC_FLAC][1080P_Ma10P][簡繁外掛](十週年賀禮第13彈)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-67c9c958b314f91e160f0c82ee8b1419e21477b2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-20T10:38:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:67c9c958b314f91e160f0c82ee8b1419e21477b2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國&KNA&輕之國度字幕組】[Re:從零開始的異世界生活][OVA][01][Memory Snow][BDRip][HEVC_FLAC][1080P_Ma10P][簡繁外掛]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fe9d45f23412a6c1ef3e8f07e9e0f43bff00ab88.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-20T02:51:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fe9d45f23412a6c1ef3e8f07e9e0f43bff00ab88&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【动漫国&KNA&轻之国度字幕组】[Re:从零开始的异世界生活][OVA][01][Memory Snow][BDRip][AVC_AAC][720P][简体][MP4][v2]",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-af416dd6ca1a936c8db042c63e3ed8fd5ddcb7a5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-19T16:44:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:af416dd6ca1a936c8db042c63e3ed8fd5ddcb7a5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 格林笔记 Grimms Notes The Animation BD-BOX 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e76e49ec8e6973fa8f7c63c8075b71ba7b748cfe.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-19T12:07:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e76e49ec8e6973fa8f7c63c8075b71ba7b748cfe&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【星云字幕组】【艾斯奥特曼】【30】【你也能看到奥特之星】【BDrip】【1440×1080】【MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b4ceb0bd2052a9d8beac4f177466aac361b7fabe.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-19T04:25:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b4ceb0bd2052a9d8beac4f177466aac361b7fabe&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[天使降临到了我身边！_Watashi ni Tenshi ga Maiorita!][BDRIP 1920x1080 x264 FLAC][MKV 简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-854180804f6455efe099a771c14192aa64e310c0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-18T11:55:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:854180804f6455efe099a771c14192aa64e310c0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[天使降临到了我身边！_Watashi ni Tenshi ga Maiorita!][BDRIP 1920x1080 HEVC-YUV420P10 FLAC][MKV 简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-23b5f0c79cb4330ddd215e9413f6dd9d3ccc40f1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-18T11:53:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:23b5f0c79cb4330ddd215e9413f6dd9d3ccc40f1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 宅男腐女恋爱真难/阿宅的恋爱太难 OAD Wotaku ni Koi wa Muzukashii OAD (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a55e15be3f4c4472664d2e71271d96c0ce1339d7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-17T11:29:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a55e15be3f4c4472664d2e71271d96c0ce1339d7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 同居人是猫/同居人时而在腿上、时而跑到脑袋上 Doukyonin wa Hiza Tokidoki Atama no Ue 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bdc5cf3dc579a1af96ab31c082a27b36cb5a1bff.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-17T11:25:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bdc5cf3dc579a1af96ab31c082a27b36cb5a1bff&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 笨拙之极的上野 Ueno-san wa Bukiyou 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-41e89659bead4eae96289f3d588c3b3d44098159.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-17T11:22:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:41e89659bead4eae96289f3d588c3b3d44098159&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[天使降临到了我身边！_Watashi ni Tenshi ga Maiorita!][13_OVA][BDRip x264 1080p][CHS]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7b5d909cbcc73ae8e553b7cc3686c058d54607cb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-17T08:24:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7b5d909cbcc73ae8e553b7cc3686c058d54607cb&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[天使降臨到了我身邊！_Watashi ni Tenshi ga Maiorita!][13_OVA][BDRip x264 1080p][CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f5d4a194ed011a3dc5eddf2258a3516bb23f0118.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-17T08:24:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f5d4a194ed011a3dc5eddf2258a3516bb23f0118&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】★10月新番 關於我女友是個一本正經的處女碧池這件事 Boku no Kanojo ga Majime Sugiru Shobitch na Ken 01-OVA BIG5 BDRIP 1080P MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0e01583cce4f19ffae642db9c97aff60dabeb863.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-17T04:43:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0e01583cce4f19ffae642db9c97aff60dabeb863&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SweetSub][企鵝公路 / 企鵝高速公路][Penguin Highway][ペンギン・ハイウェイ][Movie][BDRip][1080P][AVC 8bit][繁體內嵌][V3]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-089fd10cdf5bb85febe0498ec8806a59fbef1293.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-17T03:49:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:089fd10cdf5bb85febe0498ec8806a59fbef1293&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SweetSub][企鹅公路 / 企鹅高速公路][Penguin Highway][ペンギン・ハイウェイ][Movie][BDRip][1080P][AVC 8bit][简体内嵌][V3]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3db2de2faa9f6c9d913ee84bb45f0d6c3f6cad92.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-17T03:49:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3db2de2faa9f6c9d913ee84bb45f0d6c3f6cad92&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [けいおん！][轻音少女][K-ON!][2009][BD Vol.1-7][1080p][AVC-yuv420p10 FLAC MKV][mawen1250][fch1993增补版][国粤日英4语7音轨][rev_2]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b3fefe34cdb92123e0e5cabed07d004a78c5755e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-16T02:19:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b3fefe34cdb92123e0e5cabed07d004a78c5755e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [けいおん！][轻音少女][K-ON!][2009][BD Vol.1-7][1080p][AVC-yuv420p10 FLAC MKV][mawen1250][fch1993增补版][国粤日英4语7音轨][rev_2]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6b529e6b240b27bdeae341be909983ab759238ca.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-16T01:41:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6b529e6b240b27bdeae341be909983ab759238ca&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 杀戮的天使/杀戮天使 Satsuriku no Tenshi 1-16 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2c48574483eec162b60f445ac3e6519fbfe6b877.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T23:02:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2c48574483eec162b60f445ac3e6519fbfe6b877&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 爆肝工程师的异世界狂想曲  Death March kara Hajimaru Isekai Kyousoukyoku 1-12 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-86cbaedd08a166f1de76fdc7dff43bcaf5dff0d6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T16:32:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:86cbaedd08a166f1de76fdc7dff43bcaf5dff0d6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 笨拙之极的上野 Ueno-san wa Bukiyou 1-12 (BDRip 1920x1036 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9282210175f80e4419f512fcb4f0e7d75f92ed4d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T12:46:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9282210175f80e4419f512fcb4f0e7d75f92ed4d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 剧场版 七人魔法使 -悠久图书馆与炼金术少女 Gekijouban Trinity Seven Eternity Library to Alchemic Girl (BD 1920x1080 x.264 Flac)（2017）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bce56fe8941265253a66066762b626c4c83cddfd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T06:29:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bce56fe8941265253a66066762b626c4c83cddfd&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 剧场版 七人魔法使 天空图书馆与真红魔王 Gekijouban Trinity Seven Heavens Library to Crimson Lord (BD 1920x1080 x.264 Flac)（2019）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dc7103a26082ada8976cf290c9c12079783bbf64.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T06:26:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dc7103a26082ada8976cf290c9c12079783bbf64&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[刀劍神域外傳 Gun Gale Online][BDRip][HEVC_FLAC][1080P_Ma10P][簡繁外掛](十週年賀禮第12彈)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4bb1e37948790def1309413ac241852122d9fd76.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T04:48:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4bb1e37948790def1309413ac241852122d9fd76&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】[刀剑神域外传 Gun Gale Online][01-12][BDRip][AVC_AAC][1080P][简体][MP4](十周年贺礼第12弹)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-51426ab77e44514c85042678fdf2cc327ba82a77.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T04:42:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:51426ab77e44514c85042678fdf2cc327ba82a77&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[刀劍神域外傳 Gun Gale Online][01-12][BDRip][AVC_AAC][1080P][繁體][MP4](十週年賀禮第12彈)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3687b00e5811fdd90ee0a1a10401a0a976f6b15d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T04:41:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3687b00e5811fdd90ee0a1a10401a0a976f6b15d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 勇者王 Yuusha Ou GaoGaiGar Final & GGG BD-BOX (BD 1440x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d7abb881e6223435567d303dd8a7675c2a720399.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-14T17:33:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d7abb881e6223435567d303dd8a7675c2a720399&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 变态王子与不笑猫 Hentai Ouji to Warawanai Neko. 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-43aecb047eb5bb4cfa73163a3dad6908e29bf59b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-14T17:28:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:43aecb047eb5bb4cfa73163a3dad6908e29bf59b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 只要别西卜大小姐喜欢就好/只要贝尔哲布布大小姐喜欢就好 Beelzebub-jou no Okinimesu mama 1-12 (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-528e4279fef968e19b295aadc54cac134118d5e4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-14T17:23:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:528e4279fef968e19b295aadc54cac134118d5e4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [风之圣殿&茉语星梦&VCB-Studio] Toji no Miko / 刀使巫女 / 刀使ノ巫女 10-bit 1080p HEVC BDRip [Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-00fa0b1c321b82e073568dd17b6b30c8d6808f37.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-14T07:05:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:00fa0b1c321b82e073568dd17b6b30c8d6808f37&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 后街女孩 Back Street Girls Goku Dolls BD-BOX 1-10 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a94c6f4cfa40d35537124ca121583dc3e5f1e090.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-13T11:10:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a94c6f4cfa40d35537124ca121583dc3e5f1e090&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Amanchu! Advance (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-67f96fe497f250d76f713ab4957110d5f6786451.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-13T10:32:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:67f96fe497f250d76f713ab4957110d5f6786451&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 黑子的籃球 Kuroko no Basket S1 (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cb1858c5e631dbb7a8c9328a5d0aed4cd288dfd1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-13T10:32:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cb1858c5e631dbb7a8c9328a5d0aed4cd288dfd1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 黑子的籃球 S2 Kuroko no Basket S2 (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-981468b062968997750f0a1d0b00474bea3650f1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-13T10:32:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:981468b062968997750f0a1d0b00474bea3650f1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 黑子的籃球S3 Kuroko no Basket S3 (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fef83cabfdd743fd8ebc1aa83d6546be4ba40e47.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-13T10:31:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fef83cabfdd743fd8ebc1aa83d6546be4ba40e47&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 劇場版黑子的籃球 LAST GAME Kuroko no Basket The Movie Last Game (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-86728bc28cb10b7c474a4f5f1389c5ab2ab59030.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-13T10:31:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:86728bc28cb10b7c474a4f5f1389c5ab2ab59030&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Dragon Ball Super Broly (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-462a259af411d67d7749a87940f87aaaf032e922.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-13T10:31:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:462a259af411d67d7749a87940f87aaaf032e922&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 網球王子 OVA  Tennis no Ouji-sama Another Story BD-BOX (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-337b55fa72df2505066ade27e59316ad550706d9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-13T10:31:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:337b55fa72df2505066ade27e59316ad550706d9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [KissSub][Steins;Gate][命运石之门][12][GB_BIG5_JP][BDrip][1080P][HEVC] 静滞极限的教理",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-88150951dd225694b73661aedbbbd8b6a8d8ea35.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-11T04:34:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:88150951dd225694b73661aedbbbd8b6a8d8ea35&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國&KNA&輕之國度字幕組】[Re:從零開始的異世界生活][OVA][01][Memory Snow][BDRip][AVC_AAC][1080P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b90763f466882bbf8e38f51fdf87f920fe39951e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-10T09:42:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b90763f466882bbf8e38f51fdf87f920fe39951e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【动漫国&KNA&轻之国度字幕组】[Re:从零开始的异世界生活][OVA][01][Memory Snow][BDRip][AVC_AAC][720P][简体][MP4]",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ae121542029e2144dff3a5232094a9fa12c9db1f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-09T13:20:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ae121542029e2144dff3a5232094a9fa12c9db1f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】★10月新番 关于我女友是个一本正经的处女碧池这件事 Boku no Kanojo ga Majime Sugiru Shobitch na Ken OVA GB BDRIP MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7ce839ed8b8c90df71d24ecfa169743b9e305503.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-09T05:40:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7ce839ed8b8c90df71d24ecfa169743b9e305503&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】★10月新番 關於我女友是個一本正經的處女碧池這件事 Boku no Kanojo ga Majime Sugiru Shobitch na Ken OVA BIG5 BDRIP MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c8794305c8142db3e8f66882d18ae7c1c415752b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-09T05:40:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c8794305c8142db3e8f66882d18ae7c1c415752b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Okawari Boy StarzanS  1-34 (BD 1620x1080 x.264 Flac) （1984年）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8add8cb07a53056fd69393d325e1e7034de6e94d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-09T01:09:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8add8cb07a53056fd69393d325e1e7034de6e94d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Beatrice-Raws] 青春笨蛋少年不做兔女郎学姐的梦/青春猪头少年不会梦到兔女郎学姐 Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai 1-13 [BDRip 1920x1080 HEVC FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-afebe865afd7ddaec32d5056f95aae2979edc2fc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-08T01:31:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:afebe865afd7ddaec32d5056f95aae2979edc2fc&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 噬血狂袭第三季 OVA Strike the Blood III Vol3 5-6 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-404d65442a774101afdd4c9e4575f94e81df36ad.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-07T22:23:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:404d65442a774101afdd4c9e4575f94e81df36ad&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】★剧场版★[窈窕淑女 前后篇/Haikara-san ga Toru the movie zenpen&kouhen][BDRip 1080p HEVC_Ma10p_DTS-HDMA_FLAC][简繁外挂][Rev]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-81e5279c46804a81a503ad900ef649ea313357de.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-07T21:12:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:81e5279c46804a81a503ad900ef649ea313357de&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 弦音-风舞高中弓道部 Tsurune Kazemai Koukou Kyuudou Bu 1-14 (BD 1920x1080 x.264 FLACx3)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d582df9a3a4fee2dfbc3c0eeb90db8814fd11d2e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-07T10:47:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d582df9a3a4fee2dfbc3c0eeb90db8814fd11d2e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [银色子弹字幕组][青山刚昌短篇集][BDRIP][1080P][简日双语MP4/繁日双语MP4/简繁日多语MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ecac89f0c329252c20072ec3c4a24739284d3ed5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-07T07:30:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ecac89f0c329252c20072ec3c4a24739284d3ed5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 弦音-风舞高中弓道部 Tsurune ~Kazemai Koukou Kyuudou Bu~ 1-14 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d77892e4047121188f10f5bd5d60b66a06192654.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T22:41:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d77892e4047121188f10f5bd5d60b66a06192654&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] OVA Re:从零开始的异世界生活 Re - Zero Kara Hajimeru Isekai Seikatsu Memory Snow OVA (BD 1280x720 x264 AACx2)",
+
+
+"workName": "Re:ゼロから始める異世界生活",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-04a00ee998072d4a762f139a0702217334e04e50.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T14:57:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:04a00ee998072d4a762f139a0702217334e04e50&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        Re:從零開始的異世界生活 OVA Memory Snow / Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow OVA [BDMV][AVC 1080p][JP]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7001e546913868fefd69a38256095c77b8f6766b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T14:36:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7001e546913868fefd69a38256095c77b8f6766b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 废柴王子 Dame x Prince Anime Caravan 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0ae0acd92a73ba6e40b3ca941f195d558a591e71.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T06:37:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0ae0acd92a73ba6e40b3ca941f195d558a591e71&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2 / Notice] 飙速宅男第四季 Yowamushi Pedal Glory Line BD-BOX 1-25 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-43e0bbaddb366274ae905e9b66f1502c1c2f0338.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T01:54:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:43e0bbaddb366274ae905e9b66f1502c1c2f0338&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 飙速宅男第三季 Yowamushi Pedal New Generation 1-25 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-69e64028997c0d3b0e6115bd9ae9af9c2c0ebe97.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T01:53:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:69e64028997c0d3b0e6115bd9ae9af9c2c0ebe97&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 飞翔吧!战机少女 Girly Air Force 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-73c3e529b0763fa0f6c8db8a0d01852aadbe755c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T01:43:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:73c3e529b0763fa0f6c8db8a0d01852aadbe755c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 元寇合战记 Angolmois Genkou Kassenki BD-BOX 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a4de0093fdddfa31c296e28971cf9cbddc0b954d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T01:42:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a4de0093fdddfa31c296e28971cf9cbddc0b954d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 将国戡乱记/将国之天鹰星 Shoukoku no Altair 1-24 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-92c01259919ee01108c8d783da334f394ee355e0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T01:40:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:92c01259919ee01108c8d783da334f394ee355e0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] ID-0 BD-BOX (BD 1920x1080 x.264 FLACx3)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4a8af8d9ba2832f9c65422701d4f299635258262.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T01:37:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4a8af8d9ba2832f9c65422701d4f299635258262&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 爆肝工程师的异世界狂想曲 Death March kara Hajimaru Isekai Kyousoukyoku (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2181e605ab025a6271742b76a0a30636ce06e07f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T01:16:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2181e605ab025a6271742b76a0a30636ce06e07f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [星空字幕组][怪兽娘（黑）～奥特怪兽拟人化计划～][剧场版][1080p][BDrip][简繁日内封][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-407f0af201176103beb7bc7c014bb52d6a844a17.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-05T13:39:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:407f0af201176103beb7bc7c014bb52d6a844a17&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 无敌超人赞波3 Muteki Choujin Zambot 3 BD-BOX 1-23 (BD 1440x1080 x.264 Flac) （1977年）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3447321b31398421a8ae6d6f49e51f6dea131724.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-04T14:40:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3447321b31398421a8ae6d6f49e51f6dea131724&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 战国魔神 Sengoku Majin Goushougun BD-BOX 1-26+Movie (BD 1440x1080 x.264 Flac) （1981年）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1d66250ae1bf2877113de85d6a9db5c44146f012.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-04T14:33:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1d66250ae1bf2877113de85d6a9db5c44146f012&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [KissSub][Steins;Gate][命运石之门][11][GB_BIG5_JP][BDrip][1080P][HEVC] 时空边界的教理",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1733d0c6ec8b21ede67a8b2612c02e66f4b2c1f8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-04T05:31:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1733d0c6ec8b21ede67a8b2612c02e66f4b2c1f8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [KissSub][Steins;Gate][命运石之门][10][GB_BIG5_JP][BDrip][1080P][HEVC] 相生相克的定态",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f8a1f0008605632a050b0d07c01e59f1f05afa2f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-04T05:05:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f8a1f0008605632a050b0d07c01e59f1f05afa2f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 寄宿学校的朱丽叶 Kishuku Gakkou no Juliet 1-12 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a296a565aefd0c0e11af80bc0d80ca66769cf0fe.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-03T12:09:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a296a565aefd0c0e11af80bc0d80ca66769cf0fe&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【Little字幕组】美少女战士Sailor Moon 15 [BDRip][1080P][中日双字][MP4]（招募翻译美工）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aa20f224bb4ae441a79646bf1fded13386354ae7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T13:57:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aa20f224bb4ae441a79646bf1fded13386354ae7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Niconeiko Works] POP IN Q BDRip 1080P Ma10p HEVC DTS-HDMA FLAC",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aa6242e1981edfb96dce14bab02dbf1670e82d22.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T10:32:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aa6242e1981edfb96dce14bab02dbf1670e82d22&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【DHR百合組】[天使降臨到我身邊！_Watashi ni Tenshi ga Maiorita!][SPv2][繁體][1080P10][BDRip][HEVC][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7201f80d9fdc3a2ef221c87f5e1d0553a6daf8a2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T09:31:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7201f80d9fdc3a2ef221c87f5e1d0553a6daf8a2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [KissSub][Steins;Gate][命运石之门][09][GB_BIG5_JP][BDrip][1080P][HEVC] 虚幻离常的定态",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ea01424b157937823d54edca59410ab3d03422c5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T08:43:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ea01424b157937823d54edca59410ab3d03422c5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[學戰都市Asterisk][BDRip][HEVC_FLAC][1080P_Ma10P][簡繁外掛](十週年賀禮第11彈)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-60b8a5cfd0a05a582c09007a9f6b5c7c621423b6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T07:24:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:60b8a5cfd0a05a582c09007a9f6b5c7c621423b6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】[学战都市Asterisk][01-24][BDRip][AVC_AAC][1080P][简体][MP4](十周年贺礼第11弹)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-736519c51a5e82618b5c27fc7ea71f3c9c57806a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T07:16:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:736519c51a5e82618b5c27fc7ea71f3c9c57806a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[學戰都市Asterisk][01-24][BDRip][AVC_AAC][1080P][繁體][MP4](十週年賀禮第11彈)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6796ad59209305497a481e3432cbd5af1311fe7e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T07:06:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6796ad59209305497a481e3432cbd5af1311fe7e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 妖怪旅馆营业中 Kakuriyo no Yadomeshi 1-26 (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-629e823560d4c3b4b3638ca928a07add23cb9279.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T07:01:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:629e823560d4c3b4b3638ca928a07add23cb9279&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [KissSub][Steins;Gate][命运石之门][08][GB_BIG5_JP][BDrip][1080P][HEVC] 梦魇显露的定态.mkv",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ac757fd7bbd2eeb959806e2f315001b4dec362e8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T05:49:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ac757fd7bbd2eeb959806e2f315001b4dec362e8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【DHR百合組】[天使降臨到我身邊！_Watashi ni Tenshi ga Maiorita!][SP][繁體][1080P10][BDRip][HEVC][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ebd70e4b226d08632586f7dfdc38a908b0f1a6c0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T05:09:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ebd70e4b226d08632586f7dfdc38a908b0f1a6c0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [bonkai77] 新世纪福音战士 Neon Genesis Evangelion 1-26 [BD-1080p] [DUAL-AUDIO] [MULTI-SUB] [x265] [HEVC] [AAC] [10bit] （1995年）简繁内封",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-71a9b46a9ef2da054f206a59de34cd7e7faf657a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-01T23:12:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:71a9b46a9ef2da054f206a59de34cd7e7faf657a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 机甲界加里安/机甲界卡利安 Kikou Kai Galient Premium BD-BOX  1-25+OVA (BD 1440x1080 x.264 Flac) （1984年）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bef71ed9d1fb686949ad230c1ffb764f2e4c75a2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-01T22:14:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bef71ed9d1fb686949ad230c1ffb764f2e4c75a2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[多田君不谈恋爱_Tada-kun wa Koi wo Shinai][BDRIP 1080p][x264 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-682140222ff9508b0e524946c88e9ee343001b89.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-01T16:54:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:682140222ff9508b0e524946c88e9ee343001b89&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【Little字幕组】美少女战士Sailor Moon 14 [V2][BDRip][1080P][中日双字][MP4]（招募翻译美工）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bf474817cac489ad9fecc89b61dc6f4b122a00d9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-01T12:02:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bf474817cac489ad9fecc89b61dc6f4b122a00d9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 杀戮的天使/杀戮天使 Satsuriku no Tenshi 1-16 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-663c8a3436f5b41e6c51f7c9a657bcfa193de10a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-01T04:39:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:663c8a3436f5b41e6c51f7c9a657bcfa193de10a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 寄宿学校的朱丽叶 Kishuku Gakkou no Juliet 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d14db4ebbedd7ef5613279f05a7a1eed72dfee82.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-01T04:37:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d14db4ebbedd7ef5613279f05a7a1eed72dfee82&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 山林小猎人 Hajime Ningen Gyatoruz BD-BOX 1-77 (BD 1440x1080 x.264 Flac)（1974年）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-69d13211d3bbd464b03d8b2ce51e0002323c489e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-01T04:32:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:69d13211d3bbd464b03d8b2ce51e0002323c489e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【劇場版】【龍珠超：布羅利 Dragon Ball Super Broly】【BDrip】【BIG5_MP4】【1920X1080】【UK.ver】[附掃圖]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-03245167fea718cdf3def67509872643a240f079.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-05-31T10:42:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:03245167fea718cdf3def67509872643a240f079&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【剧场版】【龙珠超：布罗利 Dragon Ball Super Broly】【BDrip】【GB_MP4】【1920X1080】【UK.ver】[附扫图]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2fe73dc82808b6c29196ea6cd272cb014e5a4a3f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-05-31T10:38:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2fe73dc82808b6c29196ea6cd272cb014e5a4a3f&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -15465,7 +20904,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b57f8bd9806ce619915d18dc855a4852403f7ca9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-05-30T23:02:15.000Z",
@@ -15502,7 +20941,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0c61801457748ec06e922cefccf618a4ddf570e0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-05-30T16:03:45.000Z",
@@ -15539,7 +20978,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ae01b395608f1619f1d25dac6e553742331818c9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-05-30T16:03:41.000Z",
@@ -15576,7 +21015,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d71a138515b25bc099e1efe331f1b357ad6e7514.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-05-30T09:42:26.000Z",
@@ -15613,7 +21052,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ffcfabc388e948b7d2a4b8b8cc18d1997aea50ad.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-05-29T20:03:28.000Z",
@@ -15650,7 +21089,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-685368f6e473d93963074fb746beea1868cdbdb0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-05-28T11:47:53.000Z",
@@ -15687,7 +21126,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c04f4b7717f84c7f7e6dcc4d1b8f5f3b1e3b0dcb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-05-27T13:00:12.000Z",
@@ -56147,43 +61586,6 @@ module.exports = [
 {
 
 
-"name": "\n        [Snow-Raws] 牵牛花与加濑同学。/Asagao to Kase-san./あさがおと加瀬さん。OVA  (BD 1920x1080 HEVC-YUV420P10 FLAC)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-4b057b9892e066151289a052b6198eaa3304207b.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2018-08-25T16:15:11.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:4b057b9892e066151289a052b6198eaa3304207b&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
 "name": "\n        [Snow-Raws] 问题儿童都来自异世界?/Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?/ 問題児たちが異世界から来るそうですよ？(BD 1920x1080 HEVC-YUV420P10 FLAC)",
 
 
@@ -56215,6 +61617,43 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:be84343a999336cb80bfb9ab70025052254d4b2c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 牵牛花与加濑同学。/Asagao to Kase-san./あさがおと加瀬さん。OVA  (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4b057b9892e066151289a052b6198eaa3304207b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2018-08-25T16:15:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4b057b9892e066151289a052b6198eaa3304207b&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
@@ -88495,191 +93934,6 @@ module.exports = [
 {
 
 
-"name": "\n        [ReinForce] 天使降临到了我身边 Watashi ni Tenshi ga Maiorita! 1-13 (BDRip 1920x1080 x264 FLAC)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-335f5c57a14ff851c80d4c4cc4c72549f15d58b2.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [SweetSub][剧场版 温泉屋少掌柜 / 温泉屋小女将][Okko's Inn][Movie][BDRip][1080P][AVC 8bit][简体内嵌]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-219c09f73340bd0ba01745f58521f0a45af70625.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [SweetSub][劇場版 溫泉屋少掌櫃 / 溫泉屋小女將][Okko's Inn][Movie][BDRip][1080P][AVC 8bit][繁體內嵌]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-be134281d314ef1d13bbbe577bd7833792ce0aaa.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        【星云字幕组】【艾斯奥特曼】【29】【奥特六弟】【BDrip】【1440×1080】【MKV】",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-8fcd53e99ee8adad46af7a869904cea995a2136f.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        【ReinForce】【约会大作战 第三季】【DATE A LIVE S3 Vol 1】【01-06】【BDrip】【1920x1680】【mkv】",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-fb120bc1ad1852d2a742e75ab6c32794800629ab.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
 "name": "\n        【DHR動研字幕組&動漫國字幕組】【私人内嵌字幕重压版】[惡魔高校_High School DxD Born][1-13][BDRip][繁中内嵌][1080P][AAC]",
 
 
@@ -88714,450 +93968,6 @@ module.exports = [
 
 
 "dup": false
-
-},
-
-{
-
-
-"name": "\n        [钢炼FA动画10周年][鋼の錬金術師Fullmetal Alchemist][鋼之鍊金術師FA/钢之炼金术师FA][2009][日粵雙語_BDrip_1080p][漫游简中+粤语繁中]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-cc087339c985cdf509571c1faaf6e4b779198655.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [诸神字幕组][文豪野犬(二期)][Bungo Stray Dogs][BDRip][简繁日文字幕][25][OVA][1080P][HEVC MKV]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-d8772f2dd61954a9fff10f120616f6373e30972d.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        nazo no kanojo X/谜之彼女X/谜样女友X/迷之彼女/謎の彼女X BDrip/[TSDM][迷の彼女X][subtitles][GB简体中文]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-bee18620c563b9747c3016379404ebf7a5f8cc43.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        【喵萌奶茶屋】★剧场版★[窈窕淑女 前后篇/Haikara-san ga Toru the movie zenpen&kouhen][BDRip 1080p HEVC_Ma10p_DTS-HDMA_FLAC][简繁外挂][Fin]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-2fd34ae918470d7b45c04cdc3e6fb1ede3eb6f8a.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [Moozzi2] 樱花忍法帖 Basilisk Ouka Ninpouchou BD-BOX (BD 1920x1080 x264 FLACx2)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-9401925d956e4b0c849f69cc17dcc2dcf901ca7a.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [Moozzi2] 武裝少女Machiavellism Busou Shoujo Machiavellianism (BD 1920x1080 x264 FLACx2)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-e7f47259f97fcce17a4f83d754b9e4b22d7118c9.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [Moozzi2] 南镰仓高校女子自行车社 Minami Kamakura Koukou Joshi Jitensha Bu (BD 1920x1080 x264 Flac)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-4c343662a9868435b8f359c6cf1241683b578723.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [Moozzi2] 天使降臨到了我身邊! Watashi ni Tenshi ga Maiorita! (BD 1920x1080 x264 Flac)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-cf938753e80fa05b6f53ffdb00f2fdd320f4bbaa.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [Moozzi2] 百煉霸王與聖約女武神 Hyakuren no Haou to Seiyaku no Valkyria (BD 1920x1080 x264 Flac)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-6bf9c762d3622ed1ef9edbcae5974449a8c1057c.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [Moozzi2] 皇帝聖印戰記 Grancrest Senki (BD 1920x1080 x264 Flac)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-e27a878e84e290092d91e19cd5ced2036cc9506a.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [ReinForce] 藍海少女！Amanchu! (BDRip 1920x1080 x264 FLAC)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-e64e51d528e59ad87bf54d64c003614f53f11791.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [Cleo] 剧场版 龙珠超:布罗利  Dragon Ball Super Movie: Broly [Dual Audio 10bit BD1080p][HEVC-x265]（2018）",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-b4c99a97be0c2cdba2cf8a6f29e9a29ec6b518ac.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": ""
 
 },
 
@@ -103044,46 +107854,6 @@ module.exports = [
 {
 
 
-"name": "\n        [Moozzi2] 小魔女DoReMi 劇場版 Ojamajo Doremi The Movie (BD 1920x1032 x264 Flac)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "1080p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-64060d93dbe51fd83b69f2b05486925ba797d67d.html",
-
-
-"isNew": false,
-
-
-"publishTime": "2017-11-19T04:57:50.000Z",
-
-
-"isComplete": false,
-
-
-"generalRanking": 3,
-
-
-"magnetLink": "magnet:?xt=urn:btih:64060d93dbe51fd83b69f2b05486925ba797d67d&tr=http://open.acgtracker.com:1096/announce",
-
-
-"dup": false
-
-},
-
-{
-
-
 "name": "\n        [Moozzi2] 爱丽丝与藏六 Alice to Zouroku (BD 1920x1080 x264 FLACx2)",
 
 
@@ -103115,6 +107885,46 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:2620ffbd92db7c99a4d905a6c8ee61a41aea996e&tr=http://open.acgtracker.com:1096/announce",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 小魔女DoReMi 劇場版 Ojamajo Doremi The Movie (BD 1920x1032 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-64060d93dbe51fd83b69f2b05486925ba797d67d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2017-11-19T04:57:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:64060d93dbe51fd83b69f2b05486925ba797d67d&tr=http://open.acgtracker.com:1096/announce",
 
 
 "dup": false
@@ -136324,7 +141134,7 @@ module.exports = [
 {
 
 
-"name": "\r\n        [诸神&幻之&MGRT][声之形][Koe no Katachi][GB][1080P][BDRip][中日双语字幕][MKV]",
+"name": "\n        [诸神字幕组][文豪野犬(二期)][Bungo Stray Dogs][BDRip][简繁日文字幕][25][OVA][1080P][HEVC MKV]",
 
 
 "workName": "",
@@ -136339,7 +141149,7 @@ module.exports = [
 "subtitleProvider": "",
 
 
-"url": "http://www.kisssub.org/show-2debf834e3b0dc59b5b062501d6d2b7ac8dff7df.html",
+"url": "http://www.kisssub.org/show-d8772f2dd61954a9fff10f120616f6373e30972d.html",
 
 
 "isNew": false,
@@ -136354,10 +141164,118 @@ module.exports = [
 "generalRanking": 3,
 
 
-"magnetLink": "",
+"magnetLink": ""
+
+},
+
+{
 
 
-"dup": false
+"name": "\n        [Moozzi2] 皇帝聖印戰記 Grancrest Senki (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e27a878e84e290092d91e19cd5ced2036cc9506a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 樱花忍法帖 Basilisk Ouka Ninpouchou BD-BOX (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9401925d956e4b0c849f69cc17dcc2dcf901ca7a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】★剧场版★[窈窕淑女 前后篇/Haikara-san ga Toru the movie zenpen&kouhen][BDRip 1080p HEVC_Ma10p_DTS-HDMA_FLAC][简繁外挂][Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2fd34ae918470d7b45c04cdc3e6fb1ede3eb6f8a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
 
 },
 
@@ -136404,6 +141322,83 @@ module.exports = [
 {
 
 
+"name": "\r\n        [诸神&幻之&MGRT][声之形][Koe no Katachi][GB][1080P][BDRip][中日双语字幕][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2debf834e3b0dc59b5b062501d6d2b7ac8dff7df.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "",
+
+
+"dup": false
+
+},
+
+{
+
+
+"name": "\n        [SweetSub][劇場版 溫泉屋少掌櫃 / 溫泉屋小女將][Okko's Inn][Movie][BDRip][1080P][AVC 8bit][繁體內嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-be134281d314ef1d13bbbe577bd7833792ce0aaa.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
 "name": "\n        【MCE汉化组】[剧场版 我的英雄学院 ~两个英雄~][Boku no Hero Academia the Movie][BDRIP][GB][1080P][x264 AAC][v2]",
 
 
@@ -136420,6 +141415,413 @@ module.exports = [
 
 
 "url": "http://www.kisssub.org/show-d320211baa4f69c4ed49c9e476f95d155bf0cb75.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 藍海少女！Amanchu! (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e64e51d528e59ad87bf54d64c003614f53f11791.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        nazo no kanojo X/谜之彼女X/谜样女友X/迷之彼女/謎の彼女X BDrip/[TSDM][迷の彼女X][subtitles][GB简体中文]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bee18620c563b9747c3016379404ebf7a5f8cc43.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 百煉霸王與聖約女武神 Hyakuren no Haou to Seiyaku no Valkyria (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6bf9c762d3622ed1ef9edbcae5974449a8c1057c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 天使降臨到了我身邊! Watashi ni Tenshi ga Maiorita! (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cf938753e80fa05b6f53ffdb00f2fdd320f4bbaa.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [Cleo] 剧场版 龙珠超:布罗利  Dragon Ball Super Movie: Broly [Dual Audio 10bit BD1080p][HEVC-x265]（2018）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b4c99a97be0c2cdba2cf8a6f29e9a29ec6b518ac.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 武裝少女Machiavellism Busou Shoujo Machiavellianism (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e7f47259f97fcce17a4f83d754b9e4b22d7118c9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 天使降临到了我身边 Watashi ni Tenshi ga Maiorita! 1-13 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-335f5c57a14ff851c80d4c4cc4c72549f15d58b2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 南镰仓高校女子自行车社 Minami Kamakura Koukou Joshi Jitensha Bu (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4c343662a9868435b8f359c6cf1241683b578723.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        【星云字幕组】【艾斯奥特曼】【29】【奥特六弟】【BDrip】【1440×1080】【MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8fcd53e99ee8adad46af7a869904cea995a2136f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [SweetSub][剧场版 温泉屋少掌柜 / 温泉屋小女将][Okko's Inn][Movie][BDRip][1080P][AVC 8bit][简体内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-219c09f73340bd0ba01745f58521f0a45af70625.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        【ReinForce】【约会大作战 第三季】【DATE A LIVE S3 Vol 1】【01-06】【BDrip】【1920x1680】【mkv】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fb120bc1ad1852d2a742e75ab6c32794800629ab.html",
 
 
 "isNew": false,
@@ -136478,6 +141880,2078 @@ module.exports = [
 {
 
 
+"name": "\n        [钢炼FA动画10周年][鋼の錬金術師Fullmetal Alchemist][鋼之鍊金術師FA/钢之炼金术师FA][2009][日粵雙語_BDrip_1080p][漫游简中+粤语繁中]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cc087339c985cdf509571c1faaf6e4b779198655.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 3D女友/三次元女友第二季 3D Kanojo Real Girl 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bf9eef57d71a4b4f11dfc5aab0313992022d74e0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-30T08:35:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bf9eef57d71a4b4f11dfc5aab0313992022d74e0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 原书使 Marchen Madchen 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9ea47225f21a9c432024cf8b4b10212ba696ba67.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-29T07:10:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9ea47225f21a9c432024cf8b4b10212ba696ba67&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 约会大作战第三季 Date a Live III 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8daf898dfe51039cf0a99220a5013d258e6124dd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-29T04:30:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8daf898dfe51039cf0a99220a5013d258e6124dd&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【女神異聞錄5 PERSONA5 the Animation】【OVA】【BDrip】【BIG5_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8902624a4e2e646e864fd9cbeb3e9fa0616c878e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-28T01:39:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8902624a4e2e646e864fd9cbeb3e9fa0616c878e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【女神异闻录5 PERSONA5 the Animation】【OVA】【BDrip】【GB_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9b6ad0b172278a25702416e13116f73c0be45d5f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-28T01:37:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9b6ad0b172278a25702416e13116f73c0be45d5f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        蝙蝠侠与哈莉·奎恩.Batman.and.Harley.Quinn.中英字幕.BD-720.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-377b08f884ffa382e5661e78ff56c23bec15d062.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T15:56:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:377b08f884ffa382e5661e78ff56c23bec15d062&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】★10月新番 关于我女友是个一本正经的处女碧池这件事 Boku no Kanojo ga Majime Sugiru Shobitch na Ken 01-OAD V2 BDRIP GB 720P MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-041d0d6a9cecd8d5bb4450a63984b18469f180d6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T09:37:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:041d0d6a9cecd8d5bb4450a63984b18469f180d6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】★10月新番 關於我女友是個一本正經的處女碧池這件事 Boku no Kanojo ga Majime Sugiru Shobitch na Ken 01-OVA V2 BIG5 BDRIP 720P MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5fc22b501fa905c7d182267fd1aab811d0496c04.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-27T08:59:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5fc22b501fa905c7d182267fd1aab811d0496c04&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 碎之星 Fractale 1-11 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-df3b1fc69dda6ef6612158796fc080e02bed5144.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-24T09:57:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:df3b1fc69dda6ef6612158796fc080e02bed5144&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 剧场版 魔法少女奈叶Detonation  Magical Girl Lyrical Nanoha Detonation (BD 1280x720 x264 AACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8d9422fe2164fbc5b983324e88d684ee6e705236.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-24T09:51:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8d9422fe2164fbc5b983324e88d684ee6e705236&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [QTS] OVA 幻夢戰記 Genmu Senki Leda (BD H264 960x720 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5fb2f517c72ece1b32c8bf4649d2461a4b25f317.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T17:56:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5fb2f517c72ece1b32c8bf4649d2461a4b25f317&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[青春笨蛋/豬頭少年不做兔女郎學姐的夢/Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai][BDRip][01-13END][720p][繁體]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d83754d81fbe1c05e476f409d2912b2ae57acc18.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T12:11:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d83754d81fbe1c05e476f409d2912b2ae57acc18&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[青春笨蛋/猪头少年不做兔女郎学姐的梦/Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai][BDRip][01-13END][720p][简体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e28f1ed6fcc09fcaeff3da77c0854b21aa2f4c2b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T12:10:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e28f1ed6fcc09fcaeff3da77c0854b21aa2f4c2b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 格林笔记 Grimms Notes the Animation 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bcdee6805cb2adfdab76ead2dd08b4052a96974d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T10:32:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bcdee6805cb2adfdab76ead2dd08b4052a96974d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 只要别西卜大小姐喜欢就好/只要贝尔哲布布大小姐喜欢就好 Beelzebub-jou no Oki ni Mesu Mama. 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1dac9403543434b5dbb66dccd32a2f94e1eaed51.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T10:31:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1dac9403543434b5dbb66dccd32a2f94e1eaed51&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 握手者 Hand Shakers 1-13 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dddee6677d53266d971ae774580f96f75a3b7216.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-22T04:20:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dddee6677d53266d971ae774580f96f75a3b7216&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [QTS] 幻梦战记莉达 LEDA -The Fantastic Adventure of Yohko (BD Hi10P 960x720 AAC)（1985年）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-edb8f4a7929ee8ecc7c37043f07e4d1fdb349357.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-21T18:23:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:edb8f4a7929ee8ecc7c37043f07e4d1fdb349357&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 弦音-风舞高中弓道部  Tsurune Kazemai Koukou Kyuudou Bu 1-14 (BD 1280x720 x264 AACx3)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e2eb4779e458aeba97b910e1d7fc8d08c8fcc8f3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-21T13:19:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e2eb4779e458aeba97b910e1d7fc8d08c8fcc8f3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 黑子的篮球第三季 Kuroko no Baske S3 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-973b2b2a1a872c72bb31f7f10c6b8fab049cbb73.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-21T10:57:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:973b2b2a1a872c72bb31f7f10c6b8fab049cbb73&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 剧场版 龙珠超：布罗利 Dragon Ball Super Broly (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c5e7922e37fb442858c9232e499dc78a03ad442b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-20T13:51:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c5e7922e37fb442858c9232e499dc78a03ad442b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 杀戮天使/杀戮的天使 Satsuriku no Tenshi 1-16 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e144b23e558bd6f8f0f762e37492aaa1b73c67a7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-20T12:45:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e144b23e558bd6f8f0f762e37492aaa1b73c67a7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 蓝海少女~进阶 Amanchu! Advance 1-12 (BD 1280x720 x264 AACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1b40a8dbb9ce8d6a006e2a34e0792bed298f522d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-20T12:24:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1b40a8dbb9ce8d6a006e2a34e0792bed298f522d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 笨拙之极的上野 Ueno-san wa Bukiyou 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4a5a82058a6f73727f7c3d88af1e56eaac109c53.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-20T11:31:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4a5a82058a6f73727f7c3d88af1e56eaac109c53&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 后街女孩 Back Street Girls Goku Dolls 1-10 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4cd55b91e4d96f484c56f44fc3c18f71bb8dffad.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-20T11:30:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4cd55b91e4d96f484c56f44fc3c18f71bb8dffad&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】[尸体派对 Tortured Souls -受折磨的灵魂-][01-04][BDRip][AVC_AAC][720P][简体][MP4](十周年贺礼第13弹)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e7b717fc251ec5c06cf67d9c729b7eef72d06840.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-20T10:37:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e7b717fc251ec5c06cf67d9c729b7eef72d06840&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[屍體派對 Tortured Souls -受折磨的靈魂-][01-04][BDRip][AVC_AAC][720P][繁體][MP4](十週年賀禮第13彈)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5dd8f1185fef059f8f85d261d829e7af3a8063f5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-20T10:37:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5dd8f1185fef059f8f85d261d829e7af3a8063f5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國&KNA&輕之國度字幕組】[Re:從零開始的異世界生活][OVA][01][Memory Snow][BDRip][AVC_AAC][720P][繁體][MP4][v2]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fb04cc0d987bb1d884c9b71d7b82c7d603a3c82b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-19T16:44:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fb04cc0d987bb1d884c9b71d7b82c7d603a3c82b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        (欧美动画)沃特希普高地 Watership Down 1978 BDRip 720p 简体中文字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7987cf80ff5c1f8d184bae256203314c4e3055ba.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-18T05:18:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7987cf80ff5c1f8d184bae256203314c4e3055ba&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【DHR動研字幕組&茉語星夢】[吹響吧！上低音號～莉茲與青鳥～_Liz to Aoi Tori][劇場版][BDRip][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f1639c4468008caa6b16e15faee601f5c6f0f892.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-16T21:17:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f1639c4468008caa6b16e15faee601f5c6f0f892&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】★10月新番 關於我女友是個一本正經的處女碧池這件事 Boku no Kanojo ga Majime Sugiru Shobitch na Ken OVA BIG5 BDRIP 720P MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-69f6f7c43c2d3e44a5218c604684c6ccf61872e1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-16T02:10:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:69f6f7c43c2d3e44a5218c604684c6ccf61872e1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [银色子弹字幕组][名侦探柯南][剧场版22 零的执行人][BDRIP][720P][V2][简日双语MP4&繁日雙語MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-40d3cedcb1c37e928ab603c24692fa003f26eb90.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T17:56:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:40d3cedcb1c37e928ab603c24692fa003f26eb90&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [銀色子彈字幕組][名偵探柯南][劇場版22 零的執行人][BDRIP][720P][繁日雙語MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dace117a3b930fbd32a8ee614502e0156de31fc3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T07:21:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dace117a3b930fbd32a8ee614502e0156de31fc3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [银色子弹字幕组][名侦探柯南][剧场版22 零的执行人][BDRIP][720P][简日双语MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-da1741c9bd4e748968bf8abcffa47d2c4a11a48f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T07:21:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:da1741c9bd4e748968bf8abcffa47d2c4a11a48f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】[刀剑神域外传 Gun Gale Online][01-12][BDRip][AVC_AAC][720P][简体][MP4](十周年贺礼第12弹)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fb8504144c0704364f77b94af07a5ab8445c5e4b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T04:40:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fb8504144c0704364f77b94af07a5ab8445c5e4b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[刀劍神域外傳 Gun Gale Online][01-12][BDRip][AVC_AAC][720P][繁體][MP4](十週年賀禮第12彈)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fa3be6cf5525e0b1cd0e20abb567096836d3b777.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-15T04:39:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fa3be6cf5525e0b1cd0e20abb567096836d3b777&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 爆肝工程师的异世界狂想曲 Death March kara Hajimaru Isekai Kyousoukyoku 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6e549beb2bafc8559028eca4ddc75acffc65ece0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-09T13:44:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6e549beb2bafc8559028eca4ddc75acffc65ece0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國&KNA&輕之國度字幕組】[Re:從零開始的異世界生活][OVA][01][Memory Snow][BDRip][AVC_AAC][720P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c99c0449b14d8650d178fe2a87d3074418dd8409.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-09T13:20:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c99c0449b14d8650d178fe2a87d3074418dd8409&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 双星之阴阳师 Sousei no Onmyouji 1-50 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-99cbbbd2a5be4f5a31f7627e36ed8ee1db4582a0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-07T12:30:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:99cbbbd2a5be4f5a31f7627e36ed8ee1db4582a0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 只有神知道的世界 Kami nomi zo Shiru Sekai S1+S2+S3+OVA (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-de8ea517e14791f85283daf3a94c536ad4a15ed9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-06T11:46:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:de8ea517e14791f85283daf3a94c536ad4a15ed9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] B The Beginning 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3eb2b90bcfb52d229ed93e50e19d87924acf1835.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-05T12:33:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3eb2b90bcfb52d229ed93e50e19d87924acf1835&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 正解卡多Seikaisuru Kado 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-30ca7571e3afeef6ce5968c77f8e75c44e7d9d21.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-05T11:04:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:30ca7571e3afeef6ce5968c77f8e75c44e7d9d21&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 寄宿学校的朱丽叶 Kishuku Gakkou no Juliet 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-54f1f180092238c4f26b6d41dc22f4542a551d76.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-05T10:45:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:54f1f180092238c4f26b6d41dc22f4542a551d76&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 百炼霸王与圣约女武神 Hyakuren no Haou to Seiyaku no Valkyria 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ae7ebd2788fc616c00236d3791f3b8af51c633af.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-04T15:17:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ae7ebd2788fc616c00236d3791f3b8af51c633af&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[學戰都市Asterisk][01-24][BDRip][AVC_AAC][720P][繁體][MP4][v2](十週年賀禮第11彈)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-57e66d1663539c5051445e1aef2c751c71fd4c0d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-03T22:23:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:57e66d1663539c5051445e1aef2c751c71fd4c0d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 狗日/犬勇者物语 Dog Days S1+S2+S3 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5c2230536fbf9da7f0d48d76a3b87dd2473394b2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T08:30:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5c2230536fbf9da7f0d48d76a3b87dd2473394b2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【DHR百合組】[天使降臨到我身邊！_Watashi ni Tenshi ga Maiorita!][SPv2][BDRip][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7b71d4ec34fdfc70ed6545f218c2ca9c00707aa4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T08:19:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7b71d4ec34fdfc70ed6545f218c2ca9c00707aa4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】[学战都市Asterisk][01-24][BDRip][AVC_AAC][720P][简体][MP4](十周年贺礼第11弹)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-16be8b4abe7ba3ae2c0728f36371b4af8e2e48c8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T07:03:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:16be8b4abe7ba3ae2c0728f36371b4af8e2e48c8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】[學戰都市Asterisk][01-24][BDRip][AVC_AAC][720P][繁體][MP4](十週年賀禮第11彈)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-20972c7736481948c6b8c2938139aace9290a425.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-02T07:01:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:20972c7736481948c6b8c2938139aace9290a425&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【DHR百合組】[天使降臨到我身邊！_Watashi ni Tenshi ga Maiorita!][SP][BDRip][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b92c7c425ab91ad83f6c5a069e77163357cd5653.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-06-01T18:15:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b92c7c425ab91ad83f6c5a069e77163357cd5653&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 南镰仓高校女子自行车部 Minami Kamakura Koukou Joshi Jitensha Bu 1-13 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9e1fd7421b90e16fbbcef342605168b5a74dea36.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-05-31T11:24:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9e1fd7421b90e16fbbcef342605168b5a74dea36&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 天使降临到了我身边 Watashi ni Tenshi ga Maiorita! 1-13 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8463057ea30edd86f3968c57ca4658090c616382.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-05-31T11:23:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8463057ea30edd86f3968c57ca4658090c616382&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 武装少女 Busou Shoujo Machiavellianism 1-13 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8752ca5234f3557cd7c906bd0b8ee66d0dd0eac1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-05-31T11:21:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8752ca5234f3557cd7c906bd0b8ee66d0dd0eac1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 革神语 Arata Kangatari 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e971db9f03e83a6d326b8066a746e16ad7481d2f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-05-31T11:19:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e971db9f03e83a6d326b8066a746e16ad7481d2f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【劇場版】【龍珠超：布羅利 Dragon Ball Super Broly】【BDrip】【BIG5_MP4】【1280X720】【UK.ver】[附掃圖]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5cc0ee075a457c25a86ddf56bfcf9dab92f7dadc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-05-31T10:30:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5cc0ee075a457c25a86ddf56bfcf9dab92f7dadc&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【剧场版】【龙珠超：布罗利 Dragon Ball Super Broly】【BDrip】【GB_MP4】【1280X720】【UK.ver】[附扫图]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-351bb12a871824d0f42cba03235a77defbdaf95e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-05-31T10:30:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:351bb12a871824d0f42cba03235a77defbdaf95e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        [Seed-Raws] 機動戰士鋼彈 機動戰士高達 NT Mobile Suit Gundam Narrative [BD][720p][AVC][MP4][日英法韓泰簡繁字幕]",
 
 
@@ -136496,7 +143970,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f1b11995560d5f1cbf09f66fae5ef82cb38f2bbf.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-05-30T08:12:54.000Z",
@@ -136533,7 +144007,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c7f135b53e6cd8e5dc26e6fbd15435e69b8c55ba.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-05-30T07:15:07.000Z",
@@ -136570,7 +144044,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-71323220c6f70795cb869fa42ffb4aeef0b38677.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-05-27T12:59:12.000Z",
@@ -138735,117 +146209,6 @@ module.exports = [
 {
 
 
-"name": "\n        [Ohys-Raws] 鬼灯的冷彻 Hoozuki no Reitetsu S1+S2+S3+OAD (BD 1280x720 x264 AAC)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-9cc3cfa707a29bdbf798e205610c89f8a56534d9.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [诸神字幕组][文豪野犬(二期)][Bungo Stray Dogs][BDRip][简日双语字幕][25][OVA][720P][CHS MP4]",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-501a4bb6bb45523b50ebb5964aaf9b358145ef44.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        [Ohys-Raws] 恋爱随意链接/心链·情结 Kokoro Connect 1-17 (BD 1280x720 x264 AAC)",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-568efac30bc26098315b420db1f842529c0c262d.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
 "name": "\n        [Ohys-Raws] 摇曳庄的幽奈小姐/汤摇庄的幽奈同学 Yuragi-sou no Yuuna-san 1-12 (BD 1280x720 x264 AAC)",
 
 
@@ -138877,80 +146240,6 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:f3fb882b3b030311626b9a4ad15358a119ea131d&tr=http://open.acgtracker.com:1096/announce"
-
-},
-
-{
-
-
-"name": "\n        猫和老鼠：迷失之龙.Tom.and.Jerry：The.Lost.Dragon.2014.中英字幕.BD-720.甜饼字幕组.mp4",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-27764d672223ee34f45782e6b5e550c2385a85b1.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": ""
-
-},
-
-{
-
-
-"name": "\n        芭比之珍珠公主.Barbie.The.Pearl.Princess.2014.中英字幕.BD-720.甜饼字幕组.mp4",
-
-
-"workName": "",
-
-
-"source": "Blu-ray",
-
-
-"resolution": "720p",
-
-
-"subtitleProvider": "",
-
-
-"url": "http://www.kisssub.org/show-bc76a2e2319e8b4c02c3ba133db4c549ce925e35.html",
-
-
-"isNew": true,
-
-
-"publishTime": null,
-
-
-"isComplete": false,
-
-
-"generalRanking": 4,
-
-
-"magnetLink": ""
 
 },
 
@@ -179030,6 +186319,191 @@ module.exports = [
 
 
 "dup": false
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 恋爱随意链接/心链·情结 Kokoro Connect 1-17 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-568efac30bc26098315b420db1f842529c0c262d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        猫和老鼠：迷失之龙.Tom.and.Jerry：The.Lost.Dragon.2014.中英字幕.BD-720.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-27764d672223ee34f45782e6b5e550c2385a85b1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 鬼灯的冷彻 Hoozuki no Reitetsu S1+S2+S3+OAD (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9cc3cfa707a29bdbf798e205610c89f8a56534d9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [诸神字幕组][文豪野犬(二期)][Bungo Stray Dogs][BDRip][简日双语字幕][25][OVA][720P][CHS MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-501a4bb6bb45523b50ebb5964aaf9b358145ef44.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        芭比之珍珠公主.Barbie.The.Pearl.Princess.2014.中英字幕.BD-720.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bc76a2e2319e8b4c02c3ba133db4c549ce925e35.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": ""
 
 }
 ]
