@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\n        【喵萌茶会字幕组】★10月新番【SSSS.GRIDMAN】[BDRIP][1080P][MP4][简体]",
+"name": "\n        【BD 1080P】龙心战纪/圣战刻耳柏洛斯 09 [GB][1080P][简体中文]",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-2726e9db78b531eaf117f99d6c68e0691aded363.html",
+"url": "http://www.kisssub.org/show-925674ba131a74b4170eecc0d9b8c09cc6c65066.html",
 
-"isNew": false,
+"isNew": true,
 
-"publishTime": "2019-06-30T11:50:29.000Z",
+"publishTime": "2019-11-29T14:36:08.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:2726e9db78b531eaf117f99d6c68e0691aded363&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:925674ba131a74b4170eecc0d9b8c09cc6c65066&tr=http://open.acgtracker.com:1096/announce"
 }
