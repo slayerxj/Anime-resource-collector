@@ -43,6 +43,117 @@ module.exports = [
 {
 
 
+"name": "\n        【千夏字幕组】【BanG Dream! Garupa☆Pico】[第01-26话][BDRip_1080p_HEVC][简繁外挂][合集]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bc73ac16958da4a832b362a9c8a0eba96c14ceac.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-13T09:56:28.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bc73ac16958da4a832b362a9c8a0eba96c14ceac&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕組】【BanG Dream! Garupa☆Pico】[第01-26話][BDRip_1080p_AVC][繁體][合集]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f56bf98c8c8fb34da66f88a48d4d504f7735e577.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-13T09:56:02.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f56bf98c8c8fb34da66f88a48d4d504f7735e577&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【千夏字幕组】【BanG Dream! Garupa☆Pico】[第01-26话][BDRip_1080p_AVC][简体][合集]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-60c16d29411b406ef196d50ccad04c035e76ff24.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-13T09:55:51.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 1,
+
+
+"magnetLink": "magnet:?xt=urn:btih:60c16d29411b406ef196d50ccad04c035e76ff24&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        【千夏字幕组】【青空_AIR】[第01-14话][BDRip_1080p_HEVC][简繁外挂][合集][千夏11周年]",
 
 
@@ -61,7 +172,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0f376c9abbfa36f42aa170e290080ee97197d08b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-30T18:19:10.000Z",
@@ -98,7 +209,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8424ac0e0e81f299daf9fbb44e0629de402718f8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-30T18:12:34.000Z",
@@ -135,7 +246,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-505a1ada1bce59ca46e3f1ca978afb280097f867.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-30T18:11:20.000Z",
@@ -1867,6 +1978,487 @@ module.exports = [
 {
 
 
+"name": "\n        恶魔高校/乳龙帝 全四季 High School DxD S1+S2+S3+S4+OVA [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f95ccd4b728536dcb4b13bea82fa691b2c14d7a0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T17:35:20.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f95ccd4b728536dcb4b13bea82fa691b2c14d7a0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [天香字幕社][劇場版夏目友人帳 人間有緣_Natsume Yuujinchou Movie Utsusemi ni Musubu][BDRIP][1080P][簡繁日外掛]",
+
+
+"workName": "夏目友人帳",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a4be76bd5e0ff6807ccc4c481009897a4143ed36.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T09:14:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a4be76bd5e0ff6807ccc4c481009897a4143ed36&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        吉卜力工作室/宫崎骏 电影合集23部 Studio Ghibli Movie Collection [BD 1080p HEVC x265 10bit]（1979-2014）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f137d67fe95f99c18e46be9c2375913ec12153d1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-03T14:31:49.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f137d67fe95f99c18e46be9c2375913ec12153d1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 路人女主的养成方法 /Saenai Heroine no Sodatekata/冴えない彼女の育てかた (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "冴えない彼女の育てかた",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-588a0da831e232822a57fda2c08926497c7ff681.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-03T05:23:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:588a0da831e232822a57fda2c08926497c7ff681&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【白恋&冷番补完字幕组】[钢之魂][钢铁基克]（鋼鉄ジーグ·磁力铁甲人）[Koutetsu Jeeg][BDRIP][1440x1080]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-50e0414e1edf202691499cbd56822559345990c4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-28T11:12:47.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:50e0414e1edf202691499cbd56822559345990c4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        噬血狂袭 全三季 Strike the Blood S1+OVA+S2+S3 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]乳",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-613f4363e6c5c8d9d57fc8be41421bb0ed601c35.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T11:02:25.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:613f4363e6c5c8d9d57fc8be41421bb0ed601c35&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [xyx98] 猫和老鼠黄金合集第一卷/Tom and Jerry The Golden Collection Volume One (BDrip 1080p hevc-yuv420p10 ac3)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e0ac687c4cf3eaf4260affda860974a02c0bb9ad.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-21T05:22:56.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e0ac687c4cf3eaf4260affda860974a02c0bb9ad&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [VCB-Studio] WORKING!! / 迷糊餐厅 / ワーキング!! 10-bit 1080p HEVC BDRip [S1-S3 Fin]",
+
+
+"workName": "Working",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f49bd8c343af873094780410c948372493fc56c0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T13:01:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f49bd8c343af873094780410c948372493fc56c0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        进击的巨人 全三季 Shingeki No Kyojin S1+S2+S3 Part.1+Part.2 [BD 1920x1080 HEVC x265 10bit][简繁日内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7ae4f428485092360a3a9899676f2f970674d3d8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T01:16:35.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7ae4f428485092360a3a9899676f2f970674d3d8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [爱恋字幕社] [Steins;Gate] [命运石之门/命运石之门0] [简繁中日双语]2019年11月修正合集（两季+剧场版） [1080P] [BDrip] [X265-10bit]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1d9960a2bc1c3e0420afb54ad76e069d71fcadda.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-13T12:49:33.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1d9960a2bc1c3e0420afb54ad76e069d71fcadda&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [雪飘工作室&澄空学园][碧蓝幻想 二期][GRANBLUE FANTASY-The Animation Season2][07][1080p][简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-791d29f078ba3d2719cd95cd0e8d1991f878cf43.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-09T13:22:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:791d29f078ba3d2719cd95cd0e8d1991f878cf43&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [VCB-Studio] WWW.WORKING!! / WWW.迷糊餐厅 / WWW.ワーキング!! 10-bit 1080p HEVC BDRip [Fin]",
+
+
+"workName": "Working",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b7bb7316230002adbab60566642dd290f7e952b6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-08T14:50:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b7bb7316230002adbab60566642dd290f7e952b6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [雪飘工作室&澄空学园][碧蓝幻想 二期][GRANBLUE FANTASY-The Animation Season2][06][1080p][简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4e5bdbc6964078785d1cef6a4fd206818ac250f8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-11-30T11:38:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 2,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4e5bdbc6964078785d1cef6a4fd206818ac250f8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        [SweetSub][Sarazanmai][さらざんまい][Vol.01-06合集][BDRip][1080P][HEVC 10bit][简繁内封](检索用：皿三昧)",
 
 
@@ -1885,7 +2477,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-223bece4a3b0e9627ae8f02a8baba8688fc14e16.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-26T10:52:47.000Z",
@@ -1922,7 +2514,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e180ee968c357b7ed94f76ff08b8a4a246f11ebf.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-17T04:00:30.000Z",
@@ -1959,7 +2551,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-367728ba3fa5f6a063b19c367696e426551326c1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-16T03:30:45.000Z",
@@ -1996,7 +2588,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7c74386f82a45a531267a87e1ff0fa089f680e95.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-16T03:29:46.000Z",
@@ -2033,7 +2625,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2db7fc83350c3aac44554dd8e78a184637944511.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-15T13:57:05.000Z",
@@ -2070,7 +2662,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c5c8582ccf5b6ccc6e527235660680e57a36768c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-09T23:48:14.000Z",
@@ -2107,7 +2699,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e8a6d6d48f357a24722fbcf418dc2253103b374c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T10:07:33.000Z",
@@ -2144,7 +2736,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a0254fcd1e6a13d3208bf3ca609442aaeea66184.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-27T02:04:12.000Z",
@@ -2181,7 +2773,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fe84f6f34a78d48fe9308799d1d099848da6d07b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T12:33:13.000Z",
@@ -2218,7 +2810,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-801b0c340c0c0e84724995f545288cd6283b7cec.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T12:31:38.000Z",
@@ -2255,7 +2847,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-cc3b91a74e42d4855c0943b325050768b136b403.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T12:30:13.000Z",
@@ -2292,7 +2884,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-076df8c34ebe5d2fa6119100634e15e68d3b3a15.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T12:28:52.000Z",
@@ -2329,7 +2921,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-501528cc6472dbe3f0cbc570cd6f04a592d92017.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T12:27:21.000Z",
@@ -2366,7 +2958,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3bc1d15a522b04ce7b699c3d4224884adb961413.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T12:26:08.000Z",
@@ -2403,7 +2995,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3b752f152fcb460e55387c899dc9735a00e34aa8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-23T12:54:42.000Z",
@@ -2440,7 +3032,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6820be564c7cf41aeba5e958706addca9150a527.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-16T11:02:37.000Z",
@@ -2477,7 +3069,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-04ef9eb12ee05395ff014f0213f3cd5d0cb065b5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-14T13:21:30.000Z",
@@ -2514,7 +3106,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-716ccbd723e7301e74205dbd49eb9b894b5b802e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-08T05:56:25.000Z",
@@ -2551,7 +3143,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8efbc380bdb22a3c14572c7e3c514ff853d0d056.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-04T05:34:29.000Z",
@@ -2588,7 +3180,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-324a77b266827f2a8fabbd1f95ac230128c85aa1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-04T01:02:20.000Z",
@@ -2625,7 +3217,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3d8226f3caffdb7bc3bfdb54c5ffd68c842bb624.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-03T08:17:37.000Z",
@@ -2662,7 +3254,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2e0e5524869adb08c3092f40d6a85ed6fa9a49e3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-03T07:15:36.000Z",
@@ -2699,7 +3291,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-cfa75c1660667189591fe6380f4060108799d892.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T12:56:52.000Z",
@@ -2736,7 +3328,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-51b95f4293efcfc98cd60239725ea76dc7c713f3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T12:46:08.000Z",
@@ -2773,7 +3365,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ef0ecf2c367886679361cba8ac5aba5c3da368f0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T10:57:02.000Z",
@@ -2810,7 +3402,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c3b96874ad84892ffee418760e274680d888c883.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-30T20:40:01.000Z",
@@ -2847,7 +3439,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6abb8b774f6b6ea280d3a2ac3da1fd917893aa71.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-29T23:27:38.000Z",
@@ -2884,7 +3476,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d5105bae344db9b44dcadf5619bdfa544e15be63.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-29T23:27:29.000Z",
@@ -2921,7 +3513,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a8c53a1e89c563ef59639b54913c0088797544ad.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-28T11:51:44.000Z",
@@ -2958,7 +3550,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-144af1b9b0f0a9624ceb4572fdbbde3e832bfe02.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-27T14:37:51.000Z",
@@ -2995,7 +3587,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-405bb1b1d3ea4aeacc7942324b72a99bf6a68af2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-27T02:16:43.000Z",
@@ -3032,7 +3624,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-22e784935443291939eed88f200c703c81db4655.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-26T23:18:26.000Z",
@@ -3069,7 +3661,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0392f67a1e4715b47f496cef8435991c33a82166.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-26T10:23:35.000Z",
@@ -3106,7 +3698,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1c959b56ef38c0d671beb32e43895e8bc242e7a6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-26T02:39:00.000Z",
@@ -3143,7 +3735,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-55592b953f781e07802cb66ebed1bd95c67ad55e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-26T01:13:12.000Z",
@@ -19665,6 +20257,11143 @@ module.exports = [
 {
 
 
+"name": "\n        心理测量者.第二季.07.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d019c7581776e85ce63646cb318c0168842aedeb.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2020-01-15T14:50:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d019c7581776e85ce63646cb318c0168842aedeb&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第二季.06.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7974079c83220f1b0f1fc44aeee608e1073717ef.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2020-01-15T14:49:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7974079c83220f1b0f1fc44aeee608e1073717ef&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【动漫国字幕组】★剧场版[Code Geass 复活的鲁路修][BDRip][AVC_AAC][1080P][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fc6aedf8bfefe9dad6bbacbb17a66ddfecf4b3b8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-14T08:01:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fc6aedf8bfefe9dad6bbacbb17a66ddfecf4b3b8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★劇場版[Code Geass 復活的魯路修][BDRip][AVC_AAC][1080P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c0eaf4c468b2c5e2a8321522a119003d1cc87747.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-14T08:00:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c0eaf4c468b2c5e2a8321522a119003d1cc87747&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]聖鬥士星矢 聖鬥少女翔 - 03 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d78e5eeee591ffa876805cb340c5fd6f46e73376.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-14T07:01:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d78e5eeee591ffa876805cb340c5fd6f46e73376&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [搬运][假面骑士时王][49][Final 2019：Apocalypse][OZC-Live]Kamen Rider Zi-O BD Box E49 '2019 - Apocalypse' [1080p][英文内挂,等字幕组吧]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-641a1dc8ca3050cd6f7db9b2b5a56d1b0f7488a9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-14T05:00:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:641a1dc8ca3050cd6f7db9b2b5a56d1b0f7488a9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[青春猪头少年不会梦见怀梦美少女_Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai][BDRip 1920x1080 x265 FLAC][简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9615e8b35d9bd8061c1d05b787ebd81306ec32f5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-14T04:32:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9615e8b35d9bd8061c1d05b787ebd81306ec32f5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SweetSub&VCB-Studio] Cencoroll Connect 10-bit 1080p HEVC BDRip [MOVIE Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5db2c2c834de660445b41785d34632bc152b1e53.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2020-01-14T04:31:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5db2c2c834de660445b41785d34632bc152b1e53&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第二季.05.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9ae6f38c8256e8853c3935b796e20e07f0d8cc01.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-14T03:13:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9ae6f38c8256e8853c3935b796e20e07f0d8cc01&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        香蕉喵.第一季.10.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-07ea8a033ef8dfbc524f5dfee9dc6bec1a9384d7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-14T03:09:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:07ea8a033ef8dfbc524f5dfee9dc6bec1a9384d7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        香蕉喵.第一季.09.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-72dccb7ac14078110f40b35cb674516d46d2a405.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-14T03:07:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:72dccb7ac14078110f40b35cb674516d46d2a405&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        香蕉喵.第一季.08.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c4c44bbebb183f2bc3862e3920a94703d721eb71.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-14T03:06:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c4c44bbebb183f2bc3862e3920a94703d721eb71&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [野生菌&屆戀對邦小隊] BanG Dream! 3rd Season - 01 [BDRip 1080p AVC-8bit AAC][繁體內嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f78494cf50f533e8713a601c863affc6b5090836.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-13T12:13:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f78494cf50f533e8713a601c863affc6b5090836&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]東京喰種:re (Tokyo Ghoul:re) - 08 [粵日雙語+內封繁體中文字幕] (BD 1920x1080 x264 AACx2 ASS ViuTV CHT)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fc29f5ec46ea9095491829f72b1333fa857bff84.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-12T04:56:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fc29f5ec46ea9095491829f72b1333fa857bff84&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        魔卡少女樱 / カードキャプターさくら / Cardcaptor Sakura 1998 [BD 1440x1080 HEVC FLAC] - LittleBakas!",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dd0f35ed71e4486e3bc636c8ba964fc1ba7120ab.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-12T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dd0f35ed71e4486e3bc636c8ba964fc1ba7120ab&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [野生菌&届恋对邦小队] BanG Dream! 3rd Season - 01 [BDRip 1080p AVC-8bit AAC][简体内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b18e426aef05facfd1c3c41c9c16a8d16626f33a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-11T15:11:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b18e426aef05facfd1c3c41c9c16a8d16626f33a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【AZKi布教教主】無論何時我們的戀情都是10厘米 Itsudatte Bokura no Koi wa 10 Centi Datta [BD 1080P][x265-10bit_OPUS][內封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2aaa1905858a64aeec297f64b729c0317cd22260.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-11T14:57:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2aaa1905858a64aeec297f64b729c0317cd22260&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 新石纪 Dr.STONE Vol.01~03 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7e14e33309f5efa523cae3b6fafeef843302cbf5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-11T13:56:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7e14e33309f5efa523cae3b6fafeef843302cbf5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [APTX4869][青山刚昌短篇集 第1话][BDRIP][1080P][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-534dd56121456be4a488471b20eee446f2101122.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-11T08:22:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:534dd56121456be4a488471b20eee446f2101122&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第二季.04.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-33c143f8b7bd4f612dc8788412030c62a56f694f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-11T04:07:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:33c143f8b7bd4f612dc8788412030c62a56f694f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第二季.03.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4164f690370cf923b2afd115b52f8a2477f1c182.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-11T04:06:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4164f690370cf923b2afd115b52f8a2477f1c182&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 街角魔族 Machikado Mazoku (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c09dc4b4ffa14d29c84aedb5ab5eca54a60adb02.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-10T12:44:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c09dc4b4ffa14d29c84aedb5ab5eca54a60adb02&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 街角魔族 Machikado Mazoku (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b3786792c4f208d5bd3b5d49988da75bd11a2cdf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-10T09:22:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b3786792c4f208d5bd3b5d49988da75bd11a2cdf&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        食戟之灵 第一季 Shokugeki no Souma 1-24 [BD 1920x1080 HEVC 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-506ef811b4763e2d4f8c9e9ce62b6ff634411e6e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-10T06:34:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:506ef811b4763e2d4f8c9e9ce62b6ff634411e6e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        舞动青春 Ballroom e Youkoso 1-24 [BD 1920x1080 HEVC 10bit][简体内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1abcb66fb8fa58a4a55fa5c371f79cb9404114cf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T19:30:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1abcb66fb8fa58a4a55fa5c371f79cb9404114cf&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        未来日记 Mirai Nikki 01 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-987b0ee1d85748bff7b524e6721ba53b4534fddf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T17:00:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:987b0ee1d85748bff7b524e6721ba53b4534fddf&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【AZKi布教教主】少女編號 Girlish Number [BD 1080P][x265-10bit_OPUS]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5e2e7f50ec0a9c60d25139e21ecaeea3aae31edc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T16:26:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5e2e7f50ec0a9c60d25139e21ecaeea3aae31edc&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        未闻花名/我们仍未知道那天所看见的花的名字 Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai 1-11+Movie [BD 1920x1080 HEVC 10bit][简繁内封字幕][2011年]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-16e57cdd79c40ea9c70cf64b15624ce45fe39240.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T16:08:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:16e57cdd79c40ea9c70cf64b15624ce45fe39240&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        来自深渊 第一季 Made in Abyss 1-13 [BD 1920x1080 HEVC 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-16c9e7f09071befe35f936798f723b621e5c7e83.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T15:22:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:16c9e7f09071befe35f936798f723b621e5c7e83&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        七大罪 第一季 Nanatsu no Taizai 1-24 [BD 1920x1080 HEVC 10bit][简体内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b9152177be0edd29bf9fd702c23f6e5462cf4352.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T15:00:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b9152177be0edd29bf9fd702c23f6e5462cf4352&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        未来日记 Mirai Nikki 1-26+OVA [BD 1920x1080 HEVC 10bit][简繁内封字幕][2011年]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c4eb970a33d5f43f8e37fc55a4bd67e878554919.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T13:01:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c4eb970a33d5f43f8e37fc55a4bd67e878554919&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【AZKi布教教主】戀愛與謊言 戀愛禁止的世界 Koi to Uso [BD 1080P][x265-10bit_OPUS]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d5630881dc02a8a0b81b6c5504abb148fe53001f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T11:10:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d5630881dc02a8a0b81b6c5504abb148fe53001f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 小魔女 Ojamajo Doremi # BD-BOX 1-49 (BD 1440x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f939020560238d822e5283221b4ab96c0d584ee5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T11:02:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f939020560238d822e5283221b4ab96c0d584ee5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Clannad After Story (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7b9c9504a76e7221864a2213fddbeab699f19de5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T11:00:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7b9c9504a76e7221864a2213fddbeab699f19de5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Clannad (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3e3e2212983f8513f7191fe2b482a8caf5ec6ba3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T10:59:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3e3e2212983f8513f7191fe2b482a8caf5ec6ba3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 城市猎人 City Hunter 2 BD-BOX (BD 1440x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fda563c904ae8efc3be218e48464df3bc90918f9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-09T10:58:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fda563c904ae8efc3be218e48464df3bc90918f9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【AZKi布教教主】龍王的工作 蘿王 Ryuuou no Oshigoto[BD 1080P][x265-10bit_OPUS]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e593fe579ab62d222a483267542b540c308dbf54.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-08T16:13:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e593fe579ab62d222a483267542b540c308dbf54&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[多罗罗_Dororo][BDRIP 1920x1080 x264 FLAC][MKV 简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-77f39eb8ac81c3f557ec9c1dec3daeca976c86d3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-08T15:22:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:77f39eb8ac81c3f557ec9c1dec3daeca976c86d3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 骚动时节的少女们  Araburu Kisetsu no Otome-domo yo 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ca39d83ea4aca063a58c33a1fba0f7f01154e72f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-08T09:34:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ca39d83ea4aca063a58c33a1fba0f7f01154e72f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 吹响！悠风号/Hibike! Euphonium/響け! ユーフォニアム (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-30519af55f335ae763d6eb4b0cd189833c83451b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-08T06:57:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:30519af55f335ae763d6eb4b0cd189833c83451b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【星云字幕组】【奥特曼】【08】【怪兽无法无天地带】【中日双语】【BDRip】【MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d24fbc4d55ecd0b40e39d92c0075effe61d77815.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-08T04:36:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d24fbc4d55ecd0b40e39d92c0075effe61d77815&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        记录的地平线2   BDRIP",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-08b8413c69b6140c29f42e0e9bdd9b72a39361c8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-08T03:40:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:08b8413c69b6140c29f42e0e9bdd9b72a39361c8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 骚动时节的少女们 Araburu Kisetsu no Otome-domo yo 1-12 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a8d759f8a744d56cbdbbf48a1243657605fd041b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T21:48:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a8d759f8a744d56cbdbbf48a1243657605fd041b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第二季.02.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-370d29749c7dc83e7155292b35d1f41652c13f9b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T15:45:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:370d29749c7dc83e7155292b35d1f41652c13f9b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】【排球!! 乌野高中 VS 白鸟泽学园高中】【Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou】【BDRip】【1080P】（字幕社招内详）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f7621b51ce61155321ca6f1ee22b3c166c0212e3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T14:08:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f7621b51ce61155321ca6f1ee22b3c166c0212e3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】【排球!! 第二季】【Haikyuu!! Second Season】【BDRip】【1080P】（字幕社招内详）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-100277c80d3795d720933a588eef7663e4aadb3d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T13:59:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:100277c80d3795d720933a588eef7663e4aadb3d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        剧场版 刀剑神域:序列之争 Gekijouban Sword Art Online: Ordinal Scale [BD 1920x1080 HEVC x265 10bit 5.1ch][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d01cd033f90f81375b2546e9b27431591b6436df.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T13:43:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d01cd033f90f81375b2546e9b27431591b6436df&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】【排球!!】【Haikyuu!!】【BDRip】【1080P】（字幕社招内详）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9fcb915648f8e72c915154816e9e729432068385.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T13:41:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9fcb915648f8e72c915154816e9e729432068385&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        我的英雄学院 第一季 Boku no Hero Academia 1-13 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-63690ac9699024735d32d7081453b4bce780a822.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T12:48:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:63690ac9699024735d32d7081453b4bce780a822&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        剑姬神圣谭 DanMachi Sword Oratoria 1-12 [BD 1920x1080 HEVC x265 10bit][繁体内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e9a106930a474cb6d1945d2af8f11e321af16f11.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T12:17:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e9a106930a474cb6d1945d2af8f11e321af16f11&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        在地下城寻求邂逅是否搞错了什么 S1+S2+OVA Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-688dd3356254c87b69203af00b358610f51c4696.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T11:48:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:688dd3356254c87b69203af00b358610f51c4696&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SweetSub][Mutafukaz / MFKZ][Movie][BDRip][1080P][AVC 8bit][繁體內嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c6b5718712be976d0529740c9cef19bac9943c58.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T08:12:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c6b5718712be976d0529740c9cef19bac9943c58&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SweetSub][Mutafukaz / MFKZ][Movie][BDRip][1080P][AVC 8bit][简体内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8e7c4eb0007c2664be8e7b1a087aaa12db1c0143.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T08:12:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8e7c4eb0007c2664be8e7b1a087aaa12db1c0143&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]聖鬥士星矢 聖鬥少女翔 - 02 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-66e466ccca7968b204ff01c730a5e8d4f2aa3c11.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-06T14:11:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:66e466ccca7968b204ff01c730a5e8d4f2aa3c11&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Cop Craft (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-58e5b31eeaf453d53a503ba2d0c93c99f6f4f608.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-06T12:45:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:58e5b31eeaf453d53a503ba2d0c93c99f6f4f608&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Dirty Pair Complete BD-BOX (BD 1440x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cebab5d50c555ef65f65d52d24dea03f6f2c93e7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-06T12:34:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cebab5d50c555ef65f65d52d24dea03f6f2c93e7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [哈尔的移动城堡 2004][BD-MKV/10.48G][国粤日简繁中字][1080P][HQC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cb314a68db921e70cd5d568ae0d45d2c0e6ea63a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-05T03:34:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cb314a68db921e70cd5d568ae0d45d2c0e6ea63a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        香蕉喵.第一季.07.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0d0f12be16e7a0889e2344230427de607325b989.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-05T03:11:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0d0f12be16e7a0889e2344230427de607325b989&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        香蕉喵.第一季.06.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5c3f64cd834db3cdb5d61c7288718c7489ed1c2c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-05T03:06:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5c3f64cd834db3cdb5d61c7288718c7489ed1c2c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【DHR動研字幕組】[小書痴的下剋上_Honzuki no Gekokujou][13-14完][BDRip][繁體][720P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3d08173882649bb3c72713ce5fd20b2058af3d83.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T21:11:41.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3d08173882649bb3c72713ce5fd20b2058af3d83&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        新世纪福音战士 EVA Neon Genesis Evangelion 1-26 [BD 1440x1080 HEVC x265 10bit 5.1ch+2ch][简繁内封字幕][1995年]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4d2c3b86d4ff8eb3618f152b205b156f289dd65a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T20:48:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4d2c3b86d4ff8eb3618f152b205b156f289dd65a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        属性同好会 D-Fragments 1-12 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5a047e4034ecf95834509a00e130a2eb6af42719.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T19:25:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5a047e4034ecf95834509a00e130a2eb6af42719&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ​[SweetSub][翹髮新子與千年魔法][Mai Mai Miracle][マイマイ新子と千年の魔法​][Moive][BDRip][1080P][AVC 8bit][簡體內嵌](檢索用：空想新子與千年魔法)​",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-99fd4bf9958564b0077643f5d52e7adf11d4c73b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T17:54:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:99fd4bf9958564b0077643f5d52e7adf11d4c73b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ​[SweetSub][翘发新子与千年魔法][Mai Mai Miracle][マイマイ新子と千年の魔法​][Moive][BDRip][1080P][AVC 8bit][简体内嵌](检索用：空想新子与千年魔法)​",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f79888e675dcaf715b988917d8b344a3e0336986.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T17:53:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f79888e675dcaf715b988917d8b344a3e0336986&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        死神 Bleach 1-55 [BD 1440x1080 HEVC x265 10bit][简体内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-63c1bd6fd3023a50b5c36bf6973c8e5c1f9f9f1b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T15:50:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:63c1bd6fd3023a50b5c36bf6973c8e5c1f9f9f1b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        命运停驻之夜-零 Fate/Zero 1-25 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7dd7de1625e9026b51f469f96b30cfda6dada6ef.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T14:56:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7dd7de1625e9026b51f469f96b30cfda6dada6ef&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[女高中生的浪費青春/女高中生的無用日常/女高中生無所事事/Joshikousei no Mudazukai][BDRip][01-12END][1080p][繁體]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9e368d071bbf5b12ea640bd6d4c9cd3ede2ceb2b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T14:15:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9e368d071bbf5b12ea640bd6d4c9cd3ede2ceb2b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[女高中生的浪费青春/女高中生的无用日常/女高中生无所事事/Joshikousei no Mudazukai][BDRip][01-12END][1080p][简体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-59301a38952a422d73a47aeae9a354fc9813c198.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T14:13:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:59301a38952a422d73a47aeae9a354fc9813c198&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[女高中生的浪費青春/女高中生的無用日常/女高中生無所事事/Joshikousei no Mudazukai][BDRip][1080p][简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-91a7542e540ea835524f0b27cd05dd739cd29ee7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T14:08:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:91a7542e540ea835524f0b27cd05dd739cd29ee7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]東京喰種:re (Tokyo Ghoul:re) - 07 [粵日雙語+內封繁體中文字幕] (BD 1920x1080 x264 AACx2 ASS ViuTV CHT)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c344059291374914804acc3132ff168825c53aa7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T09:41:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c344059291374914804acc3132ff168825c53aa7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第二季.01.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cf7f8ddd4dcccfd562df9b48b7a8fa22df5151f8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T09:29:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cf7f8ddd4dcccfd562df9b48b7a8fa22df5151f8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ACCA13区监察课 ACCA 13-ku Kansatsu-ka 1-12 [BD 1920x1080 HEVC x265 10bit][繁体内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e2c92350a42e8847d5f027d1b3073a804090f384.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-03T19:44:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e2c92350a42e8847d5f027d1b3073a804090f384&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        寄宿学校的朱丽叶 Kishuku Gakkou no Juliet 1-12 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e4765a28227a0bbf1ad73daa963304ef7e40bd2f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-03T18:24:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e4765a28227a0bbf1ad73daa963304ef7e40bd2f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        僵尸乐园佐贺/佐贺偶像是传奇 Zombie Land Saga 1-12  [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ebd754285ca1a37a3e0ddd47e15080ac777b22a2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-03T15:39:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ebd754285ca1a37a3e0ddd47e15080ac777b22a2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 女高中生的日常 Joshikousei no Mudazukai (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5831b610c1207683b15a8788cf26396550fdd2d0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-03T09:29:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5831b610c1207683b15a8788cf26396550fdd2d0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        弑神者 Campione 1-13 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d0aad562da2db65e5a8b0a4a7b3c305172e9e4b6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-02T13:58:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d0aad562da2db65e5a8b0a4a7b3c305172e9e4b6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        悠久持有者 魔法老师！2 UQ Holder! Mahou Sensei Negima! 2 1-12+3OVA [BD 1920x1080 HEVC x265 10bit][繁体内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3f459e065418e241a10ad3e65a1744ca2ec2ac0a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-02T12:13:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3f459e065418e241a10ad3e65a1744ca2ec2ac0a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        进击的巨人 BDRIP  进击的巨人S1-S3  [附字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4102f79ad38073432779a44674ef682c57659a60.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-02T04:26:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4102f79ad38073432779a44674ef682c57659a60&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 心理测量者 Sinners of the System/Psycho-Pass: Sinners of the System/PSYCHO-PASS Sinners of the System (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-319130efcebdd5992754297d9d22dec2c5a32b58.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-02T04:13:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:319130efcebdd5992754297d9d22dec2c5a32b58&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【DHR動研字幕組】[為什麼老師會在這裡！？_Nande Koko ni Sensei ga！？][01-13全][BDRip][繁體][720P][MP4](新年第一發！)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d45967e5afe8d0dd3b95941fb507deb66dc1ce67.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-01T18:38:59.000Z",
+
+
+"isComplete": true,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d45967e5afe8d0dd3b95941fb507deb66dc1ce67&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [AHU-SUBS][清洗服务！～我和她在女子浴池！?～_Araiya-san! Ore to Aitsu ga Onnayu de!][01-08][BDRip 1920x1080 FLAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-85f6058cc98e4229198dedbfb400e62f6cc46d1b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-01T15:33:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:85f6058cc98e4229198dedbfb400e62f6cc46d1b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 八十龟的观察日记 Yatogame-chan Kansatsu Nikki 1-12 (BD 1920x1080 x.264 FLACx2) 新年快乐",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a23c18ef7723baa3d2fd8d57493dea9e255b6c43.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-01T08:26:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a23c18ef7723baa3d2fd8d57493dea9e255b6c43&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【劇場版】【龍珠超：布羅利 Dragon Ball Super Broly】【BDrip】【BIG5_MP4】【1920X1080】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-87da8a9f01fffa42ce6d5688881c7ad7ce91c6e0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-31T13:20:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:87da8a9f01fffa42ce6d5688881c7ad7ce91c6e0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【剧场版】【龙珠超：布罗利 Dragon Ball Super Broly】【BDrip】【GB_MP4】【1920X1080】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4986a9a6c965b737b1fde9fed91338b6e7f2dd7e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-31T13:18:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4986a9a6c965b737b1fde9fed91338b6e7f2dd7e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] MM一族！/MM!/えむえむっ! (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d31b2da99dcf818139cc461d9216e5bca3e3e272.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-31T06:03:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d31b2da99dcf818139cc461d9216e5bca3e3e272&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]聖鬥士星矢 聖鬥少女翔 - 01 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bd39c93ac8e12a93269d09d08bfcfda752a0ca50.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-31T02:49:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bd39c93ac8e12a93269d09d08bfcfda752a0ca50&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        Robot.Carnival/机器人嘉年华.1987.BD1080P.中文字幕精校版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9ceb9dcc88e99600cdfae677cefb44ea1c893536.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T17:00:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9ceb9dcc88e99600cdfae677cefb44ea1c893536&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 異世界超能魔術師 Isekai Cheat Magician (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b69cb474fe8037b6fcd63da11c97ea609636c635.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T13:20:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b69cb474fe8037b6fcd63da11c97ea609636c635&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 小書痴的下剋上 Honzuki no Gekokujou Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen BD-BOX (BD 1920x1080 x.264 2Audio)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1f5b0835e82c9f4f63e551853f8ecd8ff1af1a8d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T13:15:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1f5b0835e82c9f4f63e551853f8ecd8ff1af1a8d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 肌肉少女：啞鈴，能舉多少公斤？ Dumbbell Nan Kilo Moteru (BD 1920x1080 x264 Flac",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5d17a9503ef71dcd3b82c7321fb379a263427017.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T13:14:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5d17a9503ef71dcd3b82c7321fb379a263427017&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 劇場版 若能與你共乘海浪之上 Kimi to, Nami ni Noretara (BD 1920x1080 x264 DTS-HDMA)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7698cdf28f7e0209e9e85a5dbf5a0e7fe1df4ac3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T13:14:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7698cdf28f7e0209e9e85a5dbf5a0e7fe1df4ac3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Gamba no Bouken BD-BOX [ Filter Ver. ] (BD 1440x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5ef7b5e982cc549446806a70b54f66b94a8bc9ac.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T13:13:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5ef7b5e982cc549446806a70b54f66b94a8bc9ac&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 肌肉少女：啞鈴，能舉多少公斤？ Dumbbell Nan Kilo Moteru (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fdfb389866665ad696fab7f058afdc019a60394b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T10:25:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fdfb389866665ad696fab7f058afdc019a60394b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 歌牌情缘2/Chihayafuru 2/ちはやふる2 (BD 1920x1080 HEVC-YUV420P10 FLAC TV+OAD)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1058d55581d15fb557333b9278ea0b572c575042.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T06:14:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1058d55581d15fb557333b9278ea0b572c575042&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [BDMV] 龙珠剧场版4：迈向最强之道 Dragon Ball - Movie 04 - The Path to Power (1996) AVC 1080p BD25 - Spa dub only, no subs",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e918deba12b02586cedc8d7ded2b8821e9cd8f1e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T05:29:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e918deba12b02586cedc8d7ded2b8821e9cd8f1e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [BDMV] 龙珠剧场版3：摩诃不可思议大冒险 Dragon Ball - Movie 03 - Mystical Adventure (1988) AVC 1080p BD25 - Spa dub only, no subs",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c412221d201c194cee41345155bdae8d18f9748c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T05:26:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c412221d201c194cee41345155bdae8d18f9748c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [BDMV] 龙珠剧场版2：魔神城内的睡美人 Dragon Ball - Movie 02 - Sleeping Princess in Devil's Castle (1987) AVC 1080p BD25 - Spa dub only, no subs",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ad7da88b15c8cc6396bdbf77d7199c5ec26341c1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T05:25:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ad7da88b15c8cc6396bdbf77d7199c5ec26341c1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]東京喰種:re (Tokyo Ghoul:re) - 06 [粵日雙語+內封繁體中文字幕] (BD 1920x1080 x264 AACx2 ASS ViuTV CHT)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-86249e8fcfb09e3b85d3af407076005d9470fd18.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T03:28:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:86249e8fcfb09e3b85d3af407076005d9470fd18&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 歌牌情缘/Chihayafuru/ちはやふる (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b4b34daca9f1fb81d5b9e63ff7d22f741d6c3487.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-29T02:04:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b4b34daca9f1fb81d5b9e63ff7d22f741d6c3487&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        叛逆的鲁鲁修/反叛的鲁鲁修/鲁路修+亡国的阿基德 剧场版 兴道+叛道+皇道+复活的鲁鲁修  Code Geass 25+25+5+3+1 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-16e9d4f20836a36d9aa2212f6195b40c65766167.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-28T11:43:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:16e9d4f20836a36d9aa2212f6195b40c65766167&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Fate Kaleid Liner Prisma Illya Prisma Phantasm (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-322aac615a31140d9fa19dfe68687bcead075e46.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-28T10:26:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:322aac615a31140d9fa19dfe68687bcead075e46&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 向山进发 回忆的礼物/Encouragement of Climb: Omoide Present/ヤマノススメ おもいでプレゼント (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4f7f757e62f73a977ba2b5895283dcd31be1566d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-28T04:56:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4f7f757e62f73a977ba2b5895283dcd31be1566d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Lilith-Raws] 碧藍幻想 / Granblue Fantasy S02 - 12 [Baha][WEB-DL][1080p][AVC AAC][CHT][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0b00e1b4fb383acfd07019a2ad141417a22bb65b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-27T16:53:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0b00e1b4fb383acfd07019a2ad141417a22bb65b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ​[c.c動漫][10月新番][碧藍幻想 第二季][GRANBLUE FANTASY S2][12][BIG5][1080P][MP4][END][網盤]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-244e75ee27dd9f820ad532ff41c53d4e57b3653c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-27T16:41:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:244e75ee27dd9f820ad532ff41c53d4e57b3653c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 比基尼勇士 Bikini Warriors 1-18 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a9b77ec533e4a727c069582bc5616c41cd0f4a25.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-27T09:37:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a9b77ec533e4a727c069582bc5616c41cd0f4a25&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 明青故事 Mix Meisei Story BD-BOX 1-24 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f990c919a9bd157832ad9415be9e7fc84dcac812.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-27T09:36:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f990c919a9bd157832ad9415be9e7fc84dcac812&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        水果篮子 第一季 Fruits Basket(2019) 1-25 [BD 1920x1080 HEVC x265 10bit]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e47244a8fa53072203b061bc0dc8e6beb373f49d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-27T07:29:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e47244a8fa53072203b061bc0dc8e6beb373f49d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        一弦定音 第一季 Kono Oto Tomare 1-13 [BD 1920x1080 HEVC x265 10bit][简繁外挂字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ae7f20b667c601c8f8dbac0ec8fe8b0246ed507d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-27T06:39:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ae7f20b667c601c8f8dbac0ec8fe8b0246ed507d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        水果篮子 Fruits Basket(2019) 1-13 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cfc2f874c17e1475c3fec765b5b370bdfbf538fa.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-27T05:55:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cfc2f874c17e1475c3fec765b5b370bdfbf538fa&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        天元突破 红莲螺岩 Tengen Toppa Gurren Lagann 1-27+Moviex2 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c3eafc0557bc27491fde5e2659a1678dcc6054e8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-27T05:10:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c3eafc0557bc27491fde5e2659a1678dcc6054e8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 向山进发 第三季/Encouragement of Climb: Season 3/ ヤマノススメ サードシーズン (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-15af309c197fc985a99c1a4aac9e0b3266c34bb4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-27T03:41:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:15af309c197fc985a99c1a4aac9e0b3266c34bb4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 在地下城尋求邂逅是否搞錯了什麼Ⅱ Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Familia Myth II (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-be51b8e33d5055aee27a46bcea5b53ea88d57860.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-26T11:41:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:be51b8e33d5055aee27a46bcea5b53ea88d57860&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] Given (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b40306340dcd3abece2eb79019f54a1e54076e0c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-26T11:41:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b40306340dcd3abece2eb79019f54a1e54076e0c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 偶像传说英里子 Idol Densetsu Eriko BD-BOX (BD 1440x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-55de58bfdb4cb498d286a6755fdd64e0c4757bae.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-26T11:40:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:55de58bfdb4cb498d286a6755fdd64e0c4757bae&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【楓葉字幕組】★劇場版[寵物小精靈 / 寶可夢劇場版2019][M22：超夢的逆襲 EVOLUTION][BDRip][HEVC_FLAC_PGS][1080P_Ma10P][簡繁外掛][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-51ae35316e2ff8cb4848bbaa2ebb34bb84b53388.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-26T09:32:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:51ae35316e2ff8cb4848bbaa2ebb34bb84b53388&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 向山进发 第二季/Encouragement of Climb: Season 2/ヤマノススメ セカンドシーズン (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ac040cd2b15f4086dae484b5a839aa87e40828b1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-26T04:55:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ac040cd2b15f4086dae484b5a839aa87e40828b1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        魔笛MAGI 魔奇少年 外传 辛巴德的冒险 Magi Sinbad no Bouken(2016)[BDRIP][1920x1080][TV13+OVA5+NCoped][x264_m4a][10bit]加刘景长压制",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ea99b195ca0d23b1db446beba53e039b0b3307b9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-25T15:03:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ea99b195ca0d23b1db446beba53e039b0b3307b9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        刀剑神域 第三季 Alicization篇 Sword Art Online Alicization 1-24 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4a333122fd8c9b43807bfb9e6b888571c9c3c8c6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-25T13:20:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4a333122fd8c9b43807bfb9e6b888571c9c3c8c6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [届恋字幕组] 幻想万华镜 ~The Memories Of Phantasm~ [EP08-11][BDRip 1080p HEVC-10bit AAC FLAC PGS][简繁外挂字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a65b8e75bfe7a2b773816dbab257f6fbf45fc8bd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-25T08:18:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a65b8e75bfe7a2b773816dbab257f6fbf45fc8bd&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【枫叶字幕组】★剧场版[宠物小精灵 / 宝可梦剧场版2019][M22：超梦的逆袭 EVOLUTION][BDRip][简体][1080P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4a4ad373ccd0c353be95f515ca3887a1c8deb2d8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-25T03:49:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4a4ad373ccd0c353be95f515ca3887a1c8deb2d8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【楓葉字幕組】★劇場版[寵物小精靈 / 寶可夢劇場版2019][M22：超夢的逆襲 EVOLUTION][BDRip][繁體][1080P][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d44e50d6dcd09a3e859c597f9fa595d1da819973.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-25T03:48:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d44e50d6dcd09a3e859c597f9fa595d1da819973&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        Roujin Z/老人Z.1991.BD1080P.中文字幕精校版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-507a238a27b5fce5ed298f6d3a719f5452483f59.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-24T17:53:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:507a238a27b5fce5ed298f6d3a719f5452483f59&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        Manie-Manie/迷宫物语.1987.BD1080P.中文字幕精校版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b63f7034f6d20a5072189c7323861c5caea50083.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-24T17:52:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b63f7034f6d20a5072189c7323861c5caea50083&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【Little字幕组】美少女战士Sailor Moon 18 [BDRip][1080P][中日双字][MP4]（招募翻译时间轴）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2a238377922e5fb0dac81378f4dab2de86790d5c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-24T15:52:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2a238377922e5fb0dac81378f4dab2de86790d5c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [VCB-Studio] Amagami / 圣诞之吻 / アマガミ 10-bit 1080p HEVC BDRip [S1-S2 + OVA Fin]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2c953d4c1941a877e12957c9bde2779efa21f4b2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-24T13:45:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2c953d4c1941a877e12957c9bde2779efa21f4b2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【未來日記Redial Mirai Nikki Redial】【OVA】【BDrip】【BIG5_MP4】【1920X1080】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e9a20b191b32d98c5be62860f8ba54dd2083191a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-24T12:18:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e9a20b191b32d98c5be62860f8ba54dd2083191a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【未来日记Redial Mirai Nikki Redial】【OVA】【BDrip】【GB_MP4】【1920X1080】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ff216f5dc650053339b57c88becb10d68aaf79ff.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-24T12:17:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ff216f5dc650053339b57c88becb10d68aaf79ff&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【星云字幕组】【艾斯奥特曼】【38】【复活！奥特之父】【BDrip】【1440×1080】【MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7391182a55e56e724b48755f668c1e51a2ce06f2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-24T08:48:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7391182a55e56e724b48755f668c1e51a2ce06f2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制] Let's GO!登山少女III/前進吧!登山少女第三季 - 13 END [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cee44a15c744b3f5a9a98e19232bf365b7d92add.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T15:58:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cee44a15c744b3f5a9a98e19232bf365b7d92add&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制] Let's GO!登山少女III/前進吧!登山少女第三季 - 12 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7faed4562b1e15edf562387a20201fdd927632e3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T10:36:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7faed4562b1e15edf562387a20201fdd927632e3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        进击的巨人  BDRIP   进击的巨人第一季     进击的巨人S1",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aae0b1f1923f215632fec6b0cf2ee360bd2a12e5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T10:25:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aae0b1f1923f215632fec6b0cf2ee360bd2a12e5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 巧克力与香子兰 OVA/Nekopara OVA/ネコぱら OVA (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f9cdf3449f53fe0b19c0af2dbe21d1703245b4f0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T10:02:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f9cdf3449f53fe0b19c0af2dbe21d1703245b4f0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制] Let's GO!登山少女III/前進吧!登山少女第三季 - 11 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1be45b16ee702322653d8e6ca6093e697db4139a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T07:29:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1be45b16ee702322653d8e6ca6093e697db4139a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [BDMV] Dragon Ball 1-28 [Selecta Visión BD Part 1] 龍珠 Spain Blu-ray Box 1",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-506a0ecd191cc5ce6bfb02d4c2628f5ca34abf81.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T06:53:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:506a0ecd191cc5ce6bfb02d4c2628f5ca34abf81&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制] Let's GO!登山少女III/前進吧!登山少女第三季 - 10 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5edf12e346eb08d8c7573621c047188164ed066b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T05:50:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5edf12e346eb08d8c7573621c047188164ed066b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [KRL][Build新世界][假面騎士Grease][1080P][BDrip][x265_AC3][Main10]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-99f883aee5eeefd37df762799d1e9690858d2c1e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-22T10:17:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:99f883aee5eeefd37df762799d1e9690858d2c1e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        约定的梦幻岛 第一季 Yakusoku no Neverland 1-12 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7171dd2fd31e4bea5f32bf53c369f3c1da977883.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-22T07:50:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7171dd2fd31e4bea5f32bf53c369f3c1da977883&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        工作细胞 第一季 Hataraku Saibou 1-13+SP [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bb300ffecd3a74d50d37f2ec0c9110a2476cf044.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-22T07:13:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bb300ffecd3a74d50d37f2ec0c9110a2476cf044&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]東京喰種:re (Tokyo Ghoul:re) - 05 [粵日雙語+內封繁體中文字幕] (BD 1920x1080 x264 AACx2 ASS ViuTV CHT)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5d876992875d87a7ddbd850e0c70a534885cc10d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-21T15:46:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5d876992875d87a7ddbd850e0c70a534885cc10d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【神奇字幕组】【精灵宝可梦/宠物小精灵剧场版22】【超梦的逆袭Evolution】【BDRIP】【繁体】【1080P_MP4_Hi10P】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5a06d1f2c52586281c4ae2ee846df25eab4bf42b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-21T13:26:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5a06d1f2c52586281c4ae2ee846df25eab4bf42b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【神奇字幕组】【精灵宝可梦/宠物小精灵剧场版22】【超梦的逆袭Evolution】【BDRIP】【简体】【1080P_MP4_Hi10P】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8d2813013776ddaf28d316a336b54fac558679f1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-21T12:55:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8d2813013776ddaf28d316a336b54fac558679f1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Lilith-Raws] 碧藍幻想 / Granblue Fantasy S02 - 11 [Baha][WEB-DL][1080p][AVC AAC][CHT][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-205d405c3d64bb12b9fed727141fc26e01a5c1c8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-21T07:08:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:205d405c3d64bb12b9fed727141fc26e01a5c1c8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        高分少女 第一季 High Score Girl 1-15 [BD 1920x1080 HEVC x265 10bit][简体内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4d4fb9d3944a3964419a97f311e28e539f076587.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-21T05:22:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4d4fb9d3944a3964419a97f311e28e539f076587&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        我的英雄学院 第二季 Boku no Hero Academia S2 1-25 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bfae7a0a2bdda5c5263a50b42d529217abbc0a2a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-21T04:49:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bfae7a0a2bdda5c5263a50b42d529217abbc0a2a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        为什么老师会在这里！ Nande Koko ni Sensei ga！ 1-13 [BD 1920x1080p HEVC x265 AAC][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a55ce598284d753739ff0d829bd8858577a269f2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-21T01:35:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a55ce598284d753739ff0d829bd8858577a269f2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ​[c.c動漫][10月新番][碧藍幻想 第二季][GRANBLUE FANTASY S2][11][BIG5][1080P][MP4][網盤]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-40d596d8bf3faebbea84f809d6e714bd3e235b41.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-20T17:10:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:40d596d8bf3faebbea84f809d6e714bd3e235b41&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 八月的棒球甜心 Hachigatsu no Cinderella Nine (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7232ad6185b3820cf0de337a53afe317f579d7fd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-20T09:50:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7232ad6185b3820cf0de337a53afe317f579d7fd&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        魔笛MAGI 魔奇少年 第1季 The labyrinth of magic(2012)[BDrip][1920x1080][TV25+menu10+NCOPED12][x264_m4a][10bit]加刘景长压制",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3cb536f752f330286a832672801e586d21203ff7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-20T05:12:17.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3cb536f752f330286a832672801e586d21203ff7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [KRL][Build新世界][假面騎士Cross-Z][1080P][BDrip][x265_AC3][Main10]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f4e5166503be5d554ea84cfb22107cf34278aeb6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-20T00:03:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f4e5166503be5d554ea84cfb22107cf34278aeb6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制] Let's GO!登山少女III/前進吧!登山少女第三季 - 09 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f80ef8c980cc7c5f259b9e29317f448fcb2c583f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-19T09:35:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f80ef8c980cc7c5f259b9e29317f448fcb2c583f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 無敵鋼人泰坦3 Muteki Koujin Daitarn 3  (BD 1440x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-94807eb39c0516938175cce8cee4385149e30fb6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-19T08:32:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:94807eb39c0516938175cce8cee4385149e30fb6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 美少女戰士 Bishoujo Senshi Sailor Moon (BD 1440x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f763fe87b84f7cc1615c56c0d512391092544188.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-19T08:32:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f763fe87b84f7cc1615c56c0d512391092544188&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 美少女戰士R Bishoujo Senshi Sailor Moon R (BD 1440x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3027fde781b86dc2c8bfb249a3c16e892d0f1059.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-19T08:32:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3027fde781b86dc2c8bfb249a3c16e892d0f1059&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 美少女戰士S Bishoujo Senshi Sailor Moon S (BD 1440x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f8e0397eaf0ba728121a3ae098e22a316954f35e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-19T08:32:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f8e0397eaf0ba728121a3ae098e22a316954f35e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 美少女戰士 Super S Bishoujo Senshi Sailor Moon Super S (BD 1440x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ddf1f9c7cc48624c36af45e40d220d18d1769392.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-19T08:31:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ddf1f9c7cc48624c36af45e40d220d18d1769392&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 美少女戰士劇場版 Bishoujo Senshi Sailor Moon The Movie  (BD 1920x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-019e2ab810a7913fc27c1d453b36eff6c28c9168.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-19T08:31:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:019e2ab810a7913fc27c1d453b36eff6c28c9168&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 美少女戰士Crystal Bishoujo Senshi Sailor Moon Crystal S1+S2 (BD 1920x1080 x264 FLACx3)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d443cae5ce9eb510796f098bb21af47490f538ef.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-19T08:31:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d443cae5ce9eb510796f098bb21af47490f538ef&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 美少女戰士Crystal S3 Bishoujo Senshi Sailor Moon Crystal S3 (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-53a2b514dccf428e9be7954528b7aa563af88aca.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-19T08:31:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:53a2b514dccf428e9be7954528b7aa563af88aca&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        记录的地平线1   BDRIP",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a5352ec56364e78edf887b1bbc4788ad04b7093f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-19T01:35:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a5352ec56364e78edf887b1bbc4788ad04b7093f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制] Let's GO!登山少女III/前進吧!登山少女第三季 - 08 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-24aee43af8d35f085729a496415b76ee87c20a95.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-18T09:22:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:24aee43af8d35f085729a496415b76ee87c20a95&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[你遭難了嗎？/你遇難了嗎？_Sounan desu ka][01-12 END][BDRIP 1920x1080 x264 AAC][CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f40954b498e963143317432c59a5fde7ed572637.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-17T11:13:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f40954b498e963143317432c59a5fde7ed572637&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[你遭難了嗎？/你遇難了嗎？_Sounan desu ka][01-12 END][BDRIP 1920x1080 x264 AAC][CHS]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b69c08bdc82572b5d53dc4ad0b5e67f7a38043f8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-17T11:12:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b69c08bdc82572b5d53dc4ad0b5e67f7a38043f8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [NEO·QSW]CODE GEASS 复活的鲁鲁修 コードギアス 復活のルルーシュ CODE GEASS Lelouchi of the Re;surrection[Bdrip HEVC 1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0935d5f9f70ac67493104bbc5b223353266c47d3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-17T07:51:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0935d5f9f70ac67493104bbc5b223353266c47d3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【星云字幕组】【奥特曼】【07】【巴拉吉的蓝宝石】【中日双语】【BDRip】【MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b894eb2b3af0112515a192b3b9336ba8da4dca6b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-17T07:02:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b894eb2b3af0112515a192b3b9336ba8da4dca6b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制] Let's GO!登山少女III/前進吧!登山少女第三季 - 07 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c60ac68469d8d50173bc7e07fb081628faf088fe.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-17T06:35:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c60ac68469d8d50173bc7e07fb081628faf088fe&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        腹黑妹妹控兄记 Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!日俄双语(2010)[BDRIP][1920x1080][TV12+OVA+pv9+NCoped][x264_m4a][10bit]加刘景长压制V2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6bea3fe7aba15def1f95d7ab984834c0ffa67f13.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-17T03:41:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6bea3fe7aba15def1f95d7ab984834c0ffa67f13&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 碧藍航線/Azur Lane/アズールレーン 02 BIG5 1080P BDRip MP4v2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2ee38cfc3769ed4b66e494578205c842b7d63fb7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-16T17:53:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2ee38cfc3769ed4b66e494578205c842b7d63fb7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 新干线变形机器人 进化先锋 Shinkansen Henkei Robo Shinkalion The Animation BD-BOX 1-76 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0994b8fb4d67733d3e11c4485821f8cae7ea78a7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-16T10:04:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0994b8fb4d67733d3e11c4485821f8cae7ea78a7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [转发][OZC-Live][假面骑士Amazons第二季][Kamen Rider Amazons Season 2 BD Box Complete Series][1080p]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9801c86a41ffe6148a235acbfdacf70afe27a245.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-16T08:00:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9801c86a41ffe6148a235acbfdacf70afe27a245&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制] Let's GO!登山少女III/前進吧!登山少女第三季 - 06 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b7d4c32e50ae20e7ba16c9f27260dcfa54507f94.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-16T07:24:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b7d4c32e50ae20e7ba16c9f27260dcfa54507f94&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]東京喰種:re (Tokyo Ghoul:re) - 04 [粵日雙語+內封繁體中文字幕] (BD 1920x1080 x264 AACx2 ASS ViuTV CHT)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9bd304781be159f94b99a84069c5ec92dcd193cb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-16T06:49:48.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9bd304781be159f94b99a84069c5ec92dcd193cb&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 碧藍航線/Azur Lane/アズールレーン 02 BIG5 1080P BDRip MP4v2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f5e54388ae836b0a518a8331e0dea769c141f791.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-16T06:15:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f5e54388ae836b0a518a8331e0dea769c141f791&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        4K[CXRAW][ウルトラQ][奥特Q][UHD-BDrip][2160p][HEVC Ma10p HDR FLAC×2 MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-db70deb69a9b9ab83df09de214dc4ad1b680fa97.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T10:45:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:db70deb69a9b9ab83df09de214dc4ad1b680fa97&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        动画同好会 Anime Gataris(2017)[BDRIP][1920x1080][TV12+menu3+NCOPED4+PV+SP6][x264_m4a][10bit]加刘景长压制",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9e67b008cad7cf2e8970033cdbc7dacf36907176.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T08:35:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9e67b008cad7cf2e8970033cdbc7dacf36907176&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 碧藍航線/Azur Lane/アズールレーン 02 GB 1080P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3382670ac4f66b5126c222e1327062e6671a82d4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T07:40:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3382670ac4f66b5126c222e1327062e6671a82d4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 碧藍航線/Azur Lane/アズールレーン 02 BIG5 1080P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9186bd11e11279c64d7e1e1d1f4e6dfbaf5bf908.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T07:40:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9186bd11e11279c64d7e1e1d1f4e6dfbaf5bf908&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 碧藍航線/Azur Lane/アズールレーン 01 GB 1080P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-618aa64590690b4d82b2ab594a84d80511e4158c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T07:39:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:618aa64590690b4d82b2ab594a84d80511e4158c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 碧藍航線/Azur Lane/アズールレーン 01 BIG5 1080P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-30b1c753c9c9de4e133304bdf7870eed8958d0a1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T07:38:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:30b1c753c9c9de4e133304bdf7870eed8958d0a1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [桜都字幕组&H1080-RAW] 为什么老师会在这里！Nande Koko ni Sensei ga! (BDrip 1080P HEVC-MA10P AAC GB BIG5)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-468adcc59fff658ed13b25d0dd692e84d0a28a94.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T07:24:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:468adcc59fff658ed13b25d0dd692e84d0a28a94&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[蜡笔小新剧场版2014 — 大对决！机器人爸爸的反击][クレヨンしんちゃん ガチンコ!逆襲のロボとーちゃん!!][BDRip][1080P_x264(8bit)-FLAC-SUB][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b1080374e01a11a9c6910ce578292bd884ebd020.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T07:12:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b1080374e01a11a9c6910ce578292bd884ebd020&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        人形电脑天使心/人型电脑天使心 Chobits 1-24 [BD 1920x1080 HEVC 10bit][简体内封字幕][2002年]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6c92dffe13e50a0b7bbbe66f8169f5c6887d3704.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T05:26:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6c92dffe13e50a0b7bbbe66f8169f5c6887d3704&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 咕噜咕噜魔法阵/Mahoujin Guru Guru 2017/魔法陣グルグル 2017 (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-51e2b78f56107e7ed0e816df666e2df0580b848c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T01:59:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:51e2b78f56107e7ed0e816df666e2df0580b848c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        香蕉喵.第一季.05.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b0c50752627ef4c1f1e4f6120089bedd1bd08ea4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-14T16:28:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b0c50752627ef4c1f1e4f6120089bedd1bd08ea4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] Code Geass (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b4cd259be6351780a2e39a2fb4917ec74a4ca937.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-14T09:31:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b4cd259be6351780a2e39a2fb4917ec74a4ca937&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [转][PocketUniverse] 侍战队真剑者 1-49+假面骑士Decade 24&25  (1080p BluRay)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f2a74d4655c9a06a0f256ba715f3de380e49b1cb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-14T07:40:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f2a74d4655c9a06a0f256ba715f3de380e49b1cb&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        剧场版 青春猪头少年不会梦到怀梦美少女 Seishun Buta Yaro wa Yumemiru Shoujo no Yume wo Minai [BD 1920x1080 HEVC x265 10bit][简繁日内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ff722ea4aac4a99b1240e4f153e21be57945e149.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-14T02:46:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ff722ea4aac4a99b1240e4f153e21be57945e149&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        命运之夜-无限剑制 Fate/stay night Unlimited Blade Works 00-25 [BD 1920x1080 HEVC x265 10bit][简繁日内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9ba3794ec61d5f8059395da08f7b4c57dd25b23c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-14T01:54:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9ba3794ec61d5f8059395da08f7b4c57dd25b23c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        来自风平浪静的明天 Nagi No Asukara 1-26 [BD 1920x1080 HEVC x265 10bit][简繁日内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7149ac9648b2d12cf548a14a4aea22a81cde026d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-14T01:04:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7149ac9648b2d12cf548a14a4aea22a81cde026d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ​[c.c動漫][10月新番][碧藍幻想 第二季][GRANBLUE FANTASY S2][10][BIG5][1080P][MP4][網盤]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5e6bd8de7ab72b1c7b6120f00f55ceeab18af043.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-13T16:45:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5e6bd8de7ab72b1c7b6120f00f55ceeab18af043&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Lilith-Raws] 碧藍幻想 / Granblue Fantasy S02 - 10 [Baha][WEB-DL][1080p][AVC AAC][CHT][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a1f624f1aa8748a10f8693513db9eb02e29fda6a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-13T16:43:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a1f624f1aa8748a10f8693513db9eb02e29fda6a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 为什么老师会在这里 Nande Koko ni Sensei ga! BD-BOX 1-12 (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8a56085c4f1bbb8614c8381b6c2e21e4e675d018.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-13T13:20:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8a56085c4f1bbb8614c8381b6c2e21e4e675d018&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【MCE汉化组&U3片源组】[剧场版 - 复活的鲁路修 / Code Geass ~Fukkatsu no Lelouch~ /コードギアス 復活のルルーシュ(2019)][Movie][简体][BDrip_1080p][x264 AAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5099c03ff9b359147c29937be42d38736af1b58d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-13T12:06:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5099c03ff9b359147c29937be42d38736af1b58d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        命运石之门  BDRIP  剧场版 负荷领域的既视感   Steins_Gate_Fukaryouiki_no_Dejavu",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b48e33a594b76c871c0afc3337754218392650a5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-13T05:49:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b48e33a594b76c871c0afc3337754218392650a5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        命运石之门 BDRIP  Steins_Gate",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-604fd7caba2546100f9ed61a879204b355370c3d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-13T05:48:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:604fd7caba2546100f9ed61a879204b355370c3d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 劇場版 復活的魯路修 Code Geass Fukkatsu no Lelouch - REV (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-48d2c2ac179e72056ab8bbe1a936903ba100deeb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-12T14:49:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:48d2c2ac179e72056ab8bbe1a936903ba100deeb&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 只要長得可愛，即使是變態你也喜歡嗎？Kawaikereba Hentai demo Suki ni Natte Kuremasu ka (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bf1f9a6472e7b36032bd624759464c64f4a49336.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-12T14:34:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bf1f9a6472e7b36032bd624759464c64f4a49336&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 皿三昧 Sarazanmai (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fe50e0f60a513cf37602103e05fbb84da2d06816.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-12T14:34:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fe50e0f60a513cf37602103e05fbb84da2d06816&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 劇場版 復活的魯路修 Code Geass Fukkatsu no Lelouch - REV (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b66688a1bcd188113336c00b0132f160db2ebf55.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-12T14:33:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b66688a1bcd188113336c00b0132f160db2ebf55&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        哥布林杀手 Goblin Slayer 1-12 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2d441ae7af07fc71a584b2e33aee073db43ad0cf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-12T10:45:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2d441ae7af07fc71a584b2e33aee073db43ad0cf&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        狂赌之渊 S1+S2 Kakegurui [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-29aa0ba5d2f10b48e1536e9753fd361df4118417.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-12T10:14:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:29aa0ba5d2f10b48e1536e9753fd361df4118417&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        斩·赤红之瞳 Akame ga Kill! 1-24 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c51cc0d56270efebcfc3f1e21683268b9ade8856.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-12T09:07:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c51cc0d56270efebcfc3f1e21683268b9ade8856&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【动物城字幕制作委员会】疯狂动物城 UHD-BDrip（4K，HDR10） 中文字幕最终混合版 国粤日英台 含中影公映国配",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1f28b4fbe49bb44a8cf31d2c71d9e28618d685fb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-12T09:01:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1f28b4fbe49bb44a8cf31d2c71d9e28618d685fb&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [CXRAW][Dragon Ball Z][30th Anniversary Collection's Edition][龙珠Z30周年纪念版][BDrip][1080p][HEVC Ma10p FLAC MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6e8930982c3ff9d98c753b64df322c51de29cb55.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-12T06:02:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6e8930982c3ff9d98c753b64df322c51de29cb55&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 调教咖啡厅/Blend S/ブレンド・S (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5e7bb729bb396ae68ef4a4d0c1832f2e13377b66.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-12T05:15:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5e7bb729bb396ae68ef4a4d0c1832f2e13377b66&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [XYL][BDRIP][碧蓝航线/アズールレーン/Azur Lane][Vol.01][1080P HEVC Ma10P][简体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-14b4f9011fc3f86e50015b96459850068ba63f35.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-12T04:18:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:14b4f9011fc3f86e50015b96459850068ba63f35&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ✿小花花同盟戰線✿【八十龜觀察日記_Yatogame-chan Kansatsu Nikki】[第12話_DELUXE DELUXE 版][1080P_BDRIP_MP4][繁體]（BD特別版）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9f79b2718b798435752eea47cc15b0172089a753.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-11T17:14:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9f79b2718b798435752eea47cc15b0172089a753&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【TV未放送】【為什麼老師會在這裡 Nande Koko ni Sensei ga】【13】【BDrip】【BIG5_MP4】【1920X1080】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-063c66207a441c2477d40e4ff5c68c66be4cc6f7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-11T12:33:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:063c66207a441c2477d40e4ff5c68c66be4cc6f7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【TV未放送】【为什么老师会在这里 Nande Koko ni Sensei ga】【13】【BDrip】【GB_MP4】【1920X1080】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fade8d27d539f61446f2a49870c217f4f821f92c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-11T12:33:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fade8d27d539f61446f2a49870c217f4f821f92c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】★10月新番[少女終末旅行_Shoujo Shuumatsu Ryokou][01-12+SP][GB][1080p][BDrip][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-67723a6f743af4ef7737b1ce59b801f286d58166.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-10T16:16:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:67723a6f743af4ef7737b1ce59b801f286d58166&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】★10月新番[少女終末旅行_Shoujo Shuumatsu Ryokou][01-12+SP][BIG5][1080p][BDrip][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6851caec9e5779ba93cffba1f8614619d56714fd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-10T16:13:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6851caec9e5779ba93cffba1f8614619d56714fd&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [雪飄工作室&澄空學園][碧藍幻想 二期][GRANBLUE FANTASY-The Animation Season2][08][720p][繁體內嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f752e4ffe7f678c3bee7a8d7201306c146558741.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-10T13:27:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f752e4ffe7f678c3bee7a8d7201306c146558741&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        节哀唷! 二之宫同学/请别忧伤了二宫君/请别忧愁了二之宫同学 Goshuushou-sama Ninomiya-kun 1-12 [BD 1920x1080 HEVC x265 10bit][简体内封字幕][2007年]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-154d3bac6b1983f945ad71f7ae6d3103e56f3ea8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-10T08:55:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:154d3bac6b1983f945ad71f7ae6d3103e56f3ea8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [银色子弹字幕组][名侦探柯南][剧场版23 绀青之拳][简日双语MP4/繁日雙語MP4/简繁日多语MKV][BDRIP][1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c2d0f59e9f94b73fd382446f522ad565dfa0d78e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-10T04:01:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c2d0f59e9f94b73fd382446f522ad565dfa0d78e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 请问您今天要来点兔子吗？？ ~Sing For You~/Gochuumon wa Usagi Desuka?? Sing for You/ご注文はうさぎですか？？ ~Sing For You~ (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8e40d595eea0f3f6e2aa762df0c3a8b477fee01d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-10T01:27:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8e40d595eea0f3f6e2aa762df0c3a8b477fee01d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [澄空学园&雪飘工作室][碧蓝幻想 二期][GRANBLUE FANTASY-The Animation Season2][08][720p][简体内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-35f833b2185cbb25fe66d56bf4a2dee25d3d31b7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-09T13:51:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:35f833b2185cbb25fe66d56bf4a2dee25d3d31b7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        多罗罗 Dororo 1-24 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-abe6b668d0e0e48d06bef7c8f2cb26e5c421f6eb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-09T09:05:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:abe6b668d0e0e48d06bef7c8f2cb26e5c421f6eb&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]刀劍神域Alicization/刀劍神域III - 24 END [粵日雙語(有小小CUT嘅地方已經消音)+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a57493cab3aaffff2b05923c68c4fd457493f9a6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-09T08:34:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a57493cab3aaffff2b05923c68c4fd457493f9a6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[舞台剧 终将成为你/舞台「やがて君になる」/Butai Yagate Kimi Ni Naru][BDRip][1080p][简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ebed9d1e122b35422d12763d4ca739c48a975de6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-09T05:20:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ebed9d1e122b35422d12763d4ca739c48a975de6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        进击的巨人S3  PART2  BDRIP",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-3bef921047c278674252517dc6933a344dafa304.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-09T00:21:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:3bef921047c278674252517dc6933a344dafa304&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]刀劍神域Alicization/刀劍神域III - 23 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-854a5356f4bbc8b7ca205c46e9bfcd48131cc401.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-08T14:44:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:854a5356f4bbc8b7ca205c46e9bfcd48131cc401&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】★剧场版★[CENCOROLL CONNECT\\CENCOROLL 1+2\\センコロール コネクト][BDRip][1080p][简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4f27787d1ce30874b2e5d4d49e38b98b9ca3f078.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-08T13:55:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4f27787d1ce30874b2e5d4d49e38b98b9ca3f078&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] Just Because!/Just Because! (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-73c77a3bb40831fa228a059b32b3562be93e10c7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-08T12:36:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:73c77a3bb40831fa228a059b32b3562be93e10c7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 荒野的寿飞行队/Kouya no Kotobuki Hikoutai/荒野のコトブキ飛行隊 (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a30107195ed7f9d96c14902513d78d4c8cecb3ed.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-08T11:24:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a30107195ed7f9d96c14902513d78d4c8cecb3ed&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        剧场版 你的名字 Kimi no Na wa/your name/君の名は [BD 4K HEVC x265 10bit 5.1ch][简体内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c6071f5fedefacdacc902b21d9c1702263746fd2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-08T09:40:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c6071f5fedefacdacc902b21d9c1702263746fd2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [雪飄工作室&澄空學園][碧藍幻想 二期][GRANBLUE FANTASY-The Animation Season2][07][720p][繁體內嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-49d9c7f94f80dda47f7acb54dfe2936acd9c92bf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-08T08:02:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:49d9c7f94f80dda47f7acb54dfe2936acd9c92bf&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]東京喰種:re (Tokyo Ghoul:re) - 03 [粵日雙語+內封繁體中文字幕] (BD 1920x1080 x264 AACx2 ASS ViuTV CHT)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-33e478eb018396bd4054269da4ccb4fdab41e3e6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-07T15:24:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:33e478eb018396bd4054269da4ccb4fdab41e3e6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [澄空学园&雪飘工作室][碧蓝幻想 二期][GRANBLUE FANTASY-The Animation Season2][07][720p][简体内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-595080101107a9832e79ab21930af71831cc2c45.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-07T12:31:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:595080101107a9832e79ab21930af71831cc2c45&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 剧场版 复活的鲁路修/复活的鲁鲁修 Code Geass Fukkatsu no Lelouch (BD 1920x1080 x264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e42ad36e625949ac3180a83db7b18de2311ab1aa.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-07T03:36:32.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e42ad36e625949ac3180a83db7b18de2311ab1aa&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 剧场版 复活的鲁路修/复活的鲁鲁修 Code Geass ~Fukkatsu no Lelouch~ (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ee68d1e493ffe26a21fe196c492bc2ffea69f57f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-07T03:29:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ee68d1e493ffe26a21fe196c492bc2ffea69f57f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 白蛇传 Hakujaden BD-BOX (BD 1480x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5fb8a63e61ec88363e882914537de6c249a2f2c4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-07T03:26:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5fb8a63e61ec88363e882914537de6c249a2f2c4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 鬼灭之刃 Kimetsu no Yaiba Vol.01~05 (BD 1920x1080 x.264-10Bit FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1ec0dbd01cfd4150b113bd95c4f02435e3a4d270.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-07T03:22:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1ec0dbd01cfd4150b113bd95c4f02435e3a4d270&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 剧场版 复活的鲁路修/复活的鲁鲁修 Code Geass Fukkatsu no Lelouch (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-18bc911ac3b8fab7b0ffc90bdfe86b05d3ae9f70.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-07T03:20:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:18bc911ac3b8fab7b0ffc90bdfe86b05d3ae9f70&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ​[c.c動漫][10月新番][碧藍幻想 第二季][GRANBLUE FANTASY S2][09][BIG5][1080P][MP4][網盤]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2c714f437342073926c77e777d0d4dcbdd8fbb0a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-07T01:31:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2c714f437342073926c77e777d0d4dcbdd8fbb0a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Lilith-Raws] 碧藍幻想 / Granblue Fantasy S02 - 09 [Baha][WEB-DL][1080p][AVC AAC][CHT][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-72016662d8ca4c5b088d7ce6084ff0316d9437d5.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-06T16:43:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:72016662d8ca4c5b088d7ce6084ff0316d9437d5&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        盾之勇者成名录 第一季 Tate no Yuusha no Nariagari 1-25 [BD 1920x1080 HEVC x265 10bit][简繁内封字幕]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a99c4317f6edef3fef84ccba062597cd055e9b47.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-06T08:10:01.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a99c4317f6edef3fef84ccba062597cd055e9b47&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【星云字幕组】【艾斯奥特曼】【36】【这头超兽10000方？】【BDrip】【1440×1080】【MKV】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-33e819dd2948b1ae428df841f8a355ce0f337abb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-06T05:18:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:33e819dd2948b1ae428df841f8a355ce0f337abb&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻之字幕组】劇場版 復活的魯路修 Code Geass Fukkatsu no Lelouch [1080P][V2][BIG5][BDrip][AVC AAC YUV420P8]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4ef79d4fc08ea072fb5f1ed72ea7daa8124c12f7.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T23:05:44.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4ef79d4fc08ea072fb5f1ed72ea7daa8124c12f7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻之字幕组】剧场版 复活的鲁路修 Code Geass Fukkatsu no Lelouch [1080P][V2][GB][BDrip][AVC AAC YUV420P8]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fc668ca1e1d68cb074d8b5dc1e01260251b999ff.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T23:05:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fc668ca1e1d68cb074d8b5dc1e01260251b999ff&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.22.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cff525960f7948d6cccba91a0a821d810b5d4978.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:08:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:cff525960f7948d6cccba91a0a821d810b5d4978&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.21.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dbcc4599f304eec5a4bd3271ccdacf89ebd28d02.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:07:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dbcc4599f304eec5a4bd3271ccdacf89ebd28d02&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.20.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-882cd05e1096c98850fc7d0fe7b5429f679715ad.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:07:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:882cd05e1096c98850fc7d0fe7b5429f679715ad&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.19.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a5c58ea667241a458274708b169da5752eb21232.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:06:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a5c58ea667241a458274708b169da5752eb21232&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.18.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b18484983fa34b7c305c8d4f85972b7dadbd8bdb.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:06:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b18484983fa34b7c305c8d4f85972b7dadbd8bdb&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.17.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f2951c56df287497762e12c1b5d497ed200cf65a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:06:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f2951c56df287497762e12c1b5d497ed200cf65a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.16.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-44d919c5acb28905fda4a0d3b9f96abc7e4ebef8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:05:41.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:44d919c5acb28905fda4a0d3b9f96abc7e4ebef8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.15.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4dd21eeb0bd7c021ed001fd180ad925701f7c7af.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:05:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4dd21eeb0bd7c021ed001fd180ad925701f7c7af&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.14.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8e7891216a565e86b9d2f2517a31f23c7046e6e1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:04:50.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8e7891216a565e86b9d2f2517a31f23c7046e6e1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.13.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0f947be81b777b67de215489dfd263ddf5e4014d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:04:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0f947be81b777b67de215489dfd263ddf5e4014d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.12.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ebec9c77eedbb7379e189cf1648622e9e55e6d8d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:03:54.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ebec9c77eedbb7379e189cf1648622e9e55e6d8d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.11.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-794ee63a8398589e66c9798da697217599189762.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:03:23.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:794ee63a8398589e66c9798da697217599189762&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.10.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-79542432359ad7bb2acb42023f9648cac14c65e3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:03:02.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:79542432359ad7bb2acb42023f9648cac14c65e3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.09.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-eb1cb56f277045403e76d3cff9162bdfb9523991.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:02:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:eb1cb56f277045403e76d3cff9162bdfb9523991&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.08.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a97988a2bce994fb7d2e5a1b1c6941e55cb090ee.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:02:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a97988a2bce994fb7d2e5a1b1c6941e55cb090ee&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.07.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ad05c9d03acda1011c8e866bf3f68ae4aaffb058.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:01:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ad05c9d03acda1011c8e866bf3f68ae4aaffb058&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.06.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-84ff0708a5a3d2e3f8a7e2f14906229e50401b8b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:01:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:84ff0708a5a3d2e3f8a7e2f14906229e50401b8b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.05.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-255e73b0ce2a65628f9e89a2df8581201df1faee.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:01:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:255e73b0ce2a65628f9e89a2df8581201df1faee&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.04.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d5b8eb075f11d52dfc176a9081e4465651fae045.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:00:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d5b8eb075f11d52dfc176a9081e4465651fae045&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.03.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f2660114691437fb2c662d035b3410aac8785e7c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:00:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f2660114691437fb2c662d035b3410aac8785e7c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.02.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e8bf97816b58e4fb3d82b0ce3cb554023a4e8869.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T15:00:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e8bf97816b58e4fb3d82b0ce3cb554023a4e8869&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        心理测量者.第一季.01.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9381534e5dfe1c2c0557086b818d7ee12e93231f.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T14:59:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9381534e5dfe1c2c0557086b818d7ee12e93231f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]刀劍神域Alicization/刀劍神域III - 22 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9139ad981ed72ea46cd0f0cae3ddc1da6e2c8b6d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T11:23:22.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9139ad981ed72ea46cd0f0cae3ddc1da6e2c8b6d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【肥羊-Raws】[龙珠超（TV动画+3动画电影）][ドラゴンボール超（TVアニメ+3アニメ映画）][BDRip][1080P_x264(8bit)-FLAC][ALL]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b4ffd0d21bb52992f1ac7daf34a9d74ecd3aef5d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T11:13:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b4ffd0d21bb52992f1ac7daf34a9d74ecd3aef5d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 千子2 Cencoroll Connect (BD 1920x1080 x.264-10Bit 2Audio)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c70d4f4128b9f589e31c31e5dd26b3165202f772.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T09:33:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c70d4f4128b9f589e31c31e5dd26b3165202f772&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 剧场版 青春猪头少年不会梦到怀梦美少女  Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai v2 (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9936b25d3cbd4666fab65789d0fa96fe959e8f09.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T09:32:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9936b25d3cbd4666fab65789d0fa96fe959e8f09&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【BD 1080P】龙心战纪/圣战刻耳柏洛斯 01-13 [GB][END][1080P][简体中文]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-09ad661b0b67bd523fe5f3cde1c2bfd28a70778a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T08:02:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:09ad661b0b67bd523fe5f3cde1c2bfd28a70778a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【BD 1080P】龙心战纪/圣战刻耳柏洛斯 13 [GB][1080P][END][简体中文]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-75029743c8ccba2a68e8bb2a83b4856d1ca8467b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-05T07:57:18.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:75029743c8ccba2a68e8bb2a83b4856d1ca8467b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻之字幕组】剧场版 复活的鲁路修 Code Geass Fukkatsu no Lelouch [1080P][GB][BDrip][AVC AAC YUV420P8]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4421e698d0f27fe2a04abd807e425c94199b28a2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-04T10:42:15.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4421e698d0f27fe2a04abd807e425c94199b28a2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] Cencoroll (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8f2766f30a19016be7535a6f61533d5a041a88bc.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-04T09:42:35.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8f2766f30a19016be7535a6f61533d5a041a88bc&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        幸运星 Lucky Star(2007)日英粤三语版[BDRIP][1920x1080][TV24+OVA+NCOP+SP][x264_m4a][8bit]加刘景长压制",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-294e5913978d8f60959a2a8f78b313b339d9e385.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-04T04:56:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:294e5913978d8f60959a2a8f78b313b339d9e385&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [ReinForce] 重来吧魔王大人 Maou-sama, Retry! 1-12 (BDRip 1920x1080 x264 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-03c067f2720226bdceaf2983adce23ffdfcad448.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-04T03:15:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:03c067f2720226bdceaf2983adce23ffdfcad448&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        小鸠 Kobato 日粤双语(2009)[BDRIP][1920x1080][TV24+menu4+NCOPED+PV+SP8][x264_m4a][10bit]加刘景长压制 V2.1",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e56766cf2b92f88219580e00ef117d5d54e55fff.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T16:18:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e56766cf2b92f88219580e00ef117d5d54e55fff&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        香蕉喵.第一季.04.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fecdf28b72ebd90e953cf84df2af0313644af388.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T15:40:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fecdf28b72ebd90e953cf84df2af0313644af388&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        香蕉喵.第一季.03.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-005a2c1e422cd79fd0066f4cefb0e06bbef2c629.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T15:39:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:005a2c1e422cd79fd0066f4cefb0e06bbef2c629&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        香蕉喵.第一季.02.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c4e8e2037c643e7427a536e3c0b039102e41779a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T15:39:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c4e8e2037c643e7427a536e3c0b039102e41779a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        香蕉喵.第一季.01.中日双语.BluRay.1080P.甜饼字幕组.mp4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-195f3b149a786ffc865b6e1f9a5a9a81be07edef.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T15:38:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:195f3b149a786ffc865b6e1f9a5a9a81be07edef&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[終將成為你 舞台劇_Yagate Kimi ni Naru Stage][BDRIP 1920x1080 x264 AAC][CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-160e16457fce90378ee4d536d51818825bc0c904.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T14:43:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:160e16457fce90378ee4d536d51818825bc0c904&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[终将成为你 舞台剧_Yagate Kimi ni Naru Stage][BDRIP 1920x1080 x264 AAC][CHS]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5e3d26281a52bb093cae64c89482a919d552e342.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T14:36:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5e3d26281a52bb093cae64c89482a919d552e342&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【悠哈璃羽字幕社】[終將成為你 舞台劇_Yagate Kimi ni Naru Stage][BDRIP 1920x1080 x264 FLAC][MKV 简繁外挂]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c90fdc25877c83d4cb7b1a1afcc25c7183e19773.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T14:27:20.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c90fdc25877c83d4cb7b1a1afcc25c7183e19773&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【紫音壓制組】【少女愛上姐姐 ~2人的艾露達~/Otoboku Futari no Elder/乙女はお姉さまに恋してる ~2人のエルダー~】【OVA】[BDRip][1080P][HEVC YUV420P10 FLAC][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-53ca10d05d92cd050a47f180939e9e1bccb21e9c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T14:18:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:53ca10d05d92cd050a47f180939e9e1bccb21e9c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【BD 1080P】龙心战纪/圣战刻耳柏洛斯 12 [GB][1080P][简体中文]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dfc32f7b0a1d1922b6650b856344d2a70f39ed09.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T14:18:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dfc32f7b0a1d1922b6650b856344d2a70f39ed09&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 你遭难了吗/你遇难了吗 Sounan Desuka BD-BOX (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-22c985102306718a274b9b942e9973169ef81f05.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T11:55:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:22c985102306718a274b9b942e9973169ef81f05&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 重来吧魔王大人 Maou-sama, Retry! (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9d3a0f7fb5b9fbfbdb927604a72b62748609491d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T11:53:14.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9d3a0f7fb5b9fbfbdb927604a72b62748609491d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        进击的巨人S3 PART1 BDRIP",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e4ee84e4594e52904b11b6abe59d060ac928b2b4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-02T13:28:27.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e4ee84e4594e52904b11b6abe59d060ac928b2b4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        Another 替身(2012)[BDRIP][1920x1080][TV12+menu+NCOPED+PV3+SP][x264_m4a][10bit]加刘景长压制 V2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a774ac66a6297173945dc2f6a92d9d7e640e3538.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-02T13:15:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a774ac66a6297173945dc2f6a92d9d7e640e3538&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Niconeiko Works] Sword Art Online Alicization 刀剑神域 Alicization BDRip 1080P Ma10p FLAC",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-387c2c9b7403602c8ac4fa6b55454ba87ba42223.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-02T13:03:16.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:387c2c9b7403602c8ac4fa6b55454ba87ba42223&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 我们真的学不来/我们无法一起学习 第一季 Bokutachi wa Benkyou ga Dekinai 1-13+OAD (BD 1920x1080 x.264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d037f1f8f036164ad186011909b16ec9a106c879.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-02T10:39:19.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d037f1f8f036164ad186011909b16ec9a106c879&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 为了女儿我说不定连魔王也能干掉 Uchi no Ko no Tame Naraba, Ore wa Moshikashitara Maou mo Taoseru Kamo Shirenai 1-12 (BD 1920x1080 x.264 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fc1083543d23aaefd357293b1fc01e487869ae5a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-02T10:37:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fc1083543d23aaefd357293b1fc01e487869ae5a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        魔法骑士雷亚斯 Magic Knight Rayearth 01 (BD 1440x1080 HEVC 10bit AAC)简体内封字幕",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9f7a0d06b62dd715ed836275714b11f384d12b28.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-02T09:54:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9f7a0d06b62dd715ed836275714b11f384d12b28&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        AIR 青空(2005)[BDRIP][1920x1080][TV12+OVA2+NCOP][x264_m4a][10bit]加刘景长压制 V2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7b023f4704276b20b2cba2c0f67bf23f622587ab.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-02T08:52:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7b023f4704276b20b2cba2c0f67bf23f622587ab&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [xyx98]青春猪头少年不会梦到怀梦美少女/Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai/青春ブタ野郎はゆめみる少女の夢を見ない(BDrip 1920x1080 hevc-yuv420p10 flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-51b54339f02eb6da1c70d5c0eec48046ff4f5a8e.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-02T05:18:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:51b54339f02eb6da1c70d5c0eec48046ff4f5a8e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        小鸠 Kobato 日粤双语(2009)[BDRIP][1920x1080][TV24+menu4+NCOPED+PV+SP8][x264_m4a][10bit]加刘景长压制 V2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dca1e3250cab19ba6877acd3a21bcf013ae9ed5d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-01T16:04:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dca1e3250cab19ba6877acd3a21bcf013ae9ed5d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【BD 1080P】龙心战纪/圣战刻耳柏洛斯 11 [GB][1080P][简体中文]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bb5b4019bd3181b64f35d2f3998b41ff395dbe7d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-01T15:30:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bb5b4019bd3181b64f35d2f3998b41ff395dbe7d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        纯白交响曲 Mashiro-iro Symphony ~The Color of Lovers~(2011)[BDRIP][1920x1080][TV12+menu6+NCOPED+SP8][x264_m4a][10bit]加刘景长压制 V2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-60921d710201978cf5bde0288f8fdf0bfa932279.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-01T15:03:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:60921d710201978cf5bde0288f8fdf0bfa932279&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]刀劍神域Alicization/刀劍神域III - 21 [粵日雙語+內封繁體中文字幕][BD 1920x1080 x264 AACx2 SRT TVB CHT]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-97bf387c15cc3bea02cf192a6eb0b994dabc3c73.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-01T07:30:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:97bf387c15cc3bea02cf192a6eb0b994dabc3c73&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [KFCraw][君主·埃尔梅罗二世事件簿 魔眼收集列车 Grace note][Lord El-Melloi II-sei no Jikenbo_Rail Zeppelin Grace Note][BDrip][Vol.1-3][1080P][X265 FLAC MKV]【简繁外挂字幕】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-de267c4f7031cca9c266113042b9a3f2e97d1e19.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-01T05:44:57.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:de267c4f7031cca9c266113042b9a3f2e97d1e19&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [魔星字幕团][奥特Q][第01话][打倒哥美斯!][中日双语字幕][UHD-BDRip][HDR_10bit][2160P][MKV][内详]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-dcccd141170772c8b7d4fe9963621b4e04f0668a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-01T01:27:47.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:dcccd141170772c8b7d4fe9963621b4e04f0668a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Lilith-Raws] 碧藍幻想 / Granblue Fantasy S02 - 08 [Baha][WEB-DL][1080p][AVC AAC][CHT][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fa91082b54aa8ececbb2385c93ef2e6d5bebb080.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-11-30T19:58:08.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fa91082b54aa8ececbb2385c93ef2e6d5bebb080&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【BD 1080P】龙心战纪/圣战刻耳柏洛斯 10 [GB][1080P][简体中文]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ece9b22b2a1362163e63ccd9083a9327d3944fe8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-11-30T14:41:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ece9b22b2a1362163e63ccd9083a9327d3944fe8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [jibaketa合成&壓制]東京喰種:re (Tokyo Ghoul:re) - 02 [粵日雙語+內封繁體中文字幕] (BD 1920x1080 x264 AACx2 ASS ViuTV CHT)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-742057db641bd9e27125b2faf1c14390fd461878.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-11-30T09:09:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:742057db641bd9e27125b2faf1c14390fd461878&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        春原庄的管理人小姐 Sunohara-sou no Kanrinin-san(2018)[BDrip][1920x1080][TV12+menu4+SP4][x264_m4a][10bit]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d833538acd3b3d352be829c6b47d3dca037d0879.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-11-30T05:46:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d833538acd3b3d352be829c6b47d3dca037d0879&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        ​[c.c動漫][10月新番][碧藍幻想 第二季][GRANBLUE FANTASY S2][08][BIG5][1080P][MP4][網盤]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-014b9acd850c1402f307e298748d42f2f04cb5aa.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-11-29T16:41:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:014b9acd850c1402f307e298748d42f2f04cb5aa&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        【BD 1080P】龙心战纪/圣战刻耳柏洛斯 09 [GB][1080P][简体中文]",
 
 
@@ -19683,7 +31412,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-925674ba131a74b4170eecc0d9b8c09cc6c65066.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T14:36:08.000Z",
@@ -19720,7 +31449,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c5c7b0f4173b3413e7f5826b385415c7c924c027.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T13:56:17.000Z",
@@ -19757,7 +31486,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f7fc55d0ed782dded746fd21add51a628f8767eb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T13:23:28.000Z",
@@ -19794,7 +31523,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-172d94b80bd53f526bc246166d65c006397d9106.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T10:14:55.000Z",
@@ -19831,7 +31560,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-add9f0b0cace34598811046499993a42ca882132.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T10:14:32.000Z",
@@ -19868,7 +31597,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5c8b0a4b6973221e5a751b61b7503567e7abe883.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:12:55.000Z",
@@ -19905,7 +31634,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8d5c8822dcb29b8da68a06025a0eeb8e7b2417cf.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:12:28.000Z",
@@ -19942,7 +31671,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-565ce258dc6072bfc04ccc0258828566e0edb482.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:11:55.000Z",
@@ -19979,7 +31708,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c781fd1f395ec8533ce980f88e76a2dc2c50d3d5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:11:28.000Z",
@@ -20016,7 +31745,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-aab5e7f33ad5be01442762f6c84d90bca19fc803.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:11:06.000Z",
@@ -20053,7 +31782,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b2ebb5f5465f9e1bd69977c08d5b93261e02edc9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:10:40.000Z",
@@ -20090,7 +31819,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8f522fd4ce5cf003eb1bfc15e1675c67ffccd5b2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:10:16.000Z",
@@ -20127,7 +31856,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e2d4ea8a5f023b35f491150854fc7955ba4a758e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:09:34.000Z",
@@ -20164,7 +31893,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fa29f57b8cff92010644e2c1a3331aad2adc482d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:09:08.000Z",
@@ -20201,7 +31930,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-413481bbe5f32bdbc63014a0e4668e844ed39205.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:08:45.000Z",
@@ -20238,7 +31967,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-10558517ef2a970246805e4fd80c72ad022187f1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:08:21.000Z",
@@ -20275,7 +32004,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e1ff287abdddd08f027189e82f8dc4daf438c22f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T09:07:56.000Z",
@@ -20312,7 +32041,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c02b9e2cfe77e82219b69d0b9be8fc9a5e1aca06.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T05:32:19.000Z",
@@ -20349,7 +32078,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0c254d6b0655313b3b47ee60267b0f369e3332b1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-29T04:27:50.000Z",
@@ -20386,7 +32115,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3f50ffa4c41b4b3d0a776cb620e1e90229823fbb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-28T16:09:32.000Z",
@@ -20423,7 +32152,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c85559d4eca1ef9c632ee219f6b6a3ae73c8cd8f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-28T14:48:01.000Z",
@@ -20460,7 +32189,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7c82caa5b02933ae4dc1fa8b7b79ba906c349fc1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-28T03:56:31.000Z",
@@ -20497,7 +32226,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-66180d293bb6932391d5ec6a095bdd346f877fa4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-28T03:55:48.000Z",
@@ -20534,7 +32263,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e86e90cadfc4e52ae733beb040cb89dabf55ff6a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T16:21:13.000Z",
@@ -20571,7 +32300,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3ed8f9ffd109b13bdcc83b7048d17e0096901bea.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T15:48:18.000Z",
@@ -20608,7 +32337,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-485f3a900c45905ef5d0f764768724fb98a1e9b6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T14:46:55.000Z",
@@ -20645,7 +32374,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-33605f6eaf9e7e4d0479e14d1dc5a690b313f1d0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T14:42:40.000Z",
@@ -20682,7 +32411,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8a3f834eefc5cb3e138bfce62954e88ded9025d3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T14:40:45.000Z",
@@ -20719,7 +32448,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-664d4caa9fcbf4605f34edac7d7f4e009d95c38a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T14:37:41.000Z",
@@ -20756,7 +32485,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9c28a6a5c37ee400d0d62736db3171dc0c380cca.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T10:26:09.000Z",
@@ -20793,7 +32522,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1a578a3dd7ec8865e980594d746e21ef3064c052.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T07:36:31.000Z",
@@ -20830,7 +32559,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e29cb4904176c8b4928102dd1b44ad31f4354b77.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T04:15:38.000Z",
@@ -20867,7 +32596,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-06bc44cd6a394f4c009e4221b4e3a40c4a41ddba.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T03:17:22.000Z",
@@ -20904,7 +32633,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4720ff32fcfe1df22bf404f86c1bd4a7ef58aa7e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-26T11:47:59.000Z",
@@ -20941,7 +32670,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1c1b5ca0ea3fb7b87ae43e6548c5ad6c725802f4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-26T01:31:59.000Z",
@@ -20978,7 +32707,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4fa1d663e510660d9fc8e864182268aacfba81a7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-25T15:31:51.000Z",
@@ -21015,7 +32744,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d26a810da982928dbc94a5b106d1107b28ca1d29.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-25T13:16:33.000Z",
@@ -21052,7 +32781,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9b69e6cf4ce6208406646859ad71af5cd153d56e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-25T03:21:15.000Z",
@@ -21089,7 +32818,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-545230fe9502e54c3d1ae54a5f28342e2d537dee.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-25T01:34:57.000Z",
@@ -21126,7 +32855,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-06349661b85a83902cda5770171c1ce093ae968b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-25T00:03:24.000Z",
@@ -21163,7 +32892,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-22499dadc7feb06692ed5f9a8763d84652b2a0a3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-24T23:51:12.000Z",
@@ -21200,7 +32929,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9762c1f263a378ed2b685f330150bc51c75b9519.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-24T17:04:37.000Z",
@@ -21237,7 +32966,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-cc9fcc9b1b724b8b79ce834a23e960d6d03e12ed.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-24T14:15:04.000Z",
@@ -21274,7 +33003,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-747f2bf7b41604f76976e4ac94dfe000fa34bdbc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-24T10:28:13.000Z",
@@ -21311,7 +33040,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-278cb173db46d978a6bac930246546c1f634943a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-24T07:15:57.000Z",
@@ -21348,7 +33077,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c7047359ee728cbbd33ab6e0118e13513d99eeb5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-24T04:54:28.000Z",
@@ -21385,7 +33114,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c6fa24e3105c16357322e3c5dd9beebd4fda16df.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-24T04:12:56.000Z",
@@ -21422,7 +33151,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-91a0e24b2bb47b24a8d737ef282976567f00d0c6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-24T04:01:24.000Z",
@@ -21459,7 +33188,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-69647abbd675b5f059a96153328ed9bece49e7bc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-24T03:55:02.000Z",
@@ -21496,7 +33225,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-be5422b1f8bac70f922a423c2f1aaa6e396a48a4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-24T03:45:00.000Z",
@@ -21533,7 +33262,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2d22e834a1c52d9c97946d9beffff611df2b9855.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-23T16:29:24.000Z",
@@ -21570,7 +33299,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-92ebd5394434df06a9f3f7e397f932f678f1241d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-23T13:42:00.000Z",
@@ -21607,7 +33336,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c18b5ac82213de8aca715c44c9e41f2c2cf50ac9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-23T07:54:46.000Z",
@@ -21644,7 +33373,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e0e191aae7d428bbffe41c40723610328897f084.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-23T07:30:31.000Z",
@@ -21681,7 +33410,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0366e60c0f0a7b953b27b7859718ca93786d386c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-23T05:27:49.000Z",
@@ -21718,7 +33447,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b5ace54102d272d1c5d5ab8cad8fb760aac2f426.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-23T04:38:46.000Z",
@@ -21755,7 +33484,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ece0822d3b09ee319ce59bf19dbf327836c22279.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-23T02:09:47.000Z",
@@ -21792,7 +33521,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0eea69ec95a82c0bc4ffd3f42a96dab09d2ddfe6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-23T01:59:59.000Z",
@@ -21829,7 +33558,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5d6d964c3dc8b574ffa1c12aa2cb0abce85b9eca.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-23T01:44:04.000Z",
@@ -21866,7 +33595,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-18529d0b8575c83bc46e850ede2181f1b6ef2249.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-22T18:04:12.000Z",
@@ -21903,7 +33632,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-33b26488d3ed32ba7af1b9a86d0603058590e055.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-22T16:42:04.000Z",
@@ -21940,7 +33669,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2fe94ad5bd4d2964576974e755fe9fdd072b9829.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-22T11:24:18.000Z",
@@ -21977,7 +33706,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-185f27efa7bd6a779d5640c529f28e422b37ebde.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-22T11:06:02.000Z",
@@ -22014,7 +33743,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-858adb1f883cb9ed409047aed294d88d3e5f8e2a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-22T05:00:30.000Z",
@@ -22051,7 +33780,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9a8dcfe21b795d17c328fb9f64b248b9ac312af6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-22T04:48:19.000Z",
@@ -22088,7 +33817,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3f14b081c417ff87ffee171888d881709aa18540.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-22T04:42:12.000Z",
@@ -22125,7 +33854,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-dd492191c3a84386a7db5dd796ada8dbe400499b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-21T12:05:44.000Z",
@@ -22162,7 +33891,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-11dbb7c6bbcd965676c95e5e359108ddaea771fe.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-21T05:42:12.000Z",
@@ -22199,7 +33928,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f5ca6a89c4d98e4d305ce031200409290b9acd6a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-21T04:17:55.000Z",
@@ -22236,7 +33965,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-81c68d32883d5e47f39e36407181e36d007d1dd2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-21T04:09:00.000Z",
@@ -22273,7 +34002,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-cacb9e5ea720f4d4a985bf1ebbbe66d2cf56d701.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-21T03:58:49.000Z",
@@ -22310,7 +34039,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-41afa588e0c6b97d3213441b6eb42bdfbc9f9573.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-20T02:20:35.000Z",
@@ -22347,7 +34076,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d82d9148032e4ae59479043903d929356e923866.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-19T12:18:27.000Z",
@@ -22384,7 +34113,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ce56e11030035e38efec601d5ce623b2dd9e7830.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-19T12:18:10.000Z",
@@ -22421,7 +34150,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e8b0a4ef368f7fae8ac21de0ff07a8cdca757053.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-19T10:42:23.000Z",
@@ -22458,7 +34187,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f4c0421c6d27415f866ae4f7fcf15c5f1b3f90e8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-19T08:19:32.000Z",
@@ -22495,7 +34224,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-55ed34ea09b5d833aa38d53a27ff7e6ace6b9f03.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-18T15:36:06.000Z",
@@ -22532,7 +34261,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-05d3012e403e59c89aca2e4dd40e94b1025af387.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-18T07:53:15.000Z",
@@ -22569,7 +34298,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-63534ec61b3a87c6ea3fa826d4d6cddb12dffc23.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-18T00:20:44.000Z",
@@ -22606,7 +34335,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-677ad92a199dc4fa0ade2f169b42cb6023a25ce6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-17T15:50:09.000Z",
@@ -22643,7 +34372,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c18b942eb0b338d76a188ddcbc64afda5dc8eb87.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-17T15:04:32.000Z",
@@ -22680,7 +34409,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9c2784688643391389a6c14e0ea3f19af9c7d090.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-17T14:55:48.000Z",
@@ -22717,7 +34446,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a1c1a85a74329a2ebfa11afeb3aef739cc1c751a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-17T12:14:53.000Z",
@@ -22754,7 +34483,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ae7c1745eb728be8ebdaa6df688cb1c8405e27c7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-17T11:06:22.000Z",
@@ -22791,7 +34520,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3dfafb42555b231328ceb56bfa6bf386277f9573.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-17T03:50:30.000Z",
@@ -22828,7 +34557,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ab27c02cf63bce254c94c1c19e46c7c43d37924a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-17T03:47:47.000Z",
@@ -22865,7 +34594,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-02515f102de7548e3a20c843fba8c24c367a3afd.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-17T03:37:10.000Z",
@@ -22902,7 +34631,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-71b196d4a3b6303efcc69ab5faf3aec47c7614ae.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-17T03:31:36.000Z",
@@ -22939,7 +34668,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a7d4ff1c5ef4abd5e2a2f525b95874026dafdf15.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-17T03:29:44.000Z",
@@ -22976,7 +34705,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b88c3e195562e237a26a9ae804b929ef1cf7dd4e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-16T13:29:38.000Z",
@@ -23013,7 +34742,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7f2e006732885e610ca189c0e283e7fbe74c0816.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-16T12:00:24.000Z",
@@ -23050,7 +34779,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-15fd455ace9e5d3a910d178197eabeaebfdc85d6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-16T08:10:02.000Z",
@@ -23087,7 +34816,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e2e7cdc760adec07217f5e2df18b6b0fc38e9b90.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-16T05:28:46.000Z",
@@ -23124,7 +34853,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9f4c0e1a7263f824891a9f71ec844e230b0b7b64.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-16T03:24:59.000Z",
@@ -23161,7 +34890,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f30f69ba368320110b90eb04f7e47fdbed12591e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-15T20:33:26.000Z",
@@ -23198,7 +34927,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1293a499cc4fce529b280f49ba8d5a4f85e6d0dc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-15T16:37:37.000Z",
@@ -23235,7 +34964,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1a6a951d22aae2956454370133edc84481b26e2f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-15T10:47:30.000Z",
@@ -23272,7 +35001,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0f7e7b356a576325ce4ea3258060f08866869a8c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-15T07:55:18.000Z",
@@ -23309,7 +35038,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5f93f858a759eda17488127f7cd292d11d6a02d0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-15T04:17:02.000Z",
@@ -23346,7 +35075,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-72fdea2b93487d146137933df2b85895ddf076b6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-15T03:39:58.000Z",
@@ -23383,7 +35112,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1ed1805d76b4e16e913bfd24ccb5392d1af65f58.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-14T11:54:11.000Z",
@@ -23420,7 +35149,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0ff890831d24a9eea4dd19663f2dd253ff836f6a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-14T11:24:05.000Z",
@@ -23457,7 +35186,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ee386da21c815f366425050518b08961b812ed26.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-14T11:09:25.000Z",
@@ -23494,7 +35223,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4b98e8fd4f30ec8bdad4d9b666188a12d4000dc7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-14T04:35:46.000Z",
@@ -23531,7 +35260,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-cde5351c99ce8cb8b8ed5a90f0ea05913b5caa93.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-14T04:34:49.000Z",
@@ -23568,7 +35297,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-efb597a44b8a1844c5eadee774e83e7f4c111ab2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-13T16:10:32.000Z",
@@ -23605,7 +35334,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a928c3393c455c087ede020db3288dc5a1959d42.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-13T12:34:00.000Z",
@@ -23642,7 +35371,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5a5f6374c0a5ae3726bfc5da51c4bf751890c7c7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-13T11:31:06.000Z",
@@ -23679,7 +35408,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-adf01151ad430fe6ea95fc69e85fa4e175a654f4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-13T04:37:04.000Z",
@@ -23716,7 +35445,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c7a49ee464dc8f11fc02cc982af3ff5874673929.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-12T09:37:50.000Z",
@@ -23753,7 +35482,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a481efe3264534cacda61bdbeff2f8d059971811.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-12T09:34:27.000Z",
@@ -23790,7 +35519,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-21b6001d2f8de45542b485fdaf8e6e16dc9e3a63.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-12T09:32:12.000Z",
@@ -23827,7 +35556,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6d00b3e233535e03ebbaa9098869b2f389bb387b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-11T23:12:59.000Z",
@@ -23864,7 +35593,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-cf6af70c964bd69818ebb122658627d17e4a5eb6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-11T14:53:44.000Z",
@@ -23901,7 +35630,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f5657f817492d99e94d1c2187b36e0c52b787b0e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-11T10:44:17.000Z",
@@ -23938,7 +35667,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0ca399e6abd3a27e8e7a897ceea7ce1d66339212.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-10T08:03:40.000Z",
@@ -23975,7 +35704,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-757c9dd8ed59e4c953813bc890b721414afd79b7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-10T05:38:22.000Z",
@@ -24012,7 +35741,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0149dda62a46b0c019610e3d763ddfa7cd781820.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-10T05:34:34.000Z",
@@ -24049,7 +35778,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-dc0be341afaa8898caccb0af96cc4b760c271880.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-10T04:47:07.000Z",
@@ -24086,7 +35815,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1a5005a71f8117c4e7061f5fc47dfa23bd10e7bb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-10T02:44:22.000Z",
@@ -24123,7 +35852,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9449a1c3c34c23cb53d80bc927951fa624276aed.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-09T23:48:01.000Z",
@@ -24160,7 +35889,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c228ba84076bf726e629e303f85100e173c1e082.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-09T05:34:13.000Z",
@@ -24197,7 +35926,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9e8b3968be4f95c67cd1954d28313782f6c574d8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-09T05:09:43.000Z",
@@ -24234,7 +35963,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-859143fd9d6d28813e95d1feb4b11beed362eafc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-09T04:41:48.000Z",
@@ -24271,7 +36000,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-011c6e80f3b0a786d978e0b73f4c294f36091698.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-09T02:49:48.000Z",
@@ -24308,7 +36037,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fc636764c73c08ee589387da3ef1767d66ea1199.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T16:44:40.000Z",
@@ -24345,7 +36074,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-042a0a45031062370e0556704281fe08daa44ef0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T14:05:04.000Z",
@@ -24382,7 +36111,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-28d1f65e17982404f56d7c1ffab33650e2d05146.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T14:04:37.000Z",
@@ -24419,7 +36148,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e0f502c7e93338fedbd21c0c20dc5d122288c00a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T11:23:54.000Z",
@@ -24456,7 +36185,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d46bdefb0af9580439595da27706b0b0f601af75.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T11:23:07.000Z",
@@ -24493,7 +36222,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-01564858739a44cf3d8a2c2370ff3c080759fc9b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T05:16:22.000Z",
@@ -24530,7 +36259,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-68b18d3852cdd71122e87b945d4da519dc5f95dd.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T05:16:10.000Z",
@@ -24567,7 +36296,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-57dcd37bcf2dad366f6745118c073a7fe2623cf0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T05:15:48.000Z",
@@ -24604,7 +36333,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-33f3044b97b2e38c761259998e655f6737d81c37.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T02:47:32.000Z",
@@ -24641,7 +36370,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e578a29ea127f2c3ab78e16ceefe5a5e3244caae.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-07T13:55:41.000Z",
@@ -24678,7 +36407,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8dead9dd0bc9313ebf466f3cd02d4a5c6772f1fb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-07T11:13:46.000Z",
@@ -24715,7 +36444,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e12d864750081515b3edb0f96e6b32433b996ab3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-07T10:27:04.000Z",
@@ -24752,7 +36481,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3929f09f66be74bd33420f0d389c91dbdf1939e3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-07T10:26:58.000Z",
@@ -24789,7 +36518,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c26efb9c6b836e2000575e26aee871f0bb614696.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-07T10:26:52.000Z",
@@ -24826,7 +36555,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3fe5c070eae3429d01a517cc8d12facf7933d7f6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-07T04:19:23.000Z",
@@ -24863,7 +36592,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b40b09c19dce9e61030d5886b01f8b96ade2b62f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T13:17:59.000Z",
@@ -24900,7 +36629,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b8226719385df0a3dfac1550c795eb86ba1edb26.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T13:17:00.000Z",
@@ -24937,7 +36666,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-37be182fea94cc72e2447f866ec5a3bfbaff99f6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T13:15:43.000Z",
@@ -24974,7 +36703,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-44a6c592c7cc26a352d0bc42ea21b708d38c14f8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T09:48:15.000Z",
@@ -25011,7 +36740,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ac804d92f7abedbe8a1c25ed35d1063056469707.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T09:48:02.000Z",
@@ -25048,7 +36777,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e8c758ee2ee42597050a49c10d5eacbd0e9e6a80.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T09:47:55.000Z",
@@ -25085,7 +36814,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-88a1d0dc2f46d952573c7cef882c5105d9060dad.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T06:19:12.000Z",
@@ -25122,7 +36851,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b044f259c1544a33ea24b0ef1821ce9669c21919.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T04:31:37.000Z",
@@ -25159,7 +36888,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-09e4077d4885f3f429df550b439b28935523ab40.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-05T23:32:30.000Z",
@@ -25196,7 +36925,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-181fe5860138d75c600955645c26a972f30b4884.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-05T14:41:53.000Z",
@@ -25233,7 +36962,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e981927feca4de04656828976415dacf603807f2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-05T05:45:22.000Z",
@@ -25270,7 +36999,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-afd864db438d9fc990aaf1c1e91c730d976a6a9c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-05T02:59:18.000Z",
@@ -25307,7 +37036,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-071b41580a046e1766442ff2c50ff029f5bc463d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-05T02:34:12.000Z",
@@ -25344,7 +37073,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a29045a9ba01841db1474bcce87dd1454cd6f48d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-04T06:48:29.000Z",
@@ -25381,7 +37110,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-10025dc13231c2c37cb9c2d9f0e76ea51a314b26.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-04T05:38:06.000Z",
@@ -25418,7 +37147,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a5c28ba8aa9e7e6349bc3b2c94d07c29234ffb3b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-04T04:59:13.000Z",
@@ -25455,7 +37184,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-aa0116a68c438aa69079c0c94106fed3112047c5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-03T16:41:28.000Z",
@@ -25492,7 +37221,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a4cc3d5ee9040b7f8306951c54e2d4ce13459b77.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-03T12:37:17.000Z",
@@ -25529,7 +37258,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c61a99ab29570ae62b61782f7647605f3b3af5d9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-03T06:25:40.000Z",
@@ -25566,7 +37295,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-761b7c4ba70f3438d2c05186a47852516ff7ef74.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-03T04:20:09.000Z",
@@ -25603,7 +37332,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4c009f18e684601e45238759ec65cef4a21b8e8f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-03T03:59:45.000Z",
@@ -25640,7 +37369,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6ad4d1d5be96cfa2cf574b363e434ec60f89d8b1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-03T00:36:00.000Z",
@@ -25677,7 +37406,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-44cd3d6b0df2fbf17f5608e5da19f4682a9a50ee.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-02T14:23:16.000Z",
@@ -25714,7 +37443,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c3f7d5818847b06bfb00327752409f824d681533.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-02T14:13:07.000Z",
@@ -25751,7 +37480,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6dc9c91e4f90b0a3a053199e7001d3019c7bc5cc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-02T10:14:45.000Z",
@@ -25788,7 +37517,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5ec6ff193cf32b7e597e4b4ebb186ea204b7b8f7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-02T06:35:44.000Z",
@@ -25825,7 +37554,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-22e42e681d1460fec304fa675f462d21923f0dd5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-02T04:17:09.000Z",
@@ -25862,7 +37591,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8855419bc5d6c7199fb3b4aecb48b20c094d1505.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-02T02:20:06.000Z",
@@ -25899,7 +37628,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e0291cd9cbe8077bc9362d947726c07527f4db5a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-01T16:30:00.000Z",
@@ -25936,7 +37665,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-01945e446071ae7ec17d73aa442d5e2b6f1c8253.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-01T09:56:03.000Z",
@@ -25973,7 +37702,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-caf311f72b15492da59c5f731835ec2e05063473.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-31T15:22:09.000Z",
@@ -26010,7 +37739,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9f75842ae9a50c21b1f62ff01aa428f3c232b856.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-31T10:24:59.000Z",
@@ -26047,7 +37776,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b7c2de68c580408f910887bccda05797da363a8f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-31T04:06:11.000Z",
@@ -26084,7 +37813,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-42a80dd4247a69faf276a955c9119972d5f7dbf9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-30T11:00:51.000Z",
@@ -26121,7 +37850,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9dee8b61d1f17fb5c0407e2a98be7b7b8518a18d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-30T11:00:47.000Z",
@@ -26158,7 +37887,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-79b33b59fe6ca37289ef8f620ec69d9e16636f17.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-30T11:00:42.000Z",
@@ -26195,7 +37924,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-45b541801433f45abd94fdec6f8026df6ca8f21c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-30T11:00:34.000Z",
@@ -26232,7 +37961,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8206d93dd371f187ceb65876a1e05f5fc9e403cf.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-30T09:40:46.000Z",
@@ -26269,7 +37998,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9c840461ace2359f661880a01e705dd7be2cb51c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-30T07:51:35.000Z",
@@ -26306,7 +38035,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ab2e072a9ce2a05151ffc99a366e9472ed9e0b7d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-30T05:21:53.000Z",
@@ -26343,7 +38072,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5a5cc52a7101186b20fd15adf2d2c4c1b1b28874.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-29T04:52:40.000Z",
@@ -26380,7 +38109,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-74c970cbc7ae9e81f2df5718344097b818eee431.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-28T16:05:21.000Z",
@@ -26417,7 +38146,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fe9ce04bf5f8da290b5ebdfc3889faa557feadcd.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-28T12:12:41.000Z",
@@ -26454,7 +38183,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c18b10d888019614dfba7800fef6cf1158f555af.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-28T11:12:12.000Z",
@@ -26491,7 +38220,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3b998b4d4a6b2d136c1b37cad16404dfb302bde8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-28T01:24:39.000Z",
@@ -26528,7 +38257,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-47adfc33ecb8fc1282df68c4490915f683d7b632.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-27T09:36:54.000Z",
@@ -26565,7 +38294,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a066e6161ebc3e949f580272091cf50d214f37ff.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-27T05:31:54.000Z",
@@ -26602,7 +38331,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9c6385583f63f7d38d665c7e08366e39f4dfcdb7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-27T04:22:36.000Z",
@@ -26639,7 +38368,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8a6e4d9421b80c33bedf4c81e31a33510ca6c112.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-27T03:44:46.000Z",
@@ -26676,7 +38405,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e9da027ef569ceb58b0009d11e8d4e4f50a76863.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-27T03:37:02.000Z",
@@ -26713,7 +38442,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c0fe7b50b533e4736f0ff3d5990bdc675f3046b8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-27T03:34:19.000Z",
@@ -26750,7 +38479,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f95eadbe8b75d566e94221f64b9444946dea005a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-27T03:30:47.000Z",
@@ -26787,7 +38516,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-feea49e45a98e45b33f4457f13e24065cf5f0c67.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-27T02:03:31.000Z",
@@ -26824,7 +38553,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-24037dc87da6ccb3276d9cef2c5739c5d68f7d9e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-27T01:40:04.000Z",
@@ -26861,7 +38590,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e05a33d46e65d26438a0f63bf183072bf847ad79.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-26T08:04:37.000Z",
@@ -26898,7 +38627,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-857aae7fefcf0a333d002098d793e44643c2a466.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-26T04:37:59.000Z",
@@ -26935,7 +38664,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f53b0415c31b36571b935cddde771cba2383e411.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T18:46:06.000Z",
@@ -26972,7 +38701,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-21c3298619a64660a789a04543b6179aee5df02b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T16:40:04.000Z",
@@ -27009,7 +38738,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0c528bc071bb2e89a188744dc55cc45b794ccae2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T12:34:55.000Z",
@@ -27046,7 +38775,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-382de5ecc780eecf611d81584debca9366ce147e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T05:24:50.000Z",
@@ -27083,7 +38812,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1a733d2b967e17520e019e099d37386a7d9845aa.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T03:31:11.000Z",
@@ -27120,7 +38849,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5dbea22d2fd5308dc412398860f1b7c9375ec365.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-24T20:58:07.000Z",
@@ -27157,7 +38886,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-af5a1518d943fd2bac489c5a53dc86b31c0cc7d7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-24T05:18:46.000Z",
@@ -27194,7 +38923,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-751396db662d61157a429245f08a5951c48bf7cb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-24T05:09:36.000Z",
@@ -27231,7 +38960,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5902cf4dbee069c73d9fa2a26b6884eb25a1b908.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-24T04:59:04.000Z",
@@ -27268,7 +38997,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4e464a67649d1659f202721303a4bca0e3ba450a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-24T04:41:28.000Z",
@@ -27305,7 +39034,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b91e6aaa12138482b859d4dbc12320b23a093ebc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-23T09:13:01.000Z",
@@ -27342,7 +39071,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-308f205c60a13dbf2e14a800e5b0324aed9822d6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-22T17:50:35.000Z",
@@ -27379,7 +39108,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7166a5f9d3dc6bc77c0ae10d453ef0a9e0b2e06a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-22T14:56:38.000Z",
@@ -27416,7 +39145,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d5b5eec3ef6922e2b23e1d0f18c94a9c77ecce22.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-22T05:13:16.000Z",
@@ -27453,7 +39182,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e8dd6ffb3cd479d92ccbd6d7235304d329ad8734.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-21T15:38:38.000Z",
@@ -27490,7 +39219,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8446a68dc5be4a27261782c41f7f1f7af02fd1ef.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-21T14:21:28.000Z",
@@ -27527,7 +39256,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-590b5ddefc1b59d5c7f9c9205d3ca77ede69abb8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-21T05:26:37.000Z",
@@ -27564,7 +39293,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-dab64434369f1d951e5e68c676dfe242783d1452.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-21T01:24:40.000Z",
@@ -27601,7 +39330,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-993a0f0552cfd62bf9563050b0cfe88be8426de9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-20T12:37:27.000Z",
@@ -27638,7 +39367,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-69fd6814d195cd6d64c520162c32be1a653da56f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-20T10:36:58.000Z",
@@ -27675,7 +39404,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-dde078a71c5384d1683aaf450f981ba5d8ad7567.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-20T09:43:07.000Z",
@@ -27712,7 +39441,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e8554ae79af40f9086b121d25b11c8c49927d014.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-20T09:39:46.000Z",
@@ -27749,7 +39478,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-13950365fd313ee98a1c91a1ba12db0ff6c1fd57.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-20T00:48:24.000Z",
@@ -27786,7 +39515,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ec0799574f93122d9ba871d0dfb27e7e98445cec.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-20T00:48:10.000Z",
@@ -27823,7 +39552,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-da8e545a1c44ee07b0b006ab1bbca0e1a1362f15.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-19T19:48:25.000Z",
@@ -27860,7 +39589,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ab3392a66e72ad37527c819842a97050b819b07d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-19T10:57:09.000Z",
@@ -27897,7 +39626,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a6719f4efb6edcd3d6871533973836ac6b4e87fd.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-18T16:53:29.000Z",
@@ -27934,7 +39663,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7e3a46c8d764c52d1b0eb9e2c7fae4c0cd4405b3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-18T16:47:51.000Z",
@@ -27971,7 +39700,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1bc61969666e72f51b47e0aee89f127982324de7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-18T07:25:45.000Z",
@@ -28008,7 +39737,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1d2e4fbb4eafc998c642fea9e29e4f416c8380ac.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-17T07:49:21.000Z",
@@ -28045,7 +39774,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a831a24c7c1f358fadec7da9554836a77b210f06.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-16T09:23:13.000Z",
@@ -28082,7 +39811,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4383a633dd840ef68cddc13e8da7a07024cac067.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-16T09:21:12.000Z",
@@ -28119,7 +39848,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6f74c9bb97b28e718a9a2ceff8ba400b7a53ae74.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-15T15:03:02.000Z",
@@ -28156,7 +39885,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fea51eac74fc5636f554d6e48cb46e258546f06c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-14T15:39:53.000Z",
@@ -28193,7 +39922,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a5aea736d4a29e6ea489881d4b2c2a987a75e833.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-14T12:45:32.000Z",
@@ -28230,7 +39959,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e192a5842ac05d1fe2d7b2dc5bf12f6f316c137d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-14T12:03:38.000Z",
@@ -28267,7 +39996,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-885abfaf9da1927b82ae1601013f96f78a4a342a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-14T12:01:29.000Z",
@@ -28304,7 +40033,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5992b55c196d3d207d00d16438876db9d73269b9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-14T09:53:20.000Z",
@@ -28341,7 +40070,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c4e68c259b38e64c915915889988e562ea42adf2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-14T08:45:33.000Z",
@@ -28378,7 +40107,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-18a467c32481c995df5bc6ade36b63cc5681d21a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T18:28:44.000Z",
@@ -28415,7 +40144,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-9061656cd9eea565b4043d39e3e9b5313a3431f8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T17:00:39.000Z",
@@ -28452,7 +40181,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-05596f6027b5251cf98b167d1eb97965aa73ba07.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T16:19:00.000Z",
@@ -28489,7 +40218,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f5041c9aad1d4cf4565be88b3f9bcc7a9bb9e4dd.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T15:56:44.000Z",
@@ -28526,7 +40255,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a3acca3b46eee4f0fa390b63387c19d374878086.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T07:46:15.000Z",
@@ -28563,7 +40292,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-43d30701fdd6a3ccac934430728412b8aa9e3115.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T07:43:42.000Z",
@@ -28600,7 +40329,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c06512d8ac4906fc6a158840f116f9d03c507714.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T07:41:11.000Z",
@@ -28637,7 +40366,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e7d947dbff854ce03061157f578c1b49c6e9aa09.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T07:40:01.000Z",
@@ -28674,7 +40403,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f95b22736aa6ef5c26e2ccf80436a175e26a6eab.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T07:38:40.000Z",
@@ -28711,7 +40440,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7602f8a196b3f7fa02a3775346decdcdbee8943a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T05:53:56.000Z",
@@ -28748,7 +40477,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-724d317666032f387afc1e66557a0f6f88f0eb3e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T02:11:58.000Z",
@@ -28785,7 +40514,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-53e0a9748cf7684a8168672affd0bc2d17a65d13.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-13T01:31:53.000Z",
@@ -28822,7 +40551,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fabc4aac2c61ff1e242b899e0c2e1b633845af55.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-12T16:46:47.000Z",
@@ -28859,7 +40588,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d80823aa7a51796b028d4e4798d616597b15d44f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-12T04:53:53.000Z",
@@ -28896,7 +40625,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-500b4237ce49036339d469e2a066537a64065592.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-11T17:19:38.000Z",
@@ -28933,7 +40662,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b8f4bafe31cbbba3e0ee905ce932f31fb104a63c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-11T16:34:25.000Z",
@@ -28970,7 +40699,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-018ddae3d65835b087bf572a0adb76f8843bfa6a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-11T11:44:46.000Z",
@@ -29007,7 +40736,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3737e02e43cb8b5c7dedad888564e9bc31b6a73a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-10T14:29:00.000Z",
@@ -29044,7 +40773,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a193d73031afda63824dcbaaeb3fe49d4a95db03.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-10T09:26:54.000Z",
@@ -29081,7 +40810,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f7f1fc15862ab3e1e1a5a92142ed8351eeb5309f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-10T09:26:04.000Z",
@@ -29118,7 +40847,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-91e36fb9607df5b6a8c9087acc1593f1701c1ab5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-10T09:24:56.000Z",
@@ -29155,7 +40884,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7126754f1edd083dc3777f5c8f61d02b4ff5c12f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-10T05:54:39.000Z",
@@ -29192,7 +40921,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-928651df0fa35b99d09a8dba76e8b526f5811da9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-10T02:50:50.000Z",
@@ -29229,7 +40958,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3578d9a69835a9e9f90eeb8b35aaa6fa5e91c2a1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-09T10:41:58.000Z",
@@ -29266,7 +40995,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e3a10add9ae76b61eab3868e13b134877cd151b1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-09T08:17:47.000Z",
@@ -29303,7 +41032,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e4cc5cb3334d5d680139f13cae4c9a4ea3839825.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-08T20:28:33.000Z",
@@ -29340,7 +41069,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3fd0ea99af2e7fba7ff246b13b3695bd7cde804b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-08T13:18:31.000Z",
@@ -29377,7 +41106,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6ee7b776aae27cee34d6dd9023e8fde0e6bb044d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-08T11:09:36.000Z",
@@ -29414,7 +41143,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4438600526bbf4f86ae5e2fb45f068eea9dee9eb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-08T11:08:57.000Z",
@@ -29451,7 +41180,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-371cce048b6716139f2bfe8c173d79397f21ea76.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-08T05:55:29.000Z",
@@ -29488,7 +41217,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2478142c1a9388a3a1f41e3f05fcb02d39b3d793.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-08T04:49:04.000Z",
@@ -29525,7 +41254,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-541a8578483ca49d7bbdae29572a8bf9a4e3c7f5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-08T01:17:49.000Z",
@@ -29562,7 +41291,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0961e6feb49123eb3211ae84534d738144f41ee6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-07T15:41:06.000Z",
@@ -29599,7 +41328,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-fdf812b1650719c11be6fe75cf3fb52fed76ea5d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-07T06:00:23.000Z",
@@ -29636,7 +41365,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2ef1af77a63de160e1c0376539ecfa9378a4a1b8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-07T01:02:43.000Z",
@@ -29673,7 +41402,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-216a8675bc60d4a1eb679068c705f99b1b51bff8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-06T17:53:52.000Z",
@@ -29710,7 +41439,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-92ef2fdecfaa85ae80fe1c80b3a6bb82e7a9e11d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-06T17:15:13.000Z",
@@ -29747,7 +41476,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2ccb9e4968e14a996544246b389c92d36c489bc0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-06T14:05:10.000Z",
@@ -29784,7 +41513,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f928791c01a64afdad7fc1fba8d4ce13b810ccb9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-06T13:37:56.000Z",
@@ -29821,7 +41550,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-96ceb6038faceae0a20233a16dac434d45281cb5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-06T10:23:48.000Z",
@@ -29858,7 +41587,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ce50116c9938621a0047c43c292710b18fc2461b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-06T07:38:33.000Z",
@@ -29895,7 +41624,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f47e8b82af9798aef002cc065d1f6e3aa2d2dfa7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-06T03:37:31.000Z",
@@ -29932,7 +41661,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7eed280b3c22ce7589f12378e9ac3629a218d5c7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-06T00:48:04.000Z",
@@ -29969,7 +41698,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-119e89286bbc74a742268819d1f165de76d88a18.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-06T00:47:49.000Z",
@@ -30006,7 +41735,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-10bad069727229049e7fad425ebb418e0de58c44.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-05T07:38:01.000Z",
@@ -30043,7 +41772,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2696f8f60f023e4c09d4f1be3543198e8add114e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-05T06:17:03.000Z",
@@ -30080,7 +41809,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f215f81ccbd88f4e505639c8f2272021ffb0828c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-05T04:58:24.000Z",
@@ -30117,7 +41846,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-badd1c64f9aca01090356ccf6b5d56ede264d250.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-04T16:32:34.000Z",
@@ -30154,7 +41883,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c434b75f112b1eead13eb43664033fde5ec9f587.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-04T15:52:23.000Z",
@@ -30191,7 +41920,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-91188e3b486935929abc7a7765b3a578c90c25e3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-04T10:18:52.000Z",
@@ -30228,7 +41957,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-28303a2a7a6950d9ac23fa8f65c331c755c75e87.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-04T10:17:00.000Z",
@@ -30265,7 +41994,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d2d3ed4a52329c123cdd791024cb2a22311ac29c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-04T08:33:49.000Z",
@@ -30302,7 +42031,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2e9ffd0655abe3b85cc42fa9169a99e628d222f9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-03T09:01:05.000Z",
@@ -30339,7 +42068,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-dbc00bd08fd3490ba4e35e55ef81e09e6af6eaa6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T21:36:44.000Z",
@@ -30376,7 +42105,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2dcdc543b724d8cb9ca7796281f425ec9453993c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T15:31:27.000Z",
@@ -30413,7 +42142,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f2e9340bffbd25c448001b6087bb71f69a8b4ef4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T15:30:36.000Z",
@@ -30450,7 +42179,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-dd2260b40ecc577d5d4e2f850369db0f229dcf5b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T12:51:28.000Z",
@@ -30487,7 +42216,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-200e55479012c6c6b53ee9a67593c169b4adf7c6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T07:49:39.000Z",
@@ -30524,7 +42253,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-57d40ea4b23b4a40cd15dcca8a09b58b34577b54.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T04:09:52.000Z",
@@ -30561,7 +42290,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-30a1ecd661efbf0f4513c8a4bf15d4e0ca5fa54c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T01:38:40.000Z",
@@ -30598,7 +42327,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-876d2eb8d963cf23317e89c1861e3a1fa3e8c1a8.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-01T16:54:04.000Z",
@@ -30635,7 +42364,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-98d948c6ab23d93f3b329e826c09d9bc6a34f73f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-01T00:58:44.000Z",
@@ -30672,7 +42401,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1a81db238eaca302763a940d10ff04498254dc7b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-01T00:18:58.000Z",
@@ -30709,7 +42438,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-794cb1937e43d0c0b815d8a07cb234bdaf05f0f0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-30T20:39:16.000Z",
@@ -30746,7 +42475,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-468b9601edd0935d3306df3fca4d6b015ba91d01.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-30T08:52:08.000Z",
@@ -30783,7 +42512,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-19b6a400c0af5f39259b1627169dceb7b198d0e0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-30T07:49:11.000Z",
@@ -30820,7 +42549,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5434c05bdc2409ea44db06026380dde38e93dd28.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-29T19:33:12.000Z",
@@ -30857,7 +42586,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b627fab75029e6ed02f1e56adba6997c0766d524.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-29T07:52:53.000Z",
@@ -30894,7 +42623,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d83bd532839d1e0ff0216e909a21eb5eceeebc60.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-29T03:03:17.000Z",
@@ -30931,7 +42660,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-dcc28682e4d8305b45d3a1899f539635c5f9e640.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-29T03:02:57.000Z",
@@ -30968,7 +42697,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1d33f466aca4466dbafba7c9b34d5f0c8539269f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-29T01:12:36.000Z",
@@ -31005,7 +42734,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-283935a16e2955bac992311d7a554a845c84885a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-28T20:31:49.000Z",
@@ -31042,7 +42771,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-dfbd4a555c1fb3b282432871aadd299a2c3e5f12.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-28T14:53:11.000Z",
@@ -31079,7 +42808,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d4d03c6377261c827f3e28b60674d438b0f27be3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-28T14:48:59.000Z",
@@ -31116,7 +42845,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4a1b121960e6997aeae4484599365a60c19feba9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-28T07:11:00.000Z",
@@ -31153,7 +42882,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-abcce9512b08211a1a0efd8adc55b1e8b564107e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-28T06:48:15.000Z",
@@ -31190,7 +42919,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4288fec5a8d541cb7087cda2e41594ba441b2972.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-28T05:30:10.000Z",
@@ -31227,7 +42956,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6a54fd0bd8f7bfed318bd664296c1e23553cd971.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-28T04:51:16.000Z",
@@ -31264,7 +42993,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e311ea412edf11593fd3bfcdbaf83b5581fdf938.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-27T15:40:31.000Z",
@@ -31301,7 +43030,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6d8989c2ca646dd3250f22f68be78f8bd7d5b9bb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-27T13:43:08.000Z",
@@ -31338,7 +43067,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3a73caf1bb6cab6f2811b623e2f75be03ad5ba69.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-27T13:41:26.000Z",
@@ -31375,7 +43104,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-bc9cbecd4cd76405765fa19098832a94e6104f83.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-27T13:39:11.000Z",
@@ -31412,7 +43141,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ca652ef56719358bad75c1bcef531130f680b813.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-27T13:37:17.000Z",
@@ -31449,7 +43178,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-71c59230f24a1655799497f42d8212f31a8dc60c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-27T13:34:37.000Z",
@@ -31486,7 +43215,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-28511437fff3df705a0e64fbdf62b914e404388d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-27T13:28:49.000Z",
@@ -31523,7 +43252,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-91fe452b31ed03780bbc2e6f98ed04765e16838f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-27T12:34:43.000Z",
@@ -31560,7 +43289,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4aac44b8838c86c2e4c074e208abcdc81486ece0.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-27T01:55:02.000Z",
@@ -31597,7 +43326,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b385fc43d540f7929c144f29430cd8903f136228.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-26T15:43:29.000Z",
@@ -31634,7 +43363,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-752c8b893f1001c909010f845afc7f190a010ec4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-26T10:14:28.000Z",
@@ -31671,7 +43400,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-807c882e9bf35fe1c5dac7555792e97f4f45c820.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-26T10:11:38.000Z",
@@ -31708,7 +43437,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3951d71d280a8811420a5ef8cc55004af34c55ca.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-26T08:46:17.000Z",
@@ -31745,7 +43474,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-655c0b4fc8263ac5523167ebbc1b47f6a3e1748a.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-25T16:23:31.000Z",
@@ -31782,7 +43511,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-089342ffda763f306674e8303d4ceccbe9f0e2ce.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-25T14:53:53.000Z",
@@ -31819,7 +43548,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7804d8aea958beeb2ffb1432502faa23f8167821.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-25T14:53:34.000Z",
@@ -31856,7 +43585,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c95536d431729475df59ff8264900b5b11ea7cf1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-25T13:01:13.000Z",
@@ -31893,7 +43622,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2039ce9de310097bfad2148d2423fca2fd036107.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-25T13:01:10.000Z",
@@ -31930,7 +43659,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-399e43540ba169210aaa5ebfe125b78c5f1e114d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-25T13:01:05.000Z",
@@ -31967,7 +43696,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-27a07762ea4d97e90fc10fc6b4f73e8847c1ca30.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-25T04:26:31.000Z",
@@ -170438,6 +182167,80 @@ module.exports = [
 {
 
 
+"name": "\n        [Moozzi2] 我太太是高中生 Okusama wa Joshikousei (BD 1440x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e7f4a43105c6d1bcf679ff67583dd15e9dbd5c07.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 花右京女仆队 花右京メイド隊 Hanaukyou Maid Tai (BD 1440x1080 x264 Flac)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-cf55311f58221073eecbe173a618545ba1fbc74d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "1970-01-01T00:00:00.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": ""
+
+},
+
+{
+
+
 "name": "\n        [Moozzi2] 百煉霸王與聖約女武神 Hyakuren no Haou to Seiyaku no Valkyria (BD 1920x1080 x264 Flac)",
 
 
@@ -171221,6 +183024,1634 @@ module.exports = [
 {
 
 
+"name": "\n        【动漫国字幕组】★剧场版[Code Geass 复活的鲁路修][BDRip][AVC_AAC][720P][简体][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7a0f89c5b7d772bbd5e8bd6fdf171ff8ab598ab2.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-14T07:59:25.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7a0f89c5b7d772bbd5e8bd6fdf171ff8ab598ab2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【動漫國字幕組】★劇場版[Code Geass 復活的魯路修][BDRip][AVC_AAC][720P][繁體][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fa8539a6ae995061e434d0755c0f43edf06a66c4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-14T07:58:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fa8539a6ae995061e434d0755c0f43edf06a66c4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [DDD] 女神异闻录5 PERSONA5 the Animation [BDrip HEVC AAC 720p][10bits]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9d56ac824eafb450489ad088fd9fd37f6d401f45.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-07T02:02:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9d56ac824eafb450489ad088fd9fd37f6d401f45&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[女高中生的浪費青春/女高中生的無用日常/女高中生無所事事/Joshikousei no Mudazukai][BDRip][01-12END][720p][繁體]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-fa7a1bfaf76c9c5ba2026cfe7faeccbea9c2b973.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T14:11:46.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:fa7a1bfaf76c9c5ba2026cfe7faeccbea9c2b973&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】[女高中生的浪费青春/女高中生的无用日常/女高中生无所事事/Joshikousei no Mudazukai][BDRip][01-12END][720p][简体]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a09fcf3e2b26587a3833396f921146a4fa20a7d6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T14:09:58.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a09fcf3e2b26587a3833396f921146a4fa20a7d6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】★老番★[小魔女DoReMi/Ojamajo DoReMi][24-26][BDRip 948x720 HEVC-10bit FLAC][简繁外挂][招募翻译校对]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8dc46729e2d5739992eb4f99b1b63cedbe717f6a.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-04T11:37:31.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8dc46729e2d5739992eb4f99b1b63cedbe717f6a&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] JOJO的奇妙冒险 黄金之风 JoJo no Kimyou na Bouken Ougon no Kaze 1-39 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-53d0d4d391011dbf5e2d0dab2692b13bec91bd16.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2020-01-03T14:49:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:53d0d4d391011dbf5e2d0dab2692b13bec91bd16&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【劇場版】【龍珠超：布羅利 Dragon Ball Super Broly】【BDrip】【BIG5_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-06c1730223d9454e1ca972d70f26b7a988dde043.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-31T13:15:09.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:06c1730223d9454e1ca972d70f26b7a988dde043&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【剧场版】【龙珠超：布罗利 Dragon Ball Super Broly】【BDrip】【GB_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-87cdf46cc19ed9f6fd09cfcd8ba3aebcc2192fed.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-31T13:12:49.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:87cdf46cc19ed9f6fd09cfcd8ba3aebcc2192fed&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [DDD] ACTIVE RAID -机动强袭室第八课- [BDrip 720p HEVC AAC][10bits]（DC. ver）",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e9a1fb186b5de0ec0fc66a76bfa3fc6e00c3cdd6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-31T11:28:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e9a1fb186b5de0ec0fc66a76bfa3fc6e00c3cdd6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        Robot.Carnival/机器人嘉年华.1987.BD720P.中文字幕精校版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-62e785a16e95a09d6a9bf3b3f3b5c0f8cb3cb017.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-30T17:00:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:62e785a16e95a09d6a9bf3b3f3b5c0f8cb3cb017&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [QTS] 城市猎人 CITY HUNTER TV 2nd Series BD-BOX ep 052-114 + Eizou Tokuten (BD Hi10P 960x720 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7dad4f2804be9b4be9fe0441a3bba76e7daacac4.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-29T05:12:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7dad4f2804be9b4be9fe0441a3bba76e7daacac4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Moozzi2] 貓狗寵物街 2期 3-Choume no Tama Uchi no Tama Shirimasenka (BD 960x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f524175638ce9e2b8345001f0f9e9617a4f260e8.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-26T11:40:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f524175638ce9e2b8345001f0f9e9617a4f260e8&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        Roujin Z/老人Z..1991.BD720P.中文字幕精校版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-bd9066237dc6a74f8ac49fb6e435ea0183fc64cf.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-24T17:53:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:bd9066237dc6a74f8ac49fb6e435ea0183fc64cf&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        Manie-Manie/迷宫物语.1987.BD720P.中文字幕精校版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8a9fe6431826df0b6c033cbcc8eb3916983dbc83.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-24T17:52:39.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8a9fe6431826df0b6c033cbcc8eb3916983dbc83&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【未來日記Redial Mirai Nikki Redial】【OVA】【BDrip】【BIG5_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0dafbc09d285ec48275a2e156abc7d8a8a0e8b79.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-24T12:17:12.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0dafbc09d285ec48275a2e156abc7d8a8a0e8b79&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【未来日记Redial Mirai Nikki Redial】【OVA】【BDrip】【GB_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-5b78be11b1ce1dcc40e9453c9b8ca2eac8297732.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-24T12:17:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:5b78be11b1ce1dcc40e9453c9b8ca2eac8297732&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 只要长得可爱，即使是变态你也喜欢吗？  Kawaikereba Hentai demo Suki ni Natte Kuremasu ka 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a158fdd2ed323c4c93d53b25539fc391676e639b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T13:50:55.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a158fdd2ed323c4c93d53b25539fc391676e639b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 奴隶区 Dorei-ku The Animation 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-d3e5a8ff708f2d440f08682cb284b7e00de8f556.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T13:49:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:d3e5a8ff708f2d440f08682cb284b7e00de8f556&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Ohys-Raws] 文豪野犬第三季 Bungou Stray Dogs S3 1-12 (BD 1280x720 x264 AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8cd6da1247a05b8313e887f5faf9820d847a57b9.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T13:47:30.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8cd6da1247a05b8313e887f5faf9820d847a57b9&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [QTS] 搞怪拍档 DIRTY PAIR Complete Blu-ray Box TV 1-24 + OVA + Movie + Eizou Tokuten (BD H264 960x720 AAC)[ 1985-1996年 ]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-0d515950c0a6d7e4a4c0e0c2c96481a41ce6a62b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T06:56:42.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:0d515950c0a6d7e4a4c0e0c2c96481a41ce6a62b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [爱恋漫猫字幕社][苍之茧][PALE COCOON][BDrip][720p][简繁内嵌]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1b36bc310e5c657b94e1aacaafbedf699e000a4c.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-23T02:34:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1b36bc310e5c657b94e1aacaafbedf699e000a4c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【神奇字幕组】【精灵宝可梦/宠物小精灵剧场版22】【超梦的逆袭Evolution】【BDRIP】【繁体】【720P_MP4】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-234283c78fa80af19cb1683f8de1883fa1bc0756.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-21T01:33:52.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:234283c78fa80af19cb1683f8de1883fa1bc0756&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【神奇字幕组】【精灵宝可梦/宠物小精灵剧场版22】【超梦的逆袭Evolution】【BDRIP】【简体】【720P_MP4】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6f44541dcf3a805fefd0c2f76f017f13acb214d0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-21T01:33:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6f44541dcf3a805fefd0c2f76f017f13acb214d0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Seed-Raws][2019] 為什麼老師會在這裡！？ Nande Koko ni Sensei ga! (無修正) - TV (乳) [BD][720p][AVC][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f26ac8aece0b399da6c35ded8334d50173dadc16.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-20T12:39:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f26ac8aece0b399da6c35ded8334d50173dadc16&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [NEO·QSW]CODE GEASS 复活的鲁鲁修 コードギアス 復活のルルーシュ CODE GEASS Lelouchi of the Re;surrection[Bdrip AVC 720P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b50954097050f2758525d78eb5b924fe23d2b985.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-17T10:11:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b50954097050f2758525d78eb5b924fe23d2b985&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 碧藍航線/Azur Lane/アズールレーン 02 BIG5 720P BDRip MP4v2",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-457cf2ce61525138109826495dcfe501cbc02348.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-16T06:14:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:457cf2ce61525138109826495dcfe501cbc02348&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 碧藍航線/Azur Lane/アズールレーン 02 GB 720P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8a695df5c1f7ff7df40812d61db08f24a1b19224.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T07:40:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8a695df5c1f7ff7df40812d61db08f24a1b19224&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 碧藍航線/Azur Lane/アズールレーン 02 BIG5 720P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e02336c88dbd48a8394cb5232a8990ddaff4be9b.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T07:40:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e02336c88dbd48a8394cb5232a8990ddaff4be9b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 碧藍航線/Azur Lane/アズールレーン 01 GB 720P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f39d359893c1fae9b7b20b399f5709594abad549.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T07:39:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f39d359893c1fae9b7b20b399f5709594abad549&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】 ★10月新番 碧藍航線/Azur Lane/アズールレーン 01 BIG5 720P BDRip MP4",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1f06c1ef3c6b8b8f7e84d1f194a6a82c3820ee49.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-15T07:38:29.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1f06c1ef3c6b8b8f7e84d1f194a6a82c3820ee49&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【MCE汉化组&U3片源组】[剧场版 - 复活的鲁路修 / Code Geass ~Fukkatsu no Lelouch~ /コードギアス 復活のルルーシュ(2019)][Movie][简体][BDrip_720p][x264 AAC][v2]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1e007a89bb26c35e7562069ad6bad04b0d9e68fa.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-14T10:16:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1e007a89bb26c35e7562069ad6bad04b0d9e68fa&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [转发][OZC-Live][假面骑士响鬼][Kamen Rider Hibiki BD Box Complete Series][720p][60fps]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-997f976df81da9903abdf0036763563c488ad4e6.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-14T09:37:43.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:997f976df81da9903abdf0036763563c488ad4e6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [转发][OZC-Live][假面骑士响鬼][Kamen Rider Hibiki BD Box Complete Series][720p][30fps]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4a0dfe631a9b3aeb4ccac0e6ac8c16f047f01e2d.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-14T09:00:33.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4a0dfe631a9b3aeb4ccac0e6ac8c16f047f01e2d&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【DHR動研字幕組】[為什麼老師會在這裡！？_Nande Koko ni Sensei ga！？][13][BDRip][繁體][720P][MP4](TV未放送)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-a453f1d6960fc2602e1a0df63845a8462327a0c0.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-13T17:04:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:a453f1d6960fc2602e1a0df63845a8462327a0c0&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【MCE汉化组&U3片源组】[剧场版 - 复活的鲁路修 / Code Geass ~Fukkatsu no Lelouch~ /コードギアス 復活のルルーシュ(2019)][Movie][简体][BDrip_720p][x264 AAC]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-29400822b54047279724c6a9372af590025c5a64.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-13T12:05:34.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:29400822b54047279724c6a9372af590025c5a64&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [DDD] 魔法使的新娘 The Ancient Magus' Bride [BDrip 720p HEVC AAC][10bits]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6439268437d64c5ea802de9619b1717404f924ad.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-13T02:09:53.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6439268437d64c5ea802de9619b1717404f924ad&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻櫻字幕組】【TV未放送】【為什麼老師會在這裡 Nande Koko ni Sensei ga】【13】【BDrip】【BIG5_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ee06be712c7e563489ee7241fa52820704009ca3.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-11T12:19:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ee06be712c7e563489ee7241fa52820704009ca3&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【幻樱字幕组】【TV未放送】【为什么老师会在这里 Nande Koko ni Sensei ga】【13】【BDrip】【GB_MP4】【1280X720】",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-15a300fd5e23bc55fc4dde9ed90bf5b4fcbc7b93.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-11T12:19:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:15a300fd5e23bc55fc4dde9ed90bf5b4fcbc7b93&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【极影字幕社】★10月新番[少女終末旅行_Shoujo Shuumatsu Ryokou][01-12+SP][GB][720p][BDrip][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-566aa9193a030719d07e135052f1730e857c57cd.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-11T05:42:24.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:566aa9193a030719d07e135052f1730e857c57cd&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【極影字幕社】★10月新番[少女終末旅行_Shoujo Shuumatsu Ryokou][01-12+SP][BIG5][720p][BDrip][MP4]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-e4b16eb9a4015c7c0e32c2ac2fb2a62cc2300881.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-11T05:40:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:e4b16eb9a4015c7c0e32c2ac2fb2a62cc2300881&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SFEO-Raws] 青春猪头少年不会梦到兔女郎学姐 Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai (BD 720P x264 10bit AAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-4154d69a86a5a5333c79c5961f46e9a9fd0d62a1.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-10T08:29:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:4154d69a86a5a5333c79c5961f46e9a9fd0d62a1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        （转）[Anime Land - RAW][Zegapain ADP](机器人泽加佩因 - 剧场版](BDRip 720p Hi10P QAAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-b5c78b591e480e8b9ca6c5bd5957c085ca6b7501.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-08T20:15:03.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:b5c78b591e480e8b9ca6c5bd5957c085ca6b7501&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        【喵萌奶茶屋】★老番★[小魔女DoReMi/Ojamajo DoReMi][22-23][BDRip 948x720 HEVC-10bit FLAC][简繁外挂][招募翻译校对]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "720p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-087d89b5cd1deab5f45ee47e2ffd89129a938327.html",
+
+
+"isNew": false,
+
+
+"publishTime": "2019-12-03T02:11:40.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 4,
+
+
+"magnetLink": "magnet:?xt=urn:btih:087d89b5cd1deab5f45ee47e2ffd89129a938327&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        【动漫国字幕组】★剧场版[青春笨蛋少年不会梦到怀梦美少女][BDRip][AVC_AAC][720P][简体][MP4]",
 
 
@@ -171239,7 +184670,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d7416989ebb3cadddb199d4b8e5f0c329f826dc7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T21:58:29.000Z",
@@ -171276,7 +184707,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c4f4713a36c5e5f089c616b140a7f344b530606f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-27T21:58:19.000Z",
@@ -171313,7 +184744,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-91fdd22864f47b3ee7ad6a4ce044d6d1dbfff65e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-22T10:00:02.000Z",
@@ -171350,7 +184781,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5d6154c15edcddd23cf03cbce21aafe3ad0a1eef.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-16T07:14:36.000Z",
@@ -171387,7 +184818,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-21fa8581c6411fd0bfc099d38138a113d90d9e01.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-11T23:13:47.000Z",
@@ -171424,7 +184855,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-04a248b42b38c4dec04704efb6d5f4984846c926.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-09T04:49:15.000Z",
@@ -171461,7 +184892,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d3b8876f62d3487d0fe6a26399ff22d2ee30817c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-09T04:40:08.000Z",
@@ -171498,7 +184929,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8848b7fc7014d33e3e01daa69896ffef66b32397.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T14:40:17.000Z",
@@ -171535,7 +184966,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-de80122a2684e783f2f519c9ee0f0da8fb2e7279.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T14:04:13.000Z",
@@ -171572,7 +185003,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-be1410cbdeb6e40de9dd4a5917f7e3c3b19818ee.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T14:03:53.000Z",
@@ -171609,7 +185040,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e42afe11092bd6726558185d1e1417e9bdecbf0c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T11:22:27.000Z",
@@ -171646,7 +185077,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-569526e1cd0d32a6e1548c9e2c07e7c7bbc09c08.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-08T11:22:15.000Z",
@@ -171683,7 +185114,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a85eddbe6000b677c8297782633235916206b2ea.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-07T06:35:55.000Z",
@@ -171720,7 +185151,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8ee1524c298d89221244d478bec1a04cedc170c6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T13:26:29.000Z",
@@ -171757,7 +185188,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2154e6a95e4249d1f2637d77363228d61157b750.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T13:23:29.000Z",
@@ -171794,7 +185225,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-e59ced1f0c42a35d78a15cee13d4c920be1f0e2d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T13:20:43.000Z",
@@ -171831,7 +185262,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-315d4deaf0d2469db7fe796a56e1e2da871f454b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T13:13:49.000Z",
@@ -171868,7 +185299,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8c3724782a20cb784c800b7b9855b409eefb5ac6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-06T06:20:03.000Z",
@@ -171905,7 +185336,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-aa0f26fcebfe31dcec31cf780f949e113168b0bc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-11-05T02:34:00.000Z",
@@ -171942,7 +185373,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-bcefe08f6ab59ff94c38a5f3d460b652575cad2b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-27T09:36:34.000Z",
@@ -171979,7 +185410,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-801a5e9c2c7e250f36030f768a3112a0ed9b5ed1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-25T06:29:16.000Z",
@@ -172016,7 +185447,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-ec3726308abdf544a0b7610f0656186355889340.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-24T20:57:44.000Z",
@@ -172053,7 +185484,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d5212b47f5ff989eb3ce29c8882c5fdf201ee938.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-23T15:02:02.000Z",
@@ -172090,7 +185521,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1a923a75c9d0832ee0f8ccd35d033a0e0f3636ce.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-21T06:22:33.000Z",
@@ -172127,7 +185558,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b90ab7304d4db70ad11b6f55eacd743589165d4e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-21T01:08:22.000Z",
@@ -172164,7 +185595,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-669aae12fb66d3a36acaf4d381fa06f45e460dfc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-18T14:34:13.000Z",
@@ -172201,7 +185632,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-db0e94f2641bd8d5528ecf4eef3ecbd338b9eb23.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-18T14:04:22.000Z",
@@ -172238,7 +185669,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-301f9f7592ae1d867122160c350b30c8803ef7c3.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-18T12:11:22.000Z",
@@ -172275,7 +185706,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8b4f52fc3f9562eee7e899ffeaa5b37e3eb684a9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-18T12:11:14.000Z",
@@ -172312,7 +185743,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8192d6f8953796c485902bd6d88c717570b683a9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-15T12:45:03.000Z",
@@ -172349,7 +185780,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-69c68318fb93b3933b00f96dce4dcc7fd8098189.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-14T02:26:27.000Z",
@@ -172386,7 +185817,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4a92e018698cf2c34d6ab055ce86202d74bb149e.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-12T12:38:35.000Z",
@@ -172423,7 +185854,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-3e26ddfe790233d72ba7cfa3fa0c386d4bd64aba.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-11T03:49:37.000Z",
@@ -172460,7 +185891,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-a4cd62069f1ce12bea45e92d5e68559ceff8e3dc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-10T12:41:02.000Z",
@@ -172497,7 +185928,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-695e183c679c713b4d0ffa6bc569dfbdc6f0cff5.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-10T05:55:06.000Z",
@@ -172534,7 +185965,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-5aa4a6338cd0942c59833e0afcbbc7c4eee2bc40.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-10T00:21:36.000Z",
@@ -172571,7 +186002,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-caf68921932f3d0adfbe652ea50416a661d266f4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-05T21:23:00.000Z",
@@ -172608,7 +186039,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-12582219b46c2555f5ef6032c18122262db2fad2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-05T21:22:49.000Z",
@@ -172645,7 +186076,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0d85b27526ab3b7a3f9d7ab94ccba72d4bbf8c3b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-05T13:12:14.000Z",
@@ -172682,7 +186113,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-0e9b058f626774438c8d6caf3397a2d632818296.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-05T06:08:59.000Z",
@@ -172719,7 +186150,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7bf354471f16406795143932849124b2e446db3c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-04T12:22:55.000Z",
@@ -172756,7 +186187,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-b1c5a82f2b6764b2669119e31afcbad264c58114.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-04T12:21:41.000Z",
@@ -172793,7 +186224,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f0303291f43137bdd5c2851535f1422a34400748.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-04T12:19:59.000Z",
@@ -172830,7 +186261,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c7cc3b9cbab46218cda65f0f03dd27df42c97d74.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-03T13:56:57.000Z",
@@ -172867,7 +186298,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-cca4070a58329a8fd60834095e58b9c060cac088.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-03T09:03:03.000Z",
@@ -172904,7 +186335,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-55019dc68da4e56bd796c98ad122c7826c58476d.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T17:01:27.000Z",
@@ -172941,7 +186372,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-d319bbe819cfd78e1f31e2e52d53a7ea6dcc7da1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T03:59:59.000Z",
@@ -172978,7 +186409,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7584683ef3ae8a0b8ba3a9a8eda8dbbcc808515b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T02:42:46.000Z",
@@ -173015,7 +186446,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-4697a0c5ac944cc79945cf15b8478f8b5516dcc4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-10-02T01:34:40.000Z",
@@ -173052,7 +186483,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6730023bf48357b98912a44330c6443563e97efb.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-26T01:46:12.000Z",
@@ -173089,7 +186520,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-177b0d5ae6acda5b3c73d686c7750166ba29fdd9.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-25T16:25:38.000Z",
@@ -173126,7 +186557,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7811b7a80c7d5e1fde26ba76252abf68587d984c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-25T10:36:33.000Z",
@@ -173163,7 +186594,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8fe1c2b20e92e507ad0e187f5045a5d1867da501.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2019-09-25T04:25:22.000Z",

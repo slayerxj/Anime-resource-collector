@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\n        【BD 1080P】龙心战纪/圣战刻耳柏洛斯 09 [GB][1080P][简体中文]",
+"name": "\n        心理测量者.第二季.07.中日双语.BluRay.1080P.甜饼字幕组.mp4",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-925674ba131a74b4170eecc0d9b8c09cc6c65066.html",
+"url": "http://www.kisssub.org/show-d019c7581776e85ce63646cb318c0168842aedeb.html",
 
 "isNew": true,
 
-"publishTime": "2019-11-29T14:36:08.000Z",
+"publishTime": "2020-01-15T14:50:15.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:925674ba131a74b4170eecc0d9b8c09cc6c65066&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:d019c7581776e85ce63646cb318c0168842aedeb&tr=http://open.acgtracker.com:1096/announce"
 }
