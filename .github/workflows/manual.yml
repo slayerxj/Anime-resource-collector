@@ -18,4 +18,4 @@ jobs:
         git config --global user.name 'Xiong Jie'
         git config --global user.name 'slayerxj_reg@outlook.com'
         git commit -a -m "manual update"
-        git push origin autoFetch
+        git push
