@@ -1,4 +1,3 @@
-
 var Database = require("./database.js");
 var sites = require("./websites/index.js");
 
