@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  routine-update:
 
     runs-on: ubuntu-latest
 
@@ -17,5 +17,5 @@ jobs:
     - run: |
         git config --global user.name 'Xiong Jie'
         git config --global user.name 'slayerxj_reg@outlook.com'
-        git commit -a -m "manual update"
+        git commit -a -m "auto: manual update"
         git push
