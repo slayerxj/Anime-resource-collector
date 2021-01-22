@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\n        [Snow-Raws] 房东妹子青春期/The Landlord is in Puberty/大家さんは思春期! (BD 1920x1080 HEVC-YUV420P10 FLACx2)",
+"name": "\n        [转载][外挂字幕在简介中][Moozzi2] 鋼彈創鬥者潛網大戰 Re-RISE / Gundam Build Divers Re-RISE / ガンダムビルドダイバーズ Re-RISE BD-BOX (BD 1920x1080 x265-10Bit FLACx2) - TV + SP",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-eda229fafbe6b86ac2a214fe43a8c2d765bb979b.html",
+"url": "http://www.kisssub.org/show-5cd1c71ed36954ca501a87b28cdf5415e13f070e.html",
 
 "isNew": true,
 
-"publishTime": "2021-01-21T17:50:38.000Z",
+"publishTime": "2021-01-22T06:39:18.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:eda229fafbe6b86ac2a214fe43a8c2d765bb979b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:5cd1c71ed36954ca501a87b28cdf5415e13f070e&tr=http://open.acgtracker.com:1096/announce"
 }
