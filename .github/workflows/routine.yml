@@ -2,7 +2,7 @@ name: Routine Update
 
 on:
   schedule:
-    - cron: '50 4 * * *'
+    - cron: '00 20 * * *'
 
 jobs:
   routine-update:
