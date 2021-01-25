@@ -12,7 +12,7 @@ module.exports = {
 
 "url": "http://www.kisssub.org/show-8817337068e7f57bb1a7845c827eee169e8ae72a.html",
 
-"isNew": true,
+"isNew": false,
 
 "publishTime": "2021-01-24T13:03:38.000Z",
 
