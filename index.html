@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link href="main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <table id="mainView"></table>
+</body>
+<script src="abc.js"></script>
+<script src="result.js"></script>
+<script>
+    var table = document.getElementById("mainView");
+    const items = module.exports;
+    var stars = [
+        "&#9733;&#9733;&#9733;&#9733;&#9733;",
+        "&#9733;&#9733;&#9733;&#9733;",
+        "&#9733;&#9733;&#9733;",
+        "&#9733;&#9733;",
+        "&#9733;"
+    ];
+
+    table.innerHTML = "<tr><th>Time</th><th>Title</th><th>Rank</th><th>Download</th></tr>" +
+        items.reduce(function (pre, cur) {
+            var head = pre + (cur.isNew ? "<tr class='new'>" : "<tr>");
+            return head +
+                "<td>" + cur.publishTime + "</td>" +
+                "<td><a href='" + cur.url + "'>" + cur.name + "</a></td>" +
+                "<td>" + stars[cur.generalRanking] + "</td>" +
+                "<td><a href='" + cur.magnetLink + "'>" + "link" + "</a></td>" +
+                "</tr>";
+        }, "");
+
+</script>
+<script>
