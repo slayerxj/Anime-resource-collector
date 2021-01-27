@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\n        [路基艾尔][家入レオ 7th Live Tour 2019 ～DUO～][正片+特典+SP][1080P][BDRip][HEVC-10bit][FLAC][MKV]",
+"name": "\n        [Snow-Raws] 只要长得可爱，即使是变态你也喜欢吗？/Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?/可愛ければ変態でも好きになってくれますか? (BD 1920x1080 HEVC-YUV420P10 FLAC)",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-8817337068e7f57bb1a7845c827eee169e8ae72a.html",
+"url": "http://www.kisssub.org/show-c06486facd69baeee73f1d44f2f16e0a30c9dfb0.html",
 
-"isNew": false,
+"isNew": true,
 
-"publishTime": "2021-01-24T13:03:38.000Z",
+"publishTime": "2021-01-26T23:11:45.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:8817337068e7f57bb1a7845c827eee169e8ae72a&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:c06486facd69baeee73f1d44f2f16e0a30c9dfb0&tr=http://open.acgtracker.com:1096/announce"
 }
