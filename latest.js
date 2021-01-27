@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\n        [Snow-Raws] 只要长得可爱，即使是变态你也喜欢吗？/Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?/可愛ければ変態でも好きになってくれますか? (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+"name": "\n        [SAIO-Raws] 在这世界的(还有更多的)角落 Kono Sekai no (Sara ni Ikutsumo no) Katasumi ni [BD 1920x1036 x264 TrueHD FLAC]在这世界的角落加长版",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-c06486facd69baeee73f1d44f2f16e0a30c9dfb0.html",
+"url": "http://www.kisssub.org/show-7855a4401ddee4a1927e87ccbcebc06ce843284b.html",
 
-"isNew": false,
+"isNew": true,
 
-"publishTime": "2021-01-26T23:11:45.000Z",
+"publishTime": "2021-01-28T01:26:26.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:c06486facd69baeee73f1d44f2f16e0a30c9dfb0&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:7855a4401ddee4a1927e87ccbcebc06ce843284b&tr=http://open.acgtracker.com:1096/announce"
 }

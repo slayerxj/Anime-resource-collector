@@ -336,6 +336,154 @@ module.exports = [
 {
 
 
+"name": "\n        [SAIO-Raws] 在这世界的(还有更多的)角落 Kono Sekai no (Sara ni Ikutsumo no) Katasumi ni [BD 1920x1036 x264 TrueHD FLAC]在这世界的角落加长版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7855a4401ddee4a1927e87ccbcebc06ce843284b.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-28T01:26:26.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7855a4401ddee4a1927e87ccbcebc06ce843284b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [SAIO-Raws] 在这世界的(还有更多的)角落 Kono Sekai no (Sara ni Ikutsumo no) Katasumi ni [BD 1920x1036 HEVC-10bit OPUSx2]在这世界的角落加长版",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-7c497b97867033cbeaed10eadfb8f7a4a9b84ad4.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-28T01:23:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:7c497b97867033cbeaed10eadfb8f7a4a9b84ad4&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [BDMV] Kamen Rider W Returns 'Kamen Rider Accel' 假面骑士W Returns：假面骑士Accel",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-6e2e99dbcd0446676601335246791f9ad1eaf1ef.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-27T18:12:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:6e2e99dbcd0446676601335246791f9ad1eaf1ef&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        战斗!!伊库莎1 Fight! Iczer One OVA.1985.BD1080P.日语中字",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-42ec2397f2d20b4f119fa9be27bb40dedac77ab1.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-27T00:51:07.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:42ec2397f2d20b4f119fa9be27bb40dedac77ab1&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        [Snow-Raws] 只要长得可爱，即使是变态你也喜欢吗？/Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?/可愛ければ変態でも好きになってくれますか? (BD 1920x1080 HEVC-YUV420P10 FLAC)",
 
 
