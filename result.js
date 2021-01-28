@@ -336,6 +336,43 @@ module.exports = [
 {
 
 
+"name": "\n        [APTX4869][MAGIC KAITO1412][魔术快斗1412 16 基德VS柯南 空中步行的奇迹][BDRIP][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-231ea396f0bf42730315498027f229e6db77ae63.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-28T11:27:10.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:231ea396f0bf42730315498027f229e6db77ae63&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        [SAIO-Raws] 在这世界的(还有更多的)角落 Kono Sekai no (Sara ni Ikutsumo no) Katasumi ni [BD 1920x1036 x264 TrueHD FLAC]在这世界的角落加长版",
 
 
@@ -354,7 +391,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7855a4401ddee4a1927e87ccbcebc06ce843284b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-28T01:26:26.000Z",
@@ -391,7 +428,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-7c497b97867033cbeaed10eadfb8f7a4a9b84ad4.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-28T01:23:38.000Z",
@@ -428,7 +465,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-6e2e99dbcd0446676601335246791f9ad1eaf1ef.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-27T18:12:04.000Z",
@@ -465,7 +502,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-42ec2397f2d20b4f119fa9be27bb40dedac77ab1.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-27T00:51:07.000Z",

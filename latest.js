@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\n        [SAIO-Raws] 在这世界的(还有更多的)角落 Kono Sekai no (Sara ni Ikutsumo no) Katasumi ni [BD 1920x1036 x264 TrueHD FLAC]在这世界的角落加长版",
+"name": "\n        [APTX4869][MAGIC KAITO1412][魔术快斗1412 16 基德VS柯南 空中步行的奇迹][BDRIP][MKV]",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-7855a4401ddee4a1927e87ccbcebc06ce843284b.html",
+"url": "http://www.kisssub.org/show-231ea396f0bf42730315498027f229e6db77ae63.html",
 
 "isNew": true,
 
-"publishTime": "2021-01-28T01:26:26.000Z",
+"publishTime": "2021-01-28T11:27:10.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:7855a4401ddee4a1927e87ccbcebc06ce843284b&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:231ea396f0bf42730315498027f229e6db77ae63&tr=http://open.acgtracker.com:1096/announce"
 }
