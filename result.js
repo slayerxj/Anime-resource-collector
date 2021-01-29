@@ -336,6 +336,154 @@ module.exports = [
 {
 
 
+"name": "\n        [外挂中字][假面骑士Decade][Kamen Rider Decade][06-07][BDRIP][1080P]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-8a3571e6bd003d224f1c8dcf229457402d466f38.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-29T15:10:21.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:8a3571e6bd003d224f1c8dcf229457402d466f38&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [1080P][路基艾尔][奥特银河格斗: 新生代英雄/Ultra Galaxy Fight: New Generation Heroes/ウルトラギャラクシーファイト ニュージェネレーションヒーローズ][导演剪辑版][BDRip][HEVC-10bit][中日双字][FLAC][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-c3f61ad54c9e8ebdd2c71d2eba1b4e6799ebf0a2.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-29T13:51:56.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:c3f61ad54c9e8ebdd2c71d2eba1b4e6799ebf0a2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [4K][路基艾尔][奥特银河格斗: 新生代英雄/Ultra Galaxy Fight: New Generation Heroes/ウルトラギャラクシーファイト ニュージェネレーションヒーローズ][导演剪辑版][2160P][BDRip][HEVC-10bit][中日双字][FLAC][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-1603623cb1ce4db041426250da7bb5c82dc54fa6.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-29T13:46:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:1603623cb1ce4db041426250da7bb5c82dc54fa6&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [APTX4869][MAGIC KAITO1412][魔术快斗1412 17 绿之梦][BDRIP][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-547a90a169a2673ab748e621408e3a38ce5092cc.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-29T12:10:36.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:547a90a169a2673ab748e621408e3a38ce5092cc&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        [APTX4869][MAGIC KAITO1412][魔术快斗1412 16 基德VS柯南 空中步行的奇迹][BDRIP][MKV]",
 
 
@@ -354,7 +502,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-231ea396f0bf42730315498027f229e6db77ae63.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-28T11:27:10.000Z",
@@ -367,6 +515,43 @@ module.exports = [
 
 
 "magnetLink": "magnet:?xt=urn:btih:231ea396f0bf42730315498027f229e6db77ae63&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [xyx98] 超次元游戏 海王星～涅普的暑假～/Choujigen Game Neptune The Animation: Nep no Natsuyasumi/超次元ゲイム ネプテューヌ THE ANIMATION ~ねぷのなつやすみ~ (BDrip 1920x1080 hevc-yuv420p10 flac pgs)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-07b3b77eee9f6bc53d8b2ad721e83acaa379ae66.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-28T11:26:13.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:07b3b77eee9f6bc53d8b2ad721e83acaa379ae66&tr=http://open.acgtracker.com:1096/announce"
 
 },
 
