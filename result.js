@@ -336,6 +336,154 @@ module.exports = [
 {
 
 
+"name": "\n        [外挂中字][假面骑士甲斗][03][BDRIP][1080P][官方中文]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-46b197357f7587ace52ad556a16c03e7213c9b3c.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-30T13:45:04.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:46b197357f7587ace52ad556a16c03e7213c9b3c&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 思维覆写/pet (BD 1920x1080 HEVC-YUV420P10 FLAC)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-056b8c7c09ca84307efa57c54070f1ce3d219f3f.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-30T12:44:37.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:056b8c7c09ca84307efa57c54070f1ce3d219f3f&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Snow-Raws] 出包王女Darkness/To Love-Ru: Trouble - Darkness/To LOVEる -とらぶる- ダークネス (BD 1920x1080 HEVC-YUV420P10 FLACx2)",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-f4b2dd0c7c400391c98074a1cff6f61afb6da73b.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-30T12:43:38.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:f4b2dd0c7c400391c98074a1cff6f61afb6da73b&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [APTX4869][MAGIC KAITO1412][魔术快斗1412 18 黄金眼（前篇）黑猫的挑战][BDRIP][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-12f18c37a833fff01d887c6de2d5e9cfc14b4330.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-30T10:35:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:12f18c37a833fff01d887c6de2d5e9cfc14b4330&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        [外挂中字][假面骑士Decade][Kamen Rider Decade][06-07][BDRIP][1080P]",
 
 
@@ -354,7 +502,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-8a3571e6bd003d224f1c8dcf229457402d466f38.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-29T15:10:21.000Z",
@@ -391,7 +539,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-c3f61ad54c9e8ebdd2c71d2eba1b4e6799ebf0a2.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-29T13:51:56.000Z",
@@ -428,7 +576,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-1603623cb1ce4db041426250da7bb5c82dc54fa6.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-29T13:46:28.000Z",
@@ -465,7 +613,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-547a90a169a2673ab748e621408e3a38ce5092cc.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-29T12:10:36.000Z",
@@ -539,7 +687,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-07b3b77eee9f6bc53d8b2ad721e83acaa379ae66.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-28T11:26:13.000Z",
