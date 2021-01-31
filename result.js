@@ -336,6 +336,43 @@ module.exports = [
 {
 
 
+"name": "\n        [Centaurea-Raws] Thunderbolt Fantasy 西幽玹歌 BDRip 1080P 59.94FPS X265 Main10p 内封原盘繁简中文",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-86cadb838bb8936130edfe515809d078c26f2cb7.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-01-31T18:33:06.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:86cadb838bb8936130edfe515809d078c26f2cb7&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        [外挂中字][假面骑士甲斗][03][BDRIP][1080P][官方中文]",
 
 
@@ -354,7 +391,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-46b197357f7587ace52ad556a16c03e7213c9b3c.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-30T13:45:04.000Z",
@@ -391,7 +428,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-056b8c7c09ca84307efa57c54070f1ce3d219f3f.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-30T12:44:37.000Z",
@@ -428,7 +465,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-f4b2dd0c7c400391c98074a1cff6f61afb6da73b.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-30T12:43:38.000Z",
@@ -465,7 +502,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-12f18c37a833fff01d887c6de2d5e9cfc14b4330.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-30T10:35:11.000Z",
