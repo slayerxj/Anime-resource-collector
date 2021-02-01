@@ -1,6 +1,6 @@
 module.exports = {
 
-"name": "\n        [Centaurea-Raws] Thunderbolt Fantasy 西幽玹歌 BDRip 1080P 59.94FPS X265 Main10p 内封原盘繁简中文",
+"name": "\n        [APTX4869][MAGIC KAITO1412][魔术快斗1412 19 黄金眼（后篇）决战 基德VS黑猫][BDRIP][MKV]",
 
 "workName": "",
 
@@ -10,15 +10,15 @@ module.exports = {
 
 "subtitleProvider": "",
 
-"url": "http://www.kisssub.org/show-86cadb838bb8936130edfe515809d078c26f2cb7.html",
+"url": "http://www.kisssub.org/show-aa948e8982f767b64cdd5d8f0cd0c4aabed65eae.html",
 
 "isNew": true,
 
-"publishTime": "2021-01-31T18:33:06.000Z",
+"publishTime": "2021-02-01T17:54:28.000Z",
 
 "isComplete": false,
 
 "generalRanking": 3,
 
-"magnetLink": "magnet:?xt=urn:btih:86cadb838bb8936130edfe515809d078c26f2cb7&tr=http://open.acgtracker.com:1096/announce"
+"magnetLink": "magnet:?xt=urn:btih:aa948e8982f767b64cdd5d8f0cd0c4aabed65eae&tr=http://open.acgtracker.com:1096/announce"
 }

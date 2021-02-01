@@ -336,6 +336,117 @@ module.exports = [
 {
 
 
+"name": "\n        [APTX4869][MAGIC KAITO1412][魔术快斗1412 19 黄金眼（后篇）决战 基德VS黑猫][BDRIP][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-aa948e8982f767b64cdd5d8f0cd0c4aabed65eae.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-02-01T17:54:28.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:aa948e8982f767b64cdd5d8f0cd0c4aabed65eae&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [路基艾尔-Raws][假面骑士龙骑/Kamen Rider Ryuki/仮面ライダー龍騎][01-17][1080P][BDRip][HEVC-10bit][MKV][BDBOX1]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-2803f44fc5906700f65868749678ec2178087f16.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-02-01T13:06:51.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:2803f44fc5906700f65868749678ec2178087f16&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [WBX-SUB] Yes! プリキュア5 GoGo! /Yes! 光之美少女5 GoGo! 劇場版 點心王國的快樂生日♪ [BDrip][HEVC 1080P][外挂繁简中日双语]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-209d9ced66366334f2b9e842d528662e049b5923.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-02-01T11:56:11.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:209d9ced66366334f2b9e842d528662e049b5923&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        [Centaurea-Raws] Thunderbolt Fantasy 西幽玹歌 BDRip 1080P 59.94FPS X265 Main10p 内封原盘繁简中文",
 
 
@@ -354,7 +465,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-86cadb838bb8936130edfe515809d078c26f2cb7.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-01-31T18:33:06.000Z",
