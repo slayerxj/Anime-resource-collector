@@ -354,7 +354,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-aa948e8982f767b64cdd5d8f0cd0c4aabed65eae.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-02-01T17:54:28.000Z",
@@ -391,7 +391,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-2803f44fc5906700f65868749678ec2178087f16.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-02-01T13:06:51.000Z",
@@ -428,7 +428,7 @@ module.exports = [
 "url": "http://www.kisssub.org/show-209d9ced66366334f2b9e842d528662e049b5923.html",
 
 
-"isNew": true,
+"isNew": false,
 
 
 "publishTime": "2021-02-01T11:56:11.000Z",
