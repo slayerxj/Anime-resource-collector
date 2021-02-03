@@ -336,6 +336,154 @@ module.exports = [
 {
 
 
+"name": "\n        [外挂中字][RCRAW][泰迦奥特曼][Ultraman Taiga][BD-Box1][1080p][x265_PCM][HEVC-Main10][CHS]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-ce06156a3ebd49ee6fb834baa235e5450e48291e.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-02-03T12:20:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:ce06156a3ebd49ee6fb834baa235e5450e48291e&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [APTX4869][MAGIC KAITO1412][魔术快斗1412 20 暗夜骑士][BDRIP][MKV]",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-9ceff1449300cdc66df55f0c172415a3cd71f672.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-02-03T09:41:59.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:9ceff1449300cdc66df55f0c172415a3cd71f672&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Niconeiko Works] Violet Evergarden Gaiden Eien to Jidou Shuki Ningyou 紫罗兰永恒花园外传：永远与自动手记人偶 1080P BDRip Ma10p DTS-HDMA FLAC",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-506238eb7de36c3825bb4863fdfd4473bad75d49.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-02-03T09:37:05.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:506238eb7de36c3825bb4863fdfd4473bad75d49&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
+"name": "\n        [Centaurea-Raws] 剧场版 战国魔神豪将军 时之异邦人（GoShogun The Time Étranger 1985）美版 BDRip  1440X1080 X265 Main10p Rev.",
+
+
+"workName": "",
+
+
+"source": "Blu-ray",
+
+
+"resolution": "1080p",
+
+
+"subtitleProvider": "",
+
+
+"url": "http://www.kisssub.org/show-08c2b8032a5fd0cab062df674255b59b7b109ca2.html",
+
+
+"isNew": true,
+
+
+"publishTime": "2021-02-03T09:20:45.000Z",
+
+
+"isComplete": false,
+
+
+"generalRanking": 3,
+
+
+"magnetLink": "magnet:?xt=urn:btih:08c2b8032a5fd0cab062df674255b59b7b109ca2&tr=http://open.acgtracker.com:1096/announce"
+
+},
+
+{
+
+
 "name": "\n        [APTX4869][MAGIC KAITO1412][魔术快斗1412 19 黄金眼（后篇）决战 基德VS黑猫][BDRIP][MKV]",
 
 
