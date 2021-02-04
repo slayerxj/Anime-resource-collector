@@ -1,77 +1,30 @@
-var express = require("express");
-var app = express();
-var http = require("http").Server(app);
-var io = require("socket.io")(http);
+const stars = [
+  "&#9733;&#9733;&#9733;&#9733;&#9733;",
+  "&#9733;&#9733;&#9733;&#9733;",
+  "&#9733;&#9733;&#9733;",
+  "&#9733;&#9733;",
+  "&#9733;",
+];
 
-var library = require("./src/library");
-var Database = require("./src/database.js");
-var generatePage = require("./src/pageGenerater.js");
-var sites = require("./websites/index.js");
+const convertToTimeString = (date) => date.getFullYear() + "." + (date.getMonth() + 1) + "." + date.getDate();
 
-var database = new Database();
-database.initialize().rank();
+const sorter = (a, b) => new Date(b.publishTime).getTime() - new Date(a.publishTime).getTime();
 
-app.use(express.static("public"));
-app.get("/", function (req, res) {
-  res.sendFile(__dirname + "/mainPage.html");
-});
+const generateTableContent = (items) => {
+  const table = document.getElementById("mainView");
+  table.innerHTML =
+    "<tr><th>Time</th><th>Title</th><th>Rank</th><th>Download</th></tr>" +
+    items
+      .map((cur) => {
+        return `<tr><td>${convertToTimeString(
+          new Date(cur.publishTime)
+        )}</td><td><a href='${cur.url}'>${cur.name}</a></td><td>${stars[cur.generalRanking]
+          }</td><td><a href='${cur.magnetLink}'>link</a></td></tr>`;
+      })
+      .join("");
+}
 
-io.on("connection", function (socket) {
-  socket.on("page load", function () {
-    var insertString = generatePage(database.content);
-    io.emit("update message", insertString);
-    io.emit("update list", library.getPreferedWorks());
-
-    Object.keys(sites).forEach(function (domain) {
-      sites[domain].fetchNew(database, function () {
-        database.rankAll();
-        insertString = generatePage(database.content);
-        io.emit("update message", insertString);
-        database.updateRecord();
-      });
-    });
-  });
-
-  socket.on("filter", function (object) {
-    var newItems = database.content.slice();
-    if (object.isOnlyNew) {
-      newItems = newItems.filter(function (item) {
-        return item.isNew;
-      });
-    }
-
-    if (object.isOnlyCom) {
-      newItems = newItems.filter(function (item) {
-        return item.isComplete;
-      });
-    }
-
-    if (object.isOnlyRecent) {
-      var currentTime = new Date().getTime();
-      var deadline = currentTime - 1000 * 60 * 60 * 24 * 7;
-      newItems = newItems.filter(function (item) {
-        return item.publishTime.getTime() > deadline;
-      });
-    }
-
-    if (object.preferedWork) {
-      newItems = newItems.filter(function (item) {
-        return item.workName == object.preferedWork;
-      });
-    }
-
-    var insertString = generatePage(newItems);
-    io.emit("update message", insertString);
-  });
-
-  socket.on("loadArchive", function () {
-    database.loadArchieve().rank();
-    var items = database.content.slice();
-    var insertString = generatePage(items);
-    io.emit("update message", insertString);
-  });
-});
-
-http.listen(3000, function () {
-  console.log("listening on *:3000");
-});
+fetch('result.json')
+  .then(response => response.json())
+  .then(data => data.sort(sorter))
+  .then(generateTableContent);
