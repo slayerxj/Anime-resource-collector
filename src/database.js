@@ -10,7 +10,7 @@ class Database {
   }
   initialize() {
     var record = JSON.parse(fs.readFileSync("result.json"));
-    var latest = require("../latest.js");
+    var latest = JSON.parse(fs.readFileSync("latest.json"));
     for (var index = 0; index < record.length; index++) {
       var item = Item.initialize(record[index]);
       this.content.push(item);
@@ -69,15 +69,7 @@ class Database {
     // Record is maintained in Database Class, should split out
     this.setLatest();
     fs.writeFile("result.json", JSON.stringify(this.content), () => { });
-    fs.writeFile(
-      "latest.js",
-      "module.exports = " + JSON.stringify(this.latest, null, "\n"),
-      function (err) {
-        if (err) {
-          throw err;
-        }
-      }
-    );
+    fs.writeFile("latest.json", JSON.stringify(this.latest), () => { });
     return this;
   }
 }
