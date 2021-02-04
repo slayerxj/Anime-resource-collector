@@ -9,7 +9,7 @@ class Database {
     this.latest = null;
   }
   initialize() {
-    var record = require("../result.js");
+    var record = JSON.parse(fs.readFileSync("result.json"));
     var latest = require("../latest.js");
     for (var index = 0; index < record.length; index++) {
       var item = Item.initialize(record[index]);
@@ -68,15 +68,7 @@ class Database {
   updateRecord() {
     // Record is maintained in Database Class, should split out
     this.setLatest();
-    fs.writeFile(
-      "result.js",
-      "module.exports = " + JSON.stringify(this.content, null, "\n"),
-      function (err) {
-        if (err) {
-          throw err;
-        }
-      }
-    );
+    fs.writeFile("result.json", JSON.stringify(this.content), () => { });
     fs.writeFile(
       "latest.js",
       "module.exports = " + JSON.stringify(this.latest, null, "\n"),
